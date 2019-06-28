@@ -1,0 +1,2979 @@
+<tr>
+<td>GAA</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Guamal_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Guamal Airport (page does not exist)\">Guamal Airport</a></td>
+<td><a href=\"/wiki/Guamal\" title=\"Guamal\">Guamal</a>, <a href=\"/wiki/Colombia\" title=\"Colombia\">Colombia</a></td>
+<td><a href=\"/wiki/Time_in_Colombia\" title=\"Time in Colombia\">UTC\u221205:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GAB</td>
+<td>KGAB</td>
+<td><a href=\"/wiki/Gabbs_Airport\" title=\"Gabbs Airport\">Gabbs Airport</a></td>
+<td><a href=\"/wiki/Gabbs,_Nevada\" title=\"Gabbs, Nevada\">Gabbs</a>, <a href=\"/wiki/Nevada\" title=\"Nevada\">Nevada</a>, United States</td>
+<td><a href=\"/wiki/Pacific_Time_Zone\" title=\"Pacific Time Zone\">UTC\u221208:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GAC</td>
+<td>MHGS<sup id=\"cite_ref-1\" class=\"reference\"><a href=\"#cite_note-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Gracias_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Gracias Airport (page does not exist)\">Gracias Airport</a></td>
+<td><a href=\"/wiki/Gracias\" title=\"Gracias\">Gracias</a>, <a href=\"/wiki/Honduras\" title=\"Honduras\">Honduras</a></td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GAD</td>
+<td>KGAD</td>
+<td><a href=\"/wiki/Northeast_Alabama_Regional_Airport\" title=\"Northeast Alabama Regional Airport\">Northeast Alabama Regional Airport</a></td>
+<td><a href=\"/wiki/Gadsden,_Alabama\" title=\"Gadsden, Alabama\">Gadsden</a>, <a href=\"/wiki/Alabama\" title=\"Alabama\">Alabama</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GAE</td>
+<td>DTTG</td>
+<td><a href=\"/wiki/Gab%C3%A8s_%E2%80%93_Matmata_International_Airport\" title=\"Gab\u00e8s \u2013 Matmata International Airport\">Gab\u00e8s \u2013 Matmata International Airport</a></td>
+<td><a href=\"/wiki/Gab%C3%A8s\" title=\"Gab\u00e8s\">Gab\u00e8s</a>, <a href=\"/wiki/Tunisia\" title=\"Tunisia\">Tunisia</a></td>
+<td><a href=\"/wiki/Central_European_Time\" title=\"Central European Time\">UTC+01:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GAF</td>
+<td>DTTF</td>
+<td><a href=\"/wiki/Gafsa_%E2%80%93_Ksar_International_Airport\" title=\"Gafsa \u2013 Ksar International Airport\">Gafsa \u2013 Ksar International Airport</a></td>
+<td><a href=\"/wiki/Gafsa\" title=\"Gafsa\">Gafsa</a>, <a href=\"/wiki/Tunisia\" title=\"Tunisia\">Tunisia</a></td>
+<td><a href=\"/wiki/Central_European_Time\" title=\"Central European Time\">UTC+01:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GAG</td>
+<td>KGAG</td>
+<td><a href=\"/wiki/Gage_Airport\" title=\"Gage Airport\">Gage Airport</a></td>
+<td><a href=\"/wiki/Gage,_Oklahoma\" title=\"Gage, Oklahoma\">Gage</a>, <a href=\"/wiki/Oklahoma\" title=\"Oklahoma\">Oklahoma</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GAH</td>
+<td>YGAY</td>
+<td><a href=\"/wiki/Gayndah_Airport\" title=\"Gayndah Airport\">Gayndah Airport</a></td>
+<td><a href=\"/wiki/Gayndah\" title=\"Gayndah\">Gayndah</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+10:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GAI</td>
+<td>KGAI</td>
+<td><a href=\"/wiki/Montgomery_County_Airpark\" title=\"Montgomery County Airpark\">Montgomery County Airpark</a></td>
+<td><a href=\"/wiki/Gaithersburg,_Maryland\" title=\"Gaithersburg, Maryland\">Gaithersburg</a>, <a href=\"/wiki/Maryland\" title=\"Maryland\">Maryland</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GAJ</td>
+<td>RJSC</td>
+<td><a href=\"/wiki/Yamagata_Airport\" title=\"Yamagata Airport\">Yamagata Airport</a> (Junmachi Airport)</td>
+<td><a href=\"/wiki/Yamagata,_Yamagata\" title=\"Yamagata, Yamagata\">Yamagata</a>, <a href=\"/wiki/Honshu\" title=\"Honshu\">Honshu</a>, Japan</td>
+<td><a href=\"/wiki/Japan_Standard_Time\" title=\"Japan Standard Time\">UTC+09:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GAL</td>
+<td>PAGA</td>
+<td><a href=\"/wiki/Edward_G._Pitka_Sr._Airport\" title=\"Edward G. Pitka Sr. Airport\">Edward G. Pitka Sr. Airport</a></td>
+<td><a href=\"/wiki/Galena,_Alaska\" title=\"Galena, Alaska\">Galena</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+<td><a href=\"/wiki/Alaska_Time_Zone\" title=\"Alaska Time Zone\">UTC\u221209:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GAM</td>
+<td>PAGM</td>
+<td><a href=\"/wiki/Gambell_Airport\" title=\"Gambell Airport\">Gambell Airport</a></td>
+<td><a href=\"/wiki/Gambell,_Alaska\" title=\"Gambell, Alaska\">Gambell</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+<td><a href=\"/wiki/Alaska_Time_Zone\" title=\"Alaska Time Zone\">UTC\u221209:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GAN</td>
+<td>VRMG</td>
+<td><a href=\"/wiki/Gan_International_Airport\" title=\"Gan International Airport\">Gan International Airport</a></td>
+<td><a href=\"/wiki/Gan_(Addu_Atoll)\" title=\"Gan (Addu Atoll)\">Gan Island</a>, <a href=\"/wiki/Addu_Atoll\" title=\"Addu Atoll\">Addu Atoll</a>, <a href=\"/wiki/Maldives\" title=\"Maldives\">Maldives</a></td>
+<td><a href=\"/wiki/UTC%2B05:00\" title=\"UTC+05:00\">UTC+05:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GAO</td>
+<td>MUGT</td>
+<td><a href=\"/wiki/Mariana_Grajales_Airport\" title=\"Mariana Grajales Airport\">Mariana Grajales Airport</a></td>
+<td><a href=\"/wiki/Guant%C3%A1namo\" title=\"Guant\u00e1namo\">Guant\u00e1namo</a>, <a href=\"/wiki/Cuba\" title=\"Cuba\">Cuba</a></td>
+<td><a href=\"/wiki/UTC%E2%88%9205:00\" title=\"UTC\u221205:00\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GAP</td>
+<td>AYGP</td>
+<td><a href=\"/wiki/Gusap_Airport\" title=\"Gusap Airport\">Gusap Airport</a></td>
+<td><a href=\"/w/index.php?title=Gusap&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Gusap (page does not exist)\">Gusap</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+<td><a href=\"/wiki/UTC%2B10:00\" title=\"UTC+10:00\">UTC+10:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GAQ</td>
+<td>GAGO</td>
+<td><a href=\"/wiki/Gao_International_Airport\" title=\"Gao International Airport\">Gao International Airport</a> (Korogoussou Airport)</td>
+<td><a href=\"/wiki/Gao\" title=\"Gao\">Gao</a>, <a href=\"/wiki/Mali\" title=\"Mali\">Mali</a></td>
+<td><a href=\"/wiki/Greenwich_Mean_Time\" title=\"Greenwich Mean Time\">UTC\u00b100:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GAR</td>
+<td>AYGI</td>
+<td><a href=\"/w/index.php?title=Garaina_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Garaina Airport (page does not exist)\">Garaina Airport</a></td>
+<td><a href=\"/w/index.php?title=Garaina&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Garaina (page does not exist)\">Garaina</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+<td><a href=\"/wiki/UTC%2B10:00\" title=\"UTC+10:00\">UTC+10:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GAS</td>
+<td>HKGA</td>
+<td><a href=\"/wiki/Garissa_Airport\" title=\"Garissa Airport\">Garissa Airport</a></td>
+<td><a href=\"/wiki/Garissa\" title=\"Garissa\">Garissa</a>, <a href=\"/wiki/Kenya\" title=\"Kenya\">Kenya</a></td>
+<td><a href=\"/wiki/East_Africa_Time\" title=\"East Africa Time\">UTC+03:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GAT</td>
+<td>LFNA</td>
+<td><a href=\"/wiki/Gap%E2%80%93Tallard_Airport\" title=\"Gap\u2013Tallard Airport\">Gap\u2013Tallard Airport</a></td>
+<td><a href=\"/wiki/Gap,_Hautes-Alpes\" title=\"Gap, Hautes-Alpes\">Gap</a>, <a href=\"/wiki/Provence-Alpes-C%C3%B4te_d%27Azur\" title=\"Provence-Alpes-C\u00f4te d&#39;Azur\">Provence-Alpes-C\u00f4te d'Azur</a>, France</td>
+<td><a href=\"/wiki/Central_European_Time\" title=\"Central European Time\">UTC+01:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>GAU</td>
+<td>VEGT</td>
+<td><a href=\"/wiki/Lokpriya_Gopinath_Bordoloi_International_Airport\" title=\"Lokpriya Gopinath Bordoloi International Airport\">Lokpriya Gopinath Bordoloi International Airport</a></td>
+<td><a href=\"/wiki/Guwahati\" title=\"Guwahati\">Guwahati</a>, <a href=\"/wiki/Assam\" title=\"Assam\">Assam</a>, India</td>
+<td><a href=\"/wiki/Indian_Standard_Time\" title=\"Indian Standard Time\">UTC+05:30</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GAV</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Gag_Island_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Gag Island Airport (page does not exist)\">Gag Island Airport</a></td>
+<td><a href=\"/wiki/Gag_Island\" title=\"Gag Island\">Gag Island</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+<td><a href=\"/wiki/Time_in_Indonesia\" title=\"Time in Indonesia\">UTC+09:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GAW</td>
+<td>VYGG</td>
+<td><a href=\"/w/index.php?title=Gangaw_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Gangaw Airport (page does not exist)\">Gangaw Airport</a></td>
+<td><a href=\"/wiki/Gangaw\" title=\"Gangaw\">Gangaw</a>, <a href=\"/wiki/Myanmar\" title=\"Myanmar\">Myanmar</a></td>
+<td><a href=\"/wiki/Myanmar_Standard_Time\" title=\"Myanmar Standard Time\">UTC+06:30</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GAX</td>
+<td></td>
+<td><a href=\"/wiki/Gamba_Airport\" title=\"Gamba Airport\">Gamba Airport</a></td>
+<td><a href=\"/wiki/Gamba,_Gabon\" title=\"Gamba, Gabon\">Gamba</a>, <a href=\"/wiki/Gabon\" title=\"Gabon\">Gabon</a></td>
+<td><a href=\"/wiki/West_Africa_Time\" title=\"West Africa Time\">UTC+01:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GAY</td>
+<td>VEGY</td>
+<td><a href=\"/wiki/Gaya_Airport\" title=\"Gaya Airport\">Gaya Airport</a> (Bodhgaya Airport)</td>
+<td><a href=\"/wiki/Gaya,_India\" title=\"Gaya, India\">Gaya</a>, <a href=\"/wiki/Bihar\" title=\"Bihar\">Bihar</a>, India</td>
+<td><a href=\"/wiki/Indian_Standard_Time\" title=\"Indian Standard Time\">UTC+05:30</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GAZ</td>
+<td></td>
+<td><a href=\"/wiki/Guasopa_Airport\" title=\"Guasopa Airport\">Guasopa Airport</a></td>
+<td><a href=\"/wiki/Guasopa\" title=\"Guasopa\">Guasopa</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+<td><a href=\"/wiki/UTC%2B10:00\" title=\"UTC+10:00\">UTC+10:00</a></td>
+<td>
+</td></tr>
+<tr class=\"sortbottom\">
+<th colspan=\"6\" style=\"text-align:left; background:#ddd;\"><span id=\"GB\"></span>-GB-
+</th></tr>
+<tr>
+<td>GBA</td>
+<td>EGBP</td>
+<td><a href=\"/wiki/Cotswold_Airport\" title=\"Cotswold Airport\">Cotswold Airport</a><sup id=\"cite_ref-IATA_2-0\" class=\"reference\"><a href=\"#cite_note-IATA-2\">&#91;2&#93;</a></sup></td>
+<td><a href=\"/wiki/Kemble,_Gloucestershire\" title=\"Kemble, Gloucestershire\">Kemble</a>, <a href=\"/wiki/England\" title=\"England\">England</a>, United Kingdom</td>
+<td><a href=\"/wiki/Greenwich_Mean_Time\" title=\"Greenwich Mean Time\">UTC\u00b100:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>GBB</td>
+<td>UBBQ</td>
+<td><a href=\"/wiki/Qabala_International_Airport\" title=\"Qabala International Airport\">Qabala International Airport</a></td>
+<td><a href=\"/wiki/Qabala\" title=\"Qabala\">Qabala</a>, <a href=\"/wiki/Azerbaijan\" title=\"Azerbaijan\">Azerbaijan</a></td>
+<td><a href=\"/wiki/Time_in_Azerbaijan\" class=\"mw-redirect\" title=\"Time in Azerbaijan\">UTC+04:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GBC</td>
+<td>AYGS</td>
+<td><a href=\"/w/index.php?title=Gasuke_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Gasuke Airport (page does not exist)\">Gasuke Airport</a></td>
+<td><a href=\"/w/index.php?title=Gasuke&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Gasuke (page does not exist)\">Gasuke</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+<td><a href=\"/wiki/UTC%2B10:00\" title=\"UTC+10:00\">UTC+10:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GBD</td>
+<td>KGBD</td>
+<td><a href=\"/wiki/Great_Bend_Municipal_Airport\" title=\"Great Bend Municipal Airport\">Great Bend Municipal Airport</a></td>
+<td><a href=\"/wiki/Great_Bend,_Kansas\" title=\"Great Bend, Kansas\">Great Bend</a>, <a href=\"/wiki/Kansas\" title=\"Kansas\">Kansas</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GBE</td>
+<td>FBSK</td>
+<td><a href=\"/wiki/Sir_Seretse_Khama_International_Airport\" title=\"Sir Seretse Khama International Airport\">Sir Seretse Khama International Airport</a></td>
+<td><a href=\"/wiki/Gaborone\" title=\"Gaborone\">Gaborone</a>, <a href=\"/wiki/Botswana\" title=\"Botswana\">Botswana</a></td>
+<td><a href=\"/wiki/Central_Africa_Time\" title=\"Central Africa Time\">UTC+02:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GBF</td>
+<td>AYNE</td>
+<td><a href=\"/w/index.php?title=Negarbo_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Negarbo Airport (page does not exist)\">Negarbo Airport</a></td>
+<td><a href=\"/w/index.php?title=Negarbo&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Negarbo (page does not exist)\">Negarbo</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+<td><a href=\"/wiki/UTC%2B10:00\" title=\"UTC+10:00\">UTC+10:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GBG</td>
+<td>KGBG</td>
+<td><a href=\"/wiki/Galesburg_Municipal_Airport\" title=\"Galesburg Municipal Airport\">Galesburg Municipal Airport</a></td>
+<td><a href=\"/wiki/Galesburg,_Illinois\" title=\"Galesburg, Illinois\">Galesburg</a>, <a href=\"/wiki/Illinois\" title=\"Illinois\">Illinois</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GBH</td>
+<td>PAGB</td>
+<td><a href=\"/wiki/Galbraith_Lake_Airport\" title=\"Galbraith Lake Airport\">Galbraith Lake Airport</a></td>
+<td><a href=\"/wiki/Galbraith_Lake\" title=\"Galbraith Lake\">Galbraith Lake</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+<td><a href=\"/wiki/Alaska_Time_Zone\" title=\"Alaska Time Zone\">UTC\u221209:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GBJ</td>
+<td>TFFM</td>
+<td><a href=\"/wiki/Marie-Galante_Airport\" title=\"Marie-Galante Airport\">Marie-Galante Airport</a> (Les Bases)</td>
+<td><a href=\"/wiki/Grand-Bourg\" title=\"Grand-Bourg\">Grand-Bourg</a>, <a href=\"/wiki/Marie_Galante\" class=\"mw-redirect\" title=\"Marie Galante\">Marie-Galante Island</a>, <a href=\"/wiki/Guadeloupe\" title=\"Guadeloupe\">Guadeloupe</a></td>
+<td><a href=\"/wiki/Atlantic_Time_Zone\" title=\"Atlantic Time Zone\">UTC\u221204:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GBK</td>
+<td>GFGK</td>
+<td><a href=\"/wiki/Gbangbatok_Airport\" class=\"mw-redirect\" title=\"Gbangbatok Airport\">Gbangbatok Airport</a></td>
+<td><a href=\"/w/index.php?title=Gbangbatok&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Gbangbatok (page does not exist)\">Gbangbatok</a>, <a href=\"/wiki/Sierra_Leone\" title=\"Sierra Leone\">Sierra Leone</a></td>
+<td><a href=\"/wiki/Greenwich_Mean_Time\" title=\"Greenwich Mean Time\">UTC\u00b100:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GBL</td>
+<td>YGBI</td>
+<td><a href=\"/wiki/South_Goulburn_Island_Airport\" title=\"South Goulburn Island Airport\">South Goulburn Island Airport</a></td>
+<td><a href=\"/wiki/Goulburn_Islands\" title=\"Goulburn Islands\">Goulburn Islands</a>, <a href=\"/wiki/Northern_Territory\" title=\"Northern Territory\">Northern Territory</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+09:30</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GBM</td>
+<td></td>
+<td><a href=\"/wiki/Garbaharey_Airport\" title=\"Garbaharey Airport\">Garbaharey Airport</a></td>
+<td><a href=\"/wiki/Garbahare\" title=\"Garbahare\">Garbaharey</a>, <a href=\"/wiki/Somalia\" title=\"Somalia\">Somalia</a></td>
+<td><a href=\"/wiki/East_Africa_Time\" title=\"East Africa Time\">UTC+03:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GBP</td>
+<td>YGAM</td>
+<td><a href=\"/w/index.php?title=Gamboola_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Gamboola Airport (page does not exist)\">Gamboola Airport</a></td>
+<td><a href=\"/w/index.php?title=Gamboola&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Gamboola (page does not exist)\">Gamboola</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+10:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GBR</td>
+<td>KGBR</td>
+<td><a href=\"/wiki/Walter_J._Koladza_Airport\" title=\"Walter J. Koladza Airport\">Walter J. Koladza Airport</a></td>
+<td><a href=\"/wiki/Great_Barrington,_Massachusetts\" title=\"Great Barrington, Massachusetts\">Great Barrington</a>, <a href=\"/wiki/Massachusetts\" title=\"Massachusetts\">Massachusetts</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GBT</td>
+<td>OING</td>
+<td><a href=\"/wiki/Gorgan_Airport\" title=\"Gorgan Airport\">Gorgan Airport</a><sup id=\"cite_ref-IATA_2-1\" class=\"reference\"><a href=\"#cite_note-IATA-2\">&#91;2&#93;</a></sup></td>
+<td><a href=\"/wiki/Gorgan\" title=\"Gorgan\">Gorgan</a>, <a href=\"/wiki/Iran\" title=\"Iran\">Iran</a></td>
+<td><a href=\"/wiki/Iran_Standard_Time\" title=\"Iran Standard Time\">UTC+03:30</a></td>
+<td>Mar-Sep
+</td></tr>
+<tr>
+<td>GBU</td>
+<td>HSKG</td>
+<td><a href=\"/wiki/Khashm_el_Girba_Airport\" title=\"Khashm el Girba Airport\">Khashm el Girba Airport</a></td>
+<td><a href=\"/wiki/Khashm_el_Girba\" title=\"Khashm el Girba\">Khashm el Girba</a>, <a href=\"/wiki/Sudan\" title=\"Sudan\">Sudan</a></td>
+<td><a href=\"/wiki/East_Africa_Time\" title=\"East Africa Time\">UTC+03:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GBV</td>
+<td>YGIB</td>
+<td><a href=\"/w/index.php?title=Gibb_River_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Gibb River Airport (page does not exist)\">Gibb River Airport</a></td>
+<td><a href=\"/w/index.php?title=Gibb,_Western_Australia&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Gibb, Western Australia (page does not exist)\">Gibb River</a>, <a href=\"/wiki/Western_Australia\" title=\"Western Australia\">Western Australia</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+08:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GBW</td>
+<td>YGIA</td>
+<td><a href=\"/w/index.php?title=Ginbata_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Ginbata Airport (page does not exist)\">Ginbata Airport</a><sup id=\"cite_ref-IATA_2-2\" class=\"reference\"><a href=\"#cite_note-IATA-2\">&#91;2&#93;</a></sup></td>
+<td><a href=\"/wiki/Roy_Hill\" title=\"Roy Hill\">Ginbata</a>, <a href=\"/wiki/Western_Australia\" title=\"Western Australia\">Western Australia</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+08:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GBZ</td>
+<td>NZGB</td>
+<td><a href=\"/wiki/Great_Barrier_Aerodrome\" title=\"Great Barrier Aerodrome\">Great Barrier Aerodrome</a></td>
+<td><a href=\"/wiki/Great_Barrier_Island\" title=\"Great Barrier Island\">Great Barrier Island</a>, <a href=\"/wiki/New_Zealand\" title=\"New Zealand\">New Zealand</a></td>
+<td><a href=\"/wiki/Time_in_New_Zealand\" title=\"Time in New Zealand\">UTC+12:00</a></td>
+<td>Sep-Apr
+</td></tr>
+<tr class=\"sortbottom\">
+<th colspan=\"6\" style=\"text-align:left; background:#ddd;\"><span id=\"GC\"></span>-GC-
+</th></tr>
+<tr>
+<td>GCA</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Guacamayas_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Guacamayas Airport (page does not exist)\">Guacamayas Airport</a></td>
+<td><a href=\"/wiki/Guacamayas,_Boyac%C3%A1\" title=\"Guacamayas, Boyac\u00e1\">Guacamayas</a>, <a href=\"/wiki/Colombia\" title=\"Colombia\">Colombia</a></td>
+<td><a href=\"/wiki/Time_in_Colombia\" title=\"Time in Colombia\">UTC\u221205:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GCC</td>
+<td>KGCC</td>
+<td><a href=\"/wiki/Gillette%E2%80%93Campbell_County_Airport\" title=\"Gillette\u2013Campbell County Airport\">Gillette\u2013Campbell County Airport</a></td>
+<td><a href=\"/wiki/Gillette,_Wyoming\" title=\"Gillette, Wyoming\">Gillette</a>, <a href=\"/wiki/Wyoming\" title=\"Wyoming\">Wyoming</a>, United States</td>
+<td><a href=\"/wiki/Mountain_Time_Zone\" title=\"Mountain Time Zone\">UTC\u221207:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GCD</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Grand_Coulee_Dam_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Grand Coulee Dam Airport (page does not exist)\">Grand Coulee Dam Airport</a><sup id=\"cite_ref-IATA_2-3\" class=\"reference\"><a href=\"#cite_note-IATA-2\">&#91;2&#93;</a></sup> (FAA: 3W7)</td>
+<td><a href=\"/wiki/Electric_City,_Washington\" title=\"Electric City, Washington\">Electric City</a>, <a href=\"/wiki/Washington_(state)\" title=\"Washington (state)\">Washington</a>, United States</td>
+<td><a href=\"/wiki/Pacific_Time_Zone\" title=\"Pacific Time Zone\">UTC\u221208:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GCH</td>
+<td>OIAH</td>
+<td><a href=\"/wiki/Gachsaran_Airport\" title=\"Gachsaran Airport\">Gachsaran Airport</a><sup id=\"cite_ref-IATA_2-4\" class=\"reference\"><a href=\"#cite_note-IATA-2\">&#91;2&#93;</a></sup></td>
+<td><a href=\"/wiki/Dogonbadan\" title=\"Dogonbadan\">Gachsaran</a>, <a href=\"/wiki/Iran\" title=\"Iran\">Iran</a></td>
+<td><a href=\"/wiki/Iran_Standard_Time\" title=\"Iran Standard Time\">UTC+03:30</a></td>
+<td>Mar-Sep
+</td></tr>
+<tr>
+<td>GCI</td>
+<td>EGJB</td>
+<td><a href=\"/wiki/Guernsey_Airport\" title=\"Guernsey Airport\">Guernsey Airport</a></td>
+<td><a href=\"/wiki/Guernsey\" title=\"Guernsey\">Guernsey</a>, <a href=\"/wiki/Channel_Islands\" title=\"Channel Islands\">Channel Islands</a>, United Kingdom</td>
+<td><a href=\"/wiki/Greenwich_Mean_Time\" title=\"Greenwich Mean Time\">UTC\u00b100:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>GCJ</td>
+<td>FAGC</td>
+<td><a href=\"/wiki/Grand_Central_Airport\" title=\"Grand Central Airport\">Grand Central Airport</a></td>
+<td><a href=\"/wiki/Johannesburg\" title=\"Johannesburg\">Johannesburg</a>, <a href=\"/wiki/South_Africa\" title=\"South Africa\">South Africa</a></td>
+<td><a href=\"/wiki/South_African_Standard_Time\" title=\"South African Standard Time\">UTC+02:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GCK</td>
+<td>KGCK</td>
+<td><a href=\"/wiki/Garden_City_Regional_Airport\" title=\"Garden City Regional Airport\">Garden City Regional Airport</a></td>
+<td><a href=\"/wiki/Garden_City,_Kansas\" title=\"Garden City, Kansas\">Garden City</a>, <a href=\"/wiki/Kansas\" title=\"Kansas\">Kansas</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GCM</td>
+<td>MWCR</td>
+<td><a href=\"/wiki/Owen_Roberts_International_Airport\" title=\"Owen Roberts International Airport\">Owen Roberts International Airport</a></td>
+<td><a href=\"/wiki/Grand_Cayman\" title=\"Grand Cayman\">Grand Cayman</a>, <a href=\"/wiki/British_Overseas_Territory\" class=\"mw-redirect\" title=\"British Overseas Territory\">British Overseas Territory</a> of <a href=\"/wiki/Cayman_Islands\" title=\"Cayman Islands\">Cayman Islands</a></td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GCN</td>
+<td>KGCN</td>
+<td><a href=\"/wiki/Grand_Canyon_National_Park_Airport\" title=\"Grand Canyon National Park Airport\">Grand Canyon National Park Airport</a></td>
+<td><a href=\"/wiki/Tusayan,_Arizona\" title=\"Tusayan, Arizona\">Tusayan</a>, <a href=\"/wiki/Arizona\" title=\"Arizona\">Arizona</a>, United States</td>
+<td><a href=\"/wiki/Mountain_Time_Zone\" title=\"Mountain Time Zone\">UTC\u221207:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GCW</td>
+<td></td>
+<td><a href=\"/wiki/Grand_Canyon_West_Airport\" title=\"Grand Canyon West Airport\">Grand Canyon West Airport</a><sup id=\"cite_ref-IATA_2-5\" class=\"reference\"><a href=\"#cite_note-IATA-2\">&#91;2&#93;</a></sup> (FAA: 1G4)</td>
+<td><a href=\"/wiki/Peach_Springs,_Arizona\" title=\"Peach Springs, Arizona\">Peach Springs</a>, <a href=\"/wiki/Arizona\" title=\"Arizona\">Arizona</a>, United States</td>
+<td><a href=\"/wiki/Mountain_Time_Zone\" title=\"Mountain Time Zone\">UTC\u221207:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GCY</td>
+<td>KGCY</td>
+<td><a href=\"/wiki/Greeneville%E2%80%93Greene_County_Municipal_Airport\" title=\"Greeneville\u2013Greene County Municipal Airport\">Greeneville\u2013Greene County Municipal Airport</a></td>
+<td><a href=\"/wiki/Greeneville,_Tennessee\" title=\"Greeneville, Tennessee\">Greeneville</a>, <a href=\"/wiki/Tennessee\" title=\"Tennessee\">Tennessee</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr class=\"sortbottom\">
+<th colspan=\"6\" style=\"text-align:left; background:#ddd;\"><span id=\"GD\"></span>-GD-
+</th></tr>
+<tr>
+<td>GDA</td>
+<td></td>
+<td><a href=\"/wiki/Gounda_Airport\" title=\"Gounda Airport\">Gounda Airport</a></td>
+<td><a href=\"/wiki/Gounda\" title=\"Gounda\">Gounda</a>, <a href=\"/wiki/Central_African_Republic\" title=\"Central African Republic\">Central African Republic</a></td>
+<td><a href=\"/wiki/West_Africa_Time\" title=\"West Africa Time\">UTC+01:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GDC</td>
+<td>KGYH</td>
+<td><a href=\"/wiki/Donaldson_Center_Airport\" title=\"Donaldson Center Airport\">Donaldson Center Airport</a> (FAA: GYH)</td>
+<td><a href=\"/wiki/Greenville,_South_Carolina\" title=\"Greenville, South Carolina\">Greenville</a>, <a href=\"/wiki/South_Carolina\" title=\"South Carolina\">South Carolina</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GDD</td>
+<td>YGDN</td>
+<td><a href=\"/w/index.php?title=Gordon_Downs_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Gordon Downs Airport (page does not exist)\">Gordon Downs Airport</a></td>
+<td><a href=\"/w/index.php?title=Gordon_Downs&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Gordon Downs (page does not exist)\">Gordon Downs</a>, <a href=\"/wiki/Western_Australia\" title=\"Western Australia\">Western Australia</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+08:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GDE</td>
+<td>HAGO</td>
+<td><a href=\"/wiki/Gode_Airport\" title=\"Gode Airport\">Gode Airport</a></td>
+<td><a href=\"/wiki/Gode\" title=\"Gode\">Gode</a>, <a href=\"/wiki/Ethiopia\" title=\"Ethiopia\">Ethiopia</a></td>
+<td><a href=\"/wiki/East_Africa_Time\" title=\"East Africa Time\">UTC+03:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GDG</td>
+<td>UHBI</td>
+<td><a href=\"/wiki/Magdagachi_Airport\" title=\"Magdagachi Airport\">Magdagachi Airport</a></td>
+<td><a href=\"/wiki/Magdagachi\" title=\"Magdagachi\">Magdagachi</a>, <a href=\"/wiki/Amur_Oblast\" title=\"Amur Oblast\">Amur Oblast</a>, Russia</td>
+<td><a href=\"/wiki/Yakutsk_Time\" title=\"Yakutsk Time\">UTC+09:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GDH</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Golden_Horn_Lodge_Seaplane_Base&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Golden Horn Lodge Seaplane Base (page does not exist)\">Golden Horn Lodge Seaplane Base</a> (FAA: 3Z8)</td>
+<td><a href=\"/w/index.php?title=Golden_Horn_Lodge&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Golden Horn Lodge (page does not exist)\">Golden Horn Lodge</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+<td><a href=\"/wiki/Alaska_Time_Zone\" title=\"Alaska Time Zone\">UTC\u221209:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GDI</td>
+<td></td>
+<td><a href=\"/wiki/Gordil_Airport\" title=\"Gordil Airport\">Gordil Airport</a></td>
+<td><a href=\"/wiki/Gordil\" title=\"Gordil\">Gordil</a>, <a href=\"/wiki/Central_African_Republic\" title=\"Central African Republic\">Central African Republic</a></td>
+<td><a href=\"/wiki/West_Africa_Time\" title=\"West Africa Time\">UTC+01:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GDJ</td>
+<td>FZWC</td>
+<td><a href=\"/wiki/Gandajika_Airport\" title=\"Gandajika Airport\">Gandajika Airport</a></td>
+<td><a href=\"/wiki/Gandajika\" title=\"Gandajika\">Gandajika</a>, <a href=\"/wiki/Democratic_Republic_of_the_Congo\" title=\"Democratic Republic of the Congo\">Democratic Republic of the Congo</a></td>
+<td><a href=\"/wiki/Central_Africa_Time\" title=\"Central Africa Time\">UTC+02:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GDL</td>
+<td>MMGL</td>
+<td><a href=\"/wiki/Guadalajara_International_Airport\" class=\"mw-redirect\" title=\"Guadalajara International Airport\">Guadalajara International Airport</a> (Miguel Hidalgo y Costilla Int'l)</td>
+<td><a href=\"/wiki/Guadalajara\" title=\"Guadalajara\">Guadalajara</a>, <a href=\"/wiki/Jalisco\" title=\"Jalisco\">Jalisco</a>, Mexico</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Apr-Oct
+</td></tr>
+<tr>
+<td>GDM</td>
+<td>KGDM</td>
+<td><a href=\"/wiki/Gardner_Municipal_Airport_(Massachusetts)\" title=\"Gardner Municipal Airport (Massachusetts)\">Gardner Municipal Airport</a></td>
+<td><a href=\"/wiki/Gardner,_Massachusetts\" title=\"Gardner, Massachusetts\">Gardner</a>, <a href=\"/wiki/Massachusetts\" title=\"Massachusetts\">Massachusetts</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GDN</td>
+<td>EPGD</td>
+<td><a href=\"/wiki/Gda%C5%84sk_Lech_Wa%C5%82%C4%99sa_Airport\" title=\"Gda\u0144sk Lech Wa\u0142\u0119sa Airport\">Gda\u0144sk Lech Wa\u0142\u0119sa Airport</a></td>
+<td><a href=\"/wiki/Gda%C5%84sk\" title=\"Gda\u0144sk\">Gda\u0144sk</a>, <a href=\"/wiki/Poland\" title=\"Poland\">Poland</a></td>
+<td><a href=\"/wiki/Central_European_Time\" title=\"Central European Time\">UTC+01:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>GDO</td>
+<td>SVGD</td>
+<td><a href=\"/wiki/Guasdualito_Airport\" title=\"Guasdualito Airport\">Guasdualito Airport</a> (Vare Maria Airport)</td>
+<td><a href=\"/wiki/Guasdualito\" title=\"Guasdualito\">Guasdualito</a>, <a href=\"/wiki/Venezuela\" title=\"Venezuela\">Venezuela</a></td>
+<td><a href=\"/wiki/Time_in_Venezuela\" title=\"Time in Venezuela\">UTC\u221204:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GDP</td>
+<td>SNGD</td>
+<td><a href=\"/w/index.php?title=Guadalupe_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Guadalupe Airport (page does not exist)\">Guadalupe Airport</a></td>
+<td><a href=\"/wiki/Guadalupe,_Piau%C3%AD\" title=\"Guadalupe, Piau\u00ed\">Guadalupe</a>, <a href=\"/wiki/Piau%C3%AD\" title=\"Piau\u00ed\">Piau\u00ed</a>, Brazil</td>
+<td><a href=\"/wiki/Time_in_Brazil\" title=\"Time in Brazil\">UTC\u221203:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GDQ</td>
+<td>HAGN</td>
+<td><a href=\"/wiki/Gondar_Airport\" title=\"Gondar Airport\">Gondar Airport</a> (Atse Tewodros Airport)</td>
+<td><a href=\"/wiki/Gondar\" title=\"Gondar\">Gondar</a>, <a href=\"/wiki/Ethiopia\" title=\"Ethiopia\">Ethiopia</a></td>
+<td><a href=\"/wiki/East_Africa_Time\" title=\"East Africa Time\">UTC+03:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GDT</td>
+<td>MBGT</td>
+<td><a href=\"/wiki/JAGS_McCartney_International_Airport\" title=\"JAGS McCartney International Airport\">JAGS McCartney International Airport</a> (Grand Turk Int'l)</td>
+<td><a href=\"/wiki/Grand_Turk_Island\" title=\"Grand Turk Island\">Grand Turk Island</a>, <a href=\"/wiki/British_Overseas_Territory\" class=\"mw-redirect\" title=\"British Overseas Territory\">British Overseas Territory</a><br /> of <a href=\"/wiki/Turks_and_Caicos_Islands\" title=\"Turks and Caicos Islands\">Turks and Caicos Islands</a></td>
+<td><a href=\"/wiki/Atlantic_Time_Zone\" title=\"Atlantic Time Zone\">UTC\u221204:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GDV</td>
+<td>KGDV</td>
+<td><a href=\"/wiki/Dawson_Community_Airport\" title=\"Dawson Community Airport\">Dawson Community Airport</a></td>
+<td><a href=\"/wiki/Glendive,_Montana\" title=\"Glendive, Montana\">Glendive</a>, <a href=\"/wiki/Montana\" title=\"Montana\">Montana</a>, United States</td>
+<td><a href=\"/wiki/Mountain_Time_Zone\" title=\"Mountain Time Zone\">UTC\u221207:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GDW</td>
+<td>KGDW</td>
+<td><a href=\"/wiki/Gladwin_Zettel_Memorial_Airport\" title=\"Gladwin Zettel Memorial Airport\">Gladwin Zettel Memorial Airport</a></td>
+<td><a href=\"/wiki/Gladwin,_Michigan\" title=\"Gladwin, Michigan\">Gladwin</a>, <a href=\"/wiki/Michigan\" title=\"Michigan\">Michigan</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GDX</td>
+<td>UHMM</td>
+<td><a href=\"/wiki/Sokol_Airport\" title=\"Sokol Airport\">Sokol Airport</a></td>
+<td><a href=\"/wiki/Magadan\" title=\"Magadan\">Magadan</a>, <a href=\"/wiki/Magadan_Oblast\" title=\"Magadan Oblast\">Magadan Oblast</a>, Russia</td>
+<td><a href=\"/wiki/Magadan_Time\" title=\"Magadan Time\">UTC+11:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GDZ</td>
+<td>URKG</td>
+<td><a href=\"/wiki/Gelendzhik_Airport\" title=\"Gelendzhik Airport\">Gelendzhik Airport</a></td>
+<td><a href=\"/wiki/Gelendzhik\" title=\"Gelendzhik\">Gelendzhik</a>, <a href=\"/wiki/Krasnodar_Krai\" title=\"Krasnodar Krai\">Krasnodar Krai</a>, Russia</td>
+<td><a href=\"/wiki/Moscow_Time\" title=\"Moscow Time\">UTC+03:00</a></td>
+<td>
+</td></tr>
+<tr class=\"sortbottom\">
+<th colspan=\"6\" style=\"text-align:left; background:#ddd;\"><span id=\"GE\"></span>-GE-
+</th></tr>
+<tr>
+<td>GEA</td>
+<td>NWWM</td>
+<td><a href=\"/wiki/Noum%C3%A9a_Magenta_Airport\" title=\"Noum\u00e9a Magenta Airport\">Noum\u00e9a Magenta Airport</a></td>
+<td><a href=\"/wiki/Noum%C3%A9a\" title=\"Noum\u00e9a\">Noum\u00e9a</a>, <a href=\"/wiki/New_Caledonia\" title=\"New Caledonia\">New Caledonia</a></td>
+<td><a href=\"/wiki/Time_in_France\" title=\"Time in France\">UTC+11:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GEB</td>
+<td>WAMJ</td>
+<td><a href=\"/wiki/Gebe_Airport\" title=\"Gebe Airport\">Gebe Airport</a></td>
+<td><a href=\"/wiki/Gebe\" title=\"Gebe\">Gebe</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+<td><a href=\"/wiki/Time_in_Indonesia\" title=\"Time in Indonesia\">UTC+09:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GEC</td>
+<td></td>
+<td><a href=\"/wiki/Ge%C3%A7itkale_Air_Base\" title=\"Ge\u00e7itkale Air Base\">Ge\u00e7itkale Air Base</a></td>
+<td><a href=\"/wiki/Lefkoniko\" title=\"Lefkoniko\">Ge\u00e7itkale</a>, <a href=\"/wiki/Northern_Cyprus\" title=\"Northern Cyprus\">Northern Cyprus</a></td>
+<td><a href=\"/wiki/Time_in_Turkey\" title=\"Time in Turkey\">UTC+03:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GED</td>
+<td>KGED</td>
+<td><a href=\"/wiki/Delaware_Coastal_Airport\" title=\"Delaware Coastal Airport\">Delaware Coastal Airport</a></td>
+<td><a href=\"/wiki/Georgetown,_Delaware\" title=\"Georgetown, Delaware\">Georgetown</a>, <a href=\"/wiki/Delaware\" title=\"Delaware\">Delaware</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GEE</td>
+<td>YGTO</td>
+<td><a href=\"/wiki/George_Town_Aerodrome\" title=\"George Town Aerodrome\">George Town Aerodrome</a></td>
+<td><a href=\"/wiki/George_Town,_Tasmania\" title=\"George Town, Tasmania\">George Town</a>, <a href=\"/wiki/Tasmania\" title=\"Tasmania\">Tasmania</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+10:00</a></td>
+<td>Oct-Apr
+</td></tr>
+<tr>
+<td>GEF</td>
+<td>AGEV</td>
+<td><a href=\"/w/index.php?title=Geva_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Geva Airport (page does not exist)\">Geva Airport</a></td>
+<td><a href=\"/w/index.php?title=Liangai&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Liangai (page does not exist)\">Liangai</a>, <a href=\"/wiki/Vella_Lavella\" title=\"Vella Lavella\">Vella Lavella</a>, <a href=\"/wiki/Solomon_Islands\" title=\"Solomon Islands\">Solomon Islands</a></td>
+<td><a href=\"/wiki/UTC%2B11:00\" title=\"UTC+11:00\">UTC+11:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GEG</td>
+<td>KGEG</td>
+<td><a href=\"/wiki/Spokane_International_Airport\" title=\"Spokane International Airport\">Spokane International Airport</a></td>
+<td><a href=\"/wiki/Spokane,_Washington\" title=\"Spokane, Washington\">Spokane</a>, <a href=\"/wiki/Washington_(state)\" title=\"Washington (state)\">Washington</a>, United States</td>
+<td><a href=\"/wiki/Pacific_Time_Zone\" title=\"Pacific Time Zone\">UTC\u221208:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GEL</td>
+<td>SBNM</td>
+<td><a href=\"/wiki/Santo_%C3%82ngelo_Airport\" title=\"Santo \u00c2ngelo Airport\">Sep\u00e9 Tiaraju Airport</a></td>
+<td><a href=\"/wiki/Santo_%C3%82ngelo\" title=\"Santo \u00c2ngelo\">Santo \u00c2ngelo</a>, <a href=\"/wiki/Rio_Grande_do_Sul\" title=\"Rio Grande do Sul\">Rio Grande do Sul</a>, Brazil</td>
+<td><a href=\"/wiki/Time_in_Brazil\" title=\"Time in Brazil\">UTC\u221203:00</a></td>
+<td>Oct-Feb
+</td></tr>
+<tr>
+<td>GEM</td>
+<td>FGMY</td>
+<td><a href=\"/wiki/President_Obiang_Nguema_International_Airport\" title=\"President Obiang Nguema International Airport\">President Obiang Nguema International Airport</a><sup id=\"cite_ref-IATA_2-6\" class=\"reference\"><a href=\"#cite_note-IATA-2\">&#91;2&#93;</a></sup></td>
+<td><a href=\"/wiki/Mengomey%C3%A9n\" title=\"Mengomey\u00e9n\">Mengomey\u00e9n</a>, <a href=\"/wiki/Equatorial_Guinea\" title=\"Equatorial Guinea\">Equatorial Guinea</a></td>
+<td><a href=\"/wiki/West_Africa_Time\" title=\"West Africa Time\">UTC+01:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GEO</td>
+<td>SYCJ</td>
+<td><a href=\"/wiki/Cheddi_Jagan_International_Airport\" title=\"Cheddi Jagan International Airport\">Cheddi Jagan International Airport</a></td>
+<td><a href=\"/wiki/Georgetown,_Guyana\" title=\"Georgetown, Guyana\">Georgetown</a>, <a href=\"/wiki/Guyana\" title=\"Guyana\">Guyana</a></td>
+<td><a href=\"/wiki/UTC%E2%88%9204:00\" title=\"UTC\u221204:00\">UTC\u221204:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GER</td>
+<td>MUNG</td>
+<td><a href=\"/wiki/Rafael_Cabrera_Mustelier_Airport\" title=\"Rafael Cabrera Mustelier Airport\">Rafael Cabrera Mustelier Airport</a></td>
+<td><a href=\"/wiki/Nueva_Gerona\" title=\"Nueva Gerona\">Nueva Gerona</a>, <a href=\"/wiki/Cuba\" title=\"Cuba\">Cuba</a></td>
+<td><a href=\"/wiki/UTC%E2%88%9205:00\" title=\"UTC\u221205:00\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GES</td>
+<td>RPMR</td>
+<td><a href=\"/wiki/General_Santos_International_Airport\" title=\"General Santos International Airport\">General Santos International Airport</a> (Tambler Airport)</td>
+<td><a href=\"/wiki/General_Santos\" title=\"General Santos\">General Santos</a>, <a href=\"/wiki/Philippines\" title=\"Philippines\">Philippines</a></td>
+<td><a href=\"/wiki/Philippine_Standard_Time\" title=\"Philippine Standard Time\">UTC+08:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GET</td>
+<td>YGEL</td>
+<td><a href=\"/wiki/Geraldton_Airport\" title=\"Geraldton Airport\">Geraldton Airport</a></td>
+<td><a href=\"/wiki/Geraldton\" title=\"Geraldton\">Geraldton</a>, <a href=\"/wiki/Western_Australia\" title=\"Western Australia\">Western Australia</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+08:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GEV</td>
+<td>ESNG</td>
+<td><a href=\"/wiki/G%C3%A4llivare_Airport\" class=\"mw-redirect\" title=\"G\u00e4llivare Airport\">G\u00e4llivare Airport</a></td>
+<td><a href=\"/wiki/G%C3%A4llivare\" title=\"G\u00e4llivare\">G\u00e4llivare</a>, <a href=\"/wiki/Sweden\" title=\"Sweden\">Sweden</a></td>
+<td><a href=\"/wiki/Central_European_Time\" title=\"Central European Time\">UTC+01:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>GEW</td>
+<td>AYGC</td>
+<td><a href=\"/w/index.php?title=Gewoia_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Gewoia Airport (page does not exist)\">Gewoia Airport</a></td>
+<td><a href=\"/w/index.php?title=Gewoia&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Gewoia (page does not exist)\">Gewoia</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+<td><a href=\"/wiki/UTC%2B10:00\" title=\"UTC+10:00\">UTC+10:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GEX</td>
+<td>YGLG</td>
+<td><a href=\"/wiki/Geelong_Airport\" title=\"Geelong Airport\">Geelong Airport</a></td>
+<td><a href=\"/wiki/Geelong\" title=\"Geelong\">Geelong</a>, <a href=\"/wiki/Victoria_(Australia)\" title=\"Victoria (Australia)\">Victoria</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+10:00</a></td>
+<td>Oct-Apr
+</td></tr>
+<tr>
+<td>GEY</td>
+<td>KGEY</td>
+<td><a href=\"/w/index.php?title=South_Big_Horn_County_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"South Big Horn County Airport (page does not exist)\">South Big Horn County Airport</a></td>
+<td><a href=\"/wiki/Greybull,_Wyoming\" title=\"Greybull, Wyoming\">Greybull</a>, <a href=\"/wiki/Wyoming\" title=\"Wyoming\">Wyoming</a>, United States</td>
+<td><a href=\"/wiki/Mountain_Time_Zone\" title=\"Mountain Time Zone\">UTC\u221207:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr class=\"sortbottom\">
+<th colspan=\"6\" style=\"text-align:left; background:#ddd;\"><span id=\"GF\"></span>-GF-
+</th></tr>
+<tr>
+<td>GFD</td>
+<td>KGFD</td>
+<td><a href=\"/wiki/Pope_Field_(Indiana)\" title=\"Pope Field (Indiana)\">Pope Field</a></td>
+<td><a href=\"/wiki/Greenfield,_Indiana\" title=\"Greenfield, Indiana\">Greenfield</a>, <a href=\"/wiki/Indiana\" title=\"Indiana\">Indiana</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GFE</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Grenfell_Airport,_New_South_Wales&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Grenfell Airport, New South Wales (page does not exist)\">Grenfell Airport</a><sup id=\"cite_ref-IATA_2-7\" class=\"reference\"><a href=\"#cite_note-IATA-2\">&#91;2&#93;</a></sup></td>
+<td><a href=\"/wiki/Grenfell,_New_South_Wales\" title=\"Grenfell, New South Wales\">Grenfell</a>, <a href=\"/wiki/New_South_Wales\" title=\"New South Wales\">New South Wales</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+10:00</a></td>
+<td>Oct-Apr
+</td></tr>
+<tr>
+<td>GFF</td>
+<td>YGTH</td>
+<td><a href=\"/wiki/Griffith_Airport\" title=\"Griffith Airport\">Griffith Airport</a></td>
+<td><a href=\"/wiki/Griffith,_New_South_Wales\" title=\"Griffith, New South Wales\">Griffith</a>, <a href=\"/wiki/New_South_Wales\" title=\"New South Wales\">New South Wales</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+10:00</a></td>
+<td>Oct-Apr
+</td></tr>
+<tr>
+<td>GFK</td>
+<td>KGFK</td>
+<td><a href=\"/wiki/Grand_Forks_International_Airport\" title=\"Grand Forks International Airport\">Grand Forks International Airport</a></td>
+<td><a href=\"/wiki/Grand_Forks,_North_Dakota\" title=\"Grand Forks, North Dakota\">Grand Forks</a>, <a href=\"/wiki/North_Dakota\" title=\"North Dakota\">North Dakota</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GFL</td>
+<td>KGFL</td>
+<td><a href=\"/wiki/Floyd_Bennett_Memorial_Airport\" title=\"Floyd Bennett Memorial Airport\">Floyd Bennett Memorial Airport</a></td>
+<td><a href=\"/wiki/Glens_Falls,_New_York\" title=\"Glens Falls, New York\">Glens Falls</a>, <a href=\"/wiki/New_York_(state)\" title=\"New York (state)\">New York</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GFN</td>
+<td>YGFN</td>
+<td><a href=\"/wiki/Clarence_Valley_Regional_Airport\" title=\"Clarence Valley Regional Airport\">Clarence Valley Regional Airport</a></td>
+<td><a href=\"/wiki/Grafton,_New_South_Wales\" title=\"Grafton, New South Wales\">Grafton</a>, <a href=\"/wiki/New_South_Wales\" title=\"New South Wales\">New South Wales</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+10:00</a></td>
+<td>Oct-Apr
+</td></tr>
+<tr>
+<td>GFO</td>
+<td>SYBT</td>
+<td><a href=\"/wiki/Bartica_Airport\" title=\"Bartica Airport\">Bartica Airport</a></td>
+<td><a href=\"/wiki/Bartica\" title=\"Bartica\">Bartica</a>, <a href=\"/wiki/Guyana\" title=\"Guyana\">Guyana</a></td>
+<td><a href=\"/wiki/UTC%E2%88%9204:00\" title=\"UTC\u221204:00\">UTC\u221204:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GFR</td>
+<td>LFRF</td>
+<td><a href=\"/w/index.php?title=Granville%E2%80%93Mont-Saint-Michel_Aerodrome&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Granville\u2013Mont-Saint-Michel Aerodrome (page does not exist)\">Granville\u2013Mont-Saint-Michel Aerodrome</a><span class=\"noprint\" style=\"font-size:85%; font-style: normal;\">&#160;&#91;<a href=\"https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Granville-Mont-Saint-Michel\" class=\"extiw\" title=\"fr:A\u00e9rodrome de Granville-Mont-Saint-Michel\">fr</a>&#93;</span></td>
+<td><a href=\"/wiki/Granville,_Manche\" title=\"Granville, Manche\">Granville</a>, <a href=\"/wiki/Lower_Normandy\" title=\"Lower Normandy\">Lower Normandy</a>, France</td>
+<td><a href=\"/wiki/Central_European_Time\" title=\"Central European Time\">UTC+01:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>GFY</td>
+<td>FYGF</td>
+<td><a href=\"/wiki/Grootfontein_Air_Base\" class=\"mw-redirect\" title=\"Grootfontein Air Base\">Grootfontein Air Base</a></td>
+<td><a href=\"/wiki/Grootfontein\" title=\"Grootfontein\">Grootfontein</a>, <a href=\"/wiki/Namibia\" title=\"Namibia\">Namibia</a></td>
+<td><a href=\"/wiki/West_Africa_Time\" title=\"West Africa Time\">UTC+01:00</a></td>
+<td>Sep-Apr
+</td></tr>
+<tr class=\"sortbottom\">
+<th colspan=\"6\" style=\"text-align:left; background:#ddd;\"><span id=\"GG\"></span>-GG-
+</th></tr>
+<tr>
+<td>GGC</td>
+<td></td>
+<td><a href=\"/wiki/Lumbala_Airport\" title=\"Lumbala Airport\">Lumbala N'guimbo Airport</a></td>
+<td><a href=\"/wiki/Lumbala_N%27guimbo\" title=\"Lumbala N&#39;guimbo\">Lumbala N'guimbo</a>, <a href=\"/wiki/Angola\" title=\"Angola\">Angola</a></td>
+<td><a href=\"/wiki/West_Africa_Time\" title=\"West Africa Time\">UTC+01:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GGD</td>
+<td>YGDS</td>
+<td><a href=\"/w/index.php?title=Gregory_Downs_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Gregory Downs Airport (page does not exist)\">Gregory Downs Airport</a></td>
+<td><a href=\"/wiki/Gregory,_Queensland\" title=\"Gregory, Queensland\">Gregory Downs</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+10:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GGE</td>
+<td>KGGE</td>
+<td><a href=\"/wiki/Georgetown_County_Airport\" title=\"Georgetown County Airport\">Georgetown County Airport</a></td>
+<td><a href=\"/wiki/Georgetown,_South_Carolina\" title=\"Georgetown, South Carolina\">Georgetown</a>, <a href=\"/wiki/South_Carolina\" title=\"South Carolina\">South Carolina</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GGG</td>
+<td>KGGG</td>
+<td><a href=\"/wiki/East_Texas_Regional_Airport\" title=\"East Texas Regional Airport\">East Texas Regional Airport</a></td>
+<td><a href=\"/wiki/Longview,_Texas\" title=\"Longview, Texas\">Longview</a>, <a href=\"/wiki/Texas\" title=\"Texas\">Texas</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GGL</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Gilgal_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Gilgal Airport (page does not exist)\">Gilgal Airport</a><sup id=\"cite_ref-IATA_2-8\" class=\"reference\"><a href=\"#cite_note-IATA-2\">&#91;2&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Gilgal,_Colombia&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Gilgal, Colombia (page does not exist)\">Gilgal</a>, <a href=\"/wiki/Colombia\" title=\"Colombia\">Colombia</a></td>
+<td><a href=\"/wiki/Time_in_Colombia\" title=\"Time in Colombia\">UTC\u221205:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GGM</td>
+<td>HKKG</td>
+<td><a href=\"/wiki/Kakamega_Airport\" title=\"Kakamega Airport\">Kakamega Airport</a><sup id=\"cite_ref-IATA_2-9\" class=\"reference\"><a href=\"#cite_note-IATA-2\">&#91;2&#93;</a></sup></td>
+<td><a href=\"/wiki/Kakamega\" title=\"Kakamega\">Kakamega</a>, <a href=\"/wiki/Kenya\" title=\"Kenya\">Kenya</a></td>
+<td><a href=\"/wiki/East_Africa_Time\" title=\"East Africa Time\">UTC+03:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GGN</td>
+<td>DIGA</td>
+<td><a href=\"/wiki/Gagnoa_Airport\" title=\"Gagnoa Airport\">Gagnoa Airport</a></td>
+<td><a href=\"/wiki/Gagnoa\" title=\"Gagnoa\">Gagnoa</a>, <a href=\"/wiki/Ivory_Coast\" title=\"Ivory Coast\">Ivory Coast</a></td>
+<td><a href=\"/wiki/Greenwich_Mean_Time\" title=\"Greenwich Mean Time\">UTC\u00b100:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GGO</td>
+<td>DIGL</td>
+<td><a href=\"/wiki/Guiglo_Airport\" title=\"Guiglo Airport\">Guiglo Airport</a></td>
+<td><a href=\"/wiki/Guiglo\" title=\"Guiglo\">Guiglo</a>, <a href=\"/wiki/Ivory_Coast\" title=\"Ivory Coast\">Ivory Coast</a></td>
+<td><a href=\"/wiki/Greenwich_Mean_Time\" title=\"Greenwich Mean Time\">UTC\u00b100:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GGR</td>
+<td></td>
+<td><a href=\"/wiki/Garowe_International_Airport\" class=\"mw-redirect\" title=\"Garowe International Airport\">Garowe International Airport</a></td>
+<td><a href=\"/wiki/Garoowe\" title=\"Garoowe\">Garowe</a>, <a href=\"/wiki/Somalia\" title=\"Somalia\">Somalia</a></td>
+<td><a href=\"/wiki/East_Africa_Time\" title=\"East Africa Time\">UTC+03:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GGS</td>
+<td>SAWR</td>
+<td><a href=\"/wiki/Gobernador_Gregores_Airport\" title=\"Gobernador Gregores Airport\">Gobernador Gregores Airport</a></td>
+<td><a href=\"/wiki/Gobernador_Gregores\" title=\"Gobernador Gregores\">Gobernador Gregores</a>, <a href=\"/wiki/Santa_Cruz_Province,_Argentina\" title=\"Santa Cruz Province, Argentina\">Santa Cruz</a>, Argentina</td>
+<td><a href=\"/wiki/Time_in_Argentina\" title=\"Time in Argentina\">UTC\u221203:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GGT</td>
+<td>MYEF</td>
+<td><a href=\"/wiki/Exuma_International_Airport\" title=\"Exuma International Airport\">Exuma International Airport</a></td>
+<td><a href=\"/w/index.php?title=Moss_Town&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Moss Town (page does not exist)\">Moss Town</a>, <a href=\"/wiki/Exuma\" title=\"Exuma\">Great Exuma Island</a>, <a href=\"/wiki/The_Bahamas\" title=\"The Bahamas\">Bahamas</a></td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GGW</td>
+<td>KGGW</td>
+<td><a href=\"/wiki/Glasgow_Airport_(U.S.)\" class=\"mw-redirect\" title=\"Glasgow Airport (U.S.)\">Glasgow Airport</a> (Wokal Field)</td>
+<td><a href=\"/wiki/Glasgow,_Montana\" title=\"Glasgow, Montana\">Glasgow</a>, <a href=\"/wiki/Montana\" title=\"Montana\">Montana</a>, United States</td>
+<td><a href=\"/wiki/Mountain_Time_Zone\" title=\"Mountain Time Zone\">UTC\u221207:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr class=\"sortbottom\">
+<th colspan=\"6\" style=\"text-align:left; background:#ddd;\"><span id=\"GH\"></span>-GH-
+</th></tr>
+<tr>
+<td>GHA</td>
+<td>DAUG</td>
+<td><a href=\"/wiki/Noum%C3%A9rat_%E2%80%93_Moufdi_Zakaria_Airport\" title=\"Noum\u00e9rat \u2013 Moufdi Zakaria Airport\">Noum\u00e9rat \u2013 Moufdi Zakaria Airport</a></td>
+<td><a href=\"/wiki/Gharda%C3%AFa\" title=\"Gharda\u00efa\">Gharda\u00efa</a>, <a href=\"/wiki/Algeria\" title=\"Algeria\">Algeria</a></td>
+<td><a href=\"/wiki/Central_European_Time\" title=\"Central European Time\">UTC+01:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GHB</td>
+<td>MYEM</td>
+<td><a href=\"/wiki/Governor%27s_Harbour_Airport\" title=\"Governor&#39;s Harbour Airport\">Governor's Harbour Airport</a></td>
+<td><a href=\"/wiki/Governor%27s_Harbour\" title=\"Governor&#39;s Harbour\">Governor's Harbour</a>, <a href=\"/wiki/Eleuthera\" title=\"Eleuthera\">Eleuthera Island</a>, <a href=\"/wiki/The_Bahamas\" title=\"The Bahamas\">Bahamas</a></td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GHC</td>
+<td>MYBG</td>
+<td><a href=\"/wiki/Great_Harbour_Cay_Airport\" title=\"Great Harbour Cay Airport\">Great Harbour Cay Airport</a></td>
+<td><a href=\"/wiki/Great_Harbour_Cay\" title=\"Great Harbour Cay\">Great Harbour Cay</a>, <a href=\"/wiki/Berry_Islands\" title=\"Berry Islands\">Berry Islands</a>, <a href=\"/wiki/The_Bahamas\" title=\"The Bahamas\">Bahamas</a></td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GHE</td>
+<td></td>
+<td><a href=\"/wiki/Garachin%C3%A9_Airport\" title=\"Garachin\u00e9 Airport\">Garachin\u00e9 Airport</a></td>
+<td><a href=\"/wiki/Garachin%C3%A9\" title=\"Garachin\u00e9\">Garachin\u00e9</a>, <a href=\"/wiki/Panama\" title=\"Panama\">Panama</a></td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GHF</td>
+<td>ETEU</td>
+<td><a href=\"/wiki/Giebelstadt_Airport\" title=\"Giebelstadt Airport\">Giebelstadt Airport</a></td>
+<td><a href=\"/wiki/Giebelstadt\" title=\"Giebelstadt\">Giebelstadt</a>, <a href=\"/wiki/Bavaria\" title=\"Bavaria\">Bavaria</a>, Germany</td>
+<td><a href=\"/wiki/Central_European_Time\" title=\"Central European Time\">UTC+01:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>GHK</td>
+<td></td>
+<td><a href=\"/wiki/Gahcho_Kue_Aerodrome\" title=\"Gahcho Kue Aerodrome\">Gahcho Kue Aerodrome</a><sup id=\"cite_ref-IATA_2-10\" class=\"reference\"><a href=\"#cite_note-IATA-2\">&#91;2&#93;</a></sup> (TC: CGK2)</td>
+<td><a href=\"/w/index.php?title=Kennedy_Lake,_Northwest_Territories&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Kennedy Lake, Northwest Territories (page does not exist)\">Kennedy Lake</a>, <a href=\"/wiki/Northwest_Territories\" title=\"Northwest Territories\">Northwest Territories</a>, Canada</td>
+<td><a href=\"/wiki/Mountain_Time_Zone\" title=\"Mountain Time Zone\">UTC\u221207:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GHM</td>
+<td>KGHM</td>
+<td><a href=\"/wiki/Centerville_Municipal_Airport_(Tennessee)\" title=\"Centerville Municipal Airport (Tennessee)\">Centerville Municipal Airport</a></td>
+<td><a href=\"/wiki/Centerville,_Tennessee\" title=\"Centerville, Tennessee\">Centerville</a>, <a href=\"/wiki/Tennessee\" title=\"Tennessee\">Tennessee</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GHN</td>
+<td>ZUGH</td>
+<td><a href=\"/wiki/Guanghan_Airport\" title=\"Guanghan Airport\">Guanghan Airport</a></td>
+<td><a href=\"/wiki/Guanghan\" title=\"Guanghan\">Guanghan</a>, <a href=\"/wiki/Sichuan\" title=\"Sichuan\">Sichuan</a>, China</td>
+<td><a href=\"/wiki/Time_in_China\" title=\"Time in China\">UTC+08:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GHT</td>
+<td>HLGT</td>
+<td><a href=\"/wiki/Ghat_Airport\" title=\"Ghat Airport\">Ghat Airport</a></td>
+<td><a href=\"/wiki/Ghat,_Libya\" title=\"Ghat, Libya\">Ghat</a>, <a href=\"/wiki/Libya\" title=\"Libya\">Libya</a></td>
+<td><a href=\"/wiki/Eastern_European_Time\" title=\"Eastern European Time\">UTC+02:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GHU</td>
+<td>SAAG</td>
+<td><a href=\"/wiki/Gualeguaych%C3%BA_Airport\" title=\"Gualeguaych\u00fa Airport\">Gualeguaych\u00fa Airport</a></td>
+<td><a href=\"/wiki/Gualeguaych%C3%BA,_Entre_R%C3%ADos\" title=\"Gualeguaych\u00fa, Entre R\u00edos\">Gualeguaych\u00fa</a>, <a href=\"/wiki/Entre_R%C3%ADos_Province\" title=\"Entre R\u00edos Province\">Entre R\u00edos</a>, Argentina</td>
+<td><a href=\"/wiki/Time_in_Argentina\" title=\"Time in Argentina\">UTC\u221203:00</a></td>
+<td>
+</td></tr>
+<tr class=\"sortbottom\">
+<th colspan=\"6\" style=\"text-align:left; background:#ddd;\"><span id=\"GI\"></span>-GI-
+</th></tr>
+<tr>
+<td>GIB</td>
+<td>LXGB</td>
+<td><a href=\"/wiki/Gibraltar_International_Airport\" title=\"Gibraltar International Airport\">Gibraltar International Airport</a> (North Front Airport)</td>
+<td><a href=\"/wiki/British_Overseas_Territory\" class=\"mw-redirect\" title=\"British Overseas Territory\">British Overseas Territory</a> of <a href=\"/wiki/Gibraltar\" title=\"Gibraltar\">Gibraltar</a></td>
+<td><a href=\"/wiki/Central_European_Time\" title=\"Central European Time\">UTC+01:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>GIC</td>
+<td>YBOI</td>
+<td><a href=\"/wiki/Boigu_Island_Airport\" title=\"Boigu Island Airport\">Boigu Island Airport</a></td>
+<td><a href=\"/wiki/Boigu_Island_(Queensland)\" title=\"Boigu Island (Queensland)\">Boigu Island</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+10:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GID</td>
+<td>HBBE</td>
+<td><a href=\"/wiki/Gitega_Airport\" title=\"Gitega Airport\">Gitega Airport</a></td>
+<td><a href=\"/wiki/Gitega\" title=\"Gitega\">Gitega</a>, <a href=\"/wiki/Burundi\" title=\"Burundi\">Burundi</a></td>
+<td><a href=\"/wiki/Central_Africa_Time\" title=\"Central Africa Time\">UTC+02:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GIF</td>
+<td>KGIF</td>
+<td><a href=\"/wiki/Winter_Haven%27s_Gilbert_Airport\" title=\"Winter Haven&#39;s Gilbert Airport\">Winter Haven's Gilbert Airport</a></td>
+<td><a href=\"/wiki/Winter_Haven,_Florida\" title=\"Winter Haven, Florida\">Winter Haven</a>, <a href=\"/wiki/Florida\" title=\"Florida\">Florida</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GIG</td>
+<td>SBGL</td>
+<td><a href=\"/wiki/Rio_de_Janeiro%E2%80%93Gale%C3%A3o_International_Airport\" title=\"Rio de Janeiro\u2013Gale\u00e3o International Airport\">Rio de Janeiro\u2013Gale\u00e3o International Airport</a></td>
+<td><a href=\"/wiki/Rio_de_Janeiro\" title=\"Rio de Janeiro\">Rio de Janeiro</a>, Brazil</td>
+<td><a href=\"/wiki/Time_in_Brazil\" title=\"Time in Brazil\">UTC\u221203:00</a></td>
+<td>Oct-Feb
+</td></tr>
+<tr>
+<td>GII</td>
+<td>GUSI</td>
+<td><a href=\"/wiki/Siguiri_Airport\" title=\"Siguiri Airport\">Siguiri Airport</a></td>
+<td><a href=\"/wiki/Siguiri\" title=\"Siguiri\">Siguiri</a>, <a href=\"/wiki/Guinea\" title=\"Guinea\">Guinea</a></td>
+<td><a href=\"/wiki/Greenwich_Mean_Time\" title=\"Greenwich Mean Time\">UTC\u00b100:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GIL</td>
+<td>OPGT</td>
+<td><a href=\"/wiki/Gilgit_Airport\" title=\"Gilgit Airport\">Gilgit Airport</a></td>
+<td><a href=\"/wiki/Gilgit\" title=\"Gilgit\">Gilgit</a>, <a href=\"/wiki/Pakistan\" title=\"Pakistan\">Pakistan</a></td>
+<td><a href=\"/wiki/Time_in_Pakistan\" title=\"Time in Pakistan\">UTC+05:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GIM</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Miele_Mimbale_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Miele Mimbale Airport (page does not exist)\">Miele Mimbale Airport</a></td>
+<td><a href=\"/w/index.php?title=Miele_Mimbale&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Miele Mimbale (page does not exist)\">Miele Mimbale</a>, <a href=\"/wiki/Gabon\" title=\"Gabon\">Gabon</a></td>
+<td><a href=\"/wiki/West_Africa_Time\" title=\"West Africa Time\">UTC+01:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GIR</td>
+<td>SKGI</td>
+<td><a href=\"/wiki/Santiago_Vila_Airport\" title=\"Santiago Vila Airport\">Santiago Vila Airport</a></td>
+<td><a href=\"/wiki/Girardot,_Cundinamarca\" title=\"Girardot, Cundinamarca\">Girardot</a>, <a href=\"/wiki/Colombia\" title=\"Colombia\">Colombia</a></td>
+<td><a href=\"/wiki/Time_in_Colombia\" title=\"Time in Colombia\">UTC\u221205:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GIS</td>
+<td>NZGS</td>
+<td><a href=\"/wiki/Gisborne_Airport\" title=\"Gisborne Airport\">Gisborne Airport</a></td>
+<td><a href=\"/wiki/Gisborne,_New_Zealand\" title=\"Gisborne, New Zealand\">Gisborne</a>, <a href=\"/wiki/New_Zealand\" title=\"New Zealand\">New Zealand</a></td>
+<td><a href=\"/wiki/Time_in_New_Zealand\" title=\"Time in New Zealand\">UTC+12:00</a></td>
+<td>Sep-Apr
+</td></tr>
+<tr>
+<td>GIT</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Geita_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Geita Airport (page does not exist)\">Geita Airport</a></td>
+<td><a href=\"/wiki/Geita\" title=\"Geita\">Geita</a>, <a href=\"/wiki/Tanzania\" title=\"Tanzania\">Tanzania</a></td>
+<td><a href=\"/wiki/East_Africa_Time\" title=\"East Africa Time\">UTC+03:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GIU</td>
+<td>VCCS</td>
+<td><a href=\"/wiki/Sigiriya_Airport\" title=\"Sigiriya Airport\">Sigiriya Airport</a><sup id=\"cite_ref-IATA_2-11\" class=\"reference\"><a href=\"#cite_note-IATA-2\">&#91;2&#93;</a></sup></td>
+<td><a href=\"/wiki/Dambulla\" title=\"Dambulla\">Dambulla</a>, <a href=\"/wiki/Sri_Lanka\" title=\"Sri Lanka\">Sri Lanka</a></td>
+<td><a href=\"/wiki/Indian_Standard_Time\" title=\"Indian Standard Time\">UTC+05:30</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GIY</td>
+<td>FAGI</td>
+<td><a href=\"/w/index.php?title=Giyani_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Giyani Airport (page does not exist)\">Giyani Airport</a></td>
+<td><a href=\"/wiki/Giyani\" title=\"Giyani\">Giyani</a>, <a href=\"/wiki/South_Africa\" title=\"South Africa\">South Africa</a></td>
+<td><a href=\"/wiki/South_African_Standard_Time\" title=\"South African Standard Time\">UTC+02:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GIZ</td>
+<td>OEGN</td>
+<td><a href=\"/wiki/Jizan_Regional_Airport\" title=\"Jizan Regional Airport\">Jizan Regional Airport</a> (King Abdullah bin Abdulaziz Airport)</td>
+<td><a href=\"/wiki/Jizan\" title=\"Jizan\">Jizan</a>, <a href=\"/wiki/Saudi_Arabia\" title=\"Saudi Arabia\">Saudi Arabia</a></td>
+<td><a href=\"/wiki/UTC%2B03:00#Arabia_Standard_Time\" title=\"UTC+03:00\">UTC+03:00</a></td>
+<td>
+</td></tr>
+<tr class=\"sortbottom\">
+<th colspan=\"6\" style=\"text-align:left; background:#ddd;\"><span id=\"GJ\"></span>-GJ-
+</th></tr>
+<tr>
+<td>GJA</td>
+<td>MHNJ</td>
+<td><a href=\"/wiki/Guanaja_Airport\" title=\"Guanaja Airport\">Guanaja Airport</a></td>
+<td><a href=\"/wiki/Guanaja\" title=\"Guanaja\">Guanaja</a>, <a href=\"/wiki/Honduras\" title=\"Honduras\">Honduras</a></td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GJL</td>
+<td>DAAV</td>
+<td><a href=\"/wiki/Jijel_Ferhat_Abbas_Airport\" title=\"Jijel Ferhat Abbas Airport\">Jijel Ferhat Abbas Airport</a></td>
+<td><a href=\"/wiki/Jijel\" title=\"Jijel\">Jijel</a>, <a href=\"/wiki/Algeria\" title=\"Algeria\">Algeria</a></td>
+<td><a href=\"/wiki/Central_European_Time\" title=\"Central European Time\">UTC+01:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GJM</td>
+<td>SBGM</td>
+<td><a href=\"/w/index.php?title=Guajar%C3%A1-Mirim_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Guajar\u00e1-Mirim Airport (page does not exist)\">Guajar\u00e1-Mirim Airport</a></td>
+<td><a href=\"/wiki/Guajar%C3%A1-Mirim\" title=\"Guajar\u00e1-Mirim\">Guajar\u00e1-Mirim</a>, <a href=\"/wiki/Rond%C3%B4nia\" title=\"Rond\u00f4nia\">Rond\u00f4nia</a>, Brazil</td>
+<td><a href=\"/wiki/Time_in_Brazil\" title=\"Time in Brazil\">UTC\u221204:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GJR</td>
+<td>BIGJ</td>
+<td><a href=\"/wiki/Gj%C3%B6gur_Airport\" title=\"Gj\u00f6gur Airport\">Gj\u00f6gur Airport</a></td>
+<td><a href=\"/w/index.php?title=Gj%C3%B6gur&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Gj\u00f6gur (page does not exist)\">Gj\u00f6gur</a>, <a href=\"/wiki/Iceland\" title=\"Iceland\">Iceland</a></td>
+<td><a href=\"/wiki/Greenwich_Mean_Time\" title=\"Greenwich Mean Time\">UTC\u00b100:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GJT</td>
+<td>KGJT</td>
+<td><a href=\"/wiki/Grand_Junction_Regional_Airport\" title=\"Grand Junction Regional Airport\">Grand Junction Regional Airport</a> (Walker Field)</td>
+<td><a href=\"/wiki/Grand_Junction,_Colorado\" title=\"Grand Junction, Colorado\">Grand Junction</a>, <a href=\"/wiki/Colorado\" title=\"Colorado\">Colorado</a>, United States</td>
+<td><a href=\"/wiki/Mountain_Time_Zone\" title=\"Mountain Time Zone\">UTC\u221207:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr class=\"sortbottom\">
+<th colspan=\"6\" style=\"text-align:left; background:#ddd;\"><span id=\"GK\"></span>-GK-
+</th></tr>
+<tr>
+<td>GKA</td>
+<td>AYGA</td>
+<td><a href=\"/wiki/Goroka_Airport\" title=\"Goroka Airport\">Goroka Airport</a></td>
+<td><a href=\"/wiki/Goroka\" title=\"Goroka\">Goroka</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+<td><a href=\"/wiki/UTC%2B10:00\" title=\"UTC+10:00\">UTC+10:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GKD</td>
+<td>LTFK</td>
+<td><a href=\"/wiki/G%C3%B6k%C3%A7eada_Airport\" title=\"G\u00f6k\u00e7eada Airport\">G\u00f6k\u00e7eada Airport</a></td>
+<td><a href=\"/wiki/Imbros\" title=\"Imbros\">G\u00f6k\u00e7eada</a>, <a href=\"/wiki/Turkey\" title=\"Turkey\">Turkey</a></td>
+<td><a href=\"/wiki/Time_in_Turkey\" title=\"Time in Turkey\">UTC+03:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GKE</td>
+<td>ETNG</td>
+<td><a href=\"/wiki/NATO_Air_Base_Geilenkirchen\" title=\"NATO Air Base Geilenkirchen\">NATO Air Base Geilenkirchen</a></td>
+<td><a href=\"/wiki/Geilenkirchen\" title=\"Geilenkirchen\">Geilenkirchen</a>,  <a href=\"/wiki/North_Rhine-Westphalia\" title=\"North Rhine-Westphalia\">North Rhine-Westphalia</a>, Germany</td>
+<td><a href=\"/wiki/Central_European_Time\" title=\"Central European Time\">UTC+01:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>GKH</td>
+<td>VNGK</td>
+<td><a href=\"/wiki/Palungtar_Airport\" title=\"Palungtar Airport\">Palungtar Airport</a></td>
+<td><a href=\"/wiki/Prithbinarayan\" class=\"mw-redirect\" title=\"Prithbinarayan\">Gorkha</a>, <a href=\"/wiki/Nepal\" title=\"Nepal\">Nepal</a></td>
+<td><a href=\"/wiki/Nepal_Standard_Time\" title=\"Nepal Standard Time\">UTC+05:45</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GKK</td>
+<td>VRMO</td>
+<td><a href=\"/wiki/Kooddoo_Airport\" title=\"Kooddoo Airport\">Kooddoo Airport</a><sup id=\"cite_ref-IATA_2-12\" class=\"reference\"><a href=\"#cite_note-IATA-2\">&#91;2&#93;</a></sup></td>
+<td><a href=\"/wiki/Kooddoo\" title=\"Kooddoo\">Kooddoo</a>, <a href=\"/wiki/Gaafu_Alif_Atoll\" title=\"Gaafu Alif Atoll\">Gaafu Alif Atoll</a>, <a href=\"/wiki/Maldives\" title=\"Maldives\">Maldives</a></td>
+<td><a href=\"/wiki/UTC%2B05:00\" title=\"UTC+05:00\">UTC+05:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GKL</td>
+<td>YGKL</td>
+<td><a href=\"/w/index.php?title=Great_Keppel_Island_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Great Keppel Island Airport (page does not exist)\">Great Keppel Island Airport</a></td>
+<td><a href=\"/wiki/Great_Keppel_Island\" title=\"Great Keppel Island\">Great Keppel Island</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+10:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GKN</td>
+<td>PAGK</td>
+<td><a href=\"/wiki/Gulkana_Airport\" title=\"Gulkana Airport\">Gulkana Airport</a></td>
+<td><a href=\"/wiki/Gulkana,_Alaska\" title=\"Gulkana, Alaska\">Gulkana</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+<td><a href=\"/wiki/Alaska_Time_Zone\" title=\"Alaska Time Zone\">UTC\u221209:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GKO</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Kongo_Boumba_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Kongo Boumba Airport (page does not exist)\">Kongo Boumba Airport</a></td>
+<td><a href=\"/w/index.php?title=Kongo_Boumba&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Kongo Boumba (page does not exist)\">Kongo Boumba</a>, <a href=\"/wiki/Gabon\" title=\"Gabon\">Gabon</a></td>
+<td><a href=\"/wiki/West_Africa_Time\" title=\"West Africa Time\">UTC+01:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GKT</td>
+<td>KGKT</td>
+<td><a href=\"/wiki/Gatlinburg%E2%80%93Pigeon_Forge_Airport\" title=\"Gatlinburg\u2013Pigeon Forge Airport\">Gatlinburg\u2013Pigeon Forge Airport</a></td>
+<td><a href=\"/wiki/Sevierville,_Tennessee\" title=\"Sevierville, Tennessee\">Sevierville</a>, <a href=\"/wiki/Tennessee\" title=\"Tennessee\">Tennessee</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr class=\"sortbottom\">
+<th colspan=\"6\" style=\"text-align:left; background:#ddd;\"><span id=\"GL\"></span>-GL-
+</th></tr>
+<tr>
+<td>GLA</td>
+<td>EGPF</td>
+<td><a href=\"/wiki/Glasgow_Airport\" title=\"Glasgow Airport\">Glasgow Airport</a></td>
+<td><a href=\"/wiki/Glasgow\" title=\"Glasgow\">Glasgow</a>, <a href=\"/wiki/Scotland\" title=\"Scotland\">Scotland</a>, United Kingdom</td>
+<td><a href=\"/wiki/Greenwich_Mean_Time\" title=\"Greenwich Mean Time\">UTC\u00b100:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>GLB</td>
+<td></td>
+<td><a href=\"/wiki/San_Carlos_Apache_Airport\" title=\"San Carlos Apache Airport\">San Carlos Apache Airport</a><sup id=\"cite_ref-IATA_2-13\" class=\"reference\"><a href=\"#cite_note-IATA-2\">&#91;2&#93;</a></sup> (FAA: P13)</td>
+<td><a href=\"/wiki/Globe,_Arizona\" title=\"Globe, Arizona\">Globe</a>, <a href=\"/wiki/Arizona\" title=\"Arizona\">Arizona</a>, United States</td>
+<td><a href=\"/wiki/Mountain_Time_Zone\" title=\"Mountain Time Zone\">UTC\u221207:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GLC</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Geladi_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Geladi Airport (page does not exist)\">Geladi Airport</a></td>
+<td><a href=\"/wiki/Geladin\" title=\"Geladin\">Geladi</a>, <a href=\"/wiki/Ethiopia\" title=\"Ethiopia\">Ethiopia</a></td>
+<td><a href=\"/wiki/East_Africa_Time\" title=\"East Africa Time\">UTC+03:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GLD</td>
+<td>KGLD</td>
+<td><a href=\"/wiki/Goodland_Municipal_Airport\" title=\"Goodland Municipal Airport\">Goodland Municipal Airport</a> (Renner Field)</td>
+<td><a href=\"/wiki/Goodland,_Kansas\" title=\"Goodland, Kansas\">Goodland</a>, <a href=\"/wiki/Kansas\" title=\"Kansas\">Kansas</a>, United States</td>
+<td><a href=\"/wiki/Mountain_Time_Zone\" title=\"Mountain Time Zone\">UTC\u221207:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GLE</td>
+<td>KGLE</td>
+<td><a href=\"/wiki/Gainesville_Municipal_Airport\" title=\"Gainesville Municipal Airport\">Gainesville Municipal Airport</a></td>
+<td><a href=\"/wiki/Gainesville,_Texas\" title=\"Gainesville, Texas\">Gainesville</a>, <a href=\"/wiki/Texas\" title=\"Texas\">Texas</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GLF</td>
+<td>MRGF</td>
+<td><a href=\"/wiki/Golfito_Airport\" title=\"Golfito Airport\">Golfito Airport</a></td>
+<td><a href=\"/wiki/Golfito\" title=\"Golfito\">Golfito</a>, <a href=\"/wiki/Costa_Rica\" title=\"Costa Rica\">Costa Rica</a></td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GLG</td>
+<td>YGLE</td>
+<td><a href=\"/w/index.php?title=Glengyle_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Glengyle Airport (page does not exist)\">Glengyle Airport</a></td>
+<td><a href=\"/wiki/Glengyle_Station\" title=\"Glengyle Station\">Glengyle</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+10:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GLH</td>
+<td>KGLH</td>
+<td><a href=\"/wiki/Mid-Delta_Regional_Airport\" class=\"mw-redirect\" title=\"Mid-Delta Regional Airport\">Mid-Delta Regional Airport</a></td>
+<td><a href=\"/wiki/Greenville,_Mississippi\" title=\"Greenville, Mississippi\">Greenville</a>, <a href=\"/wiki/Mississippi\" title=\"Mississippi\">Mississippi</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GLI</td>
+<td>YGLI</td>
+<td><a href=\"/wiki/Glen_Innes_Airport\" title=\"Glen Innes Airport\">Glen Innes Airport</a></td>
+<td><a href=\"/wiki/Glen_Innes,_New_South_Wales\" title=\"Glen Innes, New South Wales\">Glen Innes</a>, <a href=\"/wiki/New_South_Wales\" title=\"New South Wales\">New South Wales</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+10:00</a></td>
+<td>Oct-Apr
+</td></tr>
+<tr>
+<td>GLK</td>
+<td>HCMR</td>
+<td><a href=\"/wiki/Abdullahi_Yusuf_International_Airport\" class=\"mw-redirect\" title=\"Abdullahi Yusuf International Airport\">Abdullahi Yusuf International Airport</a></td>
+<td><a href=\"/wiki/Galkayo\" title=\"Galkayo\">Galkayo</a>, <a href=\"/wiki/Somalia\" title=\"Somalia\">Somalia</a></td>
+<td><a href=\"/wiki/East_Africa_Time\" title=\"East Africa Time\">UTC+03:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GLL</td>
+<td>ENKL</td>
+<td><a href=\"/wiki/Gol_Airport,_Klanten\" title=\"Gol Airport, Klanten\">Gol Airport, Klanten</a></td>
+<td><a href=\"/wiki/Gol,_Norway\" title=\"Gol, Norway\">Gol</a>, <a href=\"/wiki/Norway\" title=\"Norway\">Norway</a></td>
+<td><a href=\"/wiki/Central_European_Time\" title=\"Central European Time\">UTC+01:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>GLM</td>
+<td>YGLO</td>
+<td><a href=\"/wiki/Glenormiston_Airport\" title=\"Glenormiston Airport\">Glenormiston Airport</a></td>
+<td><a href=\"/wiki/Glenormiston_Station\" title=\"Glenormiston Station\">Glenormiston</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+10:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GLN</td>
+<td></td>
+<td><a href=\"/wiki/Guelmim_Airport\" title=\"Guelmim Airport\">Guelmim Airport</a></td>
+<td><a href=\"/wiki/Guelmim\" title=\"Guelmim\">Guelmim</a>, <a href=\"/wiki/Morocco\" title=\"Morocco\">Morocco</a></td>
+<td><a href=\"/wiki/Western_European_Time\" title=\"Western European Time\">UTC\u00b100:00</a></td>
+<td>Mar-Oct<sup class=\"reference plainlinks nourlexpansion\" id=\"ref_1\"><a href=\"#endnote_1\">1</a></sup>
+</td></tr>
+<tr>
+<td>GLO</td>
+<td>EGBJ</td>
+<td><a href=\"/wiki/Gloucestershire_Airport\" title=\"Gloucestershire Airport\">Gloucestershire Airport</a></td>
+<td><a href=\"/wiki/Gloucester\" title=\"Gloucester\">Gloucester</a> / <a href=\"/wiki/Cheltenham\" title=\"Cheltenham\">Cheltenham</a>, <a href=\"/wiki/England\" title=\"England\">England</a>, United Kingdom</td>
+<td><a href=\"/wiki/Greenwich_Mean_Time\" title=\"Greenwich Mean Time\">UTC\u00b100:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>GLP</td>
+<td>AYUP</td>
+<td><a href=\"/w/index.php?title=Gulgubip_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Gulgubip Airport (page does not exist)\">Gulgubip Airport</a></td>
+<td><a href=\"/w/index.php?title=Gulgubip&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Gulgubip (page does not exist)\">Gulgubip</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+<td><a href=\"/wiki/UTC%2B10:00\" title=\"UTC+10:00\">UTC+10:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GLR</td>
+<td>KGLR</td>
+<td><a href=\"/wiki/Gaylord_Regional_Airport\" title=\"Gaylord Regional Airport\">Gaylord Regional Airport</a></td>
+<td><a href=\"/wiki/Gaylord,_Michigan\" title=\"Gaylord, Michigan\">Gaylord</a>, <a href=\"/wiki/Michigan\" title=\"Michigan\">Michigan</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GLS</td>
+<td>KGLS</td>
+<td><a href=\"/wiki/Scholes_International_Airport_at_Galveston\" title=\"Scholes International Airport at Galveston\">Scholes International Airport at Galveston</a></td>
+<td><a href=\"/wiki/Galveston,_Texas\" title=\"Galveston, Texas\">Galveston</a>, <a href=\"/wiki/Texas\" title=\"Texas\">Texas</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GLT</td>
+<td>YGLA</td>
+<td><a href=\"/wiki/Gladstone_Airport\" title=\"Gladstone Airport\">Gladstone Airport</a></td>
+<td><a href=\"/wiki/Gladstone,_Queensland\" title=\"Gladstone, Queensland\">Gladstone</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+10:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GLU</td>
+<td>VQGP</td>
+<td><a href=\"/wiki/Gelephu_Airport\" title=\"Gelephu Airport\">Gelephu Airport</a><sup id=\"cite_ref-IATA_2-14\" class=\"reference\"><a href=\"#cite_note-IATA-2\">&#91;2&#93;</a></sup></td>
+<td><a href=\"/wiki/Gelephu\" title=\"Gelephu\">Gelephu</a>, <a href=\"/wiki/Bhutan\" title=\"Bhutan\">Bhutan</a></td>
+<td><a href=\"/wiki/Bhutan_Time\" title=\"Bhutan Time\">UTC+06:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GLV</td>
+<td>PAGL</td>
+<td><a href=\"/wiki/Golovin_Airport\" title=\"Golovin Airport\">Golovin Airport</a></td>
+<td><a href=\"/wiki/Golovin,_Alaska\" title=\"Golovin, Alaska\">Golovin</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+<td><a href=\"/wiki/Alaska_Time_Zone\" title=\"Alaska Time Zone\">UTC\u221209:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GLW</td>
+<td>KGLW</td>
+<td><a href=\"/wiki/Glasgow_Municipal_Airport\" title=\"Glasgow Municipal Airport\">Glasgow Municipal Airport</a></td>
+<td><a href=\"/wiki/Glasgow,_Kentucky\" title=\"Glasgow, Kentucky\">Glasgow</a>, <a href=\"/wiki/Kentucky\" title=\"Kentucky\">Kentucky</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GLX</td>
+<td>WAMA</td>
+<td><a href=\"/w/index.php?title=Gamarmalamo_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Gamarmalamo Airport (page does not exist)\">Gamarmalamo Airport</a></td>
+<td><a href=\"/wiki/Galela\" class=\"mw-redirect\" title=\"Galela\">Galela</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+<td><a href=\"/wiki/Time_in_Indonesia\" title=\"Time in Indonesia\">UTC+09:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GLY</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Goldsworthy_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Goldsworthy Airport (page does not exist)\">Goldsworthy Airport</a></td>
+<td><a href=\"/wiki/Goldsworthy,_Western_Australia\" title=\"Goldsworthy, Western Australia\">Goldsworthy</a>, <a href=\"/wiki/Western_Australia\" title=\"Western Australia\">Western Australia</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+08:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GLZ</td>
+<td>EHGR</td>
+<td><a href=\"/wiki/Gilze-Rijen_Air_Base\" title=\"Gilze-Rijen Air Base\">Gilze-Rijen Air Base</a></td>
+<td><a href=\"/wiki/Breda\" title=\"Breda\">Breda</a>, <a href=\"/wiki/Netherlands\" title=\"Netherlands\">Netherlands</a></td>
+<td><a href=\"/wiki/Central_European_Time\" title=\"Central European Time\">UTC+01:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr class=\"sortbottom\">
+<th colspan=\"6\" style=\"text-align:left; background:#ddd;\"><span id=\"GM\"></span>-GM-
+</th></tr>
+<tr>
+<td>GMA</td>
+<td>FZFK</td>
+<td><a href=\"/wiki/Gemena_Airport\" title=\"Gemena Airport\">Gemena Airport</a></td>
+<td><a href=\"/wiki/Gemena\" title=\"Gemena\">Gemena</a>, <a href=\"/wiki/Democratic_Republic_of_the_Congo\" title=\"Democratic Republic of the Congo\">Democratic Republic of the Congo</a></td>
+<td><a href=\"/wiki/West_Africa_Time\" title=\"West Africa Time\">UTC+01:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GMB</td>
+<td>HAGM</td>
+<td><a href=\"/wiki/Gambela_Airport\" title=\"Gambela Airport\">Gambela Airport</a></td>
+<td><a href=\"/wiki/Gambela,_Ethiopia\" title=\"Gambela, Ethiopia\">Gambela</a>, <a href=\"/wiki/Ethiopia\" title=\"Ethiopia\">Ethiopia</a></td>
+<td><a href=\"/wiki/East_Africa_Time\" title=\"East Africa Time\">UTC+03:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GMC</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Guerima_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Guerima Airport (page does not exist)\">Guerima Airport</a></td>
+<td><a href=\"/w/index.php?title=Guerima&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Guerima (page does not exist)\">Guerima</a>, <a href=\"/wiki/Colombia\" title=\"Colombia\">Colombia</a></td>
+<td><a href=\"/wiki/Time_in_Colombia\" title=\"Time in Colombia\">UTC\u221205:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GMD</td>
+<td>GMMB</td>
+<td><a href=\"/wiki/Ben_Slimane_Airport\" title=\"Ben Slimane Airport\">Ben Slimane Airport</a><sup id=\"cite_ref-IATA_2-15\" class=\"reference\"><a href=\"#cite_note-IATA-2\">&#91;2&#93;</a></sup></td>
+<td><a href=\"/wiki/Benslimane\" title=\"Benslimane\">Ben Slimane</a>, <a href=\"/wiki/Morocco\" title=\"Morocco\">Morocco</a></td>
+<td><a href=\"/wiki/Western_European_Time\" title=\"Western European Time\">UTC\u00b100:00</a></td>
+<td>Mar-Oct<sup class=\"reference plainlinks nourlexpansion\" id=\"ref_1\"><a href=\"#endnote_1\">1</a></sup>
+</td></tr>
+<tr>
+<td>GME</td>
+<td>UMGG</td>
+<td><a href=\"/wiki/Gomel_Airport\" title=\"Gomel Airport\">Gomel Airport</a></td>
+<td><a href=\"/wiki/Gomel\" title=\"Gomel\">Gomel</a>, <a href=\"/wiki/Belarus\" title=\"Belarus\">Belarus</a></td>
+<td><a href=\"/wiki/UTC%2B03:00\" title=\"UTC+03:00\">UTC+03:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GMI</td>
+<td>AYGT</td>
+<td><a href=\"/wiki/Gasmata_Airport\" title=\"Gasmata Airport\">Gasmata Airport</a></td>
+<td><a href=\"/wiki/Gasmata\" title=\"Gasmata\">Gasmata</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+<td><a href=\"/wiki/UTC%2B10:00\" title=\"UTC+10:00\">UTC+10:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GMM</td>
+<td>FCOG</td>
+<td><a href=\"/wiki/Gamboma_Airport\" title=\"Gamboma Airport\">Gamboma Airport</a></td>
+<td><a href=\"/wiki/Gamboma\" title=\"Gamboma\">Gamboma</a>, <a href=\"/wiki/Republic_of_the_Congo\" title=\"Republic of the Congo\">Republic of the Congo</a></td>
+<td><a href=\"/wiki/West_Africa_Time\" title=\"West Africa Time\">UTC+01:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GMN</td>
+<td>NZGM</td>
+<td><a href=\"/wiki/Greymouth_Airport\" title=\"Greymouth Airport\">Greymouth Airport</a></td>
+<td><a href=\"/wiki/Greymouth\" title=\"Greymouth\">Greymouth</a>, <a href=\"/wiki/New_Zealand\" title=\"New Zealand\">New Zealand</a></td>
+<td><a href=\"/wiki/Time_in_New_Zealand\" title=\"Time in New Zealand\">UTC+12:00</a></td>
+<td>Sep-Apr
+</td></tr>
+<tr>
+<td>GMO</td>
+<td>DNGO</td>
+<td><a href=\"/wiki/Gombe_Lawanti_International_Airport\" title=\"Gombe Lawanti International Airport\">Gombe Lawanti International Airport</a><sup id=\"cite_ref-IATA_2-16\" class=\"reference\"><a href=\"#cite_note-IATA-2\">&#91;2&#93;</a></sup></td>
+<td><a href=\"/wiki/Gombe,_Gombe_State\" class=\"mw-redirect\" title=\"Gombe, Gombe State\">Gombe</a>, <a href=\"/wiki/Nigeria\" title=\"Nigeria\">Nigeria</a></td>
+<td><a href=\"/wiki/West_Africa_Time\" title=\"West Africa Time\">UTC+01:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GMP</td>
+<td>RKSS</td>
+<td><a href=\"/wiki/Gimpo_International_Airport\" title=\"Gimpo International Airport\">Gimpo International Airport</a></td>
+<td><a href=\"/wiki/Seoul\" title=\"Seoul\">Seoul</a>, <a href=\"/wiki/South_Korea\" title=\"South Korea\">South Korea</a></td>
+<td><a href=\"/wiki/Korea_Standard_Time\" class=\"mw-redirect\" title=\"Korea Standard Time\">UTC+09:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GMQ</td>
+<td>ZLGL</td>
+<td><a href=\"/wiki/Golog_Maqin_Airport\" title=\"Golog Maqin Airport\">Golog Maqin Airport</a><sup id=\"cite_ref-IATA_2-17\" class=\"reference\"><a href=\"#cite_note-IATA-2\">&#91;2&#93;</a></sup></td>
+<td><a href=\"/wiki/Golog_Tibetan_Autonomous_Prefecture\" title=\"Golog Tibetan Autonomous Prefecture\">Golog</a>, <a href=\"/wiki/Qinghai\" title=\"Qinghai\">Qinghai</a>, China</td>
+<td><a href=\"/wiki/Time_in_China\" title=\"Time in China\">UTC+08:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GMR</td>
+<td>NTGJ</td>
+<td><a href=\"/wiki/Totegegie_Airport\" title=\"Totegegie Airport\">Totegegie Airport</a> (Gambier Island Airport)</td>
+<td><a href=\"/wiki/Mangareva\" title=\"Mangareva\">Mangareva</a>, <a href=\"/wiki/Gambier_Islands\" title=\"Gambier Islands\">Gambier Islands</a>, <a href=\"/wiki/French_Polynesia\" title=\"French Polynesia\">French Polynesia</a></td>
+<td><a href=\"/wiki/Time_in_France\" title=\"Time in France\">UTC\u221209:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GMS</td>
+<td>SNGM</td>
+<td><a href=\"/w/index.php?title=Guimar%C3%A3es_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Guimar\u00e3es Airport (page does not exist)\">Guimar\u00e3es Airport</a></td>
+<td><a href=\"/wiki/Guimar%C3%A3es,_Maranh%C3%A3o\" title=\"Guimar\u00e3es, Maranh\u00e3o\">Guimar\u00e3es</a>, <a href=\"/wiki/Maranh%C3%A3o\" title=\"Maranh\u00e3o\">Maranh\u00e3o</a>, Brazil</td>
+<td><a href=\"/wiki/Time_in_Brazil\" title=\"Time in Brazil\">UTC\u221203:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GMT</td>
+<td>PAGZ</td>
+<td><a href=\"/wiki/Granite_Mountain_Air_Station\" title=\"Granite Mountain Air Station\">Granite Mountain Air Station</a> (FAA: GSZ)</td>
+<td><a href=\"/w/index.php?title=Granite_Mountain,_Alaska&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Granite Mountain, Alaska (page does not exist)\">Granite Mountain</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+<td><a href=\"/wiki/Alaska_Time_Zone\" title=\"Alaska Time Zone\">UTC\u221209:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GMU</td>
+<td>KGMU</td>
+<td><a href=\"/wiki/Greenville_Downtown_Airport\" title=\"Greenville Downtown Airport\">Greenville Downtown Airport</a></td>
+<td><a href=\"/wiki/Greenville,_South_Carolina\" title=\"Greenville, South Carolina\">Greenville</a>, <a href=\"/wiki/South_Carolina\" title=\"South Carolina\">South Carolina</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GMV</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Monument_Valley_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Monument Valley Airport (page does not exist)\">Monument Valley Airport</a> (FAA: UT25)</td>
+<td><a href=\"/wiki/Monument_Valley\" title=\"Monument Valley\">Monument Valley</a>, <a href=\"/wiki/Utah\" title=\"Utah\">Utah</a>, United States</td>
+<td><a href=\"/wiki/Mountain_Time_Zone\" title=\"Mountain Time Zone\">UTC\u221207:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GMZ</td>
+<td>GCGM</td>
+<td><a href=\"/wiki/La_Gomera_Airport\" title=\"La Gomera Airport\">La Gomera Airport</a></td>
+<td><a href=\"/wiki/La_Gomera\" title=\"La Gomera\">La Gomera</a> / <a href=\"/wiki/Canary_Islands\" title=\"Canary Islands\">Canary Islands</a>, Spain</td>
+<td><a href=\"/wiki/Western_European_Time\" title=\"Western European Time\">UTC\u00b100:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr class=\"sortbottom\">
+<th colspan=\"6\" style=\"text-align:left; background:#ddd;\"><span id=\"GN\"></span>-GN-
+</th></tr>
+<tr>
+<td>GNA</td>
+<td>UMMG</td>
+<td><a href=\"/wiki/Hrodna_Airport\" title=\"Hrodna Airport\">Grodno Airport</a></td>
+<td><a href=\"/wiki/Grodno\" title=\"Grodno\">Grodno</a>, <a href=\"/wiki/Belarus\" title=\"Belarus\">Belarus</a></td>
+<td><a href=\"/wiki/UTC%2B03:00\" title=\"UTC+03:00\">UTC+03:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GNB</td>
+<td>LFLS</td>
+<td><a href=\"/wiki/Grenoble%E2%80%93Is%C3%A8re_Airport\" class=\"mw-redirect\" title=\"Grenoble\u2013Is\u00e8re Airport\">Grenoble\u2013Is\u00e8re Airport</a></td>
+<td><a href=\"/wiki/Grenoble\" title=\"Grenoble\">Grenoble</a>, <a href=\"/wiki/Rh%C3%B4ne-Alpes\" title=\"Rh\u00f4ne-Alpes\">Rh\u00f4ne-Alpes</a>, France</td>
+<td><a href=\"/wiki/Central_European_Time\" title=\"Central European Time\">UTC+01:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>GND</td>
+<td>TGPY</td>
+<td><a href=\"/wiki/Maurice_Bishop_International_Airport\" title=\"Maurice Bishop International Airport\">Maurice Bishop International Airport</a></td>
+<td><a href=\"/wiki/St._George%27s,_Grenada\" title=\"St. George&#39;s, Grenada\">St. George's</a>, <a href=\"/wiki/Grenada\" title=\"Grenada\">Grenada</a></td>
+<td><a href=\"/wiki/Atlantic_Time_Zone\" title=\"Atlantic Time Zone\">UTC\u221204:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GNF</td>
+<td></td>
+<td><a href=\"/wiki/Gansner_Field\" title=\"Gansner Field\">Gansner Field</a><sup id=\"cite_ref-IATA_2-18\" class=\"reference\"><a href=\"#cite_note-IATA-2\">&#91;2&#93;</a></sup> (FAA: 2O1)</td>
+<td><a href=\"/wiki/Quincy,_California\" title=\"Quincy, California\">Quincy</a>, <a href=\"/wiki/California\" title=\"California\">California</a>, United States</td>
+<td><a href=\"/wiki/Pacific_Time_Zone\" title=\"Pacific Time Zone\">UTC\u221208:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GNG</td>
+<td>KGNG</td>
+<td><a href=\"/w/index.php?title=Gooding_Municipal_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Gooding Municipal Airport (page does not exist)\">Gooding Municipal Airport</a></td>
+<td><a href=\"/wiki/Gooding,_Idaho\" title=\"Gooding, Idaho\">Gooding</a>, <a href=\"/wiki/Idaho\" title=\"Idaho\">Idaho</a>, United States</td>
+<td><a href=\"/wiki/Mountain_Time_Zone\" title=\"Mountain Time Zone\">UTC\u221207:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GNI</td>
+<td>RCGI</td>
+<td><a href=\"/wiki/Lyudao_Airport\" class=\"mw-redirect\" title=\"Lyudao Airport\">Lyudao Airport</a> (Green Island Airport)</td>
+<td><a href=\"/wiki/Green_Island,_Taiwan\" title=\"Green Island, Taiwan\">Lyudao</a> (Green Island), <a href=\"/wiki/Taiwan\" title=\"Taiwan\">Taiwan</a></td>
+<td><a href=\"/wiki/Time_in_Taiwan\" title=\"Time in Taiwan\">UTC+08:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GNM</td>
+<td>SNGI</td>
+<td><a href=\"/wiki/Guanambi_Airport\" title=\"Guanambi Airport\">Guanambi Airport</a></td>
+<td><a href=\"/wiki/Guanambi\" title=\"Guanambi\">Guanambi</a>, <a href=\"/wiki/Bahia\" title=\"Bahia\">Bahia</a>, Brazil</td>
+<td><a href=\"/wiki/Time_in_Brazil\" title=\"Time in Brazil\">UTC\u221203:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GNN</td>
+<td>HAGH</td>
+<td><a href=\"/wiki/Ghinnir_Airport\" title=\"Ghinnir Airport\">Ginir Airport</a></td>
+<td><a href=\"/wiki/Ginir\" title=\"Ginir\">Ginir</a>, <a href=\"/wiki/Ethiopia\" title=\"Ethiopia\">Ethiopia</a></td>
+<td><a href=\"/wiki/East_Africa_Time\" title=\"East Africa Time\">UTC+03:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GNR</td>
+<td>SAHR</td>
+<td><a href=\"/wiki/Dr._Arturo_Umberto_Illia_Airport\" title=\"Dr. Arturo Umberto Illia Airport\">Dr. Arturo Umberto Illia Airport</a></td>
+<td><a href=\"/wiki/General_Roca,_R%C3%ADo_Negro\" title=\"General Roca, R\u00edo Negro\">General Roca</a>, <a href=\"/wiki/R%C3%ADo_Negro_Province\" title=\"R\u00edo Negro Province\">R\u00edo Negro</a>, Argentina</td>
+<td><a href=\"/wiki/Time_in_Argentina\" title=\"Time in Argentina\">UTC\u221203:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GNS</td>
+<td>WIMB</td>
+<td><a href=\"/wiki/Binaka_Airport\" title=\"Binaka Airport\">Binaka Airport</a></td>
+<td><a href=\"/wiki/Gunungsitoli\" title=\"Gunungsitoli\">Gunungsitoli</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+<td><a href=\"/wiki/Time_in_Indonesia\" title=\"Time in Indonesia\">UTC+07:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GNT</td>
+<td>KGNT</td>
+<td><a href=\"/w/index.php?title=Grants-Milan_Municipal_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Grants-Milan Municipal Airport (page does not exist)\">Grants-Milan Municipal Airport</a></td>
+<td><a href=\"/wiki/Grants,_New_Mexico\" title=\"Grants, New Mexico\">Grants</a>, <a href=\"/wiki/New_Mexico\" title=\"New Mexico\">New Mexico</a>, United States</td>
+<td><a href=\"/wiki/Mountain_Time_Zone\" title=\"Mountain Time Zone\">UTC\u221207:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GNU</td>
+<td></td>
+<td><a href=\"/wiki/Goodnews_Airport\" title=\"Goodnews Airport\">Goodnews Airport</a></td>
+<td><a href=\"/wiki/Goodnews_Bay,_Alaska\" title=\"Goodnews Bay, Alaska\">Goodnews Bay</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+<td><a href=\"/wiki/Alaska_Time_Zone\" title=\"Alaska Time Zone\">UTC\u221209:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GNV</td>
+<td>KGNV</td>
+<td><a href=\"/wiki/Gainesville_Regional_Airport\" title=\"Gainesville Regional Airport\">Gainesville Regional Airport</a></td>
+<td><a href=\"/wiki/Gainesville,_Florida\" title=\"Gainesville, Florida\">Gainesville</a>, <a href=\"/wiki/Florida\" title=\"Florida\">Florida</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GNY</td>
+<td>LTCS</td>
+<td><a href=\"/wiki/%C5%9Eanl%C4%B1urfa_GAP_Airport\" title=\"\u015eanl\u0131urfa GAP Airport\">\u015eanl\u0131urfa GAP Airport</a></td>
+<td><a href=\"/wiki/%C5%9Eanl%C4%B1urfa\" class=\"mw-redirect\" title=\"\u015eanl\u0131urfa\">\u015eanl\u0131urfa</a>, <a href=\"/wiki/Turkey\" title=\"Turkey\">Turkey</a></td>
+<td><a href=\"/wiki/Time_in_Turkey\" title=\"Time in Turkey\">UTC+03:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GNZ</td>
+<td>FBGZ</td>
+<td><a href=\"/wiki/Ghanzi_Airport\" title=\"Ghanzi Airport\">Ghanzi Airport</a></td>
+<td><a href=\"/wiki/Ghanzi\" title=\"Ghanzi\">Ghanzi</a>, <a href=\"/wiki/Botswana\" title=\"Botswana\">Botswana</a></td>
+<td><a href=\"/wiki/Central_Africa_Time\" title=\"Central Africa Time\">UTC+02:00</a></td>
+<td>
+</td></tr>
+<tr class=\"sortbottom\">
+<th colspan=\"6\" style=\"text-align:left; background:#ddd;\"><span id=\"GO\"></span>-GO-
+</th></tr>
+<tr>
+<td>GOA</td>
+<td>LIMJ</td>
+<td><a href=\"/wiki/Genoa_Cristoforo_Colombo_Airport\" title=\"Genoa Cristoforo Colombo Airport\">Genoa Cristoforo Colombo Airport</a></td>
+<td><a href=\"/wiki/Genoa\" title=\"Genoa\">Genoa</a>, <a href=\"/wiki/Liguria\" title=\"Liguria\">Liguria</a>, Italy</td>
+<td><a href=\"/wiki/Central_European_Time\" title=\"Central European Time\">UTC+01:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>GOB</td>
+<td>HAGB</td>
+<td><a href=\"/wiki/Robe_Airport\" title=\"Robe Airport\">Robe Airport</a></td>
+<td><a href=\"/wiki/Goba\" title=\"Goba\">Goba</a>, <a href=\"/wiki/Ethiopia\" title=\"Ethiopia\">Ethiopia</a></td>
+<td><a href=\"/wiki/East_Africa_Time\" title=\"East Africa Time\">UTC+03:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GOC</td>
+<td>AYGX</td>
+<td><a href=\"/w/index.php?title=Gora_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Gora Airport (page does not exist)\">Gora Airport</a></td>
+<td><a href=\"/w/index.php?title=Gora,_Papua_New_Guinea&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Gora, Papua New Guinea (page does not exist)\">Gora</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+<td><a href=\"/wiki/UTC%2B10:00\" title=\"UTC+10:00\">UTC+10:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GOE</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Gonaili_Airstrip&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Gonaili Airstrip (page does not exist)\">Gonaili Airstrip</a></td>
+<td><a href=\"/w/index.php?title=Gonaili&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Gonaili (page does not exist)\">Gonaili</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+<td><a href=\"/wiki/UTC%2B10:00\" title=\"UTC+10:00\">UTC+10:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GOG</td>
+<td>FYGB</td>
+<td><a href=\"/wiki/Gobabis_Airport\" title=\"Gobabis Airport\">Gobabis Airport</a></td>
+<td><a href=\"/wiki/Gobabis\" title=\"Gobabis\">Gobabis</a>, <a href=\"/wiki/Namibia\" title=\"Namibia\">Namibia</a></td>
+<td><a href=\"/wiki/West_Africa_Time\" title=\"West Africa Time\">UTC+01:00</a></td>
+<td>Sep-Apr
+</td></tr>
+<tr>
+<td>GOH</td>
+<td>BGGH</td>
+<td><a href=\"/wiki/Nuuk_Airport\" title=\"Nuuk Airport\">Nuuk Airport</a></td>
+<td><a href=\"/wiki/Nuuk\" title=\"Nuuk\">Nuuk</a>, <a href=\"/wiki/Greenland\" title=\"Greenland\">Greenland</a></td>
+<td><a href=\"/wiki/Time_in_Denmark\" title=\"Time in Denmark\">UTC\u221203:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>GOI</td>
+<td>VOGO</td>
+<td><a href=\"/wiki/Goa_International_Airport\" class=\"mw-redirect\" title=\"Goa International Airport\">Goa International Airport</a> (Dabolim Airport)</td>
+<td><a href=\"/wiki/Dabolim\" title=\"Dabolim\">Dabolim</a>, <a href=\"/wiki/Goa\" title=\"Goa\">Goa</a>, India</td>
+<td><a href=\"/wiki/Indian_Standard_Time\" title=\"Indian Standard Time\">UTC+05:30</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GOJ</td>
+<td>UWGG</td>
+<td><a href=\"/wiki/Nizhny_Novgorod_International_Airport\" class=\"mw-redirect\" title=\"Nizhny Novgorod International Airport\">Nizhny Novgorod International Airport</a> (Strigino Airport)</td>
+<td><a href=\"/wiki/Nizhny_Novgorod\" title=\"Nizhny Novgorod\">Nizhny Novgorod</a>, <a href=\"/wiki/Nizhny_Novgorod_Oblast\" title=\"Nizhny Novgorod Oblast\">Nizhny Novgorod Oblast</a>, Russia</td>
+<td><a href=\"/wiki/Moscow_Time\" title=\"Moscow Time\">UTC+03:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GOK</td>
+<td>KGOK</td>
+<td><a href=\"/wiki/Guthrie%E2%80%93Edmond_Regional_Airport\" title=\"Guthrie\u2013Edmond Regional Airport\">Guthrie\u2013Edmond Regional Airport</a></td>
+<td><a href=\"/wiki/Guthrie,_Oklahoma\" title=\"Guthrie, Oklahoma\">Guthrie</a>, <a href=\"/wiki/Oklahoma\" title=\"Oklahoma\">Oklahoma</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GOL</td>
+<td></td>
+<td><a href=\"/wiki/Gold_Beach_Municipal_Airport\" title=\"Gold Beach Municipal Airport\">Gold Beach Municipal Airport</a> (FAA: 4S1)</td>
+<td><a href=\"/wiki/Gold_Beach,_Oregon\" title=\"Gold Beach, Oregon\">Gold Beach</a>, <a href=\"/wiki/Oregon\" title=\"Oregon\">Oregon</a>, United States</td>
+<td><a href=\"/wiki/Pacific_Time_Zone\" title=\"Pacific Time Zone\">UTC\u221208:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GOM</td>
+<td>FZNA</td>
+<td><a href=\"/wiki/Goma_International_Airport\" title=\"Goma International Airport\">Goma International Airport</a></td>
+<td><a href=\"/wiki/Goma\" title=\"Goma\">Goma</a>, <a href=\"/wiki/Democratic_Republic_of_the_Congo\" title=\"Democratic Republic of the Congo\">Democratic Republic of the Congo</a></td>
+<td><a href=\"/wiki/Central_Africa_Time\" title=\"Central Africa Time\">UTC+02:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GON</td>
+<td>KGON</td>
+<td><a href=\"/wiki/Groton%E2%80%93New_London_Airport\" title=\"Groton\u2013New London Airport\">Groton\u2013New London Airport</a></td>
+<td><a href=\"/wiki/Groton,_Connecticut\" title=\"Groton, Connecticut\">Groton</a> / <a href=\"/wiki/New_London,_Connecticut\" title=\"New London, Connecticut\">New London</a>, <a href=\"/wiki/Connecticut\" title=\"Connecticut\">Connecticut</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GOO</td>
+<td>YGDI</td>
+<td><a href=\"/wiki/Goondiwindi_Airport\" title=\"Goondiwindi Airport\">Goondiwindi Airport</a></td>
+<td><a href=\"/wiki/Goondiwindi\" title=\"Goondiwindi\">Goondiwindi</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+10:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GOP</td>
+<td>VEGK</td>
+<td><a href=\"/wiki/Gorakhpur_Airport\" title=\"Gorakhpur Airport\">Gorakhpur Airport</a></td>
+<td><a href=\"/wiki/Gorakhpur\" title=\"Gorakhpur\">Gorakhpur</a>, <a href=\"/wiki/Uttar_Pradesh\" title=\"Uttar Pradesh\">Uttar Pradesh</a>, India</td>
+<td><a href=\"/wiki/Indian_Standard_Time\" title=\"Indian Standard Time\">UTC+05:30</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GOQ</td>
+<td>ZLGM</td>
+<td><a href=\"/wiki/Golmud_Airport\" title=\"Golmud Airport\">Golmud Airport</a></td>
+<td><a href=\"/wiki/Golmud\" title=\"Golmud\">Golmud</a>, <a href=\"/wiki/Qinghai\" title=\"Qinghai\">Qinghai</a>, China</td>
+<td><a href=\"/wiki/Time_in_China\" title=\"Time in China\">UTC+08:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GOR</td>
+<td>HAGR</td>
+<td><a href=\"/wiki/Gore_Airport\" title=\"Gore Airport\">Gore Airport</a></td>
+<td><a href=\"/wiki/Gore,_Ethiopia\" title=\"Gore, Ethiopia\">Gore</a>, <a href=\"/wiki/Ethiopia\" title=\"Ethiopia\">Ethiopia</a></td>
+<td><a href=\"/wiki/East_Africa_Time\" title=\"East Africa Time\">UTC+03:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GOS</td>
+<td></td>
+<td><a href=\"/wiki/Gosford_Airport\" class=\"mw-redirect\" title=\"Gosford Airport\">Gosford Airport</a></td>
+<td><a href=\"/wiki/Gosford\" title=\"Gosford\">Gosford</a>, <a href=\"/wiki/New_South_Wales\" title=\"New South Wales\">New South Wales</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+10:00</a></td>
+<td>Oct-Apr
+</td></tr>
+<tr>
+<td>GOT</td>
+<td>ESGG</td>
+<td><a href=\"/wiki/G%C3%B6teborg_Landvetter_Airport\" title=\"G\u00f6teborg Landvetter Airport\">G\u00f6teborg Landvetter Airport</a></td>
+<td><a href=\"/wiki/Gothenburg\" title=\"Gothenburg\">Gothenburg</a>, <a href=\"/wiki/Sweden\" title=\"Sweden\">Sweden</a></td>
+<td><a href=\"/wiki/Central_European_Time\" title=\"Central European Time\">UTC+01:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>GOU</td>
+<td>FKKR</td>
+<td><a href=\"/wiki/Garoua_International_Airport\" title=\"Garoua International Airport\">Garoua International Airport</a></td>
+<td><a href=\"/wiki/Garoua\" title=\"Garoua\">Garoua</a>, Cameroon</td>
+<td><a href=\"/wiki/West_Africa_Time\" title=\"West Africa Time\">UTC+01:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GOV</td>
+<td>YPGV</td>
+<td><a href=\"/wiki/Gove_Airport\" title=\"Gove Airport\">Gove Airport</a></td>
+<td><a href=\"/wiki/Nhulunbuy\" title=\"Nhulunbuy\">Nhulunbuy</a>, <a href=\"/wiki/Northern_Territory\" title=\"Northern Territory\">Northern Territory</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+09:30</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GOZ</td>
+<td>LBGO</td>
+<td><a href=\"/wiki/Gorna_Oryahovitsa_Airport\" title=\"Gorna Oryahovitsa Airport\">Gorna Oryahovitsa Airport</a></td>
+<td><a href=\"/wiki/Gorna_Oryahovitsa\" title=\"Gorna Oryahovitsa\">Gorna Oryahovitsa</a>, <a href=\"/wiki/Bulgaria\" title=\"Bulgaria\">Bulgaria</a></td>
+<td><a href=\"/wiki/Eastern_European_Time\" title=\"Eastern European Time\">UTC+02:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr class=\"sortbottom\">
+<th colspan=\"6\" style=\"text-align:left; background:#ddd;\"><span id=\"GP\"></span>-GP-
+</th></tr>
+<tr>
+<td>GPA</td>
+<td>LGRX</td>
+<td><a href=\"/wiki/Araxos_Airport\" class=\"mw-redirect\" title=\"Araxos Airport\">Araxos Airport</a></td>
+<td><a href=\"/wiki/Patras\" title=\"Patras\">Patras</a>, <a href=\"/wiki/Greece\" title=\"Greece\">Greece</a></td>
+<td><a href=\"/wiki/Eastern_European_Time\" title=\"Eastern European Time\">UTC+02:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>GPB</td>
+<td>SBGU</td>
+<td><a href=\"/wiki/Guarapuava_Airport\" title=\"Guarapuava Airport\">Tancredo Thomas de Faria Airport</a></td>
+<td><a href=\"/wiki/Guarapuava\" title=\"Guarapuava\">Guarapuava</a>, <a href=\"/wiki/Paran%C3%A1_(state)\" title=\"Paran\u00e1 (state)\">Paran\u00e1</a>, Brazil</td>
+<td><a href=\"/wiki/Time_in_Brazil\" title=\"Time in Brazil\">UTC\u221203:00</a></td>
+<td>Oct-Feb
+</td></tr>
+<tr>
+<td>GPD</td>
+<td>YGON</td>
+<td><a href=\"/wiki/Mount_Gordon_Airport\" title=\"Mount Gordon Airport\">Mount Gordon Airport</a><sup id=\"cite_ref-IATA_2-19\" class=\"reference\"><a href=\"#cite_note-IATA-2\">&#91;2&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Mount_Gordon_Mine&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Mount Gordon Mine (page does not exist)\">Mount Gordon Mine</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+10:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GPI</td>
+<td>SKGP</td>
+<td><a href=\"/wiki/Guapi_Airport\" title=\"Guapi Airport\">Guapi Airport</a> (Juan Casiano Airport)</td>
+<td><a href=\"/wiki/Guapi,_Cauca\" title=\"Guapi, Cauca\">Guapi</a>, <a href=\"/wiki/Colombia\" title=\"Colombia\">Colombia</a></td>
+<td><a href=\"/wiki/Time_in_Colombia\" title=\"Time in Colombia\">UTC\u221205:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GPL</td>
+<td>MRGP</td>
+<td><a href=\"/wiki/Gu%C3%A1piles_Airport\" title=\"Gu\u00e1piles Airport\">Gu\u00e1piles Airport</a></td>
+<td><a href=\"/wiki/Gu%C3%A1piles\" class=\"mw-redirect\" title=\"Gu\u00e1piles\">Gu\u00e1piles</a>, <a href=\"/wiki/Costa_Rica\" title=\"Costa Rica\">Costa Rica</a></td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GPN</td>
+<td>YGPT</td>
+<td><a href=\"/wiki/Garden_Point_Airport\" title=\"Garden Point Airport\">Garden Point Airport</a></td>
+<td><a href=\"/w/index.php?title=Pularumpi&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Pularumpi (page does not exist)\">Pularumpi</a>, <a href=\"/wiki/Northern_Territory\" title=\"Northern Territory\">Northern Territory</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+09:30</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GPO</td>
+<td>SAZG</td>
+<td><a href=\"/wiki/General_Pico_Airport\" title=\"General Pico Airport\">General Pico Airport</a></td>
+<td><a href=\"/wiki/General_Pico\" title=\"General Pico\">General Pico</a>, <a href=\"/wiki/La_Pampa_Province\" title=\"La Pampa Province\">La Pampa</a>, Argentina</td>
+<td><a href=\"/wiki/Time_in_Argentina\" title=\"Time in Argentina\">UTC\u221203:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GPS</td>
+<td>SEGS</td>
+<td><a href=\"/wiki/Seymour_Airport\" title=\"Seymour Airport\">Seymour Airport</a></td>
+<td><a href=\"/wiki/Baltra_Island\" title=\"Baltra Island\">Baltra Island</a>, <a href=\"/wiki/Gal%C3%A1pagos_Islands\" title=\"Gal\u00e1pagos Islands\">Gal\u00e1pagos Islands</a>, <a href=\"/wiki/Ecuador\" title=\"Ecuador\">Ecuador</a></td>
+<td><a href=\"/wiki/Gal%C3%A1pagos_Time\" title=\"Gal\u00e1pagos Time\">UTC\u221206:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GPT</td>
+<td>KGPT</td>
+<td><a href=\"/wiki/Gulfport%E2%80%93Biloxi_International_Airport\" title=\"Gulfport\u2013Biloxi International Airport\">Gulfport\u2013Biloxi International Airport</a></td>
+<td><a href=\"/wiki/Gulfport,_Mississippi\" title=\"Gulfport, Mississippi\">Gulfport</a> / <a href=\"/wiki/Biloxi,_Mississippi\" title=\"Biloxi, Mississippi\">Biloxi</a>, <a href=\"/wiki/Mississippi\" title=\"Mississippi\">Mississippi</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GPZ</td>
+<td>KGPZ</td>
+<td><a href=\"/wiki/Grand_Rapids%E2%80%93Itasca_County_Airport\" title=\"Grand Rapids\u2013Itasca County Airport\">Grand Rapids\u2013Itasca County Airport</a> (Gordon Newstrom Field)</td>
+<td><a href=\"/wiki/Grand_Rapids,_Minnesota\" title=\"Grand Rapids, Minnesota\">Grand Rapids</a>, <a href=\"/wiki/Minnesota\" title=\"Minnesota\">Minnesota</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr class=\"sortbottom\">
+<th colspan=\"6\" style=\"text-align:left; background:#ddd;\"><span id=\"GQ\"></span>-GQ-
+</th></tr>
+<tr>
+<td>GQQ</td>
+<td>KGQQ</td>
+<td><a href=\"/wiki/Galion_Municipal_Airport\" title=\"Galion Municipal Airport\">Galion Municipal Airport</a></td>
+<td><a href=\"/wiki/Galion,_Ohio\" title=\"Galion, Ohio\">Galion</a>, <a href=\"/wiki/Ohio\" title=\"Ohio\">Ohio</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr class=\"sortbottom\">
+<th colspan=\"6\" style=\"text-align:left; background:#ddd;\"><span id=\"GR\"></span>-GR-
+</th></tr>
+<tr>
+<td>GRA</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Gamarra_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Gamarra Airport (page does not exist)\">Gamarra Airport</a></td>
+<td><a href=\"/wiki/Gamarra,_Cesar\" title=\"Gamarra, Cesar\">Gamarra</a>, <a href=\"/wiki/Colombia\" title=\"Colombia\">Colombia</a></td>
+<td><a href=\"/wiki/Time_in_Colombia\" title=\"Time in Colombia\">UTC\u221205:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GRB</td>
+<td>KGRB</td>
+<td><a href=\"/wiki/Austin_Straubel_International_Airport\" class=\"mw-redirect\" title=\"Austin Straubel International Airport\">Austin Straubel International Airport</a></td>
+<td><a href=\"/wiki/Green_Bay,_Wisconsin\" title=\"Green Bay, Wisconsin\">Green Bay</a>, <a href=\"/wiki/Wisconsin\" title=\"Wisconsin\">Wisconsin</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GRC</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Grand_Cess_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Grand Cess Airport (page does not exist)\">Grand Cess Airport</a></td>
+<td><a href=\"/wiki/Grand_Cess\" title=\"Grand Cess\">Grand Cess</a>, <a href=\"/wiki/Liberia\" title=\"Liberia\">Liberia</a></td>
+<td><a href=\"/wiki/Greenwich_Mean_Time\" title=\"Greenwich Mean Time\">UTC\u00b100:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GRD</td>
+<td>KGRD</td>
+<td><a href=\"/wiki/Greenwood_County_Airport\" title=\"Greenwood County Airport\">Greenwood County Airport</a></td>
+<td><a href=\"/wiki/Greenwood,_South_Carolina\" title=\"Greenwood, South Carolina\">Greenwood</a>, <a href=\"/wiki/South_Carolina\" title=\"South Carolina\">South Carolina</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GRE</td>
+<td>KGRE</td>
+<td><a href=\"/wiki/Greenville_Airport\" title=\"Greenville Airport\">Greenville Airport</a></td>
+<td><a href=\"/wiki/Greenville,_Illinois\" title=\"Greenville, Illinois\">Greenville</a>, <a href=\"/wiki/Illinois\" title=\"Illinois\">Illinois</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GRF</td>
+<td>KGRF</td>
+<td><a href=\"/wiki/Gray_Army_Airfield\" title=\"Gray Army Airfield\">Gray Army Airfield</a></td>
+<td><a href=\"/wiki/Tacoma,_Washington\" title=\"Tacoma, Washington\">Tacoma</a>, <a href=\"/wiki/Washington_(state)\" title=\"Washington (state)\">Washington</a>, United States</td>
+<td><a href=\"/wiki/Pacific_Time_Zone\" title=\"Pacific Time Zone\">UTC\u221208:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GRG</td>
+<td>OAGZ</td>
+<td><a href=\"/wiki/Gardez_Airport\" title=\"Gardez Airport\">Gardez Airport</a></td>
+<td><a href=\"/wiki/Gardez\" title=\"Gardez\">Gardez</a>, <a href=\"/wiki/Afghanistan\" title=\"Afghanistan\">Afghanistan</a></td>
+<td><a href=\"/wiki/Time_in_Afghanistan\" title=\"Time in Afghanistan\">UTC+04:30</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GRH</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Garuahi_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Garuahi Airport (page does not exist)\">Garuahi Airport</a></td>
+<td><a href=\"/w/index.php?title=Garuahi&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Garuahi (page does not exist)\">Garuahi</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+<td><a href=\"/wiki/UTC%2B10:00\" title=\"UTC+10:00\">UTC+10:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GRI</td>
+<td>KGRI</td>
+<td><a href=\"/wiki/Central_Nebraska_Regional_Airport\" title=\"Central Nebraska Regional Airport\">Central Nebraska Regional Airport</a></td>
+<td><a href=\"/wiki/Grand_Island,_Nebraska\" title=\"Grand Island, Nebraska\">Grand Island</a>, <a href=\"/wiki/Nebraska\" title=\"Nebraska\">Nebraska</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GRJ</td>
+<td>FAGG</td>
+<td><a href=\"/wiki/George_Airport\" title=\"George Airport\">George Airport</a></td>
+<td><a href=\"/wiki/George,_Western_Cape\" title=\"George, Western Cape\">George</a>, <a href=\"/wiki/South_Africa\" title=\"South Africa\">South Africa</a></td>
+<td><a href=\"/wiki/South_African_Standard_Time\" title=\"South African Standard Time\">UTC+02:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GRK</td>
+<td>KGRK</td>
+<td><a href=\"/wiki/Killeen%E2%80%93Fort_Hood_Regional_Airport\" title=\"Killeen\u2013Fort Hood Regional Airport\">Killeen\u2013Fort Hood Regional Airport</a> / <a href=\"/wiki/Robert_Gray_Army_Airfield\" title=\"Robert Gray Army Airfield\">Robert Gray Army Airfield</a></td>
+<td><a href=\"/wiki/Fort_Hood\" title=\"Fort Hood\">Fort Hood</a> / <a href=\"/wiki/Killeen,_Texas\" title=\"Killeen, Texas\">Killeen</a>, <a href=\"/wiki/Texas\" title=\"Texas\">Texas</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GRL</td>
+<td>AYGG</td>
+<td><a href=\"/w/index.php?title=Garasa_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Garasa Airport (page does not exist)\">Garasa Airport</a></td>
+<td><a href=\"/w/index.php?title=Garasa&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Garasa (page does not exist)\">Garasa</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+<td><a href=\"/wiki/UTC%2B10:00\" title=\"UTC+10:00\">UTC+10:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GRM</td>
+<td>KCKC</td>
+<td><a href=\"/wiki/Grand_Marais/Cook_County_Airport\" title=\"Grand Marais/Cook County Airport\">Grand Marais/Cook County Airport</a> (FAA: CKC)</td>
+<td><a href=\"/wiki/Grand_Marais,_Minnesota\" title=\"Grand Marais, Minnesota\">Grand Marais</a>, <a href=\"/wiki/Minnesota\" title=\"Minnesota\">Minnesota</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GRN</td>
+<td>KGRN</td>
+<td><a href=\"/w/index.php?title=Gordon_Municipal_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Gordon Municipal Airport (page does not exist)\">Gordon Municipal Airport</a></td>
+<td><a href=\"/wiki/Gordon,_Nebraska\" title=\"Gordon, Nebraska\">Gordon</a>, <a href=\"/wiki/Nebraska\" title=\"Nebraska\">Nebraska</a>, United States</td>
+<td><a href=\"/wiki/Mountain_Time_Zone\" title=\"Mountain Time Zone\">UTC\u221207:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GRO</td>
+<td>LEGE</td>
+<td><a href=\"/wiki/Girona%E2%80%93Costa_Brava_Airport\" title=\"Girona\u2013Costa Brava Airport\">Girona\u2013Costa Brava Airport</a></td>
+<td><a href=\"/wiki/Girona\" title=\"Girona\">Girona</a>, <a href=\"/wiki/Catalonia\" title=\"Catalonia\">Catalonia</a>, Spain</td>
+<td><a href=\"/wiki/Central_European_Time\" title=\"Central European Time\">UTC+01:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>GRP</td>
+<td>SWGI</td>
+<td><a href=\"/wiki/Gurupi_Airport\" title=\"Gurupi Airport\">Gurupi Airport</a></td>
+<td><a href=\"/wiki/Gurupi\" title=\"Gurupi\">Gurupi</a>, <a href=\"/wiki/Tocantins\" title=\"Tocantins\">Tocantins</a>, Brazil</td>
+<td><a href=\"/wiki/Time_in_Brazil\" title=\"Time in Brazil\">UTC\u221203:00</a></td>
+<td>Oct-Feb
+</td></tr>
+<tr>
+<td>GRQ</td>
+<td>EHGG</td>
+<td><a href=\"/wiki/Groningen_Airport_Eelde\" title=\"Groningen Airport Eelde\">Groningen Airport Eelde</a></td>
+<td><a href=\"/wiki/Groningen\" title=\"Groningen\">Groningen</a>, <a href=\"/wiki/Netherlands\" title=\"Netherlands\">Netherlands</a></td>
+<td><a href=\"/wiki/Central_European_Time\" title=\"Central European Time\">UTC+01:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>GRR</td>
+<td>KGRR</td>
+<td><a href=\"/wiki/Gerald_R._Ford_International_Airport\" title=\"Gerald R. Ford International Airport\">Gerald R. Ford International Airport</a></td>
+<td><a href=\"/wiki/Grand_Rapids,_Michigan\" title=\"Grand Rapids, Michigan\">Grand Rapids</a>, <a href=\"/wiki/Michigan\" title=\"Michigan\">Michigan</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GRS</td>
+<td>LIRS</td>
+<td><a href=\"/wiki/Grosseto_Airport\" title=\"Grosseto Airport\">Grosseto Airport</a></td>
+<td><a href=\"/wiki/Grosseto\" title=\"Grosseto\">Grosseto</a>, <a href=\"/wiki/Tuscany\" title=\"Tuscany\">Tuscany</a>, Italy</td>
+<td><a href=\"/wiki/Central_European_Time\" title=\"Central European Time\">UTC+01:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>GRT</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Gujrat_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Gujrat Airport (page does not exist)\">Gujrat Airport</a></td>
+<td><a href=\"/wiki/Gujrat_city\" class=\"mw-redirect\" title=\"Gujrat city\">Gujrat</a>, <a href=\"/wiki/Pakistan\" title=\"Pakistan\">Pakistan</a></td>
+<td><a href=\"/wiki/Time_in_Pakistan\" title=\"Time in Pakistan\">UTC+05:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GRU</td>
+<td>SBGR</td>
+<td><a href=\"/wiki/S%C3%A3o_Paulo%E2%80%93Guarulhos_International_Airport\" title=\"S\u00e3o Paulo\u2013Guarulhos International Airport\">S\u00e3o Paulo\u2013Guarulhos International Airport</a></td>
+<td><a href=\"/wiki/S%C3%A3o_Paulo\" title=\"S\u00e3o Paulo\">S\u00e3o Paulo</a>, Brazil</td>
+<td><a href=\"/wiki/Time_in_Brazil\" title=\"Time in Brazil\">UTC\u221203:00</a></td>
+<td>Oct-Feb
+</td></tr>
+<tr>
+<td>GRV</td>
+<td>URMG</td>
+<td><a href=\"/wiki/Grozny_Airport\" title=\"Grozny Airport\">Grozny Airport</a></td>
+<td><a href=\"/wiki/Grozny\" title=\"Grozny\">Grozny</a>, <a href=\"/wiki/Chechnya\" title=\"Chechnya\">Chechnya</a>, Russia</td>
+<td><a href=\"/wiki/Moscow_Time\" title=\"Moscow Time\">UTC+03:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GRW</td>
+<td>LPGR</td>
+<td><a href=\"/wiki/Graciosa_Airport\" title=\"Graciosa Airport\">Graciosa Airport</a></td>
+<td><a href=\"/wiki/Graciosa\" title=\"Graciosa\">Graciosa</a>, <a href=\"/wiki/Azores\" title=\"Azores\">Azores</a>, <a href=\"/wiki/Portugal\" title=\"Portugal\">Portugal</a></td>
+<td><a href=\"/wiki/UTC%E2%88%9201:00\" title=\"UTC\u221201:00\">UTC\u221201:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>GRX</td>
+<td>LEGR</td>
+<td><a href=\"/wiki/Federico_Garc%C3%ADa_Lorca_Airport\" class=\"mw-redirect\" title=\"Federico Garc\u00eda Lorca Airport\">Federico Garc\u00eda Lorca Airport</a> (Granada Ja\u00e9n Airport)</td>
+<td><a href=\"/wiki/Granada\" title=\"Granada\">Granada</a>, <a href=\"/wiki/Andalusia\" title=\"Andalusia\">Andalusia</a>, Spain</td>
+<td><a href=\"/wiki/Central_European_Time\" title=\"Central European Time\">UTC+01:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>GRY</td>
+<td>BIGR</td>
+<td><a href=\"/wiki/Gr%C3%ADmsey_Airport\" title=\"Gr\u00edmsey Airport\">Gr\u00edmsey Airport</a></td>
+<td><a href=\"/wiki/Gr%C3%ADmsey\" title=\"Gr\u00edmsey\">Gr\u00edmsey</a>, <a href=\"/wiki/Iceland\" title=\"Iceland\">Iceland</a></td>
+<td><a href=\"/wiki/Greenwich_Mean_Time\" title=\"Greenwich Mean Time\">UTC\u00b100:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GRZ</td>
+<td>LOWG</td>
+<td><a href=\"/wiki/Graz_Airport\" title=\"Graz Airport\">Graz Airport</a></td>
+<td><a href=\"/wiki/Graz\" title=\"Graz\">Graz</a>, <a href=\"/wiki/Austria\" title=\"Austria\">Austria</a></td>
+<td><a href=\"/wiki/Central_European_Time\" title=\"Central European Time\">UTC+01:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr class=\"sortbottom\">
+<th colspan=\"6\" style=\"text-align:left; background:#ddd;\"><span id=\"GS\"></span>-GS-
+</th></tr>
+<tr>
+<td>GSA</td>
+<td>WBKN</td>
+<td><a href=\"/wiki/Long_Pasia_Airport\" title=\"Long Pasia Airport\">Long Pasia Airport</a></td>
+<td><a href=\"/wiki/Long_Pasia\" title=\"Long Pasia\">Long Pasia</a>, <a href=\"/wiki/Sabah\" title=\"Sabah\">Sabah</a>, Malaysia</td>
+<td><a href=\"/wiki/Time_in_Malaysia\" title=\"Time in Malaysia\">UTC+08:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GSB</td>
+<td>KGSB</td>
+<td><a href=\"/wiki/Seymour_Johnson_Air_Force_Base\" title=\"Seymour Johnson Air Force Base\">Seymour Johnson Air Force Base</a></td>
+<td><a href=\"/wiki/Goldsboro,_North_Carolina\" title=\"Goldsboro, North Carolina\">Goldsboro</a>, <a href=\"/wiki/North_Carolina\" title=\"North Carolina\">North Carolina</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GSC</td>
+<td>YGSC</td>
+<td><a href=\"/w/index.php?title=Gascoyne_Junction_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Gascoyne Junction Airport (page does not exist)\">Gascoyne Junction Airport</a></td>
+<td><a href=\"/wiki/Gascoyne_Junction,_Western_Australia\" title=\"Gascoyne Junction, Western Australia\">Gascoyne Junction</a>, <a href=\"/wiki/Western_Australia\" title=\"Western Australia\">Western Australia</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+08:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GSE</td>
+<td>ESGP</td>
+<td><a href=\"/wiki/G%C3%B6teborg_City_Airport\" class=\"mw-redirect\" title=\"G\u00f6teborg City Airport\">G\u00f6teborg City Airport</a></td>
+<td><a href=\"/wiki/Gothenburg\" title=\"Gothenburg\">Gothenburg</a>, <a href=\"/wiki/Sweden\" title=\"Sweden\">Sweden</a></td>
+<td><a href=\"/wiki/Central_European_Time\" title=\"Central European Time\">UTC+01:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>GSH</td>
+<td>KGSH</td>
+<td><a href=\"/wiki/Goshen_Municipal_Airport\" title=\"Goshen Municipal Airport\">Goshen Municipal Airport</a></td>
+<td><a href=\"/wiki/Goshen,_Indiana\" title=\"Goshen, Indiana\">Goshen</a>, <a href=\"/wiki/Indiana\" title=\"Indiana\">Indiana</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GSI</td>
+<td>SOGS</td>
+<td><a href=\"/wiki/Grand-Santi_Airport\" title=\"Grand-Santi Airport\">Grand-Santi Airport</a><sup id=\"cite_ref-IATA_2-20\" class=\"reference\"><a href=\"#cite_note-IATA-2\">&#91;2&#93;</a></sup></td>
+<td><a href=\"/wiki/Grand-Santi\" title=\"Grand-Santi\">Grand-Santi</a>, <a href=\"/wiki/French_Guiana\" title=\"French Guiana\">French Guiana</a></td>
+<td><a href=\"/wiki/Time_in_France\" title=\"Time in France\">UTC\u221203:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GSJ</td>
+<td>MGSJ</td>
+<td><a href=\"/wiki/San_Jos%C3%A9_Airport_(Guatemala)\" title=\"San Jos\u00e9 Airport (Guatemala)\">San Jos\u00e9 Airport</a><sup id=\"cite_ref-IATA_2-21\" class=\"reference\"><a href=\"#cite_note-IATA-2\">&#91;2&#93;</a></sup></td>
+<td><a href=\"/wiki/Puerto_San_Jos%C3%A9\" title=\"Puerto San Jos\u00e9\">Puerto San Jos\u00e9</a>, <a href=\"/wiki/Guatemala\" title=\"Guatemala\">Guatemala</a></td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GSL</td>
+<td></td>
+<td><a href=\"/wiki/Taltheilei_Narrows_Airport\" title=\"Taltheilei Narrows Airport\">Taltheilei Narrows Airport</a><sup id=\"cite_ref-IATA_2-22\" class=\"reference\"><a href=\"#cite_note-IATA-2\">&#91;2&#93;</a></sup> (TC: CFA7)</td>
+<td><a href=\"/w/index.php?title=Taltheilei_Narrows&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Taltheilei Narrows (page does not exist)\">Taltheilei Narrows</a>, <a href=\"/wiki/Northwest_Territories\" title=\"Northwest Territories\">Northwest Territories</a>, Canada</td>
+<td><a href=\"/wiki/Mountain_Time_Zone\" title=\"Mountain Time Zone\">UTC\u221207:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GSM</td>
+<td>OIKQ</td>
+<td><a href=\"/wiki/Dayrestan_Airport\" class=\"mw-redirect\" title=\"Dayrestan Airport\">Dayrestan Airport</a> (Qeshm International Airport)</td>
+<td><a href=\"/wiki/Qeshm\" class=\"mw-redirect\" title=\"Qeshm\">Qeshm</a>, <a href=\"/wiki/Iran\" title=\"Iran\">Iran</a></td>
+<td><a href=\"/wiki/Iran_Standard_Time\" title=\"Iran Standard Time\">UTC+03:30</a></td>
+<td>Mar-Sep
+</td></tr>
+<tr>
+<td>GSN</td>
+<td>YMGN</td>
+<td><a href=\"/w/index.php?title=Mount_Gunson_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Mount Gunson Airport (page does not exist)\">Mount Gunson Airport</a></td>
+<td><a href=\"/w/index.php?title=Mount_Gunson,_South_Australia&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Mount Gunson, South Australia (page does not exist)\">Mount Gunson</a>, <a href=\"/wiki/South_Australia\" title=\"South Australia\">South Australia</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+09:30</a></td>
+<td>Oct-Apr
+</td></tr>
+<tr>
+<td>GSO</td>
+<td>KGSO</td>
+<td><a href=\"/wiki/Piedmont_Triad_International_Airport\" title=\"Piedmont Triad International Airport\">Piedmont Triad International Airport</a></td>
+<td><a href=\"/wiki/Greensboro,_North_Carolina\" title=\"Greensboro, North Carolina\">Greensboro</a>, <a href=\"/wiki/North_Carolina\" title=\"North Carolina\">North Carolina</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GSP</td>
+<td>KGSP</td>
+<td><a href=\"/wiki/Greenville%E2%80%93Spartanburg_International_Airport\" title=\"Greenville\u2013Spartanburg International Airport\">Greenville\u2013Spartanburg International Airport</a></td>
+<td><a href=\"/wiki/Greenville,_South_Carolina\" title=\"Greenville, South Carolina\">Greenville</a> / <a href=\"/wiki/Spartanburg,_South_Carolina\" title=\"Spartanburg, South Carolina\">Spartanburg</a>, <a href=\"/wiki/South_Carolina\" title=\"South Carolina\">South Carolina</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GSQ</td>
+<td>HEOW</td>
+<td><a href=\"/wiki/Sharq_Al-Owainat_Airport\" class=\"mw-redirect\" title=\"Sharq Al-Owainat Airport\">Sharq Al-Owainat Airport</a></td>
+<td><a href=\"/wiki/Sharq_Al-Owainat\" class=\"mw-redirect\" title=\"Sharq Al-Owainat\">Sharq Al-Owainat</a>, <a href=\"/wiki/Egypt\" title=\"Egypt\">Egypt</a></td>
+<td><a href=\"/wiki/Eastern_European_Time\" title=\"Eastern European Time\">UTC+02:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GSR</td>
+<td>HCMG</td>
+<td><a href=\"/wiki/Qardho_Airport\" title=\"Qardho Airport\">Qardho Airport</a></td>
+<td><a href=\"/wiki/Qardho\" title=\"Qardho\">Qardho</a>, <a href=\"/wiki/Somalia\" title=\"Somalia\">Somalia</a></td>
+<td><a href=\"/wiki/East_Africa_Time\" title=\"East Africa Time\">UTC+03:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GSS</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Sabi_Sabi_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Sabi Sabi Airport (page does not exist)\">Sabi Sabi Airport</a></td>
+<td><a href=\"/wiki/Sabie\" title=\"Sabie\">Sabie</a>, <a href=\"/wiki/South_Africa\" title=\"South Africa\">South Africa</a></td>
+<td><a href=\"/wiki/South_African_Standard_Time\" title=\"South African Standard Time\">UTC+02:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GST</td>
+<td>PAGS</td>
+<td><a href=\"/wiki/Gustavus_Airport\" title=\"Gustavus Airport\">Gustavus Airport</a></td>
+<td><a href=\"/wiki/Gustavus,_Alaska\" title=\"Gustavus, Alaska\">Gustavus</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+<td><a href=\"/wiki/Alaska_Time_Zone\" title=\"Alaska Time Zone\">UTC\u221209:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GSU</td>
+<td>HSGF</td>
+<td><a href=\"/wiki/Azaza_Airport\" title=\"Azaza Airport\">Azaza Airport</a></td>
+<td><a href=\"/wiki/Al_Qadarif\" class=\"mw-redirect\" title=\"Al Qadarif\">Gedaref</a>, <a href=\"/wiki/Sudan\" title=\"Sudan\">Sudan</a></td>
+<td><a href=\"/wiki/East_Africa_Time\" title=\"East Africa Time\">UTC+03:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GSV</td>
+<td></td>
+<td><a href=\"/wiki/Saratov_Gagarin_Airport\" title=\"Saratov Gagarin Airport\">Saratov Gagarin Airport</a></td>
+<td><a href=\"/wiki/Saratov\" title=\"Saratov\">Saratov</a>, <a href=\"/wiki/Saratov_Oblast\" title=\"Saratov Oblast\">Saratov Oblast</a>, Russia</td>
+<td><a href=\"/wiki/Samara_Time\" title=\"Samara Time\">UTC+04:00</a></td>
+<td>
+</td></tr>
+<tr class=\"sortbottom\">
+<th colspan=\"6\" style=\"text-align:left; background:#ddd;\"><span id=\"GT\"></span>-GT-
+</th></tr>
+<tr>
+<td>GTA</td>
+<td>AGOK</td>
+<td><a href=\"/wiki/Gatokae_Aerodrome\" title=\"Gatokae Aerodrome\">Gatokae Aerodrome</a></td>
+<td><a href=\"/wiki/Nggatokae_Island\" title=\"Nggatokae Island\">Gatokae</a>, <a href=\"/wiki/Solomon_Islands\" title=\"Solomon Islands\">Solomon Islands</a></td>
+<td><a href=\"/wiki/UTC%2B11:00\" title=\"UTC+11:00\">UTC+11:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GTE</td>
+<td>YGTE</td>
+<td><a href=\"/wiki/Groote_Eylandt_Airport\" title=\"Groote Eylandt Airport\">Groote Eylandt Airport</a></td>
+<td><a href=\"/wiki/Groote_Eylandt\" title=\"Groote Eylandt\">Groote Eylandt</a>, <a href=\"/wiki/Northern_Territory\" title=\"Northern Territory\">Northern Territory</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+09:30</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GTF</td>
+<td>KGTF</td>
+<td><a href=\"/wiki/Great_Falls_International_Airport\" title=\"Great Falls International Airport\">Great Falls International Airport</a></td>
+<td><a href=\"/wiki/Great_Falls,_Montana\" title=\"Great Falls, Montana\">Great Falls</a>, <a href=\"/wiki/Montana\" title=\"Montana\">Montana</a>, United States</td>
+<td><a href=\"/wiki/Mountain_Time_Zone\" title=\"Mountain Time Zone\">UTC\u221207:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GTG</td>
+<td>KGTG</td>
+<td><a href=\"/wiki/Grantsburg_Municipal_Airport\" title=\"Grantsburg Municipal Airport\">Grantsburg Municipal Airport</a></td>
+<td><a href=\"/wiki/Grantsburg,_Wisconsin\" title=\"Grantsburg, Wisconsin\">Grantsburg</a>, <a href=\"/wiki/Wisconsin\" title=\"Wisconsin\">Wisconsin</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GTI</td>
+<td>EDCG</td>
+<td><a href=\"/wiki/R%C3%BCgen_Airport\" title=\"R\u00fcgen Airport\">R\u00fcgen Airport</a> (G\u00fcttin Airfield)</td>
+<td><a href=\"/w/index.php?title=G%C3%BCttin&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"G\u00fcttin (page does not exist)\">G\u00fcttin</a>, <a href=\"/wiki/Mecklenburg-Vorpommern\" title=\"Mecklenburg-Vorpommern\">Mecklenburg-Vorpommern</a>, Germany</td>
+<td><a href=\"/wiki/Central_European_Time\" title=\"Central European Time\">UTC+01:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>GTN</td>
+<td>NZGT</td>
+<td><a href=\"/wiki/Glentanner_Aerodrome\" title=\"Glentanner Aerodrome\">Glentanner Aerodrome</a></td>
+<td><a href=\"/wiki/Aoraki_/_Mount_Cook\" title=\"Aoraki / Mount Cook\">Mount Cook</a>, <a href=\"/wiki/New_Zealand\" title=\"New Zealand\">New Zealand</a></td>
+<td><a href=\"/wiki/Time_in_New_Zealand\" title=\"Time in New Zealand\">UTC+12:00</a></td>
+<td>Sep-Apr
+</td></tr>
+<tr>
+<td>GTO</td>
+<td>WAMG</td>
+<td><a href=\"/wiki/Jalaluddin_Airport\" title=\"Jalaluddin Airport\">Jalaluddin Airport</a></td>
+<td><a href=\"/wiki/Gorontalo_(city)\" title=\"Gorontalo (city)\">Gorontalo</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+<td><a href=\"/wiki/Time_in_Indonesia\" title=\"Time in Indonesia\">UTC+08:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GTP</td>
+<td></td>
+<td><a href=\"/wiki/Grants_Pass_Airport\" title=\"Grants Pass Airport\">Grants Pass Airport</a><sup id=\"cite_ref-IATA_2-23\" class=\"reference\"><a href=\"#cite_note-IATA-2\">&#91;2&#93;</a></sup> (FAA: 3S8)</td>
+<td><a href=\"/wiki/Grants_Pass,_Oregon\" title=\"Grants Pass, Oregon\">Grants Pass</a>, <a href=\"/wiki/Oregon\" title=\"Oregon\">Oregon</a>, United States</td>
+<td><a href=\"/wiki/Pacific_Time_Zone\" title=\"Pacific Time Zone\">UTC\u221208:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GTR</td>
+<td>KGTR</td>
+<td><a href=\"/wiki/Golden_Triangle_Regional_Airport\" title=\"Golden Triangle Regional Airport\">Golden Triangle Regional Airport</a></td>
+<td><a href=\"/wiki/Columbus,_Mississippi\" title=\"Columbus, Mississippi\">Columbus</a> / <a href=\"/wiki/West_Point,_Mississippi\" title=\"West Point, Mississippi\">West Point</a> / <a href=\"/wiki/Starkville,_Mississippi\" title=\"Starkville, Mississippi\">Starkville</a>, <a href=\"/wiki/Mississippi\" title=\"Mississippi\">Mississippi</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GTS</td>
+<td>YTGT</td>
+<td><a href=\"/wiki/The_Granites_Airport\" title=\"The Granites Airport\">The Granites Airport</a></td>
+<td><a href=\"/wiki/The_Granites_gold_mine\" title=\"The Granites gold mine\">The Granites</a>, <a href=\"/wiki/Northern_Territory\" title=\"Northern Territory\">Northern Territory</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+09:30</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GTT</td>
+<td>YGTN</td>
+<td><a href=\"/wiki/Georgetown_Airport_(Queensland)\" title=\"Georgetown Airport (Queensland)\">Georgetown Airport</a></td>
+<td><a href=\"/wiki/Georgetown,_Queensland\" title=\"Georgetown, Queensland\">Georgetown</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+10:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GTW</td>
+<td>LKHO</td>
+<td><a href=\"/wiki/Hole%C5%A1ov_Airport\" title=\"Hole\u0161ov Airport\">Hole\u0161ov Airport</a></td>
+<td><a href=\"/wiki/Zl%C3%ADn\" title=\"Zl\u00edn\">Zl\u00edn</a>, <a href=\"/wiki/Czech_Republic\" title=\"Czech Republic\">Czech Republic</a></td>
+<td><a href=\"/wiki/Central_European_Time\" title=\"Central European Time\">UTC+01:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>GTY</td>
+<td></td>
+<td><a href=\"/wiki/Gettysburg_Regional_Airport\" title=\"Gettysburg Regional Airport\">Gettysburg Regional Airport</a> (FAA: W05)</td>
+<td><a href=\"/wiki/Gettysburg,_Pennsylvania\" title=\"Gettysburg, Pennsylvania\">Gettysburg</a>, <a href=\"/wiki/Pennsylvania\" title=\"Pennsylvania\">Pennsylvania</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GTZ</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Kirawira_B_Airstrip&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Kirawira B Airstrip (page does not exist)\">Kirawira B Airstrip</a><sup id=\"cite_ref-IATA_2-24\" class=\"reference\"><a href=\"#cite_note-IATA-2\">&#91;2&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Grumeti&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Grumeti (page does not exist)\">Grumeti</a>, <a href=\"/wiki/Tanzania\" title=\"Tanzania\">Tanzania</a></td>
+<td><a href=\"/wiki/East_Africa_Time\" title=\"East Africa Time\">UTC+03:00</a></td>
+<td>
+</td></tr>
+<tr class=\"sortbottom\">
+<th colspan=\"6\" style=\"text-align:left; background:#ddd;\"><span id=\"GU\"></span>-GU-
+</th></tr>
+<tr>
+<td>GUA</td>
+<td>MGGT</td>
+<td><a href=\"/wiki/La_Aurora_International_Airport\" title=\"La Aurora International Airport\">La Aurora International Airport</a></td>
+<td><a href=\"/wiki/Guatemala_City\" title=\"Guatemala City\">Guatemala City</a>, <a href=\"/wiki/Guatemala\" title=\"Guatemala\">Guatemala</a></td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GUB</td>
+<td>MMGR</td>
+<td><a href=\"/wiki/Guerrero_Negro_Airport\" title=\"Guerrero Negro Airport\">Guerrero Negro Airport</a></td>
+<td><a href=\"/wiki/Guerrero_Negro\" title=\"Guerrero Negro\">Guerrero Negro</a>, <a href=\"/wiki/Baja_California_Sur\" title=\"Baja California Sur\">Baja California Sur</a>,<sup class=\"reference plainlinks nourlexpansion\" id=\"ref_2\"><a href=\"#endnote_2\">2</a></sup> Mexico</td>
+<td><a href=\"/wiki/Mountain_Time_Zone\" title=\"Mountain Time Zone\">UTC\u221207:00</a></td>
+<td>Apr-Oct
+</td></tr>
+<tr>
+<td>GUC</td>
+<td>KGUC</td>
+<td><a href=\"/wiki/Gunnison%E2%80%93Crested_Butte_Regional_Airport\" title=\"Gunnison\u2013Crested Butte Regional Airport\">Gunnison\u2013Crested Butte Regional Airport</a></td>
+<td><a href=\"/wiki/Gunnison,_Colorado\" title=\"Gunnison, Colorado\">Gunnison</a>, <a href=\"/wiki/Colorado\" title=\"Colorado\">Colorado</a>, United States</td>
+<td><a href=\"/wiki/Mountain_Time_Zone\" title=\"Mountain Time Zone\">UTC\u221207:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GUD</td>
+<td>GAGM</td>
+<td><a href=\"/wiki/Goundam_Airport\" title=\"Goundam Airport\">Goundam Airport</a></td>
+<td><a href=\"/wiki/Goundam\" title=\"Goundam\">Goundam</a>, <a href=\"/wiki/Mali\" title=\"Mali\">Mali</a></td>
+<td><a href=\"/wiki/Greenwich_Mean_Time\" title=\"Greenwich Mean Time\">UTC\u00b100:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GUE</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Guriaso_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Guriaso Airport (page does not exist)\">Guriaso Airport</a></td>
+<td><a href=\"/wiki/Guriaso\" class=\"mw-redirect\" title=\"Guriaso\">Guriaso</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+<td><a href=\"/wiki/UTC%2B10:00\" title=\"UTC+10:00\">UTC+10:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GUF</td>
+<td>KJKA</td>
+<td><a href=\"/wiki/Jack_Edwards_Airport\" title=\"Jack Edwards Airport\">Jack Edwards Airport</a> (FAA: JKA)</td>
+<td><a href=\"/wiki/Gulf_Shores,_Alabama\" title=\"Gulf Shores, Alabama\">Gulf Shores</a>, <a href=\"/wiki/Alabama\" title=\"Alabama\">Alabama</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GUG</td>
+<td>AYGF</td>
+<td><a href=\"/w/index.php?title=Guari_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Guari Airport (page does not exist)\">Guari Airport</a></td>
+<td><a href=\"/w/index.php?title=Guari&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Guari (page does not exist)\">Guari</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+<td><a href=\"/wiki/UTC%2B10:00\" title=\"UTC+10:00\">UTC+10:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GUH</td>
+<td>YGDH</td>
+<td><a href=\"/wiki/Gunnedah_Airport\" title=\"Gunnedah Airport\">Gunnedah Airport</a></td>
+<td><a href=\"/wiki/Gunnedah\" title=\"Gunnedah\">Gunnedah</a>, <a href=\"/wiki/New_South_Wales\" title=\"New South Wales\">New South Wales</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+10:00</a></td>
+<td>Oct-Apr
+</td></tr>
+<tr>
+<td>GUI</td>
+<td>SVGI</td>
+<td><a href=\"/wiki/G%C3%BCiria_Airport\" title=\"G\u00fciria Airport\">G\u00fciria Airport</a></td>
+<td><a href=\"/wiki/G%C3%BCiria\" title=\"G\u00fciria\">G\u00fciria</a>, <a href=\"/wiki/Venezuela\" title=\"Venezuela\">Venezuela</a></td>
+<td><a href=\"/wiki/Time_in_Venezuela\" title=\"Time in Venezuela\">UTC\u221204:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GUJ</td>
+<td>SBGW</td>
+<td><a href=\"/w/index.php?title=Guaratinguet%C3%A1_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Guaratinguet\u00e1 Airport (page does not exist)\">Guaratinguet\u00e1 Airport</a></td>
+<td><a href=\"/wiki/Guaratinguet%C3%A1\" title=\"Guaratinguet\u00e1\">Guaratinguet\u00e1</a>, <a href=\"/wiki/S%C3%A3o_Paulo_(state)\" title=\"S\u00e3o Paulo (state)\">S\u00e3o Paulo</a>, Brazil</td>
+<td><a href=\"/wiki/Time_in_Brazil\" title=\"Time in Brazil\">UTC\u221203:00</a></td>
+<td>Oct-Feb
+</td></tr>
+<tr>
+<td>GUL</td>
+<td>YGLB</td>
+<td><a href=\"/wiki/Goulburn_Airport\" title=\"Goulburn Airport\">Goulburn Airport</a></td>
+<td><a href=\"/wiki/Goulburn,_New_South_Wales\" title=\"Goulburn, New South Wales\">Goulburn</a>, <a href=\"/wiki/New_South_Wales\" title=\"New South Wales\">New South Wales</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+10:00</a></td>
+<td>Oct-Apr
+</td></tr>
+<tr>
+<td>GUM</td>
+<td>PGUM</td>
+<td><a href=\"/wiki/Antonio_B._Won_Pat_International_Airport\" title=\"Antonio B. Won Pat International Airport\">Antonio B. Won Pat International Airport</a> (Guam Int'l)</td>
+<td><a href=\"/wiki/Hag%C3%A5t%C3%B1a,_Guam\" title=\"Hag\u00e5t\u00f1a, Guam\">Hag\u00e5t\u00f1a</a>, <a href=\"/wiki/Guam\" title=\"Guam\">Guam</a></td>
+<td><a href=\"/wiki/Chamorro_Time_Zone\" title=\"Chamorro Time Zone\">UTC+10:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GUP</td>
+<td>KGUP</td>
+<td><a href=\"/wiki/Gallup_Municipal_Airport\" title=\"Gallup Municipal Airport\">Gallup Municipal Airport</a></td>
+<td><a href=\"/wiki/Gallup,_New_Mexico\" title=\"Gallup, New Mexico\">Gallup</a>, <a href=\"/wiki/New_Mexico\" title=\"New Mexico\">New Mexico</a>, United States</td>
+<td><a href=\"/wiki/Mountain_Time_Zone\" title=\"Mountain Time Zone\">UTC\u221207:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GUQ</td>
+<td>SVGU</td>
+<td><a href=\"/wiki/Guanare_Airport\" title=\"Guanare Airport\">Guanare Airport</a></td>
+<td><a href=\"/wiki/Guanare\" title=\"Guanare\">Guanare</a>, <a href=\"/wiki/Venezuela\" title=\"Venezuela\">Venezuela</a></td>
+<td><a href=\"/wiki/Time_in_Venezuela\" title=\"Time in Venezuela\">UTC\u221204:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GUR</td>
+<td>AYGN</td>
+<td><a href=\"/wiki/Gurney_Airport\" title=\"Gurney Airport\">Gurney Airport</a></td>
+<td><a href=\"/wiki/Alotau\" title=\"Alotau\">Alotau</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+<td><a href=\"/wiki/UTC%2B10:00\" title=\"UTC+10:00\">UTC+10:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GUS</td>
+<td>KGUS</td>
+<td><a href=\"/wiki/Grissom_Air_Reserve_Base\" title=\"Grissom Air Reserve Base\">Grissom Air Reserve Base</a></td>
+<td><a href=\"/wiki/Peru,_Indiana\" title=\"Peru, Indiana\">Peru</a>, <a href=\"/wiki/Indiana\" title=\"Indiana\">Indiana</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GUT</td>
+<td>ETUO</td>
+<td><a href=\"/wiki/RAF_G%C3%BCtersloh\" title=\"RAF G\u00fctersloh\">RAF G\u00fctersloh</a></td>
+<td><a href=\"/wiki/G%C3%BCtersloh\" title=\"G\u00fctersloh\">G\u00fctersloh</a>, <a href=\"/wiki/North_Rhine-Westphalia\" title=\"North Rhine-Westphalia\">North Rhine-Westphalia</a>, Germany</td>
+<td><a href=\"/wiki/Central_European_Time\" title=\"Central European Time\">UTC+01:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>GUU</td>
+<td>BIGF</td>
+<td><a href=\"/wiki/Grundarfj%C3%B6r%C3%B0ur_Airport\" title=\"Grundarfj\u00f6r\u00f0ur Airport\">Grundarfj\u00f6r\u00f0ur Airport</a></td>
+<td><a href=\"/wiki/Grundarfj%C3%B6r%C3%B0ur\" title=\"Grundarfj\u00f6r\u00f0ur\">Grundarfj\u00f6r\u00f0ur</a>, <a href=\"/wiki/Iceland\" title=\"Iceland\">Iceland</a></td>
+<td><a href=\"/wiki/Greenwich_Mean_Time\" title=\"Greenwich Mean Time\">UTC\u00b100:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GUV</td>
+<td>AYML</td>
+<td><a href=\"/w/index.php?title=Mougulu_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Mougulu Airport (page does not exist)\">Mougulu Airport</a></td>
+<td><a href=\"/w/index.php?title=Mougulu&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Mougulu (page does not exist)\">Mougulu</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+<td><a href=\"/wiki/UTC%2B10:00\" title=\"UTC+10:00\">UTC+10:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GUW</td>
+<td>UATG</td>
+<td><a href=\"/wiki/Atyrau_Airport\" title=\"Atyrau Airport\">Atyrau Airport</a></td>
+<td><a href=\"/wiki/Atyrau\" title=\"Atyrau\">Atyrau</a>, <a href=\"/wiki/Kazakhstan\" title=\"Kazakhstan\">Kazakhstan</a></td>
+<td><a href=\"/wiki/Time_in_Kazakhstan\" title=\"Time in Kazakhstan\">UTC+05:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GUX</td>
+<td>VAGN</td>
+<td><a href=\"/w/index.php?title=Guna_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Guna Airport (page does not exist)\">Guna Airport</a></td>
+<td><a href=\"/wiki/Guna,_India\" title=\"Guna, India\">Guna</a>, <a href=\"/wiki/Madhya_Pradesh\" title=\"Madhya Pradesh\">Madhya Pradesh</a>, India</td>
+<td><a href=\"/wiki/Indian_Standard_Time\" title=\"Indian Standard Time\">UTC+05:30</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GUY</td>
+<td>KGUY</td>
+<td><a href=\"/wiki/Guymon_Municipal_Airport\" title=\"Guymon Municipal Airport\">Guymon Municipal Airport</a></td>
+<td><a href=\"/wiki/Guymon,_Oklahoma\" title=\"Guymon, Oklahoma\">Guymon</a>, <a href=\"/wiki/Oklahoma\" title=\"Oklahoma\">Oklahoma</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GUZ</td>
+<td>SNGA</td>
+<td><a href=\"/w/index.php?title=Guarapari_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Guarapari Airport (page does not exist)\">Guarapari Airport</a></td>
+<td><a href=\"/wiki/Guarapari\" title=\"Guarapari\">Guarapari</a>, <a href=\"/wiki/Esp%C3%ADrito_Santo\" title=\"Esp\u00edrito Santo\">Esp\u00edrito Santo</a>, Brazil</td>
+<td><a href=\"/wiki/Time_in_Brazil\" title=\"Time in Brazil\">UTC\u221203:00</a></td>
+<td>Oct-Feb
+</td></tr>
+<tr class=\"sortbottom\">
+<th colspan=\"6\" style=\"text-align:left; background:#ddd;\"><span id=\"GV\"></span>-GV-
+</th></tr>
+<tr>
+<td>GVA</td>
+<td>LSGG</td>
+<td><a href=\"/wiki/Geneva_Airport\" title=\"Geneva Airport\">Geneva Airport</a></td>
+<td><a href=\"/wiki/Geneva\" title=\"Geneva\">Geneva</a>, <a href=\"/wiki/Switzerland\" title=\"Switzerland\">Switzerland</a></td>
+<td><a href=\"/wiki/Central_European_Time\" title=\"Central European Time\">UTC+01:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>GVE</td>
+<td>KGVE</td>
+<td><a href=\"/w/index.php?title=Gordonsville_Municipal_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Gordonsville Municipal Airport (page does not exist)\">Gordonsville Municipal Airport</a></td>
+<td><a href=\"/wiki/Gordonsville,_Virginia\" title=\"Gordonsville, Virginia\">Gordonsville</a>, <a href=\"/wiki/Virginia\" title=\"Virginia\">Virginia</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GVI</td>
+<td>AYGV</td>
+<td><a href=\"/w/index.php?title=Green_River_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Green River Airport (page does not exist)\">Green River Airport</a></td>
+<td><a href=\"/w/index.php?title=Green_River,_Papua_New_Guinea&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Green River, Papua New Guinea (page does not exist)\">Green River</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+<td><a href=\"/wiki/UTC%2B10:00\" title=\"UTC+10:00\">UTC+10:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GVL</td>
+<td>KGVL</td>
+<td><a href=\"/wiki/Lee_Gilmer_Memorial_Airport\" title=\"Lee Gilmer Memorial Airport\">Lee Gilmer Memorial Airport</a></td>
+<td><a href=\"/wiki/Gainesville,_Georgia\" title=\"Gainesville, Georgia\">Gainesville</a>, <a href=\"/wiki/Georgia_(U.S._state)\" title=\"Georgia (U.S. state)\">Georgia</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GVN</td>
+<td>UHKM</td>
+<td><a href=\"/w/index.php?title=Sovetskaya_Gavan_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Sovetskaya Gavan Airport (page does not exist)\">Sovetskaya Gavan Airport</a><sup id=\"cite_ref-IATA_2-25\" class=\"reference\"><a href=\"#cite_note-IATA-2\">&#91;2&#93;</a></sup></td>
+<td><a href=\"/wiki/Sovetskaya_Gavan\" title=\"Sovetskaya Gavan\">Sovetskaya Gavan</a>, <a href=\"/wiki/Khabarovsk_Krai\" title=\"Khabarovsk Krai\">Khabarovsk Krai</a>, Russia</td>
+<td><a href=\"/wiki/Vladivostok_Time\" title=\"Vladivostok Time\">UTC+10:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GVP</td>
+<td>YGNV</td>
+<td><a href=\"/w/index.php?title=Greenvale_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Greenvale Airport (page does not exist)\">Greenvale Airport</a></td>
+<td><a href=\"/wiki/Greenvale,_Queensland\" title=\"Greenvale, Queensland\">Greenvale</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+10:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GVR</td>
+<td>SBGV</td>
+<td><a href=\"/wiki/Governador_Valadares_Airport\" title=\"Governador Valadares Airport\">Coronel Altino Machado de Oliveira Airport</a></td>
+<td><a href=\"/wiki/Governador_Valadares,_Minas_Gerais\" title=\"Governador Valadares, Minas Gerais\">Governador Valadares</a>, <a href=\"/wiki/Minas_Gerais\" title=\"Minas Gerais\">Minas Gerais</a>, Brazil</td>
+<td><a href=\"/wiki/Time_in_Brazil\" title=\"Time in Brazil\">UTC\u221203:00</a></td>
+<td>Oct-Feb
+</td></tr>
+<tr>
+<td>GVT</td>
+<td>KGVT</td>
+<td><a href=\"/wiki/Majors_Airport\" title=\"Majors Airport\">Majors Airport</a></td>
+<td><a href=\"/wiki/Greenville,_Texas\" title=\"Greenville, Texas\">Greenville</a>, <a href=\"/wiki/Texas\" title=\"Texas\">Texas</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GVX</td>
+<td>ESSK</td>
+<td><a href=\"/wiki/G%C3%A4vle-Sandviken_Airport\" class=\"mw-redirect\" title=\"G\u00e4vle-Sandviken Airport\">G\u00e4vle-Sandviken Airport</a></td>
+<td><a href=\"/wiki/G%C3%A4vle\" title=\"G\u00e4vle\">G\u00e4vle</a>, <a href=\"/wiki/Sweden\" title=\"Sweden\">Sweden</a></td>
+<td><a href=\"/wiki/Central_European_Time\" title=\"Central European Time\">UTC+01:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr class=\"sortbottom\">
+<th colspan=\"6\" style=\"text-align:left; background:#ddd;\"><span id=\"GW\"></span>-GW-
+</th></tr>
+<tr>
+<td>GWA</td>
+<td>VYGW</td>
+<td><a href=\"/w/index.php?title=Gwa_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Gwa Airport (page does not exist)\">Gwa Airport</a></td>
+<td><a href=\"/wiki/Gwa,_Myanmar\" title=\"Gwa, Myanmar\">Gwa</a>, <a href=\"/wiki/Myanmar\" title=\"Myanmar\">Myanmar</a></td>
+<td><a href=\"/wiki/Myanmar_Standard_Time\" title=\"Myanmar Standard Time\">UTC+06:30</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GWD</td>
+<td>OPGD</td>
+<td><a href=\"/wiki/Gwadar_International_Airport\" title=\"Gwadar International Airport\">Gwadar International Airport</a></td>
+<td><a href=\"/wiki/Gwadar\" title=\"Gwadar\">Gwadar</a>, <a href=\"/wiki/Pakistan\" title=\"Pakistan\">Pakistan</a></td>
+<td><a href=\"/wiki/Time_in_Pakistan\" title=\"Time in Pakistan\">UTC+05:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GWE</td>
+<td>FVTL</td>
+<td><a href=\"/wiki/Thornhill_Air_Base\" class=\"mw-redirect\" title=\"Thornhill Air Base\">Thornhill Air Base</a></td>
+<td><a href=\"/wiki/Gweru\" title=\"Gweru\">Gweru</a>, <a href=\"/wiki/Zimbabwe\" title=\"Zimbabwe\">Zimbabwe</a></td>
+<td><a href=\"/wiki/Central_Africa_Time\" title=\"Central Africa Time\">UTC+02:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GWL</td>
+<td>VIGR</td>
+<td><a href=\"/wiki/Rajmata_Vijaya_Raje_Scindia_Air_Terminal\" class=\"mw-redirect\" title=\"Rajmata Vijaya Raje Scindia Air Terminal\">Rajmata Vijaya Raje Scindia Airport</a> (Gwalior Airport)</td>
+<td><a href=\"/wiki/Gwalior\" title=\"Gwalior\">Gwalior</a>, <a href=\"/wiki/Madhya_Pradesh\" title=\"Madhya Pradesh\">Madhya Pradesh</a>, India</td>
+<td><a href=\"/wiki/Indian_Standard_Time\" title=\"Indian Standard Time\">UTC+05:30</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GWN</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Gnarowein_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Gnarowein Airport (page does not exist)\">Gnarowein Airport</a></td>
+<td><a href=\"/w/index.php?title=Gnarowein&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Gnarowein (page does not exist)\">Gnarowein</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+<td><a href=\"/wiki/UTC%2B10:00\" title=\"UTC+10:00\">UTC+10:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GWO</td>
+<td>KGWO</td>
+<td><a href=\"/wiki/Greenwood%E2%80%93Leflore_Airport\" title=\"Greenwood\u2013Leflore Airport\">Greenwood\u2013Leflore Airport</a></td>
+<td><a href=\"/wiki/Greenwood,_Mississippi\" title=\"Greenwood, Mississippi\">Greenwood</a>, <a href=\"/wiki/Mississippi\" title=\"Mississippi\">Mississippi</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GWS</td>
+<td>KGWS</td>
+<td><a href=\"/w/index.php?title=Glenwood_Springs_Municipal_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Glenwood Springs Municipal Airport (page does not exist)\">Glenwood Springs Municipal Airport</a></td>
+<td><a href=\"/wiki/Glenwood_Springs,_Colorado\" title=\"Glenwood Springs, Colorado\">Glenwood Springs</a>, <a href=\"/wiki/Colorado\" title=\"Colorado\">Colorado</a>, United States</td>
+<td><a href=\"/wiki/Mountain_Time_Zone\" title=\"Mountain Time Zone\">UTC\u221207:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GWT</td>
+<td>EDXW</td>
+<td><a href=\"/wiki/Sylt_Airport\" title=\"Sylt Airport\">Sylt Airport</a> (Westerland Airport)</td>
+<td><a href=\"/wiki/Sylt_(municipality)\" title=\"Sylt (municipality)\">Sylt</a>, <a href=\"/wiki/Schleswig-Holstein\" title=\"Schleswig-Holstein\">Schleswig-Holstein</a>, Germany</td>
+<td><a href=\"/wiki/Central_European_Time\" title=\"Central European Time\">UTC+01:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>GWV</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Glendale_Fokker_Field&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Glendale Fokker Field (page does not exist)\">Glendale Fokker Field</a> (FAA: WV66)</td>
+<td><a href=\"/wiki/Glen_Dale,_West_Virginia\" title=\"Glen Dale, West Virginia\">Glen Dale</a>, <a href=\"/wiki/West_Virginia\" title=\"West Virginia\">West Virginia</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>GWY</td>
+<td>EICM</td>
+<td><a href=\"/wiki/Galway_Airport\" title=\"Galway Airport\">Galway Airport</a></td>
+<td><a href=\"/wiki/Galway\" title=\"Galway\">Galway</a>, <a href=\"/wiki/Republic_of_Ireland\" title=\"Republic of Ireland\">Ireland</a></td>
+<td><a href=\"/wiki/Greenwich_Mean_Time\" title=\"Greenwich Mean Time\">UTC\u00b100:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr class=\"sortbottom\">
+<th colspan=\"6\" style=\"text-align:left; background:#ddd;\"><span id=\"GX\"></span>-GX-
+</th></tr>
+<tr>
+<td>GXF</td>
+<td>OYSY</td>
+<td><a href=\"/wiki/Sayun_Airport\" class=\"mw-redirect\" title=\"Sayun Airport\">Sayun Airport</a></td>
+<td><a href=\"/wiki/Seiyun\" title=\"Seiyun\">Sayun</a>, <a href=\"/wiki/Yemen\" title=\"Yemen\">Yemen</a></td>
+<td><a href=\"/wiki/UTC%2B03:00#Arabia_Standard_Time\" title=\"UTC+03:00\">UTC+03:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GXG</td>
+<td>FNNG</td>
+<td><a href=\"/wiki/Negage_Airport\" title=\"Negage Airport\">Negage Airport</a></td>
+<td><a href=\"/wiki/Negage\" title=\"Negage\">Negage</a>, <a href=\"/wiki/Angola\" title=\"Angola\">Angola</a></td>
+<td><a href=\"/wiki/West_Africa_Time\" title=\"West Africa Time\">UTC+01:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GXH</td>
+<td>ZLXH</td>
+<td><a href=\"/wiki/Gannan_Xiahe_Airport\" title=\"Gannan Xiahe Airport\">Gannan Xiahe Airport</a></td>
+<td><a href=\"/wiki/Xiahe_County\" title=\"Xiahe County\">Xiahe</a>, <a href=\"/wiki/Gansu\" title=\"Gansu\">Gansu</a>, China</td>
+<td><a href=\"/wiki/Time_in_China\" title=\"Time in China\">UTC+08:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GXQ</td>
+<td>SCCY</td>
+<td><a href=\"/wiki/Teniente_Vidal_Airfield\" title=\"Teniente Vidal Airfield\">Teniente Vidal Airfield</a></td>
+<td><a href=\"/wiki/Coyhaique\" title=\"Coyhaique\">Coyhaique</a>, <a href=\"/wiki/Chile\" title=\"Chile\">Chile</a></td>
+<td><a href=\"/wiki/Time_in_Chile\" title=\"Time in Chile\">UTC\u221204:00</a></td>
+<td>Aug-May
+</td></tr>
+<tr>
+<td>GXX</td>
+<td>FKKJ</td>
+<td><a href=\"/wiki/Yagoua_Airport\" title=\"Yagoua Airport\">Yagoua Airport</a></td>
+<td><a href=\"/wiki/Yagoua\" title=\"Yagoua\">Yagoua</a>, Cameroon</td>
+<td><a href=\"/wiki/West_Africa_Time\" title=\"West Africa Time\">UTC+01:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GXY</td>
+<td>KGXY</td>
+<td><a href=\"/wiki/Greeley%E2%80%93Weld_County_Airport\" title=\"Greeley\u2013Weld County Airport\">Greeley\u2013Weld County Airport</a></td>
+<td><a href=\"/wiki/Greeley,_Colorado\" title=\"Greeley, Colorado\">Greeley</a>, <a href=\"/wiki/Colorado\" title=\"Colorado\">Colorado</a>, United States</td>
+<td><a href=\"/wiki/Mountain_Time_Zone\" title=\"Mountain Time Zone\">UTC\u221207:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr class=\"sortbottom\">
+<th colspan=\"6\" style=\"text-align:left; background:#ddd;\"><span id=\"GY\"></span>-GY-
+</th></tr>
+<tr>
+<td>GYA</td>
+<td>SLGY</td>
+<td><a href=\"/wiki/Guayaramer%C3%ADn_Airport\" title=\"Guayaramer\u00edn Airport\">Guayaramer\u00edn Airport</a></td>
+<td><a href=\"/wiki/Guayaramer%C3%ADn\" title=\"Guayaramer\u00edn\">Guayaramer\u00edn</a>, <a href=\"/wiki/Bolivia\" title=\"Bolivia\">Bolivia</a></td>
+<td><a href=\"/wiki/UTC%E2%88%9204:00\" title=\"UTC\u221204:00\">UTC\u221204:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GYD</td>
+<td>UBBB</td>
+<td><a href=\"/wiki/Heydar_Aliyev_International_Airport\" title=\"Heydar Aliyev International Airport\">Heydar Aliyev International Airport</a></td>
+<td><a href=\"/wiki/Baku\" title=\"Baku\">Baku</a>, <a href=\"/wiki/Azerbaijan\" title=\"Azerbaijan\">Azerbaijan</a></td>
+<td><a href=\"/wiki/Time_in_Azerbaijan\" class=\"mw-redirect\" title=\"Time in Azerbaijan\">UTC+04:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GYE</td>
+<td>SEGU</td>
+<td><a href=\"/wiki/Jos%C3%A9_Joaqu%C3%ADn_de_Olmedo_International_Airport\" title=\"Jos\u00e9 Joaqu\u00edn de Olmedo International Airport\">Jos\u00e9 Joaqu\u00edn de Olmedo International Airport</a></td>
+<td><a href=\"/wiki/Guayaquil\" title=\"Guayaquil\">Guayaquil</a>, <a href=\"/wiki/Ecuador\" title=\"Ecuador\">Ecuador</a></td>
+<td><a href=\"/wiki/Time_in_Ecuador\" title=\"Time in Ecuador\">UTC\u221205:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GYG</td>
+<td>UEMM</td>
+<td><a href=\"/wiki/Magan_Airport\" title=\"Magan Airport\">Magan Airport</a></td>
+<td><a href=\"/wiki/Magan,_Russia\" title=\"Magan, Russia\">Magan</a>, <a href=\"/wiki/Sakha_Republic\" title=\"Sakha Republic\">Yakutia</a>, Russia</td>
+<td><a href=\"/wiki/Yakutsk_Time\" title=\"Yakutsk Time\">UTC+09:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GYI</td>
+<td>HRYG</td>
+<td><a href=\"/wiki/Gisenyi_Airport\" title=\"Gisenyi Airport\">Gisenyi Airport</a></td>
+<td><a href=\"/wiki/Gisenyi\" title=\"Gisenyi\">Gisenyi</a>, Rwanda</td>
+<td><a href=\"/wiki/Central_Africa_Time\" title=\"Central Africa Time\">UTC+02:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GYL</td>
+<td>YARG</td>
+<td><a href=\"/wiki/Argyle_Airport\" title=\"Argyle Airport\">Argyle Airport</a></td>
+<td><a href=\"/wiki/Lake_Argyle\" title=\"Lake Argyle\">Argyle</a>, <a href=\"/wiki/Western_Australia\" title=\"Western Australia\">Western Australia</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+08:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GYM</td>
+<td>MMGM</td>
+<td><a href=\"/wiki/General_Jos%C3%A9_Mar%C3%ADa_Y%C3%A1%C3%B1ez_International_Airport\" class=\"mw-redirect\" title=\"General Jos\u00e9 Mar\u00eda Y\u00e1\u00f1ez International Airport\">General Jos\u00e9 Mar\u00eda Y\u00e1\u00f1ez International Airport</a></td>
+<td><a href=\"/wiki/Guaymas\" title=\"Guaymas\">Guaymas</a>, <a href=\"/wiki/Sonora\" title=\"Sonora\">Sonora</a>, Mexico</td>
+<td><a href=\"/wiki/Mountain_Time_Zone\" title=\"Mountain Time Zone\">UTC\u221207:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GYN</td>
+<td>SBGO</td>
+<td><a href=\"/wiki/Santa_Genoveva_Airport\" title=\"Santa Genoveva Airport\">Santa Genoveva Airport</a></td>
+<td><a href=\"/wiki/Goi%C3%A2nia\" title=\"Goi\u00e2nia\">Goi\u00e2nia</a>, <a href=\"/wiki/Goi%C3%A1s\" title=\"Goi\u00e1s\">Goi\u00e1s</a>, Brazil</td>
+<td><a href=\"/wiki/Time_in_Brazil\" title=\"Time in Brazil\">UTC\u221203:00</a></td>
+<td>Oct-Feb
+</td></tr>
+<tr>
+<td>GYP</td>
+<td>YGYM</td>
+<td><a href=\"/wiki/Gympie_Airport\" title=\"Gympie Airport\">Gympie Airport</a></td>
+<td><a href=\"/wiki/Gympie\" title=\"Gympie\">Gympie</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+10:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GYR</td>
+<td>KGYR</td>
+<td><a href=\"/wiki/Phoenix_Goodyear_Airport\" title=\"Phoenix Goodyear Airport\">Phoenix Goodyear Airport</a></td>
+<td><a href=\"/wiki/Goodyear,_Arizona\" title=\"Goodyear, Arizona\">Goodyear</a>, <a href=\"/wiki/Arizona\" title=\"Arizona\">Arizona</a>, United States</td>
+<td><a href=\"/wiki/Mountain_Time_Zone\" title=\"Mountain Time Zone\">UTC\u221207:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GYS</td>
+<td>ZUGU</td>
+<td><a href=\"/wiki/Guangyuan_Panlong_Airport\" title=\"Guangyuan Panlong Airport\">Guangyuan Panlong Airport</a></td>
+<td><a href=\"/wiki/Guangyuan\" title=\"Guangyuan\">Guangyuan</a>, <a href=\"/wiki/Sichuan\" title=\"Sichuan\">Sichuan</a>, China</td>
+<td><a href=\"/wiki/Time_in_China\" title=\"Time in China\">UTC+08:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GYU</td>
+<td>ZLGY</td>
+<td><a href=\"/wiki/Guyuan_Liupanshan_Airport\" title=\"Guyuan Liupanshan Airport\">Guyuan Liupanshan Airport</a><sup id=\"cite_ref-IATA_2-26\" class=\"reference\"><a href=\"#cite_note-IATA-2\">&#91;2&#93;</a></sup></td>
+<td><a href=\"/wiki/Guyuan\" title=\"Guyuan\">Guyuan</a>, <a href=\"/wiki/Ningxia\" title=\"Ningxia\">Ningxia</a>, China</td>
+<td><a href=\"/wiki/Time_in_China\" title=\"Time in China\">UTC+08:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GYY</td>
+<td>KGYY</td>
+<td><a href=\"/wiki/Gary/Chicago_International_Airport\" title=\"Gary/Chicago International Airport\">Gary/Chicago International Airport</a></td>
+<td><a href=\"/wiki/Gary,_Indiana\" title=\"Gary, Indiana\">Gary</a>, <a href=\"/wiki/Indiana\" title=\"Indiana\">Indiana</a> (near <a href=\"/wiki/Chicago\" title=\"Chicago\">Chicago/IL</a>), United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr class=\"sortbottom\">
+<th colspan=\"6\" style=\"text-align:left; background:#ddd;\"><span id=\"GZ\"></span>-GZ-
+</th></tr>
+<tr>
+<td>GZA</td>
+<td>LVGZ</td>
+<td><a href=\"/wiki/Yasser_Arafat_International_Airport\" title=\"Yasser Arafat International Airport\">Yasser Arafat International Airport</a></td>
+<td><a href=\"/wiki/Gaza_Strip\" title=\"Gaza Strip\">Gaza</a>, <a href=\"/wiki/State_of_Palestine\" title=\"State of Palestine\">Palestine</a></td>
+<td><a href=\"/wiki/Eastern_European_Time\" title=\"Eastern European Time\">UTC+02:00</a></td>
+<td>Mar-Sep
+</td></tr>
+<tr>
+<td>GZI</td>
+<td>OAGN</td>
+<td><a href=\"/wiki/Ghazni_Airport\" title=\"Ghazni Airport\">Ghazni Airport</a></td>
+<td><a href=\"/wiki/Ghazni\" title=\"Ghazni\">Ghazni</a>, <a href=\"/wiki/Afghanistan\" title=\"Afghanistan\">Afghanistan</a></td>
+<td><a href=\"/wiki/Time_in_Afghanistan\" title=\"Time in Afghanistan\">UTC+04:30</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GZO</td>
+<td>AGGN</td>
+<td><a href=\"/wiki/Nusatupe_Airport\" title=\"Nusatupe Airport\">Nusatupe Airport</a></td>
+<td><a href=\"/wiki/Gizo,_Solomon_Islands\" title=\"Gizo, Solomon Islands\">Gizo</a>, <a href=\"/wiki/Western_Province_(Solomon_Islands)\" title=\"Western Province (Solomon Islands)\">Western Province</a>, <a href=\"/wiki/Solomon_Islands\" title=\"Solomon Islands\">Solomon Islands</a></td>
+<td><a href=\"/wiki/UTC%2B11:00\" title=\"UTC+11:00\">UTC+11:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GZP</td>
+<td>LTFG</td>
+<td><a href=\"/wiki/Gazipa%C5%9Fa_Airport\" title=\"Gazipa\u015fa Airport\">Gazipa\u015fa\u2013Alanya Airport</a><sup id=\"cite_ref-IATA_2-27\" class=\"reference\"><a href=\"#cite_note-IATA-2\">&#91;2&#93;</a></sup></td>
+<td><a href=\"/wiki/Gazipa%C5%9Fa\" title=\"Gazipa\u015fa\">Gazipa\u015fa</a>, <a href=\"/wiki/Turkey\" title=\"Turkey\">Turkey</a></td>
+<td><a href=\"/wiki/Time_in_Turkey\" title=\"Time in Turkey\">UTC+03:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GZT</td>
+<td>LTAJ</td>
+<td><a href=\"/wiki/O%C4%9Fuzeli_Airport\" title=\"O\u011fuzeli Airport\">Gaziantep O\u011fuzeli International Airport</a></td>
+<td><a href=\"/wiki/Gaziantep\" title=\"Gaziantep\">Gaziantep</a>, <a href=\"/wiki/Turkey\" title=\"Turkey\">Turkey</a></td>
+<td><a href=\"/wiki/Time_in_Turkey\" title=\"Time in Turkey\">UTC+03:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>GZW</td>
+<td>OIIK</td>
+<td><a href=\"/wiki/Qazvin_Airport\" title=\"Qazvin Airport\">Qazvin Airport</a><sup id=\"cite_ref-IATA_2-28\" class=\"reference\"><a href=\"#cite_note-IATA-2\">&#91;2&#93;</a></sup></td>
+<td><a href=\"/wiki/Qazvin\" title=\"Qazvin\">Qazvin</a>, <a href=\"/wiki/Iran\" title=\"Iran\">Iran</a></td>
+<td><a href=\"/wiki/Iran_Standard_Time\" title=\"Iran Standard Time\">UTC+03:30</a></td>
+<td>Mar-Sep
+</td></tr>

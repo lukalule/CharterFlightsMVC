@@ -1,0 +1,1386 @@
+<tr>
+<td>WAC</td>
+<td>HAWC</td>
+<td><a href=\"/wiki/Wacca_Airport\" title=\"Wacca Airport\">Wacca Airport</a><sup id=\"cite_ref-IATA_1-0\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Wacca\" title=\"Wacca\">Wacca</a>, <a href=\"/wiki/Ethiopia\" title=\"Ethiopia\">Ethiopia</a></td>
+</tr>
+<tr>
+<td>WAD</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Andriamena_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Andriamena Airport (page does not exist)\">Andriamena Airport</a></td>
+<td><a href=\"/wiki/Andriamena\" title=\"Andriamena\">Andriamena</a>, <a href=\"/wiki/Madagascar\" title=\"Madagascar\">Madagascar</a></td>
+</tr>
+<tr>
+<td>WAE</td>
+<td>OEWD</td>
+<td><a href=\"/wiki/Wadi_al-Dawasir_Domestic_Airport\" title=\"Wadi al-Dawasir Domestic Airport\">Wadi al-Dawasir Domestic Airport</a><sup id=\"cite_ref-IATA_1-1\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Wadi_ad-Dawasir\" title=\"Wadi ad-Dawasir\">Wadi ad-Dawasir</a> (Wadi al-Dawaser), <a href=\"/wiki/Saudi_Arabia\" title=\"Saudi Arabia\">Saudi Arabia</a></td>
+</tr>
+<tr>
+<td>WAF</td>
+<td>OPWN</td>
+<td><a href=\"/w/index.php?title=Wana_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Wana Airport (page does not exist)\">Wana Airport</a><sup id=\"cite_ref-IATA_1-2\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Wana,_Pakistan\" class=\"mw-redirect\" title=\"Wana, Pakistan\">Wana</a>, <a href=\"/wiki/Pakistan\" title=\"Pakistan\">Pakistan</a></td>
+</tr>
+<tr>
+<td>WAG</td>
+<td>NZWU</td>
+<td><a href=\"/wiki/Whanganui_Airport\" title=\"Whanganui Airport\">Whanganui Airport</a></td>
+<td><a href=\"/wiki/Whanganui\" title=\"Whanganui\">Whanganui</a>, <a href=\"/wiki/New_Zealand\" title=\"New Zealand\">New Zealand</a></td>
+</tr>
+<tr>
+<td>WAH</td>
+<td>KBWP</td>
+<td><a href=\"/wiki/Harry_Stern_Airport\" title=\"Harry Stern Airport\">Harry Stern Airport</a> (FAA: BWP)</td>
+<td><a href=\"/wiki/Wahpeton,_North_Dakota\" title=\"Wahpeton, North Dakota\">Wahpeton</a>, <a href=\"/wiki/North_Dakota\" title=\"North Dakota\">North Dakota</a>, United States</td>
+</tr>
+<tr>
+<td>WAI</td>
+<td>FMNW</td>
+<td><a href=\"/wiki/Ambalabe_Airport\" title=\"Ambalabe Airport\">Ambalabe Airport</a><sup id=\"cite_ref-IATA_1-3\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Antsohihy\" title=\"Antsohihy\">Antsohihy</a>, <a href=\"/wiki/Madagascar\" title=\"Madagascar\">Madagascar</a></td>
+</tr>
+<tr>
+<td>WAJ</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Wawoi_Falls_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Wawoi Falls Airport (page does not exist)\">Wawoi Falls Airport</a><sup id=\"cite_ref-IATA_1-4\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Wawoi_Falls&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Wawoi Falls (page does not exist)\">Wawoi Falls</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>WAK</td>
+<td>FMSZ</td>
+<td><a href=\"/w/index.php?title=Ankazoabo_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Ankazoabo Airport (page does not exist)\">Ankazoabo Airport</a><sup id=\"cite_ref-IATA_1-5\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Ankazoabo\" title=\"Ankazoabo\">Ankazoabo</a>, <a href=\"/wiki/Madagascar\" title=\"Madagascar\">Madagascar</a></td>
+</tr>
+<tr>
+<td>WAL</td>
+<td>KWAL</td>
+<td><a href=\"/wiki/Wallops_Flight_Facility\" title=\"Wallops Flight Facility\">Wallops Flight Facility</a></td>
+<td><a href=\"/wiki/Wallops_Island\" title=\"Wallops Island\">Wallops Island</a>, <a href=\"/wiki/Virginia\" title=\"Virginia\">Virginia</a>, United States</td>
+</tr>
+<tr>
+<td>WAM</td>
+<td>FMMZ</td>
+<td><a href=\"/wiki/Ambatondrazaka_Airport\" title=\"Ambatondrazaka Airport\">Ambatondrazaka Airport</a><sup id=\"cite_ref-IATA_1-6\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Ambatondrazaka\" title=\"Ambatondrazaka\">Ambatondrazaka</a>, <a href=\"/wiki/Madagascar\" title=\"Madagascar\">Madagascar</a></td>
+</tr>
+<tr>
+<td>WAN</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Waverney_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Waverney Airport (page does not exist)\">Waverney Airport</a><sup id=\"cite_ref-IATA_1-7\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Waverney,_Queensland&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Waverney, Queensland (page does not exist)\">Waverney</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+</tr>
+<tr>
+<td>WAO</td>
+<td>AYWB</td>
+<td><a href=\"/w/index.php?title=Wabo_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Wabo Airport (page does not exist)\">Wabo Airport</a><sup id=\"cite_ref-IATA_1-8\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Wabo,_Papua_New_Guinea&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Wabo, Papua New Guinea (page does not exist)\">Wabo</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>WAP</td>
+<td>SCAP</td>
+<td><a href=\"/wiki/Alto_Palena_Airfield\" title=\"Alto Palena Airfield\">Alto Palena Airfield</a><sup id=\"cite_ref-IATA_1-9\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Palena,_Chile\" title=\"Palena, Chile\">Palena</a>, <a href=\"/wiki/Chile\" title=\"Chile\">Chile</a></td>
+</tr>
+<tr>
+<td>WAQ</td>
+<td>FMMG</td>
+<td><a href=\"/wiki/Antsalova_Airport\" title=\"Antsalova Airport\">Antsalova Airport</a><sup id=\"cite_ref-IATA_1-10\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Antsalova\" title=\"Antsalova\">Antsalova</a>, <a href=\"/wiki/Madagascar\" title=\"Madagascar\">Madagascar</a></td>
+</tr>
+<tr>
+<td>WAR</td>
+<td>WAJR</td>
+<td><a href=\"/w/index.php?title=Waris_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Waris Airport (page does not exist)\">Waris Airport</a><sup id=\"cite_ref-IATA_1-11\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Waris,_Indonesia&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Waris, Indonesia (page does not exist)\">Waris</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+</tr>
+<tr>
+<td>WAS<sup id=\"cite_ref-IATA_1-12\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td></td>
+<td>metropolitan area<sup class=\"reference plainlinks nourlexpansion\" id=\"ref_1\"><a href=\"#endnote_1\">1</a></sup></td>
+<td><a href=\"/wiki/Washington,_D.C.\" title=\"Washington, D.C.\">Washington, D.C.</a>, United States</td>
+</tr>
+<tr>
+<td>WAT</td>
+<td>EIWF</td>
+<td><a href=\"/wiki/Waterford_Airport\" title=\"Waterford Airport\">Waterford Airport</a></td>
+<td><a href=\"/wiki/Waterford\" title=\"Waterford\">Waterford</a>, <a href=\"/wiki/Republic_of_Ireland\" title=\"Republic of Ireland\">Ireland</a></td>
+</tr>
+<tr>
+<td>WAU</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Wauchope_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Wauchope Airport (page does not exist)\">Wauchope Airport</a><sup id=\"cite_ref-IATA_1-13\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Wauchope,_New_South_Wales\" title=\"Wauchope, New South Wales\">Wauchope</a>, <a href=\"/wiki/New_South_Wales\" title=\"New South Wales\">New South Wales</a>, Australia</td>
+</tr>
+<tr>
+<td>WAV</td>
+<td>YWAV</td>
+<td><a href=\"/w/index.php?title=Wave_Hill_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Wave Hill Airport (page does not exist)\">Wave Hill Airport</a><sup id=\"cite_ref-IATA_1-14\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Kalkarindji\" title=\"Kalkarindji\">Kalkarindji</a> (Wave Hill), <a href=\"/wiki/Northern_Territory\" title=\"Northern Territory\">Northern Territory</a>, Australia</td>
+</tr>
+<tr>
+<td>WAW</td>
+<td>EPWA</td>
+<td><a href=\"/wiki/Warsaw_Chopin_Airport\" title=\"Warsaw Chopin Airport\">Warsaw Chopin Airport</a></td>
+<td><a href=\"/wiki/Warsaw\" title=\"Warsaw\">Warsaw</a>, <a href=\"/wiki/Poland\" title=\"Poland\">Poland</a></td>
+</tr>
+<tr>
+<td>WAX</td>
+<td>HLZW</td>
+<td><a href=\"/wiki/Zuwarah_Airport\" title=\"Zuwarah Airport\">Zuwarah Airport</a><sup id=\"cite_ref-IATA_1-15\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Zuwarah\" title=\"Zuwarah\">Zuwarah</a> (Zuara), <a href=\"/wiki/Libya\" title=\"Libya\">Libya</a></td>
+</tr>
+<tr>
+<td>WAY</td>
+<td>KWAY</td>
+<td><a href=\"/wiki/Greene_County_Airport_(Pennsylvania)\" title=\"Greene County Airport (Pennsylvania)\">Greene County Airport</a></td>
+<td><a href=\"/wiki/Waynesburg,_Pennsylvania\" title=\"Waynesburg, Pennsylvania\">Waynesburg</a>, <a href=\"/wiki/Pennsylvania\" title=\"Pennsylvania\">Pennsylvania</a>, United States</td>
+</tr>
+<tr>
+<td>WAZ</td>
+<td>YWCK</td>
+<td><a href=\"/wiki/Warwick_Airport_(Queensland)\" title=\"Warwick Airport (Queensland)\">Warwick Airport</a><sup id=\"cite_ref-IATA_1-16\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Warwick,_Queensland\" title=\"Warwick, Queensland\">Warwick</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+</tr>
+<tr>
+<td>WBA</td>
+<td>WAPV</td>
+<td><a href=\"/w/index.php?title=Wahai_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Wahai Airport (page does not exist)\">Wahai Airport</a><sup id=\"cite_ref-IATA_1-17\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Seram_Island\" title=\"Seram Island\">Seram Island</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+</tr>
+<tr>
+<td>WBB</td>
+<td></td>
+<td><a href=\"/wiki/Stebbins_Airport\" title=\"Stebbins Airport\">Stebbins Airport</a></td>
+<td><a href=\"/wiki/Stebbins,_Alaska\" title=\"Stebbins, Alaska\">Stebbins</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>WBC</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Wapolu_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Wapolu Airport (page does not exist)\">Wapolu Airport</a><sup id=\"cite_ref-IATA_1-18\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Wapolu&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Wapolu (page does not exist)\">Wapolu</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>WBD</td>
+<td>FMNF</td>
+<td><a href=\"/w/index.php?title=Befandriana_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Befandriana Airport (page does not exist)\">Befandriana Airport</a><sup id=\"cite_ref-IATA_1-19\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Befandriana-Avaratra\" title=\"Befandriana-Avaratra\">Befandriana-Avaratra</a>, <a href=\"/wiki/Madagascar\" title=\"Madagascar\">Madagascar</a></td>
+</tr>
+<tr>
+<td>WBE</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Ankaizina_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Ankaizina Airport (page does not exist)\">Ankaizina Airport</a><sup id=\"cite_ref-IATA_1-20\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Bealanana\" title=\"Bealanana\">Bealanana</a>, <a href=\"/wiki/Madagascar\" title=\"Madagascar\">Madagascar</a></td>
+</tr>
+<tr>
+<td>WBG</td>
+<td>ETNS</td>
+<td><a href=\"/wiki/Schleswig_Air_Base\" title=\"Schleswig Air Base\">Schleswig Air Base</a></td>
+<td><a href=\"/wiki/Schleswig,_Schleswig-Holstein\" title=\"Schleswig, Schleswig-Holstein\">Schleswig</a>, <a href=\"/wiki/Schleswig-Holstein\" title=\"Schleswig-Holstein\">Schleswig-Holstein</a>, Germany</td>
+</tr>
+<tr>
+<td>WBK</td>
+<td></td>
+<td><a href=\"/w/index.php?title=West_Branch_Community_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"West Branch Community Airport (page does not exist)\">West Branch Community Airport</a><sup id=\"cite_ref-IATA_1-21\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (FAA: Y31)</td>
+<td><a href=\"/wiki/West_Branch,_Michigan\" title=\"West Branch, Michigan\">West Branch</a>, <a href=\"/wiki/Michigan\" title=\"Michigan\">Michigan</a>, United States</td>
+</tr>
+<tr>
+<td>WBM</td>
+<td>AYWD</td>
+<td><a href=\"/wiki/Wapenamanda_Airport\" title=\"Wapenamanda Airport\">Wapenamanda Airport</a><sup id=\"cite_ref-IATA_1-22\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Wapenamanda&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Wapenamanda (page does not exist)\">Wapenamanda</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>WBO</td>
+<td>FMSB</td>
+<td><a href=\"/w/index.php?title=Antsoa_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Antsoa Airport (page does not exist)\">Antsoa Airport</a><sup id=\"cite_ref-IATA_1-23\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Beroroha\" title=\"Beroroha\">Beroroha</a>, <a href=\"/wiki/Madagascar\" title=\"Madagascar\">Madagascar</a></td>
+</tr>
+<tr>
+<td>WBQ</td>
+<td>PAWB</td>
+<td><a href=\"/wiki/Beaver_Airport\" title=\"Beaver Airport\">Beaver Airport</a></td>
+<td><a href=\"/wiki/Beaver,_Alaska\" title=\"Beaver, Alaska\">Beaver</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>WBR</td>
+<td>KRQB</td>
+<td><a href=\"/wiki/Roben%E2%80%93Hood_Airport\" title=\"Roben\u2013Hood Airport\">Roben\u2013Hood Airport</a> (FAA: RQB)</td>
+<td><a href=\"/wiki/Big_Rapids,_Michigan\" title=\"Big Rapids, Michigan\">Big Rapids</a>, <a href=\"/wiki/Michigan\" title=\"Michigan\">Michigan</a>, United States</td>
+</tr>
+<tr>
+<td>WBU</td>
+<td>KBDU</td>
+<td><a href=\"/wiki/Boulder_Municipal_Airport\" title=\"Boulder Municipal Airport\">Boulder Municipal Airport</a> (FAA: BDU)</td>
+<td><a href=\"/wiki/Boulder,_Colorado\" title=\"Boulder, Colorado\">Boulder</a>, <a href=\"/wiki/Colorado\" title=\"Colorado\">Colorado</a>, United States</td>
+</tr>
+<tr>
+<td>WBW</td>
+<td>KWBW</td>
+<td><a href=\"/wiki/Wilkes-Barre_Wyoming_Valley_Airport\" title=\"Wilkes-Barre Wyoming Valley Airport\">Wilkes-Barre Wyoming Valley Airport</a></td>
+<td><a href=\"/wiki/Wilkes-Barre,_Pennsylvania\" title=\"Wilkes-Barre, Pennsylvania\">Wilkes-Barre</a>, <a href=\"/wiki/Pennsylvania\" title=\"Pennsylvania\">Pennsylvania</a>, United States</td>
+</tr>
+<tr>
+<td>WCA</td>
+<td>SCST</td>
+<td><a href=\"/wiki/Gamboa_Airport\" title=\"Gamboa Airport\">Gamboa Airport</a></td>
+<td><a href=\"/wiki/Castro,_Chile\" title=\"Castro, Chile\">Castro</a>, <a href=\"/wiki/Chile\" title=\"Chile\">Chile</a></td>
+</tr>
+<tr>
+<td>WCH</td>
+<td>SCTN</td>
+<td><a href=\"/wiki/Chait%C3%A9n_Airfield\" title=\"Chait\u00e9n Airfield\">Chait\u00e9n Airfield</a></td>
+<td><a href=\"/wiki/Chait%C3%A9n\" title=\"Chait\u00e9n\">Chait\u00e9n</a>, <a href=\"/wiki/Chile\" title=\"Chile\">Chile</a></td>
+</tr>
+<tr>
+<td>WCR</td>
+<td>PALR</td>
+<td><a href=\"/wiki/Chandalar_Lake_Airport\" title=\"Chandalar Lake Airport\">Chandalar Lake Airport</a></td>
+<td><a href=\"/wiki/Chandalar_Lake\" title=\"Chandalar Lake\">Chandalar Lake</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>WDA</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Wadi_Ain_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Wadi Ain Airport (page does not exist)\">Wadi Ain Airport</a></td>
+<td><a href=\"/w/index.php?title=Wadi_Ain&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Wadi Ain (page does not exist)\">Wadi Ain</a>, <a href=\"/wiki/Yemen\" title=\"Yemen\">Yemen</a></td>
+</tr>
+<tr>
+<td>WDG</td>
+<td>KWDG</td>
+<td><a href=\"/wiki/Enid_Woodring_Regional_Airport\" title=\"Enid Woodring Regional Airport\">Enid Woodring Regional Airport</a></td>
+<td><a href=\"/wiki/Enid,_Oklahoma\" title=\"Enid, Oklahoma\">Enid</a>, <a href=\"/wiki/Oklahoma\" title=\"Oklahoma\">Oklahoma</a>, United States</td>
+</tr>
+<tr>
+<td>WDH</td>
+<td>FYWH</td>
+<td><a href=\"/wiki/Hosea_Kutako_International_Airport\" title=\"Hosea Kutako International Airport\">Hosea Kutako International Airport</a></td>
+<td><a href=\"/wiki/Windhoek\" title=\"Windhoek\">Windhoek</a>, <a href=\"/wiki/Namibia\" title=\"Namibia\">Namibia</a></td>
+</tr>
+<tr>
+<td>WDI</td>
+<td>YWND</td>
+<td><a href=\"/w/index.php?title=Wondai_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Wondai Airport (page does not exist)\">Wondai Airport</a><sup id=\"cite_ref-IATA_1-24\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Wondai\" title=\"Wondai\">Wondai</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+</tr>
+<tr>
+<td>WDN</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Waldronaire_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Waldronaire Airport (page does not exist)\">Waldronaire Airport</a><sup id=\"cite_ref-IATA_1-25\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (FAA: 90WA)</td>
+<td><a href=\"/wiki/Waldron,_Washington\" title=\"Waldron, Washington\">Waldron Island</a>, <a href=\"/wiki/Washington_(state)\" title=\"Washington (state)\">Washington</a>, United States</td>
+</tr>
+<tr>
+<td>WDR</td>
+<td>KWDR</td>
+<td><a href=\"/wiki/Barrow_County_Airport\" title=\"Barrow County Airport\">Barrow County Airport</a></td>
+<td><a href=\"/wiki/Winder,_Georgia\" title=\"Winder, Georgia\">Winder</a>, <a href=\"/wiki/Georgia_(U.S._state)\" title=\"Georgia (U.S. state)\">Georgia</a>, United States</td>
+</tr>
+<tr>
+<td>WDS</td>
+<td>ZHSY</td>
+<td><a href=\"/wiki/Shiyan_Wudangshan_Airport\" title=\"Shiyan Wudangshan Airport\">Shiyan Wudangshan Airport</a></td>
+<td><a href=\"/wiki/Shiyan\" title=\"Shiyan\">Shiyan</a>, <a href=\"/wiki/Hubei\" title=\"Hubei\">Hubei</a>, China</td>
+</tr>
+<tr>
+<td>WEA</td>
+<td>KWEA</td>
+<td><a href=\"/wiki/Parker_County_Airport\" title=\"Parker County Airport\">Parker County Airport</a></td>
+<td><a href=\"/wiki/Weatherford,_Texas\" title=\"Weatherford, Texas\">Weatherford</a>, <a href=\"/wiki/Texas\" title=\"Texas\">Texas</a>, United States</td>
+</tr>
+<tr>
+<td>WED</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Wedau_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Wedau Airport (page does not exist)\">Wedau Airport</a><sup id=\"cite_ref-IATA_1-26\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Wedau,_Papua_New_Guinea&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Wedau, Papua New Guinea (page does not exist)\">Wedau</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>WEF</td>
+<td>ZSWF</td>
+<td><a href=\"/wiki/Weifang_Airport\" title=\"Weifang Airport\">Weifang Airport</a></td>
+<td><a href=\"/wiki/Weifang\" title=\"Weifang\">Weifang</a>, <a href=\"/wiki/Shandong\" title=\"Shandong\">Shandong</a>, China</td>
+</tr>
+<tr>
+<td>WEH</td>
+<td>ZSWH</td>
+<td><a href=\"/wiki/Weihai_Dashuibo_Airport\" title=\"Weihai Dashuibo Airport\">Weihai Dashuibo Airport</a></td>
+<td><a href=\"/wiki/Weihai\" title=\"Weihai\">Weihai</a>, <a href=\"/wiki/Shandong\" title=\"Shandong\">Shandong</a>, China</td>
+</tr>
+<tr>
+<td>WEI</td>
+<td>YBWP</td>
+<td><a href=\"/wiki/Weipa_Airport\" title=\"Weipa Airport\">Weipa Airport</a></td>
+<td><a href=\"/wiki/Weipa,_Queensland\" title=\"Weipa, Queensland\">Weipa</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+</tr>
+<tr>
+<td>WEL</td>
+<td>FAWM</td>
+<td><a href=\"/w/index.php?title=Welkom_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Welkom Airport (page does not exist)\">Welkom Airport</a><sup id=\"cite_ref-IATA_1-27\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Welkom\" title=\"Welkom\">Welkom</a>, <a href=\"/wiki/South_Africa\" title=\"South Africa\">South Africa</a></td>
+</tr>
+<tr>
+<td>WEP</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Weam_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Weam Airport (page does not exist)\">Weam Airport</a><sup id=\"cite_ref-IATA_1-28\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Weam&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Weam (page does not exist)\">Weam</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>WET</td>
+<td>WABG</td>
+<td><a href=\"/w/index.php?title=Waghete_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Waghete Airport (page does not exist)\">Waghete Airport</a><sup id=\"cite_ref-IATA_1-29\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Waghete&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Waghete (page does not exist)\">Waghete</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+</tr>
+<tr>
+<td>WEW</td>
+<td>YWWA</td>
+<td><a href=\"/w/index.php?title=Wee_Waa_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Wee Waa Airport (page does not exist)\">Wee Waa Airport</a><sup id=\"cite_ref-IATA_1-30\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Wee_Waa\" title=\"Wee Waa\">Wee Waa</a>, <a href=\"/wiki/New_South_Wales\" title=\"New South Wales\">New South Wales</a>, Australia</td>
+</tr>
+<tr>
+<td>WFB</td>
+<td></td>
+<td><a href=\"/wiki/Ketchikan_Harbor_Seaplane_Base\" title=\"Ketchikan Harbor Seaplane Base\">Ketchikan Harbor Seaplane Base</a> (FAA: 5KE)</td>
+<td><a href=\"/wiki/Ketchikan,_Alaska\" title=\"Ketchikan, Alaska\">Ketchikan</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>WFD</td>
+<td>EGCD</td>
+<td><a href=\"/wiki/Woodford_Aerodrome\" title=\"Woodford Aerodrome\">Woodford Aerodrome</a><sup id=\"cite_ref-IATA_1-31\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Woodford,_Greater_Manchester\" title=\"Woodford, Greater Manchester\">Woodford</a>, <a href=\"/wiki/England\" title=\"England\">England</a>, United Kingdom</td>
+</tr>
+<tr>
+<td>WFI</td>
+<td>FMSF</td>
+<td><a href=\"/wiki/Fianarantsoa_Airport\" title=\"Fianarantsoa Airport\">Fianarantsoa Airport</a></td>
+<td><a href=\"/wiki/Fianarantsoa\" title=\"Fianarantsoa\">Fianarantsoa</a>, <a href=\"/wiki/Madagascar\" title=\"Madagascar\">Madagascar</a></td>
+</tr>
+<tr>
+<td>WFK</td>
+<td>KFVE</td>
+<td><a href=\"/wiki/Northern_Aroostook_Regional_Airport\" title=\"Northern Aroostook Regional Airport\">Northern Aroostook Regional Airport</a> (FAA: FVE)</td>
+<td><a href=\"/wiki/Frenchville,_Maine\" title=\"Frenchville, Maine\">Frenchville</a>, <a href=\"/wiki/Maine\" title=\"Maine\">Maine</a>, United States</td>
+</tr>
+<tr>
+<td>WGA</td>
+<td>YSWG</td>
+<td><a href=\"/wiki/Wagga_Wagga_Airport\" title=\"Wagga Wagga Airport\">Wagga Wagga Airport</a></td>
+<td><a href=\"/wiki/Wagga_Wagga\" title=\"Wagga Wagga\">Wagga Wagga</a>, <a href=\"/wiki/New_South_Wales\" title=\"New South Wales\">New South Wales</a>, Australia</td>
+</tr>
+<tr>
+<td>WGC</td>
+<td>VOWA</td>
+<td><a href=\"/wiki/Warangal_Airport\" title=\"Warangal Airport\">Warangal Airport</a><sup id=\"cite_ref-IATA_1-32\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Warangal\" title=\"Warangal\">Warangal</a>, <a href=\"/wiki/Telangana\" title=\"Telangana\">Telangana</a>, India</td>
+</tr>
+<tr>
+<td>WGE</td>
+<td>YWLG</td>
+<td><a href=\"/wiki/Walgett_Airport\" title=\"Walgett Airport\">Walgett Airport</a><sup id=\"cite_ref-IATA_1-33\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Walgett,_New_South_Wales\" title=\"Walgett, New South Wales\">Walgett</a>, <a href=\"/wiki/New_South_Wales\" title=\"New South Wales\">New South Wales</a>, Australia</td>
+</tr>
+<tr>
+<td>WGN</td>
+<td>ZGSY</td>
+<td><a href=\"/wiki/Shaoyang_Wugang_Airport\" title=\"Shaoyang Wugang Airport\">Shaoyang Wugang Airport</a></td>
+<td><a href=\"/wiki/Shaoyang\" title=\"Shaoyang\">Shaoyang</a>, <a href=\"/wiki/Hunan\" title=\"Hunan\">Hunan</a>, China</td>
+</tr>
+<tr>
+<td>WGO</td>
+<td>KOKV</td>
+<td><a href=\"/wiki/Winchester_Regional_Airport\" title=\"Winchester Regional Airport\">Winchester Regional Airport</a> (FAA: OKV)</td>
+<td><a href=\"/wiki/Winchester,_Virginia\" title=\"Winchester, Virginia\">Winchester</a>, <a href=\"/wiki/Virginia\" title=\"Virginia\">Virginia</a>, United States</td>
+</tr>
+<tr>
+<td>WGP</td>
+<td>WADW</td>
+<td><a href=\"/wiki/Mau_Hau_Airport\" class=\"mw-redirect\" title=\"Mau Hau Airport\">Mau Hau Airport</a> (Umbu Mehang Kunda Airport)</td>
+<td><a href=\"/wiki/Waingapu\" title=\"Waingapu\">Waingapu</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+</tr>
+<tr>
+<td>WGT</td>
+<td>YWGT</td>
+<td><a href=\"/wiki/Wangaratta_Airport\" title=\"Wangaratta Airport\">Wangaratta Airport</a></td>
+<td><a href=\"/wiki/Wangaratta\" title=\"Wangaratta\">Wangaratta</a>, <a href=\"/wiki/Victoria_(Australia)\" title=\"Victoria (Australia)\">Victoria</a>, Australia</td>
+</tr>
+<tr>
+<td>WGU</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Wagau_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Wagau Airport (page does not exist)\">Wagau Airport</a><sup id=\"cite_ref-IATA_1-34\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Wagau&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Wagau (page does not exist)\">Wagau</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>WGY</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Wagny_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Wagny Airport (page does not exist)\">Wagny Airport</a><sup id=\"cite_ref-IATA_1-35\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Wagny&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Wagny (page does not exist)\">Wagny</a>, <a href=\"/wiki/Gabon\" title=\"Gabon\">Gabon</a></td>
+</tr>
+<tr>
+<td>WHD</td>
+<td></td>
+<td><a href=\"/wiki/Hyder_Seaplane_Base\" title=\"Hyder Seaplane Base\">Hyder Seaplane Base</a> (FAA: 4Z7)</td>
+<td><a href=\"/wiki/Hyder,_Alaska\" title=\"Hyder, Alaska\">Hyder</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>WHF</td>
+<td>HSSW</td>
+<td><a href=\"/wiki/Wadi_Halfa_Airport\" title=\"Wadi Halfa Airport\">Wadi Halfa Airport</a></td>
+<td><a href=\"/wiki/Wadi_Halfa\" title=\"Wadi Halfa\">Wadi Halfa</a>, <a href=\"/wiki/Sudan\" title=\"Sudan\">Sudan</a></td>
+</tr>
+<tr>
+<td>WHK</td>
+<td>NZWK</td>
+<td><a href=\"/wiki/Whakatane_Airport\" title=\"Whakatane Airport\">Whakatane Airport</a></td>
+<td><a href=\"/wiki/Whakatane\" title=\"Whakatane\">Whakatane</a>, <a href=\"/wiki/New_Zealand\" title=\"New Zealand\">New Zealand</a></td>
+</tr>
+<tr>
+<td>WHL</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Welshpool_Airport,_Victoria&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Welshpool Airport, Victoria (page does not exist)\">Welshpool Airport</a><sup id=\"cite_ref-IATA_1-36\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Welshpool,_Victoria\" title=\"Welshpool, Victoria\">Welshpool</a>, <a href=\"/wiki/Victoria_(Australia)\" title=\"Victoria (Australia)\">Victoria</a>, Australia</td>
+</tr>
+<tr>
+<td>WHO</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Franz_Josef_Glacier_Aerodrome&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Franz Josef Glacier Aerodrome (page does not exist)\">Franz Josef Glacier Aerodrome</a><sup id=\"cite_ref-IATA_1-37\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Franz_Josef_Glacier\" title=\"Franz Josef Glacier\">Franz Josef Glacier</a>, <a href=\"/wiki/New_Zealand\" title=\"New Zealand\">New Zealand</a></td>
+</tr>
+<tr>
+<td>WHP</td>
+<td>KWHP</td>
+<td><a href=\"/wiki/Whiteman_Airport\" title=\"Whiteman Airport\">Whiteman Airport</a></td>
+<td><a href=\"/wiki/Los_Angeles\" title=\"Los Angeles\">Los Angeles</a>, <a href=\"/wiki/California\" title=\"California\">California</a>, United States</td>
+</tr>
+<tr>
+<td>WHS</td>
+<td>EGEH</td>
+<td><a href=\"/wiki/Whalsay_Airstrip\" title=\"Whalsay Airstrip\">Whalsay Airstrip</a><sup id=\"cite_ref-IATA_1-38\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Whalsay\" title=\"Whalsay\">Whalsay</a>, <a href=\"/wiki/Scotland\" title=\"Scotland\">Scotland</a>, United Kingdom</td>
+</tr>
+<tr>
+<td>WHT</td>
+<td>KARM</td>
+<td><a href=\"/wiki/Wharton_Regional_Airport\" title=\"Wharton Regional Airport\">Wharton Regional Airport</a> (FAA: ARM)</td>
+<td><a href=\"/wiki/Wharton,_Texas\" title=\"Wharton, Texas\">Wharton</a>, <a href=\"/wiki/Texas\" title=\"Texas\">Texas</a>, United States</td>
+</tr>
+<tr>
+<td>WHU</td>
+<td>ZSWU</td>
+<td><a href=\"/wiki/Wuhu_Airport\" class=\"mw-redirect\" title=\"Wuhu Airport\">Wuhu Airport</a><sup id=\"cite_ref-IATA_1-39\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Wuhu\" title=\"Wuhu\">Wuhu</a>, <a href=\"/wiki/Anhui\" title=\"Anhui\">Anhui</a>, China</td>
+</tr>
+<tr>
+<td>WIB</td>
+<td></td>
+<td><a href=\"/wiki/Wilbarger_County_Airport\" title=\"Wilbarger County Airport\">Wilbarger County Airport</a><sup id=\"cite_ref-IATA_1-40\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (FAA: F05)</td>
+<td><a href=\"/wiki/Vernon,_Texas\" title=\"Vernon, Texas\">Vernon</a>, <a href=\"/wiki/Texas\" title=\"Texas\">Texas</a>, United States</td>
+</tr>
+<tr>
+<td>WIC</td>
+<td>EGPC</td>
+<td><a href=\"/wiki/Wick_Airport\" title=\"Wick Airport\">Wick Airport</a></td>
+<td><a href=\"/wiki/Wick,_Caithness\" title=\"Wick, Caithness\">Wick</a>, <a href=\"/wiki/Scotland\" title=\"Scotland\">Scotland</a>, United Kingdom</td>
+</tr>
+<tr>
+<td>WIE</td>
+<td>ETOU</td>
+<td><a href=\"/wiki/Lucius_D._Clay_Kaserne\" title=\"Lucius D. Clay Kaserne\">Wiesbaden Army Airfield</a></td>
+<td><a href=\"/wiki/Wiesbaden\" title=\"Wiesbaden\">Wiesbaden</a>, <a href=\"/wiki/Hesse\" title=\"Hesse\">Hesse</a>, Germany</td>
+</tr>
+<tr>
+<td>WIK</td>
+<td>NZKE</td>
+<td><a href=\"/wiki/Waiheke_Island_Aerodrome\" title=\"Waiheke Island Aerodrome\">Waiheke Island Aerodrome</a><sup id=\"cite_ref-IATA_1-41\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Waiheke_Island\" title=\"Waiheke Island\">Waiheke Island</a>, <a href=\"/wiki/New_Zealand\" title=\"New Zealand\">New Zealand</a></td>
+</tr>
+<tr>
+<td>WIL</td>
+<td>HKNW</td>
+<td><a href=\"/wiki/Wilson_Airport\" title=\"Wilson Airport\">Wilson Airport</a></td>
+<td><a href=\"/wiki/Nairobi\" title=\"Nairobi\">Nairobi</a>, <a href=\"/wiki/Kenya\" title=\"Kenya\">Kenya</a></td>
+</tr>
+<tr>
+<td>WIN</td>
+<td>YWTN</td>
+<td><a href=\"/wiki/Winton_Airport\" title=\"Winton Airport\">Winton Airport</a><sup id=\"cite_ref-IATA_1-42\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Winton,_Queensland\" title=\"Winton, Queensland\">Winton</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+</tr>
+<tr>
+<td>WIO</td>
+<td>YWCA</td>
+<td><a href=\"/wiki/Wilcannia_Airport\" title=\"Wilcannia Airport\">Wilcannia Airport</a><sup id=\"cite_ref-IATA_1-43\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Wilcannia\" title=\"Wilcannia\">Wilcannia</a>, <a href=\"/wiki/New_South_Wales\" title=\"New South Wales\">New South Wales</a>, Australia</td>
+</tr>
+<tr>
+<td>WIR</td>
+<td>NZWO</td>
+<td><a href=\"/wiki/Wairoa_Aerodrome\" title=\"Wairoa Aerodrome\">Wairoa Aerodrome</a><sup id=\"cite_ref-IATA_1-44\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Wairoa\" title=\"Wairoa\">Wairoa</a>, <a href=\"/wiki/New_Zealand\" title=\"New Zealand\">New Zealand</a></td>
+</tr>
+<tr>
+<td>WIT</td>
+<td>YWIT</td>
+<td><a href=\"/w/index.php?title=Wittenoom_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Wittenoom Airport (page does not exist)\">Wittenoom Airport</a><sup id=\"cite_ref-IATA_1-45\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Wittenoom,_Western_Australia\" title=\"Wittenoom, Western Australia\">Wittenoom</a>, <a href=\"/wiki/Western_Australia\" title=\"Western Australia\">Western Australia</a>, Australia</td>
+</tr>
+<tr>
+<td>WIU</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Witu_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Witu Airport (page does not exist)\">Witu Airport</a><sup id=\"cite_ref-IATA_1-46\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Witu,_Papua_New_Guinea&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Witu, Papua New Guinea (page does not exist)\">Witu</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>WJA</td>
+<td></td>
+<td><a href=\"/wiki/Woja_Airport\" title=\"Woja Airport\">Woja Airport</a></td>
+<td><a href=\"/w/index.php?title=Woja&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Woja (page does not exist)\">Woja</a>, <a href=\"/wiki/Ailinglaplap_Atoll\" title=\"Ailinglaplap Atoll\">Ailinglaplap Atoll</a>, <a href=\"/wiki/Marshall_Islands\" title=\"Marshall Islands\">Marshall Islands</a></td>
+</tr>
+<tr>
+<td>WJF</td>
+<td>KWJF</td>
+<td><a href=\"/wiki/General_William_J._Fox_Airfield\" title=\"General William J. Fox Airfield\">General William J. Fox Airfield</a></td>
+<td><a href=\"/wiki/Lancaster,_California\" title=\"Lancaster, California\">Lancaster</a>, <a href=\"/wiki/California\" title=\"California\">California</a>, United States</td>
+</tr>
+<tr>
+<td>WJR</td>
+<td>HKWJ</td>
+<td><a href=\"/wiki/Wajir_Airport\" title=\"Wajir Airport\">Wajir Airport</a><sup id=\"cite_ref-IATA_1-47\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Wajir\" title=\"Wajir\">Wajir</a>, <a href=\"/wiki/Kenya\" title=\"Kenya\">Kenya</a></td>
+</tr>
+<tr>
+<td>WJU</td>
+<td>RKNW</td>
+<td><a href=\"/wiki/Wonju_Airport\" title=\"Wonju Airport\">Wonju Airport</a></td>
+<td><a href=\"/wiki/Wonju\" title=\"Wonju\">Wonju</a>, <a href=\"/wiki/South_Korea\" title=\"South Korea\">South Korea</a></td>
+</tr>
+<tr>
+<td>WKA</td>
+<td>NZWF</td>
+<td><a href=\"/wiki/Wanaka_Airport\" title=\"Wanaka Airport\">Wanaka Airport</a></td>
+<td><a href=\"/wiki/Wanaka\" title=\"Wanaka\">Wanaka</a>, <a href=\"/wiki/New_Zealand\" title=\"New Zealand\">New Zealand</a></td>
+</tr>
+<tr>
+<td>WKB</td>
+<td>YWKB</td>
+<td><a href=\"/wiki/Warracknabeal_Airport\" title=\"Warracknabeal Airport\">Warracknabeal Airport</a><sup id=\"cite_ref-IATA_1-48\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Warracknabeal\" title=\"Warracknabeal\">Warracknabeal</a>, <a href=\"/wiki/Victoria_(Australia)\" title=\"Victoria (Australia)\">Victoria</a>, Australia</td>
+</tr>
+<tr>
+<td>WKF</td>
+<td>FAWK</td>
+<td><a href=\"/wiki/Air_Force_Base_Waterkloof\" title=\"Air Force Base Waterkloof\">Air Force Base Waterkloof</a><sup id=\"cite_ref-IATA_1-49\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Pretoria\" title=\"Pretoria\">Pretoria</a>, <a href=\"/wiki/South_Africa\" title=\"South Africa\">South Africa</a></td>
+</tr>
+<tr>
+<td>WKI</td>
+<td>FVWT</td>
+<td><a href=\"/wiki/Hwange_Town_Airport\" title=\"Hwange Town Airport\">Hwange Town Airport</a><sup id=\"cite_ref-IATA_1-50\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Hwange\" title=\"Hwange\">Hwange</a>, <a href=\"/wiki/Zimbabwe\" title=\"Zimbabwe\">Zimbabwe</a></td>
+</tr>
+<tr>
+<td>WKJ</td>
+<td>RJCW</td>
+<td><a href=\"/wiki/Wakkanai_Airport\" title=\"Wakkanai Airport\">Wakkanai Airport</a></td>
+<td><a href=\"/wiki/Wakkanai,_Hokkaido\" title=\"Wakkanai, Hokkaido\">Wakkanai</a>, <a href=\"/wiki/Hokkaido\" title=\"Hokkaido\">Hokkaido</a>, Japan</td>
+</tr>
+<tr>
+<td>WKK</td>
+<td></td>
+<td><a href=\"/wiki/Aleknagik_Airport\" title=\"Aleknagik Airport\">Aleknagik Airport</a> (FAA: 5A8)</td>
+<td><a href=\"/wiki/Aleknagik,_Alaska\" title=\"Aleknagik, Alaska\">Aleknagik</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>WKL</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Waikoloa_Heliport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Waikoloa Heliport (page does not exist)\">Waikoloa Heliport</a> (FAA: HI07)</td>
+<td><a href=\"/wiki/Waikoloa_Village,_Hawaii\" title=\"Waikoloa Village, Hawaii\">Waikoloa Village</a>, <a href=\"/wiki/Hawaii\" title=\"Hawaii\">Hawaii</a>, United States</td>
+</tr>
+<tr>
+<td>WKN</td>
+<td></td>
+<td><a href=\"/wiki/Wakunai_Airport\" title=\"Wakunai Airport\">Wakunai Airport</a></td>
+<td><a href=\"/w/index.php?title=Wakunai,_Papua_New_Guinea&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Wakunai, Papua New Guinea (page does not exist)\">Wakunai</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>WKR</td>
+<td>MYAW</td>
+<td><a href=\"/wiki/Walker%27s_Cay_Airport\" title=\"Walker&#39;s Cay Airport\">Walker's Cay Airport</a><sup id=\"cite_ref-IATA_1-51\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Walker%27s_Cay\" title=\"Walker&#39;s Cay\">Walker's Cay</a>, <a href=\"/wiki/Abaco_Islands\" title=\"Abaco Islands\">Abaco Islands</a>, <a href=\"/wiki/The_Bahamas\" title=\"The Bahamas\">Bahamas</a></td>
+</tr>
+<tr>
+<td>WLA</td>
+<td>YWAL</td>
+<td><a href=\"/w/index.php?title=Wallal_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Wallal Airport (page does not exist)\">Wallal Airport</a><sup id=\"cite_ref-IATA_1-52\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Wallal\" title=\"Wallal\">Wallal</a> (Wallal Downs), <a href=\"/wiki/Western_Australia\" title=\"Western Australia\">Western Australia</a>, Australia</td>
+</tr>
+<tr>
+<td>WLC</td>
+<td>YWCH</td>
+<td><a href=\"/w/index.php?title=Walcha_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Walcha Airport (page does not exist)\">Walcha Airport</a><sup id=\"cite_ref-IATA_1-53\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Walcha,_New_South_Wales\" title=\"Walcha, New South Wales\">Walcha</a>, <a href=\"/wiki/New_South_Wales\" title=\"New South Wales\">New South Wales</a>, Australia</td>
+</tr>
+<tr>
+<td>WLD</td>
+<td>KWLD</td>
+<td><a href=\"/wiki/Strother_Field\" title=\"Strother Field\">Strother Field</a></td>
+<td><a href=\"/wiki/Winfield,_Kansas\" title=\"Winfield, Kansas\">Winfield</a> / <a href=\"/wiki/Arkansas_City,_Kansas\" title=\"Arkansas City, Kansas\">Arkansas City</a>, <a href=\"/wiki/Kansas\" title=\"Kansas\">Kansas</a>, United States</td>
+</tr>
+<tr>
+<td>WLE</td>
+<td>YMLS</td>
+<td><a href=\"/wiki/Miles_Airport\" title=\"Miles Airport\">Miles Airport</a></td>
+<td><a href=\"/wiki/Miles,_Queensland\" title=\"Miles, Queensland\">Miles</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+</tr>
+<tr>
+<td>WLG</td>
+<td>NZWN</td>
+<td><a href=\"/wiki/Wellington_International_Airport\" title=\"Wellington International Airport\">Wellington International Airport</a></td>
+<td><a href=\"/wiki/Wellington\" title=\"Wellington\">Wellington</a>, <a href=\"/wiki/New_Zealand\" title=\"New Zealand\">New Zealand</a></td>
+</tr>
+<tr>
+<td>WLH</td>
+<td>NVSW</td>
+<td><a href=\"/wiki/Walaha_Airport\" title=\"Walaha Airport\">Walaha Airport</a><sup id=\"cite_ref-IATA_1-54\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Walaha&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Walaha (page does not exist)\">Walaha</a>, <a href=\"/wiki/Vanuatu\" title=\"Vanuatu\">Vanuatu</a></td>
+</tr>
+<tr>
+<td>WLK</td>
+<td>PASK</td>
+<td><a href=\"/wiki/Selawik_Airport\" title=\"Selawik Airport\">Selawik Airport</a></td>
+<td><a href=\"/wiki/Selawik,_Alaska\" title=\"Selawik, Alaska\">Selawik</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>WLL</td>
+<td>YWOR</td>
+<td><a href=\"/w/index.php?title=Wollogorang_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Wollogorang Airport (page does not exist)\">Wollogorang Airport</a></td>
+<td><a href=\"/wiki/Wollogorang_Station\" title=\"Wollogorang Station\">Wollogorang Station</a>, <a href=\"/wiki/Northern_Territory\" title=\"Northern Territory\">Northern Territory</a>, Australia</td>
+</tr>
+<tr>
+<td>WLO</td>
+<td>YWTL</td>
+<td><a href=\"/w/index.php?title=Waterloo_Airport_(Australia)&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Waterloo Airport (Australia) (page does not exist)\">Waterloo Airport</a></td>
+<td><a href=\"/w/index.php?title=Waterloo,_Northern_Territory&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Waterloo, Northern Territory (page does not exist)\">Waterloo</a>, <a href=\"/wiki/Northern_Territory\" title=\"Northern Territory\">Northern Territory</a>, Australia</td>
+</tr>
+<tr>
+<td>WLP</td>
+<td>YANG</td>
+<td><a href=\"/w/index.php?title=West_Angelas_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"West Angelas Airport (page does not exist)\">West Angelas Airport</a><sup id=\"cite_ref-IATA_1-55\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/West_Angelas_mine\" title=\"West Angelas mine\">West Angelas</a>, <a href=\"/wiki/Western_Australia\" title=\"Western Australia\">Western Australia</a>, Australia</td>
+</tr>
+<tr>
+<td>WLR</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Loring_Seaplane_Base&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Loring Seaplane Base (page does not exist)\">Loring Seaplane Base</a> (FAA: 13Z)</td>
+<td><a href=\"/wiki/Loring,_Alaska\" title=\"Loring, Alaska\">Loring</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>WLS</td>
+<td>NLWW</td>
+<td><a href=\"/wiki/Hihifo_Airport\" title=\"Hihifo Airport\">Hihifo Airport</a></td>
+<td><a href=\"/wiki/Wallis_(island)\" title=\"Wallis (island)\">Wallis Island</a>, <a href=\"/wiki/Wallis_and_Futuna\" title=\"Wallis and Futuna\">Wallis and Futuna</a></td>
+</tr>
+<tr>
+<td>WLW</td>
+<td>KWLW</td>
+<td><a href=\"/wiki/Willows-Glenn_County_Airport\" title=\"Willows-Glenn County Airport\">Willows-Glenn County Airport</a></td>
+<td><a href=\"/wiki/Willows,_California\" title=\"Willows, California\">Willows</a>, <a href=\"/wiki/California\" title=\"California\">California</a>, United States</td>
+</tr>
+<tr>
+<td>WMA</td>
+<td>FMNX</td>
+<td><a href=\"/wiki/Mandritsara_Airport\" title=\"Mandritsara Airport\">Mandritsara Airport</a></td>
+<td><a href=\"/wiki/Mandritsara\" title=\"Mandritsara\">Mandritsara</a>, <a href=\"/wiki/Madagascar\" title=\"Madagascar\">Madagascar</a></td>
+</tr>
+<tr>
+<td>WMB</td>
+<td>YWBL</td>
+<td><a href=\"/wiki/Warrnambool_Airport\" title=\"Warrnambool Airport\">Warrnambool Airport</a></td>
+<td><a href=\"/wiki/Warrnambool\" title=\"Warrnambool\">Warrnambool</a>, <a href=\"/wiki/Victoria_(Australia)\" title=\"Victoria (Australia)\">Victoria</a>, Australia</td>
+</tr>
+<tr>
+<td>WMC</td>
+<td>KWMC</td>
+<td><a href=\"/wiki/Winnemucca_Municipal_Airport\" title=\"Winnemucca Municipal Airport\">Winnemucca Municipal Airport</a></td>
+<td><a href=\"/wiki/Winnemucca,_Nevada\" title=\"Winnemucca, Nevada\">Winnemucca</a>, <a href=\"/wiki/Nevada\" title=\"Nevada\">Nevada</a>, United States</td>
+</tr>
+<tr>
+<td>WMD</td>
+<td>FMSC</td>
+<td><a href=\"/w/index.php?title=Mandabe_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Mandabe Airport (page does not exist)\">Mandabe Airport</a><sup id=\"cite_ref-IATA_1-56\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Mandabe\" title=\"Mandabe\">Mandabe</a>, <a href=\"/wiki/Madagascar\" title=\"Madagascar\">Madagascar</a></td>
+</tr>
+<tr>
+<td>WME</td>
+<td>YMNE</td>
+<td><a href=\"/wiki/Mount_Keith_Airport\" title=\"Mount Keith Airport\">Mount Keith Airport</a></td>
+<td><a href=\"/wiki/Mount_Keith_Mine\" title=\"Mount Keith Mine\">Mount Keith</a>, <a href=\"/wiki/Western_Australia\" title=\"Western Australia\">Western Australia</a>, Australia</td>
+</tr>
+<tr>
+<td>WMH</td>
+<td>KBPK</td>
+<td><a href=\"/wiki/Ozark_Regional_Airport\" title=\"Ozark Regional Airport\">Ozark Regional Airport</a> (FAA: BPK)</td>
+<td><a href=\"/wiki/Mountain_Home,_Arkansas\" title=\"Mountain Home, Arkansas\">Mountain Home</a>, <a href=\"/wiki/Arkansas\" title=\"Arkansas\">Arkansas</a>, United States</td>
+</tr>
+<tr>
+<td>WMI</td>
+<td>EPMO</td>
+<td><a href=\"/wiki/Warsaw_Modlin_Airport\" title=\"Warsaw Modlin Airport\">Warsaw Modlin Airport</a></td>
+<td><a href=\"/wiki/Warsaw\" title=\"Warsaw\">Warsaw</a>, <a href=\"/wiki/Poland\" title=\"Poland\">Poland</a></td>
+</tr>
+<tr>
+<td>WMK</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Meyers_Chuck_Seaplane_Base&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Meyers Chuck Seaplane Base (page does not exist)\">Meyers Chuck Seaplane Base</a> (FAA: 84K)</td>
+<td><a href=\"/wiki/Meyers_Chuck,_Wrangell\" title=\"Meyers Chuck, Wrangell\">Meyers Chuck</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>WML</td>
+<td>FMMC</td>
+<td><a href=\"/w/index.php?title=Malaimbandy_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Malaimbandy Airport (page does not exist)\">Malaimbandy Airport</a></td>
+<td><a href=\"/wiki/Malaimbandy\" title=\"Malaimbandy\">Malaimbandy</a>, <a href=\"/wiki/Madagascar\" title=\"Madagascar\">Madagascar</a></td>
+</tr>
+<tr>
+<td>WMN</td>
+<td>FMNR</td>
+<td><a href=\"/wiki/Maroantsetra_Airport\" title=\"Maroantsetra Airport\">Maroantsetra Airport</a><sup id=\"cite_ref-IATA_1-57\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Maroantsetra\" title=\"Maroantsetra\">Maroantsetra</a>, <a href=\"/wiki/Madagascar\" title=\"Madagascar\">Madagascar</a></td>
+</tr>
+<tr>
+<td>WMO</td>
+<td>PAWM</td>
+<td><a href=\"/wiki/White_Mountain_Airport\" title=\"White Mountain Airport\">White Mountain Airport</a></td>
+<td><a href=\"/wiki/White_Mountain,_Alaska\" title=\"White Mountain, Alaska\">White Mountain</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>WMP</td>
+<td>FMNP</td>
+<td><a href=\"/wiki/Mampikony_Airport\" title=\"Mampikony Airport\">Mampikony Airport</a><sup id=\"cite_ref-IATA_1-58\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Mampikony\" title=\"Mampikony\">Mampikony</a>, <a href=\"/wiki/Madagascar\" title=\"Madagascar\">Madagascar</a></td>
+</tr>
+<tr>
+<td>WMR</td>
+<td>FMNC</td>
+<td><a href=\"/wiki/Mananara_Nord_Airport\" title=\"Mananara Nord Airport\">Mananara Nord Airport</a><sup id=\"cite_ref-IATA_1-59\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Mananara_Nord\" title=\"Mananara Nord\">Mananara Nord</a> (Mananara Avaratra), <a href=\"/wiki/Madagascar\" title=\"Madagascar\">Madagascar</a></td>
+</tr>
+<tr>
+<td>WMV</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Madirovalo_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Madirovalo Airport (page does not exist)\">Madirovalo Airport</a><sup id=\"cite_ref-IATA_1-60\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Madirovalo\" title=\"Madirovalo\">Madirovalo</a>, <a href=\"/wiki/Madagascar\" title=\"Madagascar\">Madagascar</a></td>
+</tr>
+<tr>
+<td>WMX</td>
+<td>WAVV</td>
+<td><a href=\"/wiki/Wamena_Airport\" title=\"Wamena Airport\">Wamena Airport</a><sup id=\"cite_ref-IATA_1-61\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Wamena\" title=\"Wamena\">Wamena</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+</tr>
+<tr>
+<td>WNA</td>
+<td>PANA</td>
+<td><a href=\"/wiki/Napakiak_Airport\" title=\"Napakiak Airport\">Napakiak Airport</a></td>
+<td><a href=\"/wiki/Napakiak,_Alaska\" title=\"Napakiak, Alaska\">Napakiak</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>WND</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Windarra_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Windarra Airport (page does not exist)\">Windarra Airport</a><sup id=\"cite_ref-IATA_1-62\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Windarra,_Western_Australia&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Windarra, Western Australia (page does not exist)\">Windarra</a>, <a href=\"/wiki/Western_Australia\" title=\"Western Australia\">Western Australia</a>, Australia</td>
+</tr>
+<tr>
+<td>WNE</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Wora_na_Yeno_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Wora na Yeno Airport (page does not exist)\">Wora na Yeno Airport</a><sup id=\"cite_ref-IATA_1-63\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Wora_na_Yeno&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Wora na Yeno (page does not exist)\">Wora na Yeno</a>, <a href=\"/wiki/Gabon\" title=\"Gabon\">Gabon</a></td>
+</tr>
+<tr>
+<td>WNH</td>
+<td>ZPWS</td>
+<td><a href=\"/wiki/Wenshan_Puzhehei_Airport\" title=\"Wenshan Puzhehei Airport\">Wenshan Puzhehei Airport</a></td>
+<td><a href=\"/wiki/Wenshan_City\" title=\"Wenshan City\">Wenshan</a>, <a href=\"/wiki/Yunnan\" title=\"Yunnan\">Yunnan</a>, China</td>
+</tr>
+<tr>
+<td>WNN</td>
+<td></td>
+<td><a href=\"/wiki/Wunnummin_Lake_Airport\" class=\"mw-redirect\" title=\"Wunnummin Lake Airport\">Wunnummin Lake Airport</a><sup id=\"cite_ref-IATA_1-64\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (TC: CKL3)</td>
+<td><a href=\"/wiki/Wunnumin_Lake_First_Nation\" title=\"Wunnumin Lake First Nation\">Wunnumin Lake</a>, <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>WNP</td>
+<td>RPUN</td>
+<td><a href=\"/wiki/Naga_Airport\" title=\"Naga Airport\">Naga Airport</a></td>
+<td><a href=\"/wiki/Naga,_Camarines_Sur\" title=\"Naga, Camarines Sur\">Naga</a>, <a href=\"/wiki/Philippines\" title=\"Philippines\">Philippines</a></td>
+</tr>
+<tr>
+<td>WNR</td>
+<td>YWDH</td>
+<td><a href=\"/wiki/Windorah_Airport\" title=\"Windorah Airport\">Windorah Airport</a><sup id=\"cite_ref-IATA_1-65\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Windorah\" title=\"Windorah\">Windorah</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+</tr>
+<tr>
+<td>WNS</td>
+<td>OPNH</td>
+<td><a href=\"/wiki/Nawabshah_Airport\" title=\"Nawabshah Airport\">Nawabshah Airport</a><sup id=\"cite_ref-IATA_1-66\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Nawabshah\" title=\"Nawabshah\">Nawabshah</a> (Shaheed Benazirabad), <a href=\"/wiki/Pakistan\" title=\"Pakistan\">Pakistan</a></td>
+</tr>
+<tr>
+<td>WNU</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Wanuma_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Wanuma Airport (page does not exist)\">Wanuma Airport</a><sup id=\"cite_ref-IATA_1-67\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Wanuma\" class=\"mw-redirect\" title=\"Wanuma\">Wanuma</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>WNZ</td>
+<td>ZSWZ</td>
+<td><a href=\"/wiki/Wenzhou_Longwan_International_Airport\" title=\"Wenzhou Longwan International Airport\">Wenzhou Longwan International Airport</a></td>
+<td><a href=\"/wiki/Wenzhou\" title=\"Wenzhou\">Wenzhou</a>, <a href=\"/wiki/Zhejiang\" title=\"Zhejiang\">Zhejiang</a>, China</td>
+</tr>
+<tr>
+<td>WOA</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Wonenara_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Wonenara Airport (page does not exist)\">Wonenara Airport</a><sup id=\"cite_ref-IATA_1-68\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Wonenara&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Wonenara (page does not exist)\">Wonenara</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>WOE</td>
+<td>EHWO</td>
+<td><a href=\"/wiki/Woensdrecht_Air_Base\" title=\"Woensdrecht Air Base\">Woensdrecht Air Base</a></td>
+<td><a href=\"/wiki/Bergen_op_Zoom\" title=\"Bergen op Zoom\">Bergen op Zoom</a>, <a href=\"/wiki/Netherlands\" title=\"Netherlands\">Netherlands</a></td>
+</tr>
+<tr>
+<td>WOK</td>
+<td>SVUQ</td>
+<td><a href=\"/wiki/Uonqu%C3%A9n_Airport\" title=\"Uonqu\u00e9n Airport\">Uonqu\u00e9n Airport</a><sup id=\"cite_ref-IATA_1-69\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Uonqu%C3%A9n&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Uonqu\u00e9n (page does not exist)\">Uonqu\u00e9n</a>, <a href=\"/wiki/Venezuela\" title=\"Venezuela\">Venezuela</a></td>
+</tr>
+<tr>
+<td>WOL</td>
+<td>YWOL</td>
+<td><a href=\"/wiki/Illawarra_Regional_Airport\" title=\"Illawarra Regional Airport\">Illawarra Regional Airport</a></td>
+<td><a href=\"/wiki/Wollongong\" title=\"Wollongong\">Wollongong</a>, <a href=\"/wiki/New_South_Wales\" title=\"New South Wales\">New South Wales</a>, Australia</td>
+</tr>
+<tr>
+<td>WON</td>
+<td>YWDL</td>
+<td><a href=\"/w/index.php?title=Wondoola_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Wondoola Airport (page does not exist)\">Wondoola Airport</a><sup id=\"cite_ref-IATA_1-70\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Wondoola\" title=\"Wondoola\">Wondoola</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+</tr>
+<tr>
+<td>WOR</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Moramba_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Moramba Airport (page does not exist)\">Moramba Airport</a><sup id=\"cite_ref-IATA_1-71\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Ankorefo&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Ankorefo (page does not exist)\">Ankorefo</a>, <a href=\"/wiki/Madagascar\" title=\"Madagascar\">Madagascar</a></td>
+</tr>
+<tr>
+<td>WOS</td>
+<td>ZKWS</td>
+<td><a href=\"/wiki/Wonsan_Kalma_International_Airport\" class=\"mw-redirect\" title=\"Wonsan Kalma International Airport\">Wonsan Kalma International Airport</a><sup id=\"cite_ref-IATA_1-72\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Wonsan\" title=\"Wonsan\">Wonsan</a>, <a href=\"/wiki/North_Korea\" title=\"North Korea\">North Korea</a></td>
+</tr>
+<tr>
+<td>WOT</td>
+<td>RCWA</td>
+<td><a href=\"/wiki/Wang-an_Airport\" title=\"Wang-an Airport\">Wang-an Airport</a></td>
+<td><a href=\"/wiki/Wang%27an,_Penghu\" title=\"Wang&#39;an, Penghu\">Wang'an</a>, <a href=\"/wiki/Taiwan\" title=\"Taiwan\">Taiwan</a></td>
+</tr>
+<tr>
+<td>WOW</td>
+<td>PAUO</td>
+<td><a href=\"/wiki/Willow_Airport\" title=\"Willow Airport\">Willow Airport</a> (FAA: UUO)</td>
+<td><a href=\"/wiki/Willow,_Alaska\" title=\"Willow, Alaska\">Willow</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>WPA</td>
+<td>SCAS</td>
+<td><a href=\"/wiki/Cabo_Juan_Rom%C3%A1n_Airfield\" title=\"Cabo Juan Rom\u00e1n Airfield\">Cabo Juan Rom\u00e1n Airfield</a></td>
+<td><a href=\"/wiki/Puerto_Ays%C3%A9n\" title=\"Puerto Ays\u00e9n\">Puerto Ais\u00e9n</a>, <a href=\"/wiki/Chile\" title=\"Chile\">Chile</a></td>
+</tr>
+<tr>
+<td>WPB</td>
+<td>FMNG</td>
+<td><a href=\"/wiki/Port_Berg%C3%A9_Airport\" title=\"Port Berg\u00e9 Airport\">Port Berg\u00e9 Airport</a></td>
+<td><a href=\"/wiki/Boriziny\" title=\"Boriziny\">Boriziny</a> (Port Berg\u00e9), <a href=\"/wiki/Madagascar\" title=\"Madagascar\">Madagascar</a></td>
+</tr>
+<tr>
+<td>WPC</td>
+<td>CZPC</td>
+<td><a href=\"/wiki/Pincher_Creek_Airport\" title=\"Pincher Creek Airport\">Pincher Creek Airport</a></td>
+<td><a href=\"/wiki/Pincher_Creek\" title=\"Pincher Creek\">Pincher Creek</a>, <a href=\"/wiki/Alberta\" title=\"Alberta\">Alberta</a>, Canada</td>
+</tr>
+<tr>
+<td>WPK</td>
+<td>YWMP</td>
+<td><a href=\"/w/index.php?title=Wrotham_Park_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Wrotham Park Airport (page does not exist)\">Wrotham Park Airport</a><sup id=\"cite_ref-IATA_1-73\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Wrotham_Park,_Queensland&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Wrotham Park, Queensland (page does not exist)\">Wrotham Park</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+</tr>
+<tr>
+<td>WPL</td>
+<td></td>
+<td><a href=\"/wiki/Powell_Lake_Water_Aerodrome\" title=\"Powell Lake Water Aerodrome\">Powell Lake Water Aerodrome</a><sup id=\"cite_ref-IATA_1-74\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (TC: CAQ8)</td>
+<td><a href=\"/wiki/Powell_River,_British_Columbia\" title=\"Powell River, British Columbia\">Powell River</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>WPM</td>
+<td>AYXP</td>
+<td><a href=\"/wiki/Wipim_Airport\" title=\"Wipim Airport\">Wipim Airport</a><sup id=\"cite_ref-IATA_1-75\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Wipim&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Wipim (page does not exist)\">Wipim</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>WPO</td>
+<td></td>
+<td><a href=\"/w/index.php?title=North_Fork_Valley_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"North Fork Valley Airport (page does not exist)\">North Fork Valley Airport</a> (FAA: 7V2)</td>
+<td><a href=\"/wiki/Paonia,_Colorado\" title=\"Paonia, Colorado\">Paonia</a>, <a href=\"/wiki/Colorado\" title=\"Colorado\">Colorado</a>, United States</td>
+</tr>
+<tr>
+<td>WPR</td>
+<td>SCFM</td>
+<td><a href=\"/wiki/Capit%C3%A1n_Fuentes_Mart%C3%ADnez_Airport\" title=\"Capit\u00e1n Fuentes Mart\u00ednez Airport\">Capit\u00e1n Fuentes Mart\u00ednez Airport</a><sup id=\"cite_ref-IATA_1-76\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Porvenir,_Chile\" title=\"Porvenir, Chile\">Porvenir</a>, <a href=\"/wiki/Chile\" title=\"Chile\">Chile</a></td>
+</tr>
+<tr>
+<td>WPU</td>
+<td>SCGZ</td>
+<td><a href=\"/wiki/Guardiamarina_Za%C3%B1artu_Airport\" title=\"Guardiamarina Za\u00f1artu Airport\">Guardiamarina Za\u00f1artu Airport</a><sup id=\"cite_ref-IATA_1-77\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Puerto_Williams\" title=\"Puerto Williams\">Puerto Williams</a>, <a href=\"/wiki/Chile\" title=\"Chile\">Chile</a></td>
+</tr>
+<tr>
+<td>WRA</td>
+<td>HAWR</td>
+<td><a href=\"/w/index.php?title=Warder_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Warder Airport (page does not exist)\">Warder Airport</a><sup id=\"cite_ref-IATA_1-78\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Werder,_Ethiopia\" title=\"Werder, Ethiopia\">Werder</a> (Warder), <a href=\"/wiki/Ethiopia\" title=\"Ethiopia\">Ethiopia</a></td>
+</tr>
+<tr>
+<td>WRB</td>
+<td>KWRB</td>
+<td><a href=\"/wiki/Robins_Air_Force_Base\" title=\"Robins Air Force Base\">Robins Air Force Base</a></td>
+<td><a href=\"/wiki/Warner_Robins,_Georgia\" title=\"Warner Robins, Georgia\">Warner Robins</a>, <a href=\"/wiki/Georgia_(U.S._state)\" title=\"Georgia (U.S. state)\">Georgia</a>, United States</td>
+</tr>
+<tr>
+<td>WRE</td>
+<td>NZWR</td>
+<td><a href=\"/wiki/Whangarei_Airport\" title=\"Whangarei Airport\">Whangarei Airport</a></td>
+<td><a href=\"/wiki/Whangarei\" title=\"Whangarei\">Whangarei</a>, <a href=\"/wiki/New_Zealand\" title=\"New Zealand\">New Zealand</a></td>
+</tr>
+<tr>
+<td>WRG</td>
+<td>PAWG</td>
+<td><a href=\"/wiki/Wrangell_Airport\" title=\"Wrangell Airport\">Wrangell Airport</a></td>
+<td><a href=\"/wiki/Wrangell,_Alaska\" title=\"Wrangell, Alaska\">Wrangell</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>WRI</td>
+<td>KWRI</td>
+<td><a href=\"/wiki/McGuire_Air_Force_Base\" title=\"McGuire Air Force Base\">McGuire Air Force Base</a></td>
+<td><a href=\"/wiki/Wrightstown,_New_Jersey\" title=\"Wrightstown, New Jersey\">Wrightstown</a>, <a href=\"/wiki/New_Jersey\" title=\"New Jersey\">New Jersey</a>, United States</td>
+</tr>
+<tr>
+<td>WRL</td>
+<td>KWRL</td>
+<td><a href=\"/wiki/Worland_Municipal_Airport\" title=\"Worland Municipal Airport\">Worland Municipal Airport</a></td>
+<td><a href=\"/wiki/Worland,_Wyoming\" title=\"Worland, Wyoming\">Worland</a>, <a href=\"/wiki/Wyoming\" title=\"Wyoming\">Wyoming</a>, United States</td>
+</tr>
+<tr>
+<td>WRN</td>
+<td>YWDG</td>
+<td><a href=\"/wiki/Windarling_Airport\" title=\"Windarling Airport\">Windarling Airport</a></td>
+<td><a href=\"/w/index.php?title=Windarling_Mine&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Windarling Mine (page does not exist)\">Windarling</a>, <a href=\"/wiki/Western_Australia\" title=\"Western Australia\">Western Australia</a>, Australia</td>
+</tr>
+<tr>
+<td>WRO</td>
+<td>EPWR</td>
+<td><a href=\"/wiki/Copernicus_Airport_Wroc%C5%82aw\" title=\"Copernicus Airport Wroc\u0142aw\">Copernicus Airport Wroc\u0142aw</a></td>
+<td><a href=\"/wiki/Wroc%C5%82aw\" title=\"Wroc\u0142aw\">Wroc\u0142aw</a>, <a href=\"/wiki/Poland\" title=\"Poland\">Poland</a></td>
+</tr>
+<tr>
+<td>WRT</td>
+<td>EGNO</td>
+<td><a href=\"/wiki/Warton_Aerodrome\" title=\"Warton Aerodrome\">Warton Aerodrome</a></td>
+<td><a href=\"/wiki/Warton,_Fylde\" title=\"Warton, Fylde\">Warton</a>, <a href=\"/wiki/England\" title=\"England\">England</a>, United Kingdom</td>
+</tr>
+<tr>
+<td>WRW</td>
+<td>YWWG</td>
+<td><a href=\"/w/index.php?title=Warrawagine_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Warrawagine Airport (page does not exist)\">Warrawagine Airport</a><sup id=\"cite_ref-IATA_1-79\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Warrawagine\" title=\"Warrawagine\">Warrawagine Station</a>, <a href=\"/wiki/Western_Australia\" title=\"Western Australia\">Western Australia</a>, Australia</td>
+</tr>
+<tr>
+<td>WRY</td>
+<td>EGEW</td>
+<td><a href=\"/wiki/Westray_Airport\" title=\"Westray Airport\">Westray Airport</a><sup id=\"cite_ref-IATA_1-80\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Westray\" title=\"Westray\">Westray</a>, <a href=\"/wiki/Scotland\" title=\"Scotland\">Scotland</a>, United Kingdom</td>
+</tr>
+<tr>
+<td>WRZ</td>
+<td>VCCW</td>
+<td><a href=\"/wiki/Weerawila_Airport\" title=\"Weerawila Airport\">Weerawila Airport</a></td>
+<td><a href=\"/w/index.php?title=Weerawila,_Sri_Lanka&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Weerawila, Sri Lanka (page does not exist)\">Weerawila</a>, <a href=\"/wiki/Sri_Lanka\" title=\"Sri Lanka\">Sri Lanka</a></td>
+</tr>
+<tr>
+<td>WSA</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Wasua_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Wasua Airport (page does not exist)\">Wasua Airport</a><sup id=\"cite_ref-IATA_1-81\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Wasua&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Wasua (page does not exist)\">Wasua</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>WSB</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Steamboat_Bay_Seaplane_Base&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Steamboat Bay Seaplane Base (page does not exist)\">Steamboat Bay Seaplane Base</a><sup id=\"cite_ref-IATA_1-82\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Steamboat_Bay,_Alaska&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Steamboat Bay, Alaska (page does not exist)\">Steamboat Bay</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>WSD</td>
+<td>KWSD</td>
+<td><a href=\"/w/index.php?title=Condron_Army_Airfield&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Condron Army Airfield (page does not exist)\">Condron Army Airfield</a></td>
+<td><a href=\"/wiki/White_Sands,_New_Mexico\" title=\"White Sands, New Mexico\">White Sands</a>, <a href=\"/wiki/New_Mexico\" title=\"New Mexico\">New Mexico</a>, United States</td>
+</tr>
+<tr>
+<td>WSF</td>
+<td>PACS</td>
+<td><a href=\"/wiki/Cape_Sarichef_Airport\" title=\"Cape Sarichef Airport\">Cape Sarichef Airport</a><sup id=\"cite_ref-IATA_1-83\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (FAA: 26AK)</td>
+<td><a href=\"/w/index.php?title=Cape_Sarichef,_Alaska&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Cape Sarichef, Alaska (page does not exist)\">Cape Sarichef</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>WSG</td>
+<td>KAFJ</td>
+<td><a href=\"/wiki/Washington_County_Airport_(Pennsylvania)\" title=\"Washington County Airport (Pennsylvania)\">Washington County Airport</a> (FAA: AFJ)</td>
+<td><a href=\"/wiki/Washington,_Pennsylvania\" title=\"Washington, Pennsylvania\">Washington</a>, <a href=\"/wiki/Pennsylvania\" title=\"Pennsylvania\">Pennsylvania</a>, United States</td>
+</tr>
+<tr>
+<td>WSH</td>
+<td>KHWV</td>
+<td><a href=\"/wiki/Brookhaven_Airport\" title=\"Brookhaven Airport\">Brookhaven Airport</a> (FAA: HWV)</td>
+<td><a href=\"/wiki/Shirley,_New_York\" title=\"Shirley, New York\">Shirley</a>, <a href=\"/wiki/New_York_(state)\" title=\"New York (state)\">New York</a>, United States</td>
+</tr>
+<tr>
+<td>WSM</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Wiseman_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Wiseman Airport (page does not exist)\">Wiseman Airport</a></td>
+<td><a href=\"/wiki/Wiseman,_Alaska\" title=\"Wiseman, Alaska\">Wiseman</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>WSN</td>
+<td>PFWS</td>
+<td><a href=\"/wiki/South_Naknek_Airport\" title=\"South Naknek Airport\">South Naknek Airport</a></td>
+<td><a href=\"/wiki/South_Naknek,_Alaska\" title=\"South Naknek, Alaska\">South Naknek</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>WSO</td>
+<td>SMWS</td>
+<td><a href=\"/wiki/Washabo_Airport\" title=\"Washabo Airport\">Washabo Airport</a></td>
+<td><a href=\"/w/index.php?title=Washabo&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Washabo (page does not exist)\">Washabo</a> (Wasjabo), <a href=\"/wiki/Suriname\" title=\"Suriname\">Suriname</a></td>
+</tr>
+<tr>
+<td>WSP</td>
+<td>MNWP</td>
+<td><a href=\"/wiki/Waspam_Airport\" title=\"Waspam Airport\">Waspam Airport</a></td>
+<td><a href=\"/wiki/Waspam\" title=\"Waspam\">Waspam</a>, <a href=\"/wiki/Nicaragua\" title=\"Nicaragua\">Nicaragua</a></td>
+</tr>
+<tr>
+<td>WSR</td>
+<td>WASW</td>
+<td><a href=\"/w/index.php?title=Wasior_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Wasior Airport (page does not exist)\">Wasior Airport</a><sup id=\"cite_ref-IATA_1-84\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Wasior\" title=\"Wasior\">Wasior</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+</tr>
+<tr>
+<td>WST</td>
+<td>KWST</td>
+<td><a href=\"/wiki/Westerly_State_Airport\" title=\"Westerly State Airport\">Westerly State Airport</a></td>
+<td><a href=\"/wiki/Westerly,_Rhode_Island\" title=\"Westerly, Rhode Island\">Westerly</a>, <a href=\"/wiki/Rhode_Island\" title=\"Rhode Island\">Rhode Island</a>, United States</td>
+</tr>
+<tr>
+<td>WSU</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Wasu_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Wasu Airport (page does not exist)\">Wasu Airport</a><sup id=\"cite_ref-IATA_1-85\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Wasu,_Papua_New_Guinea\" title=\"Wasu, Papua New Guinea\">Wasu</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>WSX</td>
+<td></td>
+<td><a href=\"/wiki/Westsound/WSX_Seaplane_Base\" title=\"Westsound/WSX Seaplane Base\">Westsound Seaplane Base</a><sup id=\"cite_ref-IATA_1-86\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (FAA: WA83)</td>
+<td><a href=\"/wiki/West_Sound,_Washington\" title=\"West Sound, Washington\">West Sound</a>, <a href=\"/wiki/Washington_(state)\" title=\"Washington (state)\">Washington</a>, United States</td>
+</tr>
+<tr>
+<td>WSY</td>
+<td>YSHR<sup id=\"cite_ref-2\" class=\"reference\"><a href=\"#cite_note-2\">&#91;2&#93;</a></sup><sup id=\"cite_ref-3\" class=\"reference\"><a href=\"#cite_note-3\">&#91;3&#93;</a></sup></td>
+<td><a href=\"/wiki/Whitsunday_Airport\" title=\"Whitsunday Airport\">Whitsunday Airport</a></td>
+<td><a href=\"/wiki/Airlie_Beach,_Queensland\" title=\"Airlie Beach, Queensland\">Airlie Beach</a> / <a href=\"/wiki/Shute_Harbour\" title=\"Shute Harbour\">Shute Harbour</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+</tr>
+<tr>
+<td>WSZ</td>
+<td>NZWS</td>
+<td><a href=\"/wiki/Westport_Airport_(New_Zealand)\" title=\"Westport Airport (New Zealand)\">Westport Airport</a></td>
+<td><a href=\"/wiki/Westport,_New_Zealand\" title=\"Westport, New Zealand\">Westport</a>, <a href=\"/wiki/New_Zealand\" title=\"New Zealand\">New Zealand</a></td>
+</tr>
+<tr>
+<td>WTA</td>
+<td>FMMU</td>
+<td><a href=\"/wiki/Tambohorano_Airport\" title=\"Tambohorano Airport\">Tambohorano Airport</a></td>
+<td><a href=\"/wiki/Tambohorano\" title=\"Tambohorano\">Tambohorano</a>, <a href=\"/wiki/Madagascar\" title=\"Madagascar\">Madagascar</a></td>
+</tr>
+<tr>
+<td>WTB</td>
+<td>YBWW</td>
+<td><a href=\"/wiki/Toowoomba_Wellcamp_Airport\" title=\"Toowoomba Wellcamp Airport\">Toowoomba Wellcamp Airport</a></td>
+<td><a href=\"/wiki/Toowoomba\" title=\"Toowoomba\">Toowoomba</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+</tr>
+<tr>
+<td>WTD</td>
+<td>MYGW</td>
+<td><a href=\"/wiki/West_End_Airport\" title=\"West End Airport\">West End Airport</a></td>
+<td><a href=\"/wiki/West_End,_Grand_Bahama\" title=\"West End, Grand Bahama\">West End</a>, <a href=\"/wiki/Grand_Bahama\" title=\"Grand Bahama\">Grand Bahama</a>, <a href=\"/wiki/The_Bahamas\" title=\"The Bahamas\">Bahamas</a></td>
+</tr>
+<tr>
+<td>WTE</td>
+<td></td>
+<td><a href=\"/wiki/Wotje_Airport\" title=\"Wotje Airport\">Wotje Airport</a> (FAA: N36)</td>
+<td><a href=\"/wiki/Wotje_Atoll\" title=\"Wotje Atoll\">Wotje Atoll</a>, <a href=\"/wiki/Marshall_Islands\" title=\"Marshall Islands\">Marshall Islands</a></td>
+</tr>
+<tr>
+<td>WTK</td>
+<td>PAWN</td>
+<td><a href=\"/wiki/Noatak_Airport\" title=\"Noatak Airport\">Noatak Airport</a></td>
+<td><a href=\"/wiki/Noatak,_Alaska\" title=\"Noatak, Alaska\">Noatak</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>WTL</td>
+<td></td>
+<td><a href=\"/wiki/Tuntutuliak_Airport\" title=\"Tuntutuliak Airport\">Tuntutuliak Airport</a> (FAA: A61)</td>
+<td><a href=\"/wiki/Tuntutuliak,_Alaska\" title=\"Tuntutuliak, Alaska\">Tuntutuliak</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>WTN</td>
+<td>EGXW</td>
+<td><a href=\"/wiki/RAF_Waddington\" title=\"RAF Waddington\">RAF Waddington</a><sup id=\"cite_ref-IATA_1-87\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Waddington,_Lincolnshire\" title=\"Waddington, Lincolnshire\">Waddington</a>, <a href=\"/wiki/England\" title=\"England\">England</a>, United Kingdom</td>
+</tr>
+<tr>
+<td>WTO</td>
+<td></td>
+<td><a href=\"/wiki/Wotho_Airport\" title=\"Wotho Airport\">Wotho Airport</a></td>
+<td><a href=\"/wiki/Wotho_Atoll\" title=\"Wotho Atoll\">Wotho Atoll</a>, <a href=\"/wiki/Marshall_Islands\" title=\"Marshall Islands\">Marshall Islands</a></td>
+</tr>
+<tr>
+<td>WTP</td>
+<td>AYWT</td>
+<td><a href=\"/wiki/Woitape_Airport\" title=\"Woitape Airport\">Woitape Airport</a><sup id=\"cite_ref-IATA_1-88\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Woitape&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Woitape (page does not exist)\">Woitape</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>WTR</td>
+<td></td>
+<td><a href=\"/wiki/Whiteriver_Airport\" title=\"Whiteriver Airport\">Whiteriver Airport</a> (FAA: E24)</td>
+<td><a href=\"/wiki/Whiteriver,_Arizona\" title=\"Whiteriver, Arizona\">Whiteriver</a>, <a href=\"/wiki/Arizona\" title=\"Arizona\">Arizona</a>, United States</td>
+</tr>
+<tr>
+<td>WTS</td>
+<td>FMMX</td>
+<td><a href=\"/wiki/Tsiroanomandidy_Airport\" title=\"Tsiroanomandidy Airport\">Tsiroanomandidy Airport</a></td>
+<td><a href=\"/wiki/Tsiroanomandidy\" title=\"Tsiroanomandidy\">Tsiroanomandidy</a>, <a href=\"/wiki/Madagascar\" title=\"Madagascar\">Madagascar</a></td>
+</tr>
+<tr>
+<td>WTT</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Wantoat_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Wantoat Airport (page does not exist)\">Wantoat Airport</a><sup id=\"cite_ref-IATA_1-89\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Wantoat\" class=\"mw-redirect\" title=\"Wantoat\">Wantoat</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>WTZ</td>
+<td>NZWT</td>
+<td><a href=\"/wiki/Whitianga_Aerodrome\" title=\"Whitianga Aerodrome\">Whitianga Aerodrome</a><sup id=\"cite_ref-IATA_1-90\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Whitianga\" title=\"Whitianga\">Whitianga</a>, <a href=\"/wiki/New_Zealand\" title=\"New Zealand\">New Zealand</a></td>
+</tr>
+<tr>
+<td>WUA</td>
+<td>ZBUH</td>
+<td><a href=\"/wiki/Wuhai_Airport\" title=\"Wuhai Airport\">Wuhai Airport</a></td>
+<td><a href=\"/wiki/Wuhai\" title=\"Wuhai\">Wuhai</a>, <a href=\"/wiki/Inner_Mongolia\" title=\"Inner Mongolia\">Inner Mongolia</a>, China</td>
+</tr>
+<tr>
+<td>WUD</td>
+<td>YWUD</td>
+<td><a href=\"/wiki/Wudinna_Airport\" title=\"Wudinna Airport\">Wudinna Airport</a><sup id=\"cite_ref-IATA_1-91\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Wudinna,_South_Australia\" title=\"Wudinna, South Australia\">Wudinna</a>, <a href=\"/wiki/South_Australia\" title=\"South Australia\">South Australia</a>, Australia</td>
+</tr>
+<tr>
+<td>WUG</td>
+<td>AYWU</td>
+<td><a href=\"/wiki/Wau_Airport,_Papua_New_Guinea\" class=\"mw-redirect\" title=\"Wau Airport, Papua New Guinea\">Wau Airport</a><sup id=\"cite_ref-IATA_1-92\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Wau,_Papua_New_Guinea\" title=\"Wau, Papua New Guinea\">Wau</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>WUH</td>
+<td>ZHHH</td>
+<td><a href=\"/wiki/Wuhan_Tianhe_International_Airport\" title=\"Wuhan Tianhe International Airport\">Wuhan Tianhe International Airport</a></td>
+<td><a href=\"/wiki/Wuhan\" title=\"Wuhan\">Wuhan</a>, <a href=\"/wiki/Hubei\" title=\"Hubei\">Hubei</a>, China</td>
+</tr>
+<tr>
+<td>WUI</td>
+<td>YMMI</td>
+<td><a href=\"/wiki/Murrin_Murrin_Airport\" title=\"Murrin Murrin Airport\">Murrin Murrin Airport</a></td>
+<td><a href=\"/wiki/Murrin_Murrin_Joint_Venture\" title=\"Murrin Murrin Joint Venture\">Murrin Murrin</a>, <a href=\"/wiki/Western_Australia\" title=\"Western Australia\">Western Australia</a>, Australia</td>
+</tr>
+<tr>
+<td>WUM</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Wasum_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Wasum Airport (page does not exist)\">Wasum Airport</a><sup id=\"cite_ref-IATA_1-93\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Wasum&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Wasum (page does not exist)\">Wasum</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>WUN</td>
+<td>YWLU</td>
+<td><a href=\"/wiki/Wiluna_Airport\" title=\"Wiluna Airport\">Wiluna Airport</a><sup id=\"cite_ref-IATA_1-94\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Wiluna,_Western_Australia\" title=\"Wiluna, Western Australia\">Wiluna</a>, <a href=\"/wiki/Western_Australia\" title=\"Western Australia\">Western Australia</a>, Australia</td>
+</tr>
+<tr>
+<td>WUS</td>
+<td>ZSWY</td>
+<td><a href=\"/wiki/Wuyishan_Airport\" title=\"Wuyishan Airport\">Wuyishan Airport</a></td>
+<td><a href=\"/wiki/Wuyishan,_Fujian\" title=\"Wuyishan, Fujian\">Wuyishan</a>, <a href=\"/wiki/Fujian\" title=\"Fujian\">Fujian</a>, China</td>
+</tr>
+<tr>
+<td>WUT</td>
+<td>ZBXZ</td>
+<td><a href=\"/wiki/Xinzhou_Wutaishan_Airport\" title=\"Xinzhou Wutaishan Airport\">Xinzhou Wutaishan Airport</a><sup id=\"cite_ref-IATA_1-95\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Xinzhou\" title=\"Xinzhou\">Xinzhou</a>, <a href=\"/wiki/Shanxi\" title=\"Shanxi\">Shanxi</a>, China</td>
+</tr>
+<tr>
+<td>WUU</td>
+<td>HSWW</td>
+<td><a href=\"/wiki/Wau_Airport\" title=\"Wau Airport\">Wau Airport</a></td>
+<td><a href=\"/wiki/Wau,_South_Sudan\" title=\"Wau, South Sudan\">Wau</a>, <a href=\"/wiki/South_Sudan\" title=\"South Sudan\">South Sudan</a></td>
+</tr>
+<tr>
+<td>WUV</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Wuvulu_Island_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Wuvulu Island Airport (page does not exist)\">Wuvulu Island Airport</a><sup id=\"cite_ref-IATA_1-96\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Wuvulu_Island\" title=\"Wuvulu Island\">Wuvulu Island</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>WUX</td>
+<td>ZSWX</td>
+<td><a href=\"/wiki/Sunan_Shuofang_International_Airport\" title=\"Sunan Shuofang International Airport\">Sunan Shuofang International Airport</a></td>
+<td><a href=\"/wiki/Wuxi\" title=\"Wuxi\">Wuxi</a> / <a href=\"/wiki/Suzhou\" title=\"Suzhou\">Suzhou</a>, <a href=\"/wiki/Jiangsu\" title=\"Jiangsu\">Jiangsu</a>, China</td>
+</tr>
+<tr>
+<td>WUZ</td>
+<td></td>
+<td><a href=\"/wiki/Wuzhou_Xijiang_Airport\" title=\"Wuzhou Xijiang Airport\">Wuzhou Xijiang Airport</a></td>
+<td><a href=\"/wiki/Wuzhou\" title=\"Wuzhou\">Wuzhou</a>, <a href=\"/wiki/Guangxi\" title=\"Guangxi\">Guangxi</a>, China</td>
+</tr>
+<tr>
+<td>WVB</td>
+<td>FYWB</td>
+<td><a href=\"/wiki/Walvis_Bay_Airport\" title=\"Walvis Bay Airport\">Walvis Bay Airport</a></td>
+<td><a href=\"/wiki/Walvis_Bay\" title=\"Walvis Bay\">Walvis Bay</a>, <a href=\"/wiki/Namibia\" title=\"Namibia\">Namibia</a></td>
+</tr>
+<tr>
+<td>WVI</td>
+<td>KWVI</td>
+<td><a href=\"/wiki/Watsonville_Municipal_Airport\" title=\"Watsonville Municipal Airport\">Watsonville Municipal Airport</a></td>
+<td><a href=\"/wiki/Watsonville,_California\" title=\"Watsonville, California\">Watsonville</a>, <a href=\"/wiki/California\" title=\"California\">California</a>, United States</td>
+</tr>
+<tr>
+<td>WVK</td>
+<td>FMSK</td>
+<td><a href=\"/wiki/Manakara_Airport\" title=\"Manakara Airport\">Manakara Airport</a><sup id=\"cite_ref-IATA_1-97\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Manakara\" title=\"Manakara\">Manakara</a>, <a href=\"/wiki/Madagascar\" title=\"Madagascar\">Madagascar</a></td>
+</tr>
+<tr>
+<td>WVL</td>
+<td>KWVL</td>
+<td><a href=\"/wiki/Waterville_Robert_LaFleur_Airport\" title=\"Waterville Robert LaFleur Airport\">Waterville Robert LaFleur Airport</a></td>
+<td><a href=\"/wiki/Waterville,_Maine\" title=\"Waterville, Maine\">Waterville</a>, <a href=\"/wiki/Maine\" title=\"Maine\">Maine</a>, United States</td>
+</tr>
+<tr>
+<td>WVN</td>
+<td>EDWI</td>
+<td><a href=\"/wiki/JadeWeserAirport\" class=\"mw-redirect\" title=\"JadeWeserAirport\">JadeWeserAirport</a></td>
+<td><a href=\"/wiki/Wilhelmshaven\" title=\"Wilhelmshaven\">Wilhelmshaven</a>, <a href=\"/wiki/Lower_Saxony\" title=\"Lower Saxony\">Lower Saxony</a>, Germany</td>
+</tr>
+<tr>
+<td>WWA</td>
+<td>PAWS</td>
+<td><a href=\"/wiki/Wasilla_Airport\" title=\"Wasilla Airport\">Wasilla Airport</a> (FAA: IYS)</td>
+<td><a href=\"/wiki/Wasilla,_Alaska\" title=\"Wasilla, Alaska\">Wasilla</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>WWD</td>
+<td>KWWD</td>
+<td><a href=\"/wiki/Cape_May_Airport\" title=\"Cape May Airport\">Cape May Airport</a></td>
+<td><a href=\"/wiki/Wildwood,_New_Jersey\" title=\"Wildwood, New Jersey\">Wildwood</a>, <a href=\"/wiki/New_Jersey\" title=\"New Jersey\">New Jersey</a>, United States</td>
+</tr>
+<tr>
+<td>WWI</td>
+<td>YWWI</td>
+<td><a href=\"/wiki/Woodie_Woodie_Airport\" title=\"Woodie Woodie Airport\">Woodie Woodie Airport</a><sup id=\"cite_ref-IATA_1-98\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Woodie_Woodie_Mine&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Woodie Woodie Mine (page does not exist)\">Woodie Woodie</a>, <a href=\"/wiki/Western_Australia\" title=\"Western Australia\">Western Australia</a>, Australia</td>
+</tr>
+<tr>
+<td>WWK</td>
+<td>AYWK</td>
+<td><a href=\"/wiki/Wewak_Airport\" title=\"Wewak Airport\">Wewak Airport</a><sup id=\"cite_ref-IATA_1-99\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Wewak\" title=\"Wewak\">Wewak</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>WWP</td>
+<td></td>
+<td><a href=\"/wiki/North_Whale_Seaplane_Base\" title=\"North Whale Seaplane Base\">North Whale Seaplane Base</a> (FAA: 96Z)</td>
+<td><a href=\"/wiki/Whale_Pass,_Alaska\" title=\"Whale Pass, Alaska\">Whale Pass</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>WWR</td>
+<td>KWWR</td>
+<td><a href=\"/wiki/West_Woodward_Airport\" title=\"West Woodward Airport\">West Woodward Airport</a></td>
+<td><a href=\"/wiki/Woodward,_Oklahoma\" title=\"Woodward, Oklahoma\">Woodward</a>, <a href=\"/wiki/Oklahoma\" title=\"Oklahoma\">Oklahoma</a>, United States</td>
+</tr>
+<tr>
+<td>WWT</td>
+<td>PAEW</td>
+<td><a href=\"/wiki/Newtok_Airport\" title=\"Newtok Airport\">Newtok Airport</a> (FAA: EWU)</td>
+<td><a href=\"/wiki/Newtok,_Alaska\" title=\"Newtok, Alaska\">Newtok</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>WWY</td>
+<td>YWWL</td>
+<td><a href=\"/wiki/West_Wyalong_Airport\" title=\"West Wyalong Airport\">West Wyalong Airport</a></td>
+<td><a href=\"/wiki/West_Wyalong\" title=\"West Wyalong\">West Wyalong</a>, <a href=\"/wiki/New_South_Wales\" title=\"New South Wales\">New South Wales</a>, Australia</td>
+</tr>
+<tr>
+<td>WXN</td>
+<td>ZUWX</td>
+<td><a href=\"/wiki/Wanzhou_Wuqiao_Airport\" title=\"Wanzhou Wuqiao Airport\">Wanzhou Wuqiao Airport</a></td>
+<td><a href=\"/wiki/Wanzhou_District\" title=\"Wanzhou District\">Wanzhou</a>, <a href=\"/wiki/Chongqing\" title=\"Chongqing\">Chongqing</a>, China</td>
+</tr>
+<tr>
+<td>WYA</td>
+<td>YWHA</td>
+<td><a href=\"/wiki/Whyalla_Airport\" title=\"Whyalla Airport\">Whyalla Airport</a></td>
+<td><a href=\"/wiki/Whyalla\" title=\"Whyalla\">Whyalla</a>, <a href=\"/wiki/South_Australia\" title=\"South Australia\">South Australia</a>, Australia</td>
+</tr>
+<tr>
+<td>WYB</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Yes_Bay_Lodge_Seaplane_Base&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Yes Bay Lodge Seaplane Base (page does not exist)\">Yes Bay Lodge Seaplane Base</a> (FAA: 78K)</td>
+<td><a href=\"/w/index.php?title=Yes_Bay,_Alaska&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Yes Bay, Alaska (page does not exist)\">Yes Bay</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>WYE</td>
+<td>GFYE</td>
+<td><a href=\"/wiki/Yengema_Airport\" title=\"Yengema Airport\">Yengema Airport</a></td>
+<td><a href=\"/wiki/Yengema\" title=\"Yengema\">Yengema</a>, <a href=\"/wiki/Sierra_Leone\" title=\"Sierra Leone\">Sierra Leone</a></td>
+</tr>
+<tr>
+<td>WYN</td>
+<td>YWYM</td>
+<td><a href=\"/wiki/Wyndham_Airport\" title=\"Wyndham Airport\">Wyndham Airport</a><sup id=\"cite_ref-IATA_1-100\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Wyndham,_Western_Australia\" title=\"Wyndham, Western Australia\">Wyndham</a>, <a href=\"/wiki/Western_Australia\" title=\"Western Australia\">Western Australia</a>, Australia</td>
+</tr>
+<tr>
+<td>WYS</td>
+<td>KWYS</td>
+<td><a href=\"/wiki/Yellowstone_Airport\" title=\"Yellowstone Airport\">Yellowstone Airport</a></td>
+<td><a href=\"/wiki/West_Yellowstone,_Montana\" title=\"West Yellowstone, Montana\">West Yellowstone</a>, <a href=\"/wiki/Montana\" title=\"Montana\">Montana</a>, United States</td>
+</tr>
+<tr>
+<td>WZQ</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Urad_Middle_Banner_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Urad Middle Banner Airport (page does not exist)\">Urad Middle Banner Airport</a><sup id=\"cite_ref-IATA_1-101\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Urad_Middle_Banner\" title=\"Urad Middle Banner\">Urad Middle Banner</a>, <a href=\"/wiki/Inner_Mongolia\" title=\"Inner Mongolia\">Inner Mongolia</a>, China</td>
+</tr>

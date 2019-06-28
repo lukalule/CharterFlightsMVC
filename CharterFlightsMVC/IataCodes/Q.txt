@@ -1,0 +1,19 @@
+QAQ,L'Aquila, Abruzzo, Italy
+QBC, Bella Coola, British Columbia, Canada
+QCY,Coningsby, England, United Kingdom
+QHU,Husum, Schleswig-Holstein, Germany
+QOW,Owerri, Nigeria
+QPG,Singapore
+QRA,Johannesburg, South Africa
+QRO,Quer\u00e9taro City, Quer\u00e9taro, Mexico
+QRW,Warri, Nigeria
+QSC,S\u00e3o Carlos, S\u00e3o Paulo, Brazil
+QSF,S\u00e9tif, Algeria
+QSR,Salerno, Campania, Italy
+QSZ,Shache, Xinjiang, China
+QUB,Ubari, Libya
+QUG,Chichester, England, United Kingdom
+QUO,Uyo, Nigeria
+QUY, Wyton, England, United Kingdom
+QWG, Charlotte, North Carolina, United States
+QXB,Bouches-du-Rh\u00f4ne, Provence-Alpes-C\u00f4te d'Azur region, France

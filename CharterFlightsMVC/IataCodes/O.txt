@@ -1,0 +1,308 @@
+OAA,Gardez, Afghanistan
+OAG, Orange, New South Wales, Australia
+OAH, Shindand, Afghanistan
+OAI,Bagram, Afghanistan
+OAJ, Jacksonville, North Carolina, United States
+OAK, Oakland, California, United States
+OAL,Cacoal, Rond\u00f4nia, Brazil
+OAM,Oamaru, New Zealand
+OAN,Olanchito, Honduras
+OAR, Marina, California, United States
+OAS, Sharana, Afghanistan
+OAX,Oaxaca de Ju\u00e1rez, Oaxaca, Mexico
+OAZ, (Gereshk), Afghanistan
+OBA, Oban, Queensland, Australia
+OBC,Obock, Djibouti
+OBD,Obano, Indonesia
+OBE, Okeechobee, Florida, United States
+OBF,Oberpfaffenhofen, Bavaria, Germany
+OBI, \u00d3bidos, Par\u00e1, Brazil
+OBL,Zoersel, Belgium
+OBM, Morobe, Papua New Guinea
+OBN,Oban, Scotland, United Kingdom
+OBO, Obihiro, Hokkaido, Japan
+OBS,Aubenas, Rh\u00f4ne-Alpes, France
+OBU, Kobuk, Alaska, United States
+OBX, Obo, Papua New Guinea
+OCA, Key Largo, Florida, United States
+OCC, (Coca), Ecuador
+OCE, Ocean City, Maryland, United States
+OCF, Ocala, Florida, United States
+OCH, Nacogdoches, Texas, United States
+OCJ,Ocho Rios, Jamaica
+OCM,Boolgeeda, Western Australia, Australia
+OCN, Oceanside, California, United States
+OCS,Corisco Island, Equatorial Guinea
+OCV, Oca\u00f1a, Colombia
+OCW, Washington, North Carolina, United States
+ODA,Ouadda, Central African Republic
+ODB, C\u00f3rdoba, Andalusia, Spain
+ODC, Oakdale, California, United States
+ODD,Oodnadatta, South Australia, Australia
+ODE,Odense, Denmark
+ODH,Odiham, England, United Kingdom
+ODJ,Ouanda Djall\u00e9, Central African Republic
+ODL,Cordillo Downs, South Australia, Australia
+ODM, Oakland, Maryland, United States
+ODN,Long Seridan, Sarawak, Malaysia
+ODO,Bodaybo, Irkutsk Oblast, Russia
+ODR,Ord River, Western Australia, Australia
+ODS,Odessa, Ukraine
+ODW, Oak Harbor, Washington, United States
+ODY, (Oudomxai), Laos
+OEC,Oecussi, East Timor
+OEL, (Orel), Oryol Oblast, Russia
+OEM,Paloemeu, Suriname
+OEO, Osceola, Wisconsin, United States
+OER,\u00d6rnsk\u00f6ldsvik, Sweden
+OES,San Antonio Oeste, R\u00edo Negro, Argentina
+OFF, Omaha, Nebraska, United States
+OFI,Ouango Fitini, Ivory Coast
+OFJ,\u00d3lafsfj\u00f6r\u00f0ur, Iceland
+OFK, Norfolk, Nebraska, United States
+OFU,Ofu Island, American Samoa
+OGA, Ogallala, Nebraska, United States
+OGB, Orangeburg, South Carolina, United States
+OGD, Ogden, Utah, United States
+OGE,Ogeramnang, Papua New Guinea
+OGG, Kahului, Hawaii, United States
+OGL, Georgetown, Guyana
+OGM,Ustupo, Panama
+OGN, Yonaguni, Yaeyama Islands, Japan
+OGO,Abengourou, Ivory Coast
+OGR,Bongor, Chad
+OGS, Ogdensburg, New York, United States
+OGU,Giresun, Turkey
+OGV,Ongava, Namibia
+OGX,Ouargla, Algeria
+OGZ,Vladikavkaz, North Ossetia-Alania, Russia
+OHA, Bulls, New Zealand
+OHB,Moramanga, Madagascar
+OHD,Ohrid, Republic of Macedonia
+OHE,Mohe, Heilongjiang, China
+OHH, Okha, Sakhalin Oblast, Russia
+OHI,Oshakati, Namibia
+OHO,Okhotsk, Khabarovsk Krai, Russia
+OHR,Wyk auf F\u00f6hr, Schleswig-Holstein, Germany
+OHS,Sohar, Oman
+OHT,Kohat, Pakistan
+OIA,Ouril\u00e2ndia do Norte, Par\u00e1, Brazil
+OIC, Norwich, New York, United States
+OIM,\u014cshima, Izu Islands, Japan
+OIR, Okushiri, Okushiri Island, Japan
+OIT, Oita, Kyushu, Japan
+OJC, Olathe, Kansas, United States
+OJU,Ampana, Tojo Una-Una Regency, Central Sulawesi, Indonesia
+OKA,Okinawa, Ryukyu Islands, Japan
+OKB,Fraser Island, Queensland, Australia
+OKC,Oklahoma City, Oklahoma, United States
+OKD,Sapporo, Hokkaido, Japan
+OKE,Okinoerabujima, Amami Islands, Japan
+OKF,Okaukuejo, Namibia
+OKG,Okoyo, Republic of the Congo
+OKH,Oakham, England, United Kingdom
+OKI,Dogo, Oki Islands, Japan
+OKJ,Okayama, Honshu, Japan
+OKK, Kokomo, Indiana, United States
+OKL, Oksibil, Indonesia
+OKM, Okmulgee, Oklahoma, United States
+OKN,Okondja, Gabon
+OKO, Fussa, Honshu, Japan
+OKP, Oksapmin, Papua New Guinea
+OKQ,Okaba, Indonesia
+OKR,Yorke Island, Queensland, Australia
+OKS, Oshkosh, Nebraska, United States
+OKT, Oktyabrsky, Bashkortostan, Russia
+OKU,Mokuti Lodge, Namibia
+OKV, Okao, Papua New Guinea
+OKY, Oakey, Queensland, Australia
+OLA,\u00d8rland, Norway
+OLB,Olbia, Sardinia, Italy
+OLC,S\u00e3o Paulo de Oliven\u00e7a, Amazonas, Brazil
+OLD, Old Town, Maine, United States
+OLE, Olean, New York, United States
+OLF, Wolf Point, Montana, United States
+OLH, Old Harbor, Alaska, United States
+OLI,\u00d3lafsv\u00edk, Iceland
+OLJ,Olpoi, Vanuatu
+OLK,Fuerte Olimpo, Paraguay
+OLL, Oyo, Republic of the Congo
+OLM, Olympia, Washington, United States
+OLN, Sarmiento, Chubut, Argentina
+OLO,Olomouc, Czech Republic
+OLP,Olympic Dam, South Australia, Australia
+OLQ,Olsobip, Papua New Guinea
+OLR,Khost, Afghanistan
+OLS, Nogales, Arizona, United States
+OLU, Columbus, Nebraska, United States
+OLV, Olive Branch, Mississippi, United States
+OLX,Olkiombo, Kenya
+OLY, Noble, Illinois, United States
+OLZ,Olyokminsk, Yakutia, Russia
+OMA, Omaha, Nebraska, United States
+OMB,Ombou\u00e9, Gabon
+OMC,Ormoc, Philippines
+OMD,Oranjemund, Namibia
+OME, Nome, Alaska, United States
+OMF,Mafraq, Jordan
+OMG, Omega, Namibia
+OMH, (Ur\u016bmiyeh), Iran
+OMI,Omidiyeh, Iran
+OMJ,\u014cmura, Kyushu, Japan
+OMK, Omak, Washington, United States
+OML,Omkalai, Papua New Guinea
+OMM,Marmul, Oman
+OMO,Mostar, Bosnia and Herzegovina
+OMR,Oradea, Romania
+OMS,Omsk, Omsk Oblast, Russia
+OMY,Phnom Tbeng Meanchey, Cambodia
+ONA, Winona, Minnesota, United States
+ONB,Ononge, Papua New Guinea
+OND,Ondangwa, Namibia
+ONE,Onepusu, Solomon Islands
+ONG,Mornington Island, Queensland, Australia
+ONH, Oneonta, New York, United States
+ONI, (Moanamani), Indonesia
+ONJ,Noshiro, Honshu, Japan
+ONK,Olenyok, Yakutia, Russia
+ONL, O'Neill, Nebraska, United States
+ONM, Socorro, New Mexico, United States
+ONO, Ontario, Oregon, United States
+ONP, Newport, Oregon, United States
+ONQ,Zonguldak, Turkey
+ONR, Monkira, Queensland, Australia
+ONS, Onslow, Western Australia, Australia
+ONT, Ontario, California, United States
+ONU,Ono-i-Lau, Fiji
+ONX, Col\u00f3n, Panama
+ONY, Olney, Texas, United States
+OOA, Oskaloosa, Iowa, United States
+OOK, Toksook Bay, Alaska, United States
+OOL, Gold Coast, Queensland, Australia
+OOM,Cooma, New South Wales, Australia
+OOR, Mooraberree, Queensland, Australia
+OOT,Onotoa, Kiribati
+OPA,K\u00f3pasker, Iceland
+OPB, Open Bay, Papua New Guinea
+OPF,Miami, Florida, United States
+OPI,  (Oenpelli), Queensland, Australia
+OPL, Opelousas, Louisiana, United States
+OPO,Porto, Portugal
+OPS, Sinop, Mato Grosso, Brazil
+OPU,Balimo, Papua New Guinea
+OPW,Opuwo, Namibia
+ORA, Or\u00e1n, Salta, Argentina
+ORB,\u00d6rebro, Sweden
+ORC,Orocu\u00e9, Colombia
+ORD,Chicago, Illinois, United States
+ORE,Orl\u00e9ans, Centre-Val de Loire, France
+ORF, Norfolk, Virginia, United States
+ORG,Paramaribo, Suriname
+ORH, Worcester, Massachusetts, United States
+ORI, Port Lions, Alaska, United States
+ORJ,Orinduik, Guyana
+ORK,Cork, Ireland
+ORL, Orlando, Florida, United States
+ORM,Northampton, England, United Kingdom
+ORN,Oran, Algeria
+ORO,Yoro, Honduras
+ORP,Orapa, Botswana
+ORR, Yorketown, South Australia, Australia
+ORS,Orpheus Island, Queensland, Australia
+ORT, Northway, Alaska, United States
+ORU, Oruro, Bolivia
+ORV, Noorvik, Alaska, United States
+ORW,Ormara, Pakistan
+ORX,Oriximin\u00e1, Par\u00e1, Brazil
+ORY,Paris, \u00cele-de-France, France
+ORZ,Orange Walk Town, Belize
+OSA,Osaka, Honshu, Japan
+OSB, Osage Beach, Missouri, United States
+OSC, Oscoda, Michigan, United States
+OSD,\u00d6stersund, Sweden
+OSE, Omora, Papua New Guinea
+OSF,Podolsk, Moscow Oblast, Russia
+OSG,Ossima, Papua New Guinea
+OSH, Oshkosh, Wisconsin, United States
+OSI,Osijek, Croatia
+OSK,Oskarshamn, Sweden
+OSL,Oslo, Norway
+OSM,Mosul, Iraq
+OSN,Osan, South Korea
+OSO,Osborne Mine, Queensland, Australia
+OSR,Ostrava, Czech Republic
+OSS,Osh, Kyrgyzstan
+OST,Bruges, Belgium
+OSU, Columbus, Ohio, United States
+OSW,Orsk, Orenburg Oblast, Russia
+OSX, Kosciusko, Mississippi, United States
+OSY,Namsos, Norway
+OSZ,Koszalin, Poland
+OTA, Mota, Ethiopia
+OTC, Bol, Chad
+OTD,Contadora Island, Panama
+OTG, Worthington, Minnesota, United States
+OTH, North Bend, Oregon, United States
+OTI,Morotai Island, Indonesia
+OTJ,Otjiwarongo, Namibia
+OTK, Tillamook, Oregon, United States
+OTL,Boutilimit, Mauritania
+OTM, Ottumwa, Iowa, United States
+OTN, Oaktown, Indiana, United States
+OTP,Bucharest, Romania
+OTR,Coto 47, Costa Rica
+OTS, Anacortes, Washington, United States
+OTT,Cotrigua\u00e7u, Mato Grosso, Brazil
+OTU, Remedios, Colombia
+OTV,Ontong Java Atoll, Solomon Islands
+OTY, Oria, Papua New Guinea
+OTZ, Kotzebue, Alaska, United States
+OUA,Ouagadougou, Burkina Faso
+OUD,Oujda, Morocco
+OUE,Ou\u00e9sso, Republic of the Congo
+OUG,Ouahigouya, Burkina Faso
+OUH,Oudtshoorn, South Africa
+OUK,Out Skerries, Scotland, United Kingdom
+OUL,Oulu, Finland
+OUM,Oum Hadjer, Chad
+OUN, Norman, Oklahoma, United States
+OUR,Batouri, Cameroon
+OUS,Ourinhos, S\u00e3o Paulo, Brazil
+OUT,Bousso, Chad
+OUU, Ouanga, Gabon
+OUZ,Zouerate, Mauritania
+OVA,Bekily, Madagascar
+OVB,Novosibirsk, Novosibirsk Oblast, Russia
+OVD,Oviedo, Asturias, Spain
+OVE, Oroville, California, United States
+OVG,Bredasdorp, South Africa
+OVL,Ovalle, Chile
+OVR,Olavarr\u00eda, Buenos Aires, Argentina
+OVS, Sovetsky, Khanty-Mansi Autonomous Okrug, Russia
+OWA, Owatonna, Minnesota, United States
+OWB, Owensboro, Kentucky, United States
+OWD, Norwood, Massachusetts, United States
+OWE,Owendo, Gabon
+OWK, Norridgewock, Maine, United States
+OXB,Bissau, Guinea-Bissau
+OXC, Oxford, Connecticut, United States
+OXD, Oxford, Ohio, United States
+OXF,Oxford, England, United Kingdom
+OXO, Orientos, Queensland, Australia
+OXR, Oxnard, California, United States
+OXY,Morney, Queensland, Australia
+OYA, Goya, Corrientes, Argentina
+OYE,Oyem, Gabon
+OYG,Moyo Town, Uganda
+OYK,Oiapoque, Amap\u00e1, Brazil
+OYL,Moyale, Kenya
+OYN,Ouyen, Victoria, Australia
+OYO,Tres Arroyos, Buenos Aires, Argentina
+OYP, Saint-Georges-de-l'Oyapock, French Guiana
+OZA, Ozona, Texas, United States
+OZC,Ozamiz, Philippines
+OZG, Zagora, Morocco
+OZH,Zaporizhia, Ukraine
+OZP,Mor\u00f3n de la Frontera, Andalusia, Spain
+OZR,Ozark, Alabama, United States
+OZZ,Ouarzazate, Morocco

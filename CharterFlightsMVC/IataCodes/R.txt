@@ -1,0 +1,334 @@
+RAA,Rakanda, Papua New Guinea
+RAB,Rabaul, Papua New Guinea
+RAC, Racine, Wisconsin, United States
+RAD,Tortola, Virgin Islands
+RAE, Arar, Saudi Arabia
+RAF,Rafaela, Santa Fe, Argentina
+RAG, Raglan, New Zealand
+RAH,Rafha, Saudi Arabia
+RAI,Praia, Cape Verde
+RAJ,Rajkot, Gujarat, India
+RAK,Marrakesh, Morocco
+RAL, Riverside, California, United States
+RAM, Ramingining, Northern Territory, Australia
+RAN,Ravenna, Emilia-Romagna, Italy
+RAO,Ribeir\u00e3o Preto, S\u00e3o Paulo, Brazil
+RAP, Rapid City, South Dakota, United States
+RAQ,Muna Island, Indonesia
+RAR,Avarua, Rarotonga, Cook Islands
+RAS,Rasht, Iran
+RAT, Raduzhny, Khanty-Mansi Autonomous Okrug, Russia
+RAV,Cravo Norte, Colombia
+RAW, Arawa, Papua New Guinea
+RAX, Oram, Papua New Guinea
+RAZ,Rawalakot, Pakistan
+RBA,Rabat, Morocco
+RBB, Borba, Amazonas, Brazil
+RBC,Robinvale, Victoria, Australia
+RBD,Dallas, Texas, United States
+RBE,Ratanakiri, Cambodia
+RBF, Big Bear City, California, United States
+RBG, Roseburg, Oregon, United States
+RBI,Rabi Island, Fiji
+RBJ, Rebun, Rebun Island, Japan
+RBK, Temecula, California, United States
+RBL, Red Bluff, California, United States
+RBM,Straubing, Bavaria, Germany
+RBO,Robor\u00e9, Bolivia
+RBP,Rabaraba, Papua New Guinea
+RBQ,Rurrenabaque, Bolivia
+RBR, Rio Branco, Acre, Brazil
+RBS,Orbost, Victoria, Australia
+RBT,Marsabit, Kenya
+RBU, Roebourne, Western Australia, Australia
+RBV,Ramata Island, Solomon Islands
+RBW, Walterboro, South Carolina, United States
+RBX,Rumbek, South Sudan
+RBY, Ruby, Alaska, United States
+RCA, Rapid City, South Dakota, United States
+RCB,Richards Bay, South Africa
+RCE, Roche Harbor, Washington, United States
+RCH,Riohacha, Colombia
+RCK, Rockdale, Texas, United States
+RCL, Redcliffe, Aoba Island, Vanuatu
+RCM, Richmond, Queensland, Australia
+RCN, American River, South Australia, Australia
+RCO, Rochefort, Poitou-Charentes, France
+RCQ, Reconquista, Santa Fe, Argentina
+RCR, Rochester, Indiana, United States
+RCS, Rochester, England, United Kingdom
+RCT, Reed City, Michigan, United States
+RCU, C\u00f3rdoba, Argentina
+RCY, Port Nelson, Rum Cay Island, Bahamas
+RDA,Rockhampton Downs, Northern Territory, Australia
+RDB, Red Dog, Alaska, United States
+RDC, Reden\u00e7\u00e3o, Par\u00e1, Brazil
+RDD, Redding, California, United States
+RDE,Merdey, Indonesia
+RDG, Reading, Pennsylvania, United States
+RDM, Bend, Oregon, United States
+RDN,Redang Island, Terengganu, Malaysia
+RDO,Radom, Poland
+RDP,Durgapur, West Bengal, India
+RDR, Grand Forks, North Dakota, United States
+RDS,Rinc\u00f3n de los Sauces, Neuqu\u00e9n, Argentina
+RDT,Richard Toll, Senegal
+RDU, Durham, North Carolina, United States
+RDV, Red Devil, Alaska, United States
+RDZ,Rodez, Midi-Pyr\u00e9n\u00e9es, France
+REA,Reao, Tuamotus, French Polynesia
+REB,Rechlin, Mecklenburg-Vorpommern, Germany
+REC,Recife, Pernambuco, Brazil
+RED, Lewistown, Pennsylvania, United States
+REE, Lubbock, Texas, United States
+REG,Reggio di Calabria, Calabria, Italy
+REI,R\u00e9gina, French Guiana
+REK,Reykjav\u00edk, Iceland
+REL,Trelew, Chubut, Argentina
+REN,Orenburg, Orenburg Oblast, Russia
+REO, Rome, Oregon, United States
+REP,Siem Reap, Cambodia
+REQ,Reko Diq, Pakistan
+RER,Retalhuleu, Guatemala
+RES, Resistencia, Chaco, Argentina
+RET,R\u00f8st, Norway
+REU,Reus, Catalonia, Spain
+REW, Rewa, Madhya Pradesh, India
+REX,Reynosa, Tamaulipas, Mexico
+REY, Reyes, Bolivia
+REZ, Resende, Rio de Janeiro, Brazil
+RFA,Rafa\u00ef, Central African Republic
+RFD, Rockford, Illinois, United States
+RFG, Refugio, Texas, United States
+RFK, Rolling Fork, Mississippi, United States
+RFN,Raufarh\u00f6fn, Iceland
+RFP,Raiatea, Society Islands, French Polynesia
+RFR, R\u00edo Fr\u00edo, Costa Rica
+RFS, Rosita, Nicaragua
+RGA, Tierra del Fuego, Argentina
+RGE,Porgera, Papua New Guinea
+RGH,Balurghat, West Bengal, India
+RGI,Rangiroa, Tuamotus, French Polynesia
+RGK,Gorno-Altaysk, Altai Republic, Russia
+RGL, Santa Cruz, Argentina
+RGN,Yangon, Myanmar
+RGO,Chongjin, North Korea
+RGR, Ranger, Texas, United States
+RGS,Burgos, Castile and Le\u00f3n, Spain
+RGT,Rengat, Indonesia
+RHA,Reykh\u00f3lar, Iceland
+RHD,Termas de R\u00edo Hondo, Santiago del Estero, Argentina
+RHE,Reims, Champagne-Ardenne, France
+RHG,Ruhengeri, Rwanda
+RHI, Rhinelander, Wisconsin, United States
+RHL,Roy Hill Station, Western Australia, Australia
+RHN,Rosh Pinah, Namibia
+RHO,Rhodes, Greece
+RHP, Ramechhap, Nepal
+RHR,Ras al-Khaimah, United Arab Emirates
+RHT,Alxa Right Banner, Inner Mongolia, China
+RHV, San Jose, California, United States
+RIA, Santa Maria, Rio Grande do Sul, Brazil
+RIB,Riberalta, Bolivia
+RIC, Richmond, Virginia, United States
+RID, Richmond, Indiana, United States
+RIE, Rice Lake, Wisconsin, United States
+RIF, Richfield, Utah, United States
+RIG, Rio Grande, Rio Grande do Sul, Brazil
+RIH,R\u00edo Hato, Panama
+RIJ, Rioja, Peru
+RIL, Rifle, Colorado, United States
+RIM,Rodr\u00edguez de Mendoza, Peru
+RIN,Ringgi Cove, Solomon Islands
+RIO,Rio de Janeiro, Brazil
+RIR, Riverside, California, United States
+RIS, Rishiri, Rishiri Island, Japan
+RIV, Riverside, California, United States
+RIW, Riverton, Wyoming, United States
+RIX,Riga, Latvia
+RIY,Mukalla, Yemen
+RIZ,Rizhao, Shandong, China
+RJA,Rajahmundry, Andhra Pradesh, India
+RJB,Rajbiraj, Nepal
+RJH,Rajshahi, Bangladesh
+RJI,Rajauri, Jammu and Kashmir, India
+RJK,Rijeka, Croatia
+RJL,Logro\u00f1o, La Rioja, Spain
+RJM,Waisai, Indonesia
+RJN,Rafsanjan, Iran
+RKA,Aratika, Tuamotus, French Polynesia
+RKD, Rockland, Maine, United States
+RKE,Copenhagen, Denmark
+RKH, Rock Hill, South Carolina, United States
+RKI,Sipura, Indonesia
+RKP, Rockport, Texas, United States
+RKR, Poteau, Oklahoma, United States
+RKS, Rock Springs, Wyoming, United States
+RKT,Ras al-Khaimah, United Arab Emirates
+RKU,Yule Island, Papua New Guinea
+RKV,Reykjav\u00edk, Iceland
+RKW, Rockwood, Tennessee, United States
+RKY, Rokeby, Queensland, Australia
+RKZ,Shigatse, Tibet Autonomous Region, China
+RLD, Richland, Washington, United States
+RLG,Rostock, Mecklenburg-Vorpommern, Germany
+RLK,Bayannur, Inner Mongolia, China
+RLO,Villa de Merlo, San Luis, Argentina
+RLP, Rosella Plains, Queensland, Australia
+RLR,Isalo, Madagascar
+RLT,Arlit, Niger
+RMA, Roma, Queensland, Australia
+RMB,Buraimi, Oman
+RMD,Ramagundam, Telangana, India
+RME, Rome, New York, United States
+RMF,Marsa Alam, Egypt
+RMG, Rome, Georgia, United States
+RMI,Rimini, Emilia-Romagna, Italy
+RMK, Renmark, South Australia, Australia
+RML,Colombo, Sri Lanka
+RMN,Rumginae, Papua New Guinea
+RMP, Rampart, Alaska, United States
+RMQ,Taichung, Taiwan
+RMS,Ramstein, Rhineland-Palatinate, Germany
+RMT,Rimatara, Austral Islands, French Polynesia
+RMU,Cartagena, Murcia, Spain
+RMY, Mariposa, California, United States
+RNA, Arona, Ulawa Island, Solomon Islands
+RNB,Karlskrona, Sweden
+RNC, McMinnville, Tennessee, United States
+RND,San Antonio, Texas, United States
+RNE,Roanne, Rh\u00f4ne-Alpes, France
+RNG, Rangely, Colorado, United States
+RNH, New Richmond, Wisconsin, United States
+RNI,Corn Islands, Nicaragua
+RNJ,Yoronjima, Amami Islands, Japan
+RNL,Rennell Island, Solomon Islands
+RNM,Qarn Alam, Oman
+RNN,R\u00f8nne, Denmark
+RNO, Reno, Nevada, United States
+RNP,Rongelap Atoll, Marshall Islands
+RNR, Robinson River, Papua New Guinea
+RNS,Rennes, Brittany, France
+RNT, Renton, Washington, United States
+RNU,Ranau, Sabah, Malaysia
+RNZ, Rensselaer, Indiana, United States
+ROA, Roanoke, Virginia, United States
+ROB,Monrovia, Liberia
+ROC, Rochester, New York, United States
+ROD, Robertson, South Africa
+ROF, Yreka, California, United States
+ROG, Rogers, Arkansas, United States
+ROH, Robinhood, Queensland, Australia
+ROI,Roi Et, Thailand
+ROK,Rockhampton, Queensland, Australia
+ROL, Roosevelt, Utah, United States
+ROM,Rome, Lazio, Italy
+RON,Paipa, Colombia
+ROO,Rondon\u00f3polis, Mato Grosso, Brazil
+ROP,Rota, Northern Mariana Islands
+ROR,Koror, Palau
+ROS, Rosario, Santa Fe, Argentina
+ROT,Rotorua, New Zealand
+ROU, Ruse, Bulgaria
+ROV,Rostov-on-Don, Rostov Oblast, Russia
+ROW, Roswell, New Mexico, United States
+ROX, Roseau, Minnesota, United States
+ROY, R\u00edo Mayo, Chubut, Argentina
+ROZ, Rota, Andalusia, Spain
+RPA,Rolpa, Nepal
+RPB, Roper Bar, Northern Territory, Australia
+RPI, Rampi, South Sulawesi, Indonesia
+RPM,Ngukurr, Northern Territory, Australia
+RPN,Rosh Pinna, Israel
+RPR,Raipur, Chhattisgarh, India
+RPV, Roper Valley, Northern Territory, Australia
+RPX, Roundup, Montana, United States
+RQA,Ruoqiang, Xinjiang, China
+RQW,Qayyarah, Iraq
+RRA,Bu\u0161evo, Bosnia and Herzegovina
+RRE, Marree, South Australia, Australia
+RRG,Rodrigues Island, Mauritius
+RRI,Barora, Solomon Islands
+RRK,Rourkela, Odisha, India
+RRL, Merrill, Wisconsin, United States
+RRM,Marromeu, Mozambique
+RRR,Raroia, Tuamotus, French Polynesia
+RRS,R\u00f8ros, Norway
+RRT, Warroad, Minnesota, United States
+RRV, Robinson River, Northern Territory, Australia
+RSA, Santa Rosa, La Pampa, Argentina
+RSB, Roseberth, Queensland, Australia
+RSD, Rock Sound, Eleuthera Island, Bahamas
+RSE,Sydney, New South Wales, Australia
+RSH, Russian Mission, Alaska, United States
+RSJ,Orcas Island, Washington, United States
+RSK,Ransiki, Indonesia
+RSL, Russell, Kansas, United States
+RSN, Ruston, Louisiana, United States
+RSS,Ad-Damazin, Sudan
+RST, Rochester, Minnesota, United States
+RSU,Suncheon, South Korea
+RSW, Fort Myers, Florida, United States
+RSX, Rouses Point, New York, United States
+RTA,Rotuma Island, Fiji
+RTB,Roat\u00e1n, Honduras
+RTC,Ratnagiri, Maharashtra, India
+RTG,Ruteng, Indonesia
+RTI, (Roti), Indonesia
+RTL, Spirit Lake, Iowa, United States
+RTM,Rotterdam, Netherlands
+RTN, Raton, New Mexico, United States
+RTP, Rutland Plains, Queensland, Australia
+RTS,Rottnest Island, Western Australia, Australia
+RTW,Saratov, Saratov Oblast, Russia
+RTY,Merty Merty, South Australia, Australia
+RUA,Arua, Uganda
+RUD, Shahrud, Iran
+RUE,Butembo, Democratic Republic of the Congo
+RUF,Yuruf, Indonesia
+RUG,Rugao, Jiangsu, China
+RUH,Riyadh, Saudi Arabia
+RUI, Ruidoso, New Mexico, United States
+RUK,Rukumkot, Nepal
+RUM,Rumjatar, Nepal
+RUN, St-Denis, R\u00e9union, France
+RUP, Rupsi, Assam, India
+RUR,Rurutu, French Polynesia
+RUS, Marau, Solomon Islands
+RUT, Rutland, Vermont, United States
+RUU,Kawbenaberi, Papua New Guinea
+RUV,Rubelsanto, Guatemala
+RUY,Cop\u00e1n Ruinas, Honduras
+RVA,Farafangana, Madagascar
+RVC,River Cess, Liberia
+RVD, Rio Verde, Goi\u00e1s, Brazil
+RVE,Saravena, Colombia
+RVH,Saint Petersburg, Russia
+RVK,R\u00f8rvik, Norway
+RVN,Rovaniemi, Finland
+RVO,Reivilo, South Africa
+RVR, Green River, Utah, United States
+RVS, Tulsa, Oklahoma, United States
+RVT, Ravensthorpe, Western Australia, Australia
+RVV,Raivavae, Austral Islands, French Polynesia
+RVY,Rivera, Uruguay
+RWF, Redwood Falls, Minnesota, United States
+RWI, Rocky Mount, North Carolina, United States
+RWL, Rawlins, Wyoming, United States
+RWN,Rivne, Ukraine
+RXA,  (Raudha), Yemen
+RXE, Rexburg, Idaho, United States
+RXS, Roxas, Philippines
+RYB,Rybinsk, Yaroslavl Oblast, Russia
+RYG,Moss, Norway
+RYK,Rahim Yar Khan, Pakistan
+RYL,Lower Zambezi National Park, Zambia
+RYN,Royan, Poitou-Charentes, France
+RYO,R\u00edo Turbio,   Santa Cruz, Argentina
+RZA,Puerto Santa Cruz,   Santa Cruz, Argentina
+RZE,Rzesz\u00f3w, Poland
+RZN,Ryazan, Ryazan Oblast, Russia
+RZP, Taytay, Philippines
+RZR, Ramsar, Iran
+RZS,Sawan, Pakistan
+RZZ, Roanoke Rapids, North Carolina, United States

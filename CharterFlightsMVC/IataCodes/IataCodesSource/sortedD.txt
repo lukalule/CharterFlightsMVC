@@ -1,0 +1,2475 @@
+<tr>
+<td>DAA</td>
+<td>KDAA</td>
+<td><a href=\"/wiki/Davison_Army_Airfield\" title=\"Davison Army Airfield\">Davison Army Airfield</a></td>
+<td><a href=\"/wiki/Fort_Belvoir\" title=\"Fort Belvoir\">Fort Belvoir</a>, <a href=\"/wiki/Virginia\" title=\"Virginia\">Virginia</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>DAB</td>
+<td>KDAB</td>
+<td><a href=\"/wiki/Daytona_Beach_International_Airport\" title=\"Daytona Beach International Airport\">Daytona Beach International Airport</a></td>
+<td><a href=\"/wiki/Daytona_Beach,_Florida\" title=\"Daytona Beach, Florida\">Daytona Beach</a>, <a href=\"/wiki/Florida\" title=\"Florida\">Florida</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>DAC</td>
+<td>VGHS</td>
+<td><a href=\"/wiki/Shahjalal_International_Airport\" title=\"Shahjalal International Airport\">Shahjalal International Airport</a></td>
+<td><a href=\"/wiki/Dhaka\" title=\"Dhaka\">Dhaka</a>, <a href=\"/wiki/Bangladesh\" title=\"Bangladesh\">Bangladesh</a></td>
+<td><a href=\"/wiki/Bangladesh_Standard_Time\" title=\"Bangladesh Standard Time\">UTC+06:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DAD</td>
+<td>VVDN</td>
+<td><a href=\"/wiki/Da_Nang_International_Airport\" title=\"Da Nang International Airport\">Da Nang International Airport</a></td>
+<td><a href=\"/wiki/Da_Nang\" title=\"Da Nang\">Da Nang</a>, <a href=\"/wiki/Vietnam\" title=\"Vietnam\">Vietnam</a></td>
+<td><a href=\"/wiki/UTC%2B07:00\" title=\"UTC+07:00\">UTC+07:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DAF</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Daup_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Daup Airport (page does not exist)\">Daup Airport</a></td>
+<td><a href=\"/w/index.php?title=Daup&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Daup (page does not exist)\">Daup</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+<td><a href=\"/wiki/UTC%2B10:00\" title=\"UTC+10:00\">UTC+10:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DAG</td>
+<td>KDAG</td>
+<td><a href=\"/wiki/Barstow-Daggett_Airport\" title=\"Barstow-Daggett Airport\">Barstow-Daggett Airport</a></td>
+<td><a href=\"/wiki/Daggett,_California\" title=\"Daggett, California\">Daggett</a>, <a href=\"/wiki/California\" title=\"California\">California</a>, United States</td>
+<td><a href=\"/wiki/Pacific_Time_Zone\" title=\"Pacific Time Zone\">UTC\u221208:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>DAH</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Dathina_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Dathina Airport (page does not exist)\">Dathina Airport</a></td>
+<td><a href=\"/wiki/Dathina\" title=\"Dathina\">Dathina</a>, <a href=\"/wiki/Yemen\" title=\"Yemen\">Yemen</a></td>
+<td><a href=\"/wiki/UTC%2B03:00#Arabia_Standard_Time\" title=\"UTC+03:00\">UTC+03:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DAK</td>
+<td>HEDK</td>
+<td><a href=\"/wiki/Dakhla_Oasis_Airport\" title=\"Dakhla Oasis Airport\">Dakhla Oasis Airport</a></td>
+<td><a href=\"/wiki/Dakhla_Oasis\" title=\"Dakhla Oasis\">Dakhla Oasis</a>, <a href=\"/wiki/Egypt\" title=\"Egypt\">Egypt</a></td>
+<td><a href=\"/wiki/Eastern_European_Time\" title=\"Eastern European Time\">UTC+02:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DAL</td>
+<td>KDAL</td>
+<td><a href=\"/wiki/Dallas_Love_Field\" title=\"Dallas Love Field\">Dallas Love Field</a></td>
+<td><a href=\"/wiki/Dallas\" title=\"Dallas\">Dallas</a>, <a href=\"/wiki/Texas\" title=\"Texas\">Texas</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>DAM</td>
+<td>OSDI</td>
+<td><a href=\"/wiki/Damascus_International_Airport\" title=\"Damascus International Airport\">Damascus International Airport</a></td>
+<td><a href=\"/wiki/Damascus\" title=\"Damascus\">Damascus</a>, <a href=\"/wiki/Syria\" title=\"Syria\">Syria</a></td>
+<td><a href=\"/wiki/Eastern_European_Time\" title=\"Eastern European Time\">UTC+02:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>DAN</td>
+<td>KDAN</td>
+<td><a href=\"/wiki/Danville_Regional_Airport\" title=\"Danville Regional Airport\">Danville Regional Airport</a></td>
+<td><a href=\"/wiki/Danville,_Virginia\" title=\"Danville, Virginia\">Danville</a>, <a href=\"/wiki/Virginia\" title=\"Virginia\">Virginia</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>DAO</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Dabo_Airport,_Papua_New_Guinea&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Dabo Airport, Papua New Guinea (page does not exist)\">Dabo Airport</a><sup id=\"cite_ref-IATA_1-0\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Dabo,_Papua_New_Guinea&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Dabo, Papua New Guinea (page does not exist)\">Dabo</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+<td><a href=\"/wiki/UTC%2B10:00\" title=\"UTC+10:00\">UTC+10:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DAP</td>
+<td>VNDL</td>
+<td><a href=\"/w/index.php?title=Darchula_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Darchula Airport (page does not exist)\">Darchula Airport</a></td>
+<td><a href=\"/wiki/Darchula_District\" title=\"Darchula District\">Darchula</a>, <a href=\"/wiki/Nepal\" title=\"Nepal\">Nepal</a></td>
+<td><a href=\"/wiki/Nepal_Standard_Time\" title=\"Nepal Standard Time\">UTC+05:45</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DAR</td>
+<td>HTDA</td>
+<td><a href=\"/wiki/Julius_Nyerere_International_Airport\" title=\"Julius Nyerere International Airport\">Julius Nyerere International Airport</a></td>
+<td><a href=\"/wiki/Dar_es_Salaam\" title=\"Dar es Salaam\">Dar es Salaam</a>, <a href=\"/wiki/Tanzania\" title=\"Tanzania\">Tanzania</a></td>
+<td><a href=\"/wiki/East_Africa_Time\" title=\"East Africa Time\">UTC+03:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DAS</td>
+<td></td>
+<td><a href=\"/wiki/Great_Bear_Lake_Airport\" title=\"Great Bear Lake Airport\">Great Bear Lake Airport</a><sup id=\"cite_ref-IATA_1-1\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (TC: CFF4)</td>
+<td><a href=\"/wiki/Great_Bear_Lake\" title=\"Great Bear Lake\">Great Bear Lake</a>, <a href=\"/wiki/Northwest_Territories\" title=\"Northwest Territories\">Northwest Territories</a>, Canada</td>
+<td><a href=\"/wiki/Pacific_Time_Zone\" title=\"Pacific Time Zone\">UTC\u221208:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>DAT</td>
+<td>ZBDT</td>
+<td><a href=\"/wiki/Datong_Yungang_Airport\" title=\"Datong Yungang Airport\">Datong Yungang Airport</a></td>
+<td><a href=\"/wiki/Datong\" title=\"Datong\">Datong</a>, <a href=\"/wiki/Shanxi\" title=\"Shanxi\">Shanxi</a>, China</td>
+<td><a href=\"/wiki/Time_in_China\" title=\"Time in China\">UTC+08:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DAU</td>
+<td>AYDU</td>
+<td><a href=\"/wiki/Daru_Airport\" title=\"Daru Airport\">Daru Airport</a></td>
+<td><a href=\"/wiki/Daru\" title=\"Daru\">Daru</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+<td><a href=\"/wiki/UTC%2B10:00\" title=\"UTC+10:00\">UTC+10:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DAV</td>
+<td>MPDA</td>
+<td><a href=\"/wiki/Enrique_Malek_International_Airport\" title=\"Enrique Malek International Airport\">Enrique Malek International Airport</a></td>
+<td><a href=\"/wiki/David,_Chiriqu%C3%AD\" title=\"David, Chiriqu\u00ed\">David</a>, <a href=\"/wiki/Panama\" title=\"Panama\">Panama</a></td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DAX</td>
+<td>ZUDX</td>
+<td><a href=\"/wiki/Dazhou_Heshi_Airport\" title=\"Dazhou Heshi Airport\">Dazhou Heshi Airport</a></td>
+<td><a href=\"/wiki/Dazhou\" title=\"Dazhou\">Dazhou</a>, <a href=\"/wiki/Sichuan\" title=\"Sichuan\">Sichuan</a>, China</td>
+<td><a href=\"/wiki/Time_in_China\" title=\"Time in China\">UTC+08:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DAY</td>
+<td>KDAY</td>
+<td><a href=\"/wiki/Dayton_International_Airport\" title=\"Dayton International Airport\">Dayton International Airport</a></td>
+<td><a href=\"/wiki/Dayton,_Ohio\" title=\"Dayton, Ohio\">Dayton</a>, <a href=\"/wiki/Ohio\" title=\"Ohio\">Ohio</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>DAZ</td>
+<td>OADZ</td>
+<td><a href=\"/wiki/Darwaz_Airport\" title=\"Darwaz Airport\">Darwaz Airport</a></td>
+<td><a href=\"/wiki/Darwaz_district\" class=\"mw-redirect\" title=\"Darwaz district\">Darwaz</a>, <a href=\"/wiki/Afghanistan\" title=\"Afghanistan\">Afghanistan</a></td>
+<td><a href=\"/wiki/Time_in_Afghanistan\" title=\"Time in Afghanistan\">UTC+04:30</a></td>
+<td>
+</td></tr>
+<tr class=\"sortbottom\">
+<th colspan=\"6\" style=\"text-align:left; background:#DDDDDD;\"><span id=\"DB\"></span>-DB-
+</th></tr>
+<tr>
+<td>DBA</td>
+<td>OPDB</td>
+<td><a href=\"/wiki/Dalbandin_Airport\" title=\"Dalbandin Airport\">Dalbandin Airport</a></td>
+<td><a href=\"/wiki/Dalbandin\" title=\"Dalbandin\">Dalbandin</a>, <a href=\"/wiki/Pakistan\" title=\"Pakistan\">Pakistan</a></td>
+<td><a href=\"/wiki/Time_in_Pakistan\" title=\"Time in Pakistan\">UTC+05:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DBB</td>
+<td>HEAL<sup id=\"cite_ref-2\" class=\"reference\"><a href=\"#cite_note-2\">&#91;2&#93;</a></sup></td>
+<td><a href=\"/wiki/Al_Alamain_International_Airport\" class=\"mw-redirect\" title=\"Al Alamain International Airport\">Al Alamain International Airport</a><sup id=\"cite_ref-IATA_1-2\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/El_Alamein\" title=\"El Alamein\">El Alamein</a>, <a href=\"/wiki/Egypt\" title=\"Egypt\">Egypt</a></td>
+<td><a href=\"/wiki/Eastern_European_Time\" title=\"Eastern European Time\">UTC+02:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DBC</td>
+<td></td>
+<td><a href=\"/wiki/Baicheng_Chang%27an_Airport\" title=\"Baicheng Chang&#39;an Airport\">Baicheng Chang'an Airport</a><sup id=\"cite_ref-IATA_1-3\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Baicheng\" title=\"Baicheng\">Baicheng</a>, <a href=\"/wiki/Jilin\" title=\"Jilin\">Jilin</a>, China</td>
+<td><a href=\"/wiki/Time_in_China\" title=\"Time in China\">UTC+08:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DBD</td>
+<td>VEDB</td>
+<td><a href=\"/wiki/Dhanbad_Airport\" title=\"Dhanbad Airport\">Dhanbad Airport</a></td>
+<td><a href=\"/wiki/Dhanbad\" title=\"Dhanbad\">Dhanbad</a>, <a href=\"/wiki/Jharkhand\" title=\"Jharkhand\">Jharkhand</a>, India</td>
+<td><a href=\"/wiki/Indian_Standard_Time\" title=\"Indian Standard Time\">UTC+05:30</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DBK</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Dutch_Bay_Seaplane_Base&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Dutch Bay Seaplane Base (page does not exist)\">Dutch Bay Seaplane Base</a><sup id=\"cite_ref-IATA_1-4\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Kalpitiya\" title=\"Kalpitiya\">Kalpitiya</a>, <a href=\"/wiki/Sri_Lanka\" title=\"Sri Lanka\">Sri Lanka</a></td>
+<td><a href=\"/wiki/Indian_Standard_Time\" title=\"Indian Standard Time\">UTC+05:30</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DBM</td>
+<td>HADM</td>
+<td><a href=\"/wiki/Debre_Marqos_Airport\" title=\"Debre Marqos Airport\">Debre Marqos Airport</a></td>
+<td><a href=\"/wiki/Debre_Marqos\" title=\"Debre Marqos\">Debre Marqos</a>, <a href=\"/wiki/Ethiopia\" title=\"Ethiopia\">Ethiopia</a></td>
+<td><a href=\"/wiki/East_Africa_Time\" title=\"East Africa Time\">UTC+03:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DBN</td>
+<td>KDBN</td>
+<td><a href=\"/wiki/W._H._%27Bud%27_Barron_Airport\" title=\"W. H. &#39;Bud&#39; Barron Airport\">W. H. 'Bud' Barron Airport</a></td>
+<td><a href=\"/wiki/Dublin,_Georgia\" title=\"Dublin, Georgia\">Dublin</a>, <a href=\"/wiki/Georgia_(U.S._state)\" title=\"Georgia (U.S. state)\">Georgia</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>DBO</td>
+<td>YSDU</td>
+<td><a href=\"/wiki/Dubbo_City_Regional_Airport\" title=\"Dubbo City Regional Airport\">Dubbo City Regional Airport</a></td>
+<td><a href=\"/wiki/Dubbo\" title=\"Dubbo\">Dubbo</a>, <a href=\"/wiki/New_South_Wales\" title=\"New South Wales\">New South Wales</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+10:00</a></td>
+<td>Oct-Apr
+</td></tr>
+<tr>
+<td>DBP</td>
+<td>AYDB</td>
+<td><a href=\"/w/index.php?title=Debepare_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Debepare Airport (page does not exist)\">Debepare Airport</a></td>
+<td><a href=\"/w/index.php?title=Debepare&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Debepare (page does not exist)\">Debepare</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+<td><a href=\"/wiki/UTC%2B10:00\" title=\"UTC+10:00\">UTC+10:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DBQ</td>
+<td>KDBQ</td>
+<td><a href=\"/wiki/Dubuque_Regional_Airport\" title=\"Dubuque Regional Airport\">Dubuque Regional Airport</a></td>
+<td><a href=\"/wiki/Dubuque,_Iowa\" title=\"Dubuque, Iowa\">Dubuque</a>, <a href=\"/wiki/Iowa\" title=\"Iowa\">Iowa</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>DBR</td>
+<td>VE89</td>
+<td><a href=\"/w/index.php?title=Kavi_Kokil_Vidyapati_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Kavi Kokil Vidyapati Airport (page does not exist)\">Kavi Kokil Vidyapati Airport</a></td>
+<td><a href=\"/wiki/Darbhanga\" title=\"Darbhanga\">Darbhanga</a>, <a href=\"/wiki/Bihar\" title=\"Bihar\">Bihar</a>, India</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC+5:30</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DBS</td>
+<td></td>
+<td><a href=\"/wiki/Dubois_Municipal_Airport_(Idaho)\" title=\"Dubois Municipal Airport (Idaho)\">Dubois Municipal Airport</a> (FAA: U41)</td>
+<td><a href=\"/wiki/Dubois,_Idaho\" title=\"Dubois, Idaho\">Dubois</a>, <a href=\"/wiki/Idaho\" title=\"Idaho\">Idaho</a>, United States</td>
+<td><a href=\"/wiki/Mountain_Time_Zone\" title=\"Mountain Time Zone\">UTC\u221207:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>DBT</td>
+<td>HADT</td>
+<td><a href=\"/wiki/Debre_Tabor_Airport\" title=\"Debre Tabor Airport\">Debre Tabor Airport</a></td>
+<td><a href=\"/wiki/Debre_Tabor\" title=\"Debre Tabor\">Debre Tabor</a>, <a href=\"/wiki/Ethiopia\" title=\"Ethiopia\">Ethiopia</a></td>
+<td><a href=\"/wiki/East_Africa_Time\" title=\"East Africa Time\">UTC+03:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DBU</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Dambulu_Oya_Tank_Seaplane_Base&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Dambulu Oya Tank Seaplane Base (page does not exist)\">Dambulu Oya Tank Seaplane Base</a><sup id=\"cite_ref-IATA_1-5\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Dambulla\" title=\"Dambulla\">Dambulla</a>, <a href=\"/wiki/Sri_Lanka\" title=\"Sri Lanka\">Sri Lanka</a></td>
+<td><a href=\"/wiki/Indian_Standard_Time\" title=\"Indian Standard Time\">UTC+05:30</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DBV</td>
+<td>LDDU</td>
+<td><a href=\"/wiki/Dubrovnik_Airport\" title=\"Dubrovnik Airport\">Dubrovnik Airport</a></td>
+<td><a href=\"/wiki/Dubrovnik\" title=\"Dubrovnik\">Dubrovnik</a>, <a href=\"/wiki/Croatia\" title=\"Croatia\">Croatia</a></td>
+<td><a href=\"/wiki/Central_European_Time\" title=\"Central European Time\">UTC+01:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>DBY</td>
+<td>YDAY</td>
+<td><a href=\"/wiki/Dalby_Airport\" title=\"Dalby Airport\">Dalby Airport</a></td>
+<td><a href=\"/wiki/Dalby,_Queensland\" title=\"Dalby, Queensland\">Dalby</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+10:00</a></td>
+<td>
+</td></tr>
+<tr class=\"sortbottom\">
+<th colspan=\"6\" style=\"text-align:left; background:#DDDDDD;\"><span id=\"DC\"></span>-DC-
+</th></tr>
+<tr>
+<td>DCA</td>
+<td>KDCA</td>
+<td><a href=\"/wiki/Ronald_Reagan_Washington_National_Airport\" title=\"Ronald Reagan Washington National Airport\">Ronald Reagan Washington National Airport</a></td>
+<td><a href=\"/wiki/Arlington_County,_Virginia\" title=\"Arlington County, Virginia\">Arlington County</a> (near <a href=\"/wiki/Washington,_D.C.\" title=\"Washington, D.C.\">Washington, D.C.</a>), <a href=\"/wiki/Virginia\" title=\"Virginia\">Virginia</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>DCF</td>
+<td>TDCF</td>
+<td><a href=\"/wiki/Canefield_Airport\" title=\"Canefield Airport\">Canefield Airport</a></td>
+<td><a href=\"/wiki/Canefield\" title=\"Canefield\">Canefield</a>, <a href=\"/wiki/Dominica\" title=\"Dominica\">Dominica</a></td>
+<td><a href=\"/wiki/Atlantic_Time_Zone\" title=\"Atlantic Time Zone\">UTC\u221204:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DCG</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Dubai_Creek_Seaplane_Base&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Dubai Creek Seaplane Base (page does not exist)\">Dubai Creek Seaplane Base</a><sup id=\"cite_ref-IATA_1-6\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Dubai\" title=\"Dubai\">Dubai</a>, <a href=\"/wiki/United_Arab_Emirates\" title=\"United Arab Emirates\">United Arab Emirates</a></td>
+<td><a href=\"/wiki/UTC%2B04:00\" title=\"UTC+04:00\">UTC+04:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DCI</td>
+<td>LIED</td>
+<td><a href=\"/wiki/Decimomannu_Air_Base\" title=\"Decimomannu Air Base\">Decimomannu Air Base</a></td>
+<td><a href=\"/wiki/Decimomannu\" title=\"Decimomannu\">Decimomannu</a>, <a href=\"/wiki/Sardinia\" title=\"Sardinia\">Sardinia</a>, Italy</td>
+<td><a href=\"/wiki/Central_European_Time\" title=\"Central European Time\">UTC+01:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>DCK</td>
+<td></td>
+<td><a href=\"/wiki/Dahl_Creek_Airport\" title=\"Dahl Creek Airport\">Dahl Creek Airport</a></td>
+<td><a href=\"/w/index.php?title=Dahl_Creek,_Alaska&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Dahl Creek, Alaska (page does not exist)\">Dahl Creek</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+<td><a href=\"/wiki/Alaska_Time_Zone\" title=\"Alaska Time Zone\">UTC\u221209:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>DCM</td>
+<td>LFCK</td>
+<td><a href=\"/wiki/Castres%E2%80%93Mazamet_Airport\" title=\"Castres\u2013Mazamet Airport\">Castres\u2013Mazamet Airport</a></td>
+<td><a href=\"/wiki/Castres\" title=\"Castres\">Castres</a>, <a href=\"/wiki/Midi-Pyr%C3%A9n%C3%A9es\" title=\"Midi-Pyr\u00e9n\u00e9es\">Midi-Pyr\u00e9n\u00e9es</a>, France</td>
+<td><a href=\"/wiki/Central_European_Time\" title=\"Central European Time\">UTC+01:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>DCN</td>
+<td>YCIN</td>
+<td><a href=\"/wiki/RAAF_Curtin\" class=\"mw-redirect\" title=\"RAAF Curtin\">RAAF Base Curtin</a><sup id=\"cite_ref-IATA_1-7\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Derby,_Western_Australia\" title=\"Derby, Western Australia\">Derby</a>, <a href=\"/wiki/Western_Australia\" title=\"Western Australia\">Western Australia</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+08:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DCT</td>
+<td>MYRD</td>
+<td><a href=\"/wiki/Duncan_Town_Airport\" title=\"Duncan Town Airport\">Duncan Town Airport</a></td>
+<td><a href=\"/w/index.php?title=Duncan_Town&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Duncan Town (page does not exist)\">Duncan Town</a>, <a href=\"/wiki/Ragged_Island,_Bahamas\" title=\"Ragged Island, Bahamas\">Ragged Island</a>, <a href=\"/wiki/Bahamas\" class=\"mw-redirect\" title=\"Bahamas\">Bahamas</a></td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>DCU</td>
+<td>KDCU</td>
+<td><a href=\"/wiki/Pryor_Field_Regional_Airport\" title=\"Pryor Field Regional Airport\">Pryor Field Regional Airport</a></td>
+<td><a href=\"/wiki/Decatur,_Alabama\" title=\"Decatur, Alabama\">Decatur</a>, <a href=\"/wiki/Alabama\" title=\"Alabama\">Alabama</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>DCY</td>
+<td>ZUDC</td>
+<td><a href=\"/wiki/Daocheng_Yading_Airport\" title=\"Daocheng Yading Airport\">Daocheng Yading Airport</a></td>
+<td><a href=\"/wiki/Daocheng_County\" title=\"Daocheng County\">Daocheng</a>, <a href=\"/wiki/Sichuan\" title=\"Sichuan\">Sichuan</a>, China</td>
+<td><a href=\"/wiki/Time_in_China\" title=\"Time in China\">UTC+08:00</a></td>
+<td>
+</td></tr>
+<tr class=\"sortbottom\">
+<th colspan=\"6\" style=\"text-align:left; background:#DDDDDD;\"><span id=\"DD\"></span>-DD-
+</th></tr>
+<tr>
+<td>DDC</td>
+<td>KDDC</td>
+<td><a href=\"/wiki/Dodge_City_Regional_Airport\" title=\"Dodge City Regional Airport\">Dodge City Regional Airport</a></td>
+<td><a href=\"/wiki/Dodge_City,_Kansas\" title=\"Dodge City, Kansas\">Dodge City</a>, <a href=\"/wiki/Kansas\" title=\"Kansas\">Kansas</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>DDG</td>
+<td>ZYDD</td>
+<td><a href=\"/wiki/Dandong_Langtou_Airport\" title=\"Dandong Langtou Airport\">Dandong Langtou Airport</a></td>
+<td><a href=\"/wiki/Dandong\" title=\"Dandong\">Dandong</a>, <a href=\"/wiki/Liaoning\" title=\"Liaoning\">Liaoning</a>, China</td>
+<td><a href=\"/wiki/Time_in_China\" title=\"Time in China\">UTC+08:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DDM</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Dodoima_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Dodoima Airport (page does not exist)\">Dodoima Airport</a></td>
+<td><a href=\"/w/index.php?title=Dodoima&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Dodoima (page does not exist)\">Dodoima</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+<td><a href=\"/wiki/UTC%2B10:00\" title=\"UTC+10:00\">UTC+10:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DDN</td>
+<td>YDLT</td>
+<td><a href=\"/w/index.php?title=Delta_Downs_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Delta Downs Airport (page does not exist)\">Delta Downs Airport</a></td>
+<td><a href=\"/wiki/Delta_Downs_Station\" title=\"Delta Downs Station\">Delta Downs</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+10:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DDU</td>
+<td>OPDD</td>
+<td><a href=\"/w/index.php?title=Dadu_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Dadu Airport (page does not exist)\">Dadu Airport</a></td>
+<td><a href=\"/wiki/Dadu,_Pakistan\" title=\"Dadu, Pakistan\">Dadu</a>, <a href=\"/wiki/Pakistan\" title=\"Pakistan\">Pakistan</a></td>
+<td><a href=\"/wiki/Time_in_Pakistan\" title=\"Time in Pakistan\">UTC+05:00</a></td>
+<td>
+</td></tr>
+<tr class=\"sortbottom\">
+<th colspan=\"6\" style=\"text-align:left; background:#DDDDDD;\"><span id=\"DE\"></span>-DE-
+</th></tr>
+<tr>
+<td>DEA</td>
+<td>OPDG</td>
+<td><a href=\"/wiki/Dera_Ghazi_Khan_International_Airport\" title=\"Dera Ghazi Khan International Airport\">Dera Ghazi Khan International Airport</a></td>
+<td><a href=\"/wiki/Dera_Ghazi_Khan\" title=\"Dera Ghazi Khan\">Dera Ghazi Khan</a>, <a href=\"/wiki/Pakistan\" title=\"Pakistan\">Pakistan</a></td>
+<td><a href=\"/wiki/Time_in_Pakistan\" title=\"Time in Pakistan\">UTC+05:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DEB</td>
+<td>LHDC</td>
+<td><a href=\"/wiki/Debrecen_International_Airport\" title=\"Debrecen International Airport\">Debrecen International Airport</a></td>
+<td><a href=\"/wiki/Debrecen\" title=\"Debrecen\">Debrecen</a>, <a href=\"/wiki/Hungary\" title=\"Hungary\">Hungary</a></td>
+<td><a href=\"/wiki/Central_European_Time\" title=\"Central European Time\">UTC+01:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>DEC</td>
+<td>KDEC</td>
+<td><a href=\"/wiki/Decatur_Airport\" title=\"Decatur Airport\">Decatur Airport</a></td>
+<td><a href=\"/wiki/Decatur,_Illinois\" title=\"Decatur, Illinois\">Decatur</a>, <a href=\"/wiki/Illinois\" title=\"Illinois\">Illinois</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>DED</td>
+<td>VIDN</td>
+<td><a href=\"/wiki/Jolly_Grant_Airport\" class=\"mw-redirect\" title=\"Jolly Grant Airport\">Jolly Grant Airport</a></td>
+<td><a href=\"/wiki/Dehradun\" title=\"Dehradun\">Dehradun</a>, <a href=\"/wiki/Uttarakhand\" title=\"Uttarakhand\">Uttarakhand</a>, India</td>
+<td><a href=\"/wiki/Indian_Standard_Time\" title=\"Indian Standard Time\">UTC+05:30</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DEE</td>
+<td>UHSM</td>
+<td><a href=\"/wiki/Yuzhno-Kurilsk_Mendeleyevo_Airport\" title=\"Yuzhno-Kurilsk Mendeleyevo Airport\">Yuzhno-Kurilsk Mendeleyevo Airport</a><sup id=\"cite_ref-IATA_1-8\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Yuzhno-Kurilsk\" title=\"Yuzhno-Kurilsk\">Yuzhno-Kurilsk</a>, <a href=\"/wiki/Sakhalin_Oblast\" title=\"Sakhalin Oblast\">Sakhalin Oblast</a>, Russia</td>
+<td><a href=\"/wiki/Time_in_Russia\" title=\"Time in Russia\">UTC+11:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DEF</td>
+<td>OIAD</td>
+<td><a href=\"/wiki/Dezful_Airport\" title=\"Dezful Airport\">Dezful Airport</a></td>
+<td><a href=\"/wiki/Dezful\" title=\"Dezful\">Dezful</a>, <a href=\"/wiki/Iran\" title=\"Iran\">Iran</a></td>
+<td><a href=\"/wiki/Iran_Standard_Time\" title=\"Iran Standard Time\">UTC+03:30</a></td>
+<td>Mar-Sep
+</td></tr>
+<tr>
+<td>DEH</td>
+<td>KDEH</td>
+<td><a href=\"/wiki/Decorah_Municipal_Airport\" title=\"Decorah Municipal Airport\">Decorah Municipal Airport</a></td>
+<td><a href=\"/wiki/Decorah,_Iowa\" title=\"Decorah, Iowa\">Decorah</a>, <a href=\"/wiki/Iowa\" title=\"Iowa\">Iowa</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>DEI</td>
+<td>FSSD</td>
+<td><a href=\"/wiki/Denis_Island_Airport\" title=\"Denis Island Airport\">Denis Island Airport</a></td>
+<td><a href=\"/wiki/Denis_Island\" title=\"Denis Island\">Denis Island</a>, <a href=\"/wiki/Seychelles\" title=\"Seychelles\">Seychelles</a></td>
+<td><a href=\"/wiki/Seychelles_Time\" title=\"Seychelles Time\">UTC+04:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DEL</td>
+<td>VIDP</td>
+<td><a href=\"/wiki/Indira_Gandhi_International_Airport\" title=\"Indira Gandhi International Airport\">Indira Gandhi International Airport</a></td>
+<td><a href=\"/wiki/Delhi\" title=\"Delhi\">Delhi</a>, India</td>
+<td><a href=\"/wiki/Indian_Standard_Time\" title=\"Indian Standard Time\">UTC+05:30</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DEM</td>
+<td>HADD</td>
+<td><a href=\"/wiki/Dembidolo_Airport\" title=\"Dembidolo Airport\">Dembidolo Airport</a></td>
+<td><a href=\"/wiki/Dembidolo\" title=\"Dembidolo\">Dembidolo</a>, <a href=\"/wiki/Ethiopia\" title=\"Ethiopia\">Ethiopia</a></td>
+<td><a href=\"/wiki/East_Africa_Time\" title=\"East Africa Time\">UTC+03:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DEN</td>
+<td>KDEN</td>
+<td><a href=\"/wiki/Denver_International_Airport\" title=\"Denver International Airport\">Denver International Airport</a></td>
+<td><a href=\"/wiki/Denver\" title=\"Denver\">Denver</a>, <a href=\"/wiki/Colorado\" title=\"Colorado\">Colorado</a>, United States</td>
+<td><a href=\"/wiki/Mountain_Time_Zone\" title=\"Mountain Time Zone\">UTC\u221207:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>DEP</td>
+<td>VEDZ</td>
+<td><a href=\"/wiki/Daporijo_Airport\" title=\"Daporijo Airport\">Daporijo Airport</a></td>
+<td><a href=\"/wiki/Daporijo\" title=\"Daporijo\">Daporijo</a>, <a href=\"/wiki/Arunachal_Pradesh\" title=\"Arunachal Pradesh\">Arunachal Pradesh</a>, India</td>
+<td><a href=\"/wiki/Indian_Standard_Time\" title=\"Indian Standard Time\">UTC+05:30</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DER</td>
+<td>AYDE</td>
+<td><a href=\"/w/index.php?title=Derim_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Derim Airport (page does not exist)\">Derim Airport</a></td>
+<td><a href=\"/w/index.php?title=Derim&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Derim (page does not exist)\">Derim</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+<td><a href=\"/wiki/UTC%2B10:00\" title=\"UTC+10:00\">UTC+10:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DES</td>
+<td>FSDR</td>
+<td><a href=\"/wiki/Desroches_Airport\" title=\"Desroches Airport\">Desroches Airport</a></td>
+<td><a href=\"/wiki/Desroches_Island\" title=\"Desroches Island\">Desroches Island</a>, <a href=\"/wiki/Seychelles\" title=\"Seychelles\">Seychelles</a></td>
+<td><a href=\"/wiki/Seychelles_Time\" title=\"Seychelles Time\">UTC+04:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DET</td>
+<td>KDET</td>
+<td><a href=\"/wiki/Coleman_A._Young_International_Airport\" title=\"Coleman A. Young International Airport\">Coleman A. Young International Airport</a></td>
+<td><a href=\"/wiki/Detroit\" title=\"Detroit\">Detroit</a>, <a href=\"/wiki/Michigan\" title=\"Michigan\">Michigan</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>DEX</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Nop_Goliath_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Nop Goliath Airport (page does not exist)\">Nop Goliath Airport</a><sup id=\"cite_ref-IATA_1-9\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Yahukimo_Regency\" title=\"Yahukimo Regency\">Yahukimo</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+<td><a href=\"/wiki/Time_in_Indonesia\" title=\"Time in Indonesia\">UTC+09:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DEZ</td>
+<td>OSDZ</td>
+<td><a href=\"/wiki/Deir_ez-Zor_Airport\" title=\"Deir ez-Zor Airport\">Deir ez-Zor Airport</a></td>
+<td><a href=\"/wiki/Deir_ez-Zor\" title=\"Deir ez-Zor\">Deir ez-Zor</a>, <a href=\"/wiki/Syria\" title=\"Syria\">Syria</a></td>
+<td><a href=\"/wiki/Eastern_European_Time\" title=\"Eastern European Time\">UTC+02:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr class=\"sortbottom\">
+<th colspan=\"6\" style=\"text-align:left; background:#DDDDDD;\"><span id=\"DF\"></span>-DF-
+</th></tr>
+<tr>
+<td>DFI</td>
+<td>KDFI</td>
+<td><a href=\"/wiki/Defiance_Memorial_Airport\" title=\"Defiance Memorial Airport\">Defiance Memorial Airport</a></td>
+<td><a href=\"/wiki/Defiance,_Ohio\" title=\"Defiance, Ohio\">Defiance</a>, <a href=\"/wiki/Ohio\" title=\"Ohio\">Ohio</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>DFP</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Drumduff_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Drumduff Airport (page does not exist)\">Drumduff Airport</a></td>
+<td><a href=\"/w/index.php?title=Drumduff&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Drumduff (page does not exist)\">Drumduff</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+10:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DFW</td>
+<td>KDFW</td>
+<td><a href=\"/wiki/Dallas/Fort_Worth_International_Airport\" title=\"Dallas/Fort Worth International Airport\">Dallas/Fort Worth International Airport</a></td>
+<td><a href=\"/wiki/Dallas\" title=\"Dallas\">Dallas</a> / <a href=\"/wiki/Fort_Worth,_Texas\" title=\"Fort Worth, Texas\">Fort Worth</a>, <a href=\"/wiki/Texas\" title=\"Texas\">Texas</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr class=\"sortbottom\">
+<th colspan=\"6\" style=\"text-align:left; background:#DDDDDD;\"><span id=\"DG\"></span>-DG-
+</th></tr>
+<tr>
+<td>DGA</td>
+<td></td>
+<td><a href=\"/wiki/Dangriga_Airport\" title=\"Dangriga Airport\">Dangriga Airport</a></td>
+<td><a href=\"/wiki/Dangriga\" title=\"Dangriga\">Dangriga</a>, <a href=\"/wiki/Belize\" title=\"Belize\">Belize</a></td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DGC</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Degeh_Bur_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Degeh Bur Airport (page does not exist)\">Degeh Bur Airport</a></td>
+<td><a href=\"/wiki/Degehabur\" title=\"Degehabur\">Degeh Bur</a>, <a href=\"/wiki/Ethiopia\" title=\"Ethiopia\">Ethiopia</a></td>
+<td><a href=\"/wiki/East_Africa_Time\" title=\"East Africa Time\">UTC+03:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DGD</td>
+<td>YDGA</td>
+<td><a href=\"/w/index.php?title=Dalgaranga_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Dalgaranga Airport (page does not exist)\">Dalgaranga Airport</a><sup id=\"cite_ref-IATA_1-10\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Dalgaranga_Gold_Mine&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Dalgaranga Gold Mine (page does not exist)\">Dalgaranga Gold Mine</a>, <a href=\"/wiki/Western_Australia\" title=\"Western Australia\">Western Australia</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+08:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DGE</td>
+<td>YMDG</td>
+<td><a href=\"/wiki/Mudgee_Airport\" title=\"Mudgee Airport\">Mudgee Airport</a></td>
+<td><a href=\"/wiki/Mudgee\" title=\"Mudgee\">Mudgee</a>, <a href=\"/wiki/New_South_Wales\" title=\"New South Wales\">New South Wales</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+10:00</a></td>
+<td>Oct-Apr
+</td></tr>
+<tr>
+<td>DGF</td>
+<td></td>
+<td><a href=\"/wiki/Douglas_Lake_Airport\" title=\"Douglas Lake Airport\">Douglas Lake Airport</a><sup id=\"cite_ref-IATA_1-11\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Douglas_Lake,_British_Columbia&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Douglas Lake, British Columbia (page does not exist)\">Douglas Lake</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+<td><a href=\"/wiki/Pacific_Time_Zone\" title=\"Pacific Time Zone\">UTC\u221208:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>DGK</td>
+<td></td>
+<td><a href=\"/wiki/Dugong_Beach_Lodge_Airstrip\" title=\"Dugong Beach Lodge Airstrip\">Dugong Beach Lodge Airstrip</a><sup id=\"cite_ref-IATA_1-12\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Dugong_Beach_Lodge&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Dugong Beach Lodge (page does not exist)\">Dugong Beach Lodge</a>, <a href=\"/wiki/Mozambique\" title=\"Mozambique\">Mozambique</a></td>
+<td><a href=\"/wiki/Central_Africa_Time\" title=\"Central Africa Time\">UTC+02:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DGL</td>
+<td>KDGL</td>
+<td><a href=\"/wiki/Douglas_Municipal_Airport_(Arizona)\" title=\"Douglas Municipal Airport (Arizona)\">Douglas Municipal Airport</a></td>
+<td><a href=\"/wiki/Douglas,_Arizona\" title=\"Douglas, Arizona\">Douglas</a>, <a href=\"/wiki/Arizona\" title=\"Arizona\">Arizona</a>, United States</td>
+<td><a href=\"/wiki/Mountain_Time_Zone\" title=\"Mountain Time Zone\">UTC\u221207:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DGM</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Dandugama_Seaplane_Base&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Dandugama Seaplane Base (page does not exist)\">Dandugama Seaplane Base</a><sup id=\"cite_ref-IATA_1-13\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Colombo\" title=\"Colombo\">Colombo</a>, <a href=\"/wiki/Sri_Lanka\" title=\"Sri Lanka\">Sri Lanka</a></td>
+<td><a href=\"/wiki/Indian_Standard_Time\" title=\"Indian Standard Time\">UTC+05:30</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DGN</td>
+<td>KNDY</td>
+<td><a href=\"/wiki/Naval_Surface_Warfare_Center_Dahlgren_Division\" title=\"Naval Surface Warfare Center Dahlgren Division\">Naval Surface Warfare Center Dahlgren Division</a> (FAA: NDY)</td>
+<td><a href=\"/wiki/Dahlgren,_Virginia\" title=\"Dahlgren, Virginia\">Dahlgren</a>, <a href=\"/wiki/Virginia\" title=\"Virginia\">Virginia</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>DGO</td>
+<td>MMDO</td>
+<td><a href=\"/wiki/General_Guadalupe_Victoria_International_Airport\" class=\"mw-redirect\" title=\"General Guadalupe Victoria International Airport\">General Guadalupe Victoria International Airport</a></td>
+<td><a href=\"/wiki/Durango_City\" title=\"Durango City\">Durango</a>, <a href=\"/wiki/Durango\" title=\"Durango\">Durango</a>, Mexico</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Apr-Oct
+</td></tr>
+<tr>
+<td>DGP</td>
+<td>EVDA</td>
+<td><a href=\"/wiki/Daugavpils_International_Airport\" title=\"Daugavpils International Airport\">Daugavpils International Airport</a></td>
+<td><a href=\"/wiki/Daugavpils\" title=\"Daugavpils\">Daugavpils</a>, <a href=\"/wiki/Latvia\" title=\"Latvia\">Latvia</a></td>
+<td><a href=\"/wiki/Eastern_European_Time\" title=\"Eastern European Time\">UTC+02:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>DGR</td>
+<td>NZDA</td>
+<td><a href=\"/wiki/Dargaville_Aerodrome\" title=\"Dargaville Aerodrome\">Dargaville Aerodrome</a></td>
+<td><a href=\"/wiki/Dargaville\" title=\"Dargaville\">Dargaville</a>, <a href=\"/wiki/New_Zealand\" title=\"New Zealand\">New Zealand</a></td>
+<td><a href=\"/wiki/Time_in_New_Zealand\" title=\"Time in New Zealand\">UTC+12:00</a></td>
+<td>Sep-Apr
+</td></tr>
+<tr>
+<td>DGT</td>
+<td>RPVD</td>
+<td><a href=\"/wiki/Sibulan_Airport\" title=\"Sibulan Airport\">Sibulan Airport</a> (Dumaguete Airport)</td>
+<td><a href=\"/wiki/Dumaguete\" title=\"Dumaguete\">Dumaguete</a>, <a href=\"/wiki/Philippines\" title=\"Philippines\">Philippines</a></td>
+<td><a href=\"/wiki/Philippine_Standard_Time\" title=\"Philippine Standard Time\">UTC+08:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DGU</td>
+<td>DFOD</td>
+<td><a href=\"/wiki/D%C3%A9dougou_Airport\" title=\"D\u00e9dougou Airport\">D\u00e9dougou Airport</a></td>
+<td><a href=\"/wiki/D%C3%A9dougou\" title=\"D\u00e9dougou\">D\u00e9dougou</a>, <a href=\"/wiki/Burkina_Faso\" title=\"Burkina Faso\">Burkina Faso</a></td>
+<td><a href=\"/wiki/Greenwich_Mean_Time\" title=\"Greenwich Mean Time\">UTC\u00b100:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DGW</td>
+<td>KDGW</td>
+<td><a href=\"/wiki/Converse_County_Airport\" title=\"Converse County Airport\">Converse County Airport</a></td>
+<td><a href=\"/wiki/Douglas,_Wyoming\" title=\"Douglas, Wyoming\">Douglas</a>, <a href=\"/wiki/Wyoming\" title=\"Wyoming\">Wyoming</a>, United States</td>
+<td><a href=\"/wiki/Mountain_Time_Zone\" title=\"Mountain Time Zone\">UTC\u221207:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr class=\"sortbottom\">
+<th colspan=\"6\" style=\"text-align:left; background:#DDDDDD;\"><span id=\"DH\"></span>-DH-
+</th></tr>
+<tr>
+<td>DHA</td>
+<td>OEDR</td>
+<td><a href=\"/wiki/King_Abdulaziz_Air_Base\" title=\"King Abdulaziz Air Base\">King Abdulaziz Air Base</a></td>
+<td><a href=\"/wiki/Dhahran\" title=\"Dhahran\">Dhahran</a>, <a href=\"/wiki/Saudi_Arabia\" title=\"Saudi Arabia\">Saudi Arabia</a></td>
+<td><a href=\"/wiki/UTC%2B03:00#Arabia_Standard_Time\" title=\"UTC+03:00\">UTC+03:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DHB</td>
+<td></td>
+<td><a href=\"/wiki/Deer_Harbor_Sea_Plane_Base\" title=\"Deer Harbor Sea Plane Base\">Deer Harbor Sea Plane Base</a><sup id=\"cite_ref-IATA_1-14\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Deer_Harbor,_Washington\" title=\"Deer Harbor, Washington\">Deer Harbor</a>, <a href=\"/wiki/Washington_(state)\" title=\"Washington (state)\">Washington</a>, United States</td>
+<td><a href=\"/wiki/Pacific_Time_Zone\" title=\"Pacific Time Zone\">UTC\u221208:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>DHD</td>
+<td>YDRH</td>
+<td><a href=\"/w/index.php?title=Durham_Downs_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Durham Downs Airport (page does not exist)\">Durham Downs Airport</a></td>
+<td><a href=\"/wiki/Durham_Downs_Station\" title=\"Durham Downs Station\">Durham Downs</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+10:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DHF</td>
+<td>OMAM</td>
+<td><a href=\"/wiki/Al_Dhafra_Air_Base\" title=\"Al Dhafra Air Base\">Al Dhafra Air Base</a></td>
+<td><a href=\"/wiki/Abu_Dhabi\" title=\"Abu Dhabi\">Abu Dhabi</a>, <a href=\"/wiki/United_Arab_Emirates\" title=\"United Arab Emirates\">United Arab Emirates</a></td>
+<td><a href=\"/wiki/UTC%2B04:00\" title=\"UTC+04:00\">UTC+04:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DHI</td>
+<td>VNDH</td>
+<td><a href=\"/wiki/Dhangadhi_Airport\" title=\"Dhangadhi Airport\">Dhangadhi Airport</a></td>
+<td><a href=\"/wiki/Dhangadhi\" title=\"Dhangadhi\">Dhangadhi</a>, <a href=\"/wiki/Nepal\" title=\"Nepal\">Nepal</a></td>
+<td><a href=\"/wiki/Nepal_Standard_Time\" title=\"Nepal Standard Time\">UTC+05:45</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DHL</td>
+<td>ODAL</td>
+<td><a href=\"/w/index.php?title=Dhala_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Dhala Airport (page does not exist)\">Dhala Airport</a></td>
+<td><a href=\"/wiki/Dhale\" title=\"Dhale\">Dhala</a>, <a href=\"/wiki/Yemen\" title=\"Yemen\">Yemen</a></td>
+<td><a href=\"/wiki/UTC%2B03:00#Arabia_Standard_Time\" title=\"UTC+03:00\">UTC+03:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DHM</td>
+<td>VIGG</td>
+<td><a href=\"/wiki/Gaggal_Airport\" class=\"mw-redirect\" title=\"Gaggal Airport\">Gaggal Airport</a></td>
+<td><a href=\"/wiki/Kangra,_Himachal_Pradesh\" title=\"Kangra, Himachal Pradesh\">Kangra</a>, <a href=\"/wiki/Himachal_Pradesh\" title=\"Himachal Pradesh\">Himachal Pradesh</a>, India</td>
+<td><a href=\"/wiki/Indian_Standard_Time\" title=\"Indian Standard Time\">UTC+05:30</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DHN</td>
+<td>KDHN</td>
+<td><a href=\"/wiki/Dothan_Regional_Airport\" title=\"Dothan Regional Airport\">Dothan Regional Airport</a></td>
+<td><a href=\"/wiki/Dothan,_Alabama\" title=\"Dothan, Alabama\">Dothan</a>, <a href=\"/wiki/Alabama\" title=\"Alabama\">Alabama</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>DHR</td>
+<td>EHKD</td>
+<td><a href=\"/wiki/De_Kooy_Airfield\" title=\"De Kooy Airfield\">De Kooy Airfield</a></td>
+<td><a href=\"/wiki/Den_Helder\" title=\"Den Helder\">Den Helder</a>, <a href=\"/wiki/Netherlands\" title=\"Netherlands\">Netherlands</a></td>
+<td><a href=\"/wiki/Central_European_Time\" title=\"Central European Time\">UTC+01:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>DHT</td>
+<td>KDHT</td>
+<td><a href=\"/wiki/Dalhart_Municipal_Airport\" title=\"Dalhart Municipal Airport\">Dalhart Municipal Airport</a></td>
+<td><a href=\"/wiki/Dalhart,_Texas\" title=\"Dalhart, Texas\">Dalhart</a>, <a href=\"/wiki/Texas\" title=\"Texas\">Texas</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr class=\"sortbottom\">
+<th colspan=\"6\" style=\"text-align:left; background:#DDDDDD;\"><span id=\"DI\"></span>-DI-
+</th></tr>
+<tr>
+<td>DIA</td>
+<td>OTBD</td>
+<td><a href=\"/wiki/Doha_International_Airport\" title=\"Doha International Airport\">Doha International Airport</a></td>
+<td><a href=\"/wiki/Doha\" title=\"Doha\">Doha</a>, <a href=\"/wiki/Qatar\" title=\"Qatar\">Qatar</a></td>
+<td><a href=\"/wiki/Arabia_Standard_Time\" class=\"mw-redirect\" title=\"Arabia Standard Time\">UTC+03:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DIB</td>
+<td>VEMN</td>
+<td><a href=\"/wiki/Dibrugarh_Airport\" title=\"Dibrugarh Airport\">Dibrugarh Airport</a> (Mohanbari Airport)</td>
+<td><a href=\"/wiki/Dibrugarh\" title=\"Dibrugarh\">Dibrugarh</a>, <a href=\"/wiki/Assam\" title=\"Assam\">Assam</a>, India</td>
+<td><a href=\"/wiki/Indian_Standard_Time\" title=\"Indian Standard Time\">UTC+05:30</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DIE</td>
+<td>FMNA</td>
+<td><a href=\"/wiki/Arrachart_Airport\" title=\"Arrachart Airport\">Arrachart Airport</a></td>
+<td><a href=\"/wiki/Antsiranana\" title=\"Antsiranana\">Antsiranana</a>, <a href=\"/wiki/Madagascar\" title=\"Madagascar\">Madagascar</a></td>
+<td><a href=\"/wiki/East_Africa_Time\" title=\"East Africa Time\">UTC+03:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DIG</td>
+<td>ZPDQ</td>
+<td><a href=\"/wiki/Diqing_Shangri-La_Airport\" title=\"Diqing Shangri-La Airport\">Diqing Shangri-La Airport</a></td>
+<td><a href=\"/wiki/Shangri-La_City\" title=\"Shangri-La City\">Shangri-La</a>, <a href=\"/wiki/Yunnan\" title=\"Yunnan\">Yunnan</a>, China</td>
+<td><a href=\"/wiki/Time_in_China\" title=\"Time in China\">UTC+08:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DIJ</td>
+<td>LFSD</td>
+<td><a href=\"/wiki/Dijon_Air_Base\" title=\"Dijon Air Base\">Dijon Air Base</a></td>
+<td><a href=\"/wiki/Dijon\" title=\"Dijon\">Dijon</a>, <a href=\"/wiki/Burgundy\" title=\"Burgundy\">Burgundy</a>, France</td>
+<td><a href=\"/wiki/Central_European_Time\" title=\"Central European Time\">UTC+01:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>DIK</td>
+<td>KDIK</td>
+<td><a href=\"/wiki/Dickinson_Theodore_Roosevelt_Regional_Airport\" title=\"Dickinson Theodore Roosevelt Regional Airport\">Dickinson Theodore Roosevelt Regional Airport</a></td>
+<td><a href=\"/wiki/Dickinson,_North_Dakota\" title=\"Dickinson, North Dakota\">Dickinson</a>, <a href=\"/wiki/North_Dakota\" title=\"North Dakota\">North Dakota</a>, United States</td>
+<td><a href=\"/wiki/Mountain_Time_Zone\" title=\"Mountain Time Zone\">UTC\u221207:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>DIL</td>
+<td>WPDL</td>
+<td><a href=\"/wiki/Presidente_Nicolau_Lobato_International_Airport\" title=\"Presidente Nicolau Lobato International Airport\">Presidente Nicolau Lobato International Airport</a></td>
+<td><a href=\"/wiki/Dili\" title=\"Dili\">Dili</a>, <a href=\"/wiki/East_Timor\" title=\"East Timor\">East Timor</a></td>
+<td><a href=\"/wiki/Time_in_East_Timor\" title=\"Time in East Timor\">UTC+09:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DIM</td>
+<td>DIDK</td>
+<td><a href=\"/wiki/Dimbokro_Airport\" title=\"Dimbokro Airport\">Dimbokro Airport</a></td>
+<td><a href=\"/wiki/Dimbokro\" title=\"Dimbokro\">Dimbokro</a>, <a href=\"/wiki/Ivory_Coast\" title=\"Ivory Coast\">Ivory Coast</a></td>
+<td><a href=\"/wiki/Greenwich_Mean_Time\" title=\"Greenwich Mean Time\">UTC\u00b100:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DIN</td>
+<td>VVDB</td>
+<td><a href=\"/wiki/Dien_Bien_Phu_Airport\" class=\"mw-redirect\" title=\"Dien Bien Phu Airport\">Dien Bien Phu Airport</a></td>
+<td><a href=\"/wiki/%C4%90i%E1%BB%87n_Bi%C3%AAn_Ph%E1%BB%A7\" title=\"\u0110i\u1ec7n Bi\u00ean Ph\u1ee7\">Dien Bien Phu</a>, <a href=\"/wiki/Vietnam\" title=\"Vietnam\">Vietnam</a></td>
+<td><a href=\"/wiki/UTC%2B07:00\" title=\"UTC+07:00\">UTC+07:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DIP</td>
+<td>DFED</td>
+<td><a href=\"/wiki/Diapaga_Airport\" title=\"Diapaga Airport\">Diapaga Airport</a></td>
+<td><a href=\"/wiki/Diapaga\" title=\"Diapaga\">Diapaga</a>, <a href=\"/wiki/Burkina_Faso\" title=\"Burkina Faso\">Burkina Faso</a></td>
+<td><a href=\"/wiki/Greenwich_Mean_Time\" title=\"Greenwich Mean Time\">UTC\u00b100:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DIQ</td>
+<td>SNDV</td>
+<td><a href=\"/wiki/Divin%C3%B3polis_Airport\" title=\"Divin\u00f3polis Airport\">Divin\u00f3polis Airport</a> (Brigadeiro Cabral Airport)</td>
+<td><a href=\"/wiki/Divin%C3%B3polis\" title=\"Divin\u00f3polis\">Divin\u00f3polis</a>, <a href=\"/wiki/Minas_Gerais\" title=\"Minas Gerais\">Minas Gerais</a>, Brazil</td>
+<td><a href=\"/wiki/Time_in_Brazil\" title=\"Time in Brazil\">UTC\u221203:00</a></td>
+<td>Oct-Feb
+</td></tr>
+<tr>
+<td>DIR</td>
+<td>HADR</td>
+<td><a href=\"/wiki/Aba_Tenna_Dejazmach_Yilma_International_Airport\" title=\"Aba Tenna Dejazmach Yilma International Airport\">Aba Tenna Dejazmach Yilma International Airport</a></td>
+<td><a href=\"/wiki/Dire_Dawa\" title=\"Dire Dawa\">Dire Dawa</a>, <a href=\"/wiki/Ethiopia\" title=\"Ethiopia\">Ethiopia</a></td>
+<td><a href=\"/wiki/East_Africa_Time\" title=\"East Africa Time\">UTC+03:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DIS</td>
+<td>FCPL</td>
+<td><a href=\"/wiki/Dolisie_Airport\" title=\"Dolisie Airport\">Dolisie Airport</a></td>
+<td><a href=\"/wiki/Dolisie\" title=\"Dolisie\">Dolisie</a>, <a href=\"/wiki/Republic_of_the_Congo\" title=\"Republic of the Congo\">Republic of the Congo</a></td>
+<td><a href=\"/wiki/West_Africa_Time\" title=\"West Africa Time\">UTC+01:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DIU</td>
+<td></td>
+<td><a href=\"/wiki/Diu_Airport\" title=\"Diu Airport\">Diu Airport</a></td>
+<td><a href=\"/wiki/Diu,_India\" title=\"Diu, India\">Diu</a>, <a href=\"/wiki/Daman_and_Diu\" title=\"Daman and Diu\">Daman and Diu</a>, India</td>
+<td><a href=\"/wiki/Indian_Standard_Time\" title=\"Indian Standard Time\">UTC+05:30</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DIV</td>
+<td>DIDV</td>
+<td><a href=\"/wiki/Divo_Airport\" title=\"Divo Airport\">Divo Airport</a></td>
+<td><a href=\"/wiki/Divo,_Ivory_Coast\" title=\"Divo, Ivory Coast\">Divo</a>, <a href=\"/wiki/Ivory_Coast\" title=\"Ivory Coast\">Ivory Coast</a></td>
+<td><a href=\"/wiki/Greenwich_Mean_Time\" title=\"Greenwich Mean Time\">UTC\u00b100:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DIW</td>
+<td></td>
+<td><a href=\"/wiki/Mawella_Lagoon_Airport\" title=\"Mawella Lagoon Airport\">Mawella Lagoon Seaplane Base</a><sup id=\"cite_ref-IATA_1-15\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Dickwella\" title=\"Dickwella\">Dickwella</a>, <a href=\"/wiki/Sri_Lanka\" title=\"Sri Lanka\">Sri Lanka</a></td>
+<td><a href=\"/wiki/Indian_Standard_Time\" title=\"Indian Standard Time\">UTC+05:30</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DIY</td>
+<td>LTCC</td>
+<td><a href=\"/wiki/Diyarbak%C4%B1r_Airport\" title=\"Diyarbak\u0131r Airport\">Diyarbak\u0131r Airport</a></td>
+<td><a href=\"/wiki/Diyarbak%C4%B1r\" title=\"Diyarbak\u0131r\">Diyarbak\u0131r</a>, <a href=\"/wiki/Turkey\" title=\"Turkey\">Turkey</a></td>
+<td><a href=\"/wiki/Time_in_Turkey\" title=\"Time in Turkey\">UTC+03:00</a></td>
+<td>
+</td></tr>
+<tr class=\"sortbottom\">
+<th colspan=\"6\" style=\"text-align:left; background:#DDDDDD;\"><span id=\"DJ\"></span>-DJ-
+</th></tr>
+<tr>
+<td>DJA</td>
+<td>DBBD</td>
+<td><a href=\"/wiki/Djougou_Airport\" title=\"Djougou Airport\">Djougou Airport</a></td>
+<td><a href=\"/wiki/Djougou\" title=\"Djougou\">Djougou</a>, <a href=\"/wiki/Benin\" title=\"Benin\">Benin</a></td>
+<td><a href=\"/wiki/West_Africa_Time\" title=\"West Africa Time\">UTC+01:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DJB</td>
+<td>WIPA</td>
+<td><a href=\"/wiki/Sultan_Thaha_Airport\" title=\"Sultan Thaha Airport\">Sultan Thaha Airport</a></td>
+<td><a href=\"/wiki/Jambi_City\" class=\"mw-redirect\" title=\"Jambi City\">Jambi</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+<td><a href=\"/wiki/Time_in_Indonesia\" title=\"Time in Indonesia\">UTC+07:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DJE</td>
+<td>DTTJ</td>
+<td><a href=\"/wiki/Djerba%E2%80%93Zarzis_International_Airport\" title=\"Djerba\u2013Zarzis International Airport\">Djerba\u2013Zarzis International Airport</a></td>
+<td><a href=\"/wiki/Djerba\" title=\"Djerba\">Djerba</a>, <a href=\"/wiki/Tunisia\" title=\"Tunisia\">Tunisia</a></td>
+<td><a href=\"/wiki/Central_European_Time\" title=\"Central European Time\">UTC+01:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DJG</td>
+<td>DAAJ</td>
+<td><a href=\"/wiki/Djanet_Inedbirene_Airport\" title=\"Djanet Inedbirene Airport\">Tiska Djanet Airport</a></td>
+<td><a href=\"/wiki/Djanet\" title=\"Djanet\">Djanet</a>, <a href=\"/wiki/Algeria\" title=\"Algeria\">Algeria</a></td>
+<td><a href=\"/wiki/Central_European_Time\" title=\"Central European Time\">UTC+01:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DJH</td>
+<td></td>
+<td><a href=\"/wiki/Jebel_Ali_Seaplane_Base\" title=\"Jebel Ali Seaplane Base\">Jebel Ali Seaplane Base</a></td>
+<td><a href=\"/wiki/Dubai\" title=\"Dubai\">Dubai</a>, <a href=\"/wiki/United_Arab_Emirates\" title=\"United Arab Emirates\">United Arab Emirates</a></td>
+<td><a href=\"/wiki/UTC%2B04:00\" title=\"UTC+04:00\">UTC+04:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DJJ</td>
+<td>WAJJ</td>
+<td><a href=\"/wiki/Sentani_Airport\" class=\"mw-redirect\" title=\"Sentani Airport\">Sentani Airport</a></td>
+<td><a href=\"/wiki/Jayapura\" title=\"Jayapura\">Jayapura</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+<td><a href=\"/wiki/Time_in_Indonesia\" title=\"Time in Indonesia\">UTC+09:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DJM</td>
+<td>FCBD</td>
+<td><a href=\"/wiki/Djambala_Airport\" title=\"Djambala Airport\">Djambala Airport</a></td>
+<td><a href=\"/wiki/Djambala\" title=\"Djambala\">Djambala</a>, <a href=\"/wiki/Republic_of_the_Congo\" title=\"Republic of the Congo\">Republic of the Congo</a></td>
+<td><a href=\"/wiki/West_Africa_Time\" title=\"West Africa Time\">UTC+01:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DJN</td>
+<td></td>
+<td><a href=\"/wiki/Delta_Junction_Airport\" title=\"Delta Junction Airport\">Delta Junction Airport</a> (FAA: D66)</td>
+<td><a href=\"/wiki/Delta_Junction,_Alaska\" title=\"Delta Junction, Alaska\">Delta Junction</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+<td><a href=\"/wiki/Alaska_Time_Zone\" title=\"Alaska Time Zone\">UTC\u221209:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>DJO</td>
+<td>DIDL</td>
+<td><a href=\"/wiki/Daloa_Airport\" title=\"Daloa Airport\">Daloa Airport</a></td>
+<td><a href=\"/wiki/Daloa\" title=\"Daloa\">Daloa</a>, <a href=\"/wiki/Ivory_Coast\" title=\"Ivory Coast\">Ivory Coast</a></td>
+<td><a href=\"/wiki/Greenwich_Mean_Time\" title=\"Greenwich Mean Time\">UTC\u00b100:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DJU</td>
+<td>BIDV</td>
+<td><a href=\"/wiki/Dj%C3%BApivogur_Airport\" title=\"Dj\u00fapivogur Airport\">Dj\u00fapivogur Airport</a></td>
+<td><a href=\"/wiki/Dj%C3%BApivogur\" title=\"Dj\u00fapivogur\">Dj\u00fapivogur</a>, <a href=\"/wiki/Iceland\" title=\"Iceland\">Iceland</a></td>
+<td><a href=\"/wiki/Greenwich_Mean_Time\" title=\"Greenwich Mean Time\">UTC\u00b100:00</a></td>
+<td>
+</td></tr>
+<tr class=\"sortbottom\">
+<th colspan=\"6\" style=\"text-align:left; background:#DDDDDD;\"><span id=\"DK\"></span>-DK-
+</th></tr>
+<tr>
+<td>DKA</td>
+<td></td>
+<td><a href=\"/wiki/Katsina_Airport\" title=\"Katsina Airport\">Katsina Airport</a><sup id=\"cite_ref-IATA_1-16\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Katsina\" title=\"Katsina\">Katsina</a>, <a href=\"/wiki/Nigeria\" title=\"Nigeria\">Nigeria</a></td>
+<td><a href=\"/wiki/West_Africa_Time\" title=\"West Africa Time\">UTC+01:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DKI</td>
+<td>YDKI</td>
+<td><a href=\"/wiki/Dunk_Island_Airport\" title=\"Dunk Island Airport\">Dunk Island Airport</a></td>
+<td><a href=\"/wiki/Dunk_Island\" title=\"Dunk Island\">Dunk Island</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+10:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DKK</td>
+<td>KDKK</td>
+<td><a href=\"/wiki/Chautauqua_County/Dunkirk_Airport\" title=\"Chautauqua County/Dunkirk Airport\">Chautauqua County/Dunkirk Airport</a></td>
+<td><a href=\"/wiki/Dunkirk,_New_York\" title=\"Dunkirk, New York\">Dunkirk</a>, <a href=\"/wiki/New_York_(state)\" title=\"New York (state)\">New York</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>DKR</td>
+<td>GOOY</td>
+<td><a href=\"/wiki/L%C3%A9opold_S%C3%A9dar_Senghor_International_Airport\" title=\"L\u00e9opold S\u00e9dar Senghor International Airport\">L\u00e9opold S\u00e9dar Senghor International Airport</a></td>
+<td><a href=\"/wiki/Dakar\" title=\"Dakar\">Dakar</a>, <a href=\"/wiki/Senegal\" title=\"Senegal\">Senegal</a></td>
+<td><a href=\"/wiki/Greenwich_Mean_Time\" title=\"Greenwich Mean Time\">UTC\u00b100:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DKS</td>
+<td>UODD</td>
+<td><a href=\"/wiki/Dikson_Airport\" title=\"Dikson Airport\">Dikson Airport</a></td>
+<td><a href=\"/wiki/Dikson_(urban-type_settlement)\" title=\"Dikson (urban-type settlement)\">Dikson</a>, <a href=\"/wiki/Krasnoyarsk_Krai\" title=\"Krasnoyarsk Krai\">Krasnoyarsk Krai</a>, Russia</td>
+<td><a href=\"/wiki/Krasnoyarsk_Time\" title=\"Krasnoyarsk Time\">UTC+07:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DKV</td>
+<td>YDVR</td>
+<td><a href=\"/w/index.php?title=Docker_River_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Docker River Airport (page does not exist)\">Docker River Airport</a></td>
+<td><a href=\"/wiki/Kaltukatjara\" title=\"Kaltukatjara\">Docker River</a>, <a href=\"/wiki/Northern_Territory\" title=\"Northern Territory\">Northern Territory</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+09:30</a></td>
+<td>
+</td></tr>
+<tr class=\"sortbottom\">
+<th colspan=\"6\" style=\"text-align:left; background:#DDDDDD;\"><span id=\"DL\"></span>-DL-
+</th></tr>
+<tr>
+<td>DLA</td>
+<td>FKKD</td>
+<td><a href=\"/wiki/Douala_International_Airport\" title=\"Douala International Airport\">Douala International Airport</a></td>
+<td><a href=\"/wiki/Douala\" title=\"Douala\">Douala</a>, <a href=\"/wiki/Cameroon\" title=\"Cameroon\">Cameroon</a></td>
+<td><a href=\"/wiki/West_Africa_Time\" title=\"West Africa Time\">UTC+01:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DLB</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Dalbertis_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Dalbertis Airport (page does not exist)\">Dalbertis Airport</a></td>
+<td><a href=\"/w/index.php?title=Dalbertis&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Dalbertis (page does not exist)\">Dalbertis</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+<td><a href=\"/wiki/UTC%2B10:00\" title=\"UTC+10:00\">UTC+10:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DLC</td>
+<td>ZYTL</td>
+<td><a href=\"/wiki/Dalian_Zhoushuizi_International_Airport\" title=\"Dalian Zhoushuizi International Airport\">Dalian Zhoushuizi International Airport</a></td>
+<td><a href=\"/wiki/Dalian\" title=\"Dalian\">Dalian</a>, <a href=\"/wiki/Liaoning\" title=\"Liaoning\">Liaoning</a>, China</td>
+<td><a href=\"/wiki/Time_in_China\" title=\"Time in China\">UTC+08:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DLE</td>
+<td>LFGJ</td>
+<td><a href=\"/wiki/Dole%E2%80%93Jura_Airport\" title=\"Dole\u2013Jura Airport\">Dole\u2013Jura Airport</a></td>
+<td><a href=\"/wiki/Dole,_Jura\" title=\"Dole, Jura\">Dole</a>, <a href=\"/wiki/Franche-Comt%C3%A9\" title=\"Franche-Comt\u00e9\">Franche-Comt\u00e9</a>, France</td>
+<td><a href=\"/wiki/Central_European_Time\" title=\"Central European Time\">UTC+01:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>DLF</td>
+<td>KDLF</td>
+<td><a href=\"/wiki/Laughlin_Air_Force_Base\" title=\"Laughlin Air Force Base\">Laughlin Air Force Base</a></td>
+<td><a href=\"/wiki/Del_Rio,_Texas\" title=\"Del Rio, Texas\">Del Rio</a>, <a href=\"/wiki/Texas\" title=\"Texas\">Texas</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>DLG</td>
+<td>PADL</td>
+<td><a href=\"/wiki/Dillingham_Airport\" title=\"Dillingham Airport\">Dillingham Airport</a></td>
+<td><a href=\"/wiki/Dillingham,_Alaska\" title=\"Dillingham, Alaska\">Dillingham</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+<td><a href=\"/wiki/Alaska_Time_Zone\" title=\"Alaska Time Zone\">UTC\u221209:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>DLH</td>
+<td>KDLH</td>
+<td><a href=\"/wiki/Duluth_International_Airport\" title=\"Duluth International Airport\">Duluth International Airport</a></td>
+<td><a href=\"/wiki/Duluth,_Minnesota\" title=\"Duluth, Minnesota\">Duluth</a>, <a href=\"/wiki/Minnesota\" title=\"Minnesota\">Minnesota</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>DLI</td>
+<td>VVDL</td>
+<td><a href=\"/wiki/Lien_Khuong_Airport\" title=\"Lien Khuong Airport\">Lien Khuong Airport</a></td>
+<td><a href=\"/wiki/Da_Lat\" title=\"Da Lat\">Da Lat</a>, <a href=\"/wiki/Vietnam\" title=\"Vietnam\">Vietnam</a></td>
+<td><a href=\"/wiki/UTC%2B07:00\" title=\"UTC+07:00\">UTC+07:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DLK</td>
+<td>YDLK</td>
+<td><a href=\"/w/index.php?title=Dulkaninna_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Dulkaninna Airport (page does not exist)\">Dulkaninna Airport</a></td>
+<td><a href=\"/wiki/Dulkaninna\" title=\"Dulkaninna\">Dulkaninna</a>, <a href=\"/wiki/South_Australia\" title=\"South Australia\">South Australia</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+09:30</a></td>
+<td>Oct-Apr
+</td></tr>
+<tr>
+<td>DLL</td>
+<td>KDLC</td>
+<td><a href=\"/wiki/Dillon_County_Airport\" title=\"Dillon County Airport\">Dillon County Airport</a> (FAA: DLC)</td>
+<td><a href=\"/wiki/Dillon,_South_Carolina\" title=\"Dillon, South Carolina\">Dillon</a>, <a href=\"/wiki/South_Carolina\" title=\"South Carolina\">South Carolina</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>DLM</td>
+<td>LTBS</td>
+<td><a href=\"/wiki/Dalaman_Airport\" title=\"Dalaman Airport\">Dalaman Airport</a></td>
+<td><a href=\"/wiki/Dalaman\" title=\"Dalaman\">Dalaman</a>, <a href=\"/wiki/Turkey\" title=\"Turkey\">Turkey</a></td>
+<td><a href=\"/wiki/Time_in_Turkey\" title=\"Time in Turkey\">UTC+03:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DLN</td>
+<td>KDLN</td>
+<td><a href=\"/wiki/Dillon_Airport\" title=\"Dillon Airport\">Dillon Airport</a></td>
+<td><a href=\"/wiki/Dillon,_Montana\" title=\"Dillon, Montana\">Dillon</a>, <a href=\"/wiki/Montana\" title=\"Montana\">Montana</a>, United States</td>
+<td><a href=\"/wiki/Mountain_Time_Zone\" title=\"Mountain Time Zone\">UTC\u221207:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>DLS</td>
+<td>KDLS</td>
+<td><a href=\"/wiki/Columbia_Gorge_Regional_Airport\" title=\"Columbia Gorge Regional Airport\">Columbia Gorge Regional Airport</a> (The Dalles Municipal Airport)</td>
+<td><a href=\"/wiki/The_Dalles,_Oregon\" title=\"The Dalles, Oregon\">The Dalles</a>, <a href=\"/wiki/Oregon\" title=\"Oregon\">Oregon</a>, United States</td>
+<td><a href=\"/wiki/Pacific_Time_Zone\" title=\"Pacific Time Zone\">UTC\u221208:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>DLU</td>
+<td>ZPDL</td>
+<td><a href=\"/wiki/Dali_Airport\" title=\"Dali Airport\">Dali Airport</a></td>
+<td><a href=\"/wiki/Dali_City\" title=\"Dali City\">Dali</a>, <a href=\"/wiki/Yunnan\" title=\"Yunnan\">Yunnan</a>, China</td>
+<td><a href=\"/wiki/Time_in_China\" title=\"Time in China\">UTC+08:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DLV</td>
+<td>YDLV</td>
+<td><a href=\"/w/index.php?title=Delissaville_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Delissaville Airport (page does not exist)\">Delissaville Airport</a></td>
+<td><a href=\"/wiki/Belyuen_Shire\" title=\"Belyuen Shire\">Delissaville</a>, <a href=\"/wiki/Northern_Territory\" title=\"Northern Territory\">Northern Territory</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+09:30</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DLY</td>
+<td>NVVD</td>
+<td><a href=\"/wiki/Dillon%27s_Bay_Airport\" title=\"Dillon&#39;s Bay Airport\">Dillon's Bay Airport</a></td>
+<td><a href=\"/w/index.php?title=Dillon%27s_Bay&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Dillon&#39;s Bay (page does not exist)\">Dillon's Bay</a>, <a href=\"/wiki/Erromango\" title=\"Erromango\">Erromango</a>, <a href=\"/wiki/Tafea_Province\" title=\"Tafea Province\">Tafea</a>, <a href=\"/wiki/Vanuatu\" title=\"Vanuatu\">Vanuatu</a></td>
+<td><a href=\"/wiki/UTC%2B11:00\" title=\"UTC+11:00\">UTC+11:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DLZ</td>
+<td>ZMDZ</td>
+<td><a href=\"/wiki/Dalanzadgad_Airport\" title=\"Dalanzadgad Airport\">Dalanzadgad Airport</a></td>
+<td><a href=\"/wiki/Dalanzadgad\" title=\"Dalanzadgad\">Dalanzadgad</a>, <a href=\"/wiki/Mongolia\" title=\"Mongolia\">Mongolia</a></td>
+<td><a href=\"/wiki/Time_in_Mongolia\" title=\"Time in Mongolia\">UTC+08:00</a></td>
+<td>
+</td></tr>
+<tr class=\"sortbottom\">
+<th colspan=\"6\" style=\"text-align:left; background:#DDDDDD;\"><span id=\"DM\"></span>-DM-
+</th></tr>
+<tr>
+<td>DMA</td>
+<td>KDMA</td>
+<td><a href=\"/wiki/Davis%E2%80%93Monthan_Air_Force_Base\" title=\"Davis\u2013Monthan Air Force Base\">Davis\u2013Monthan Air Force Base</a></td>
+<td><a href=\"/wiki/Tucson,_Arizona\" title=\"Tucson, Arizona\">Tucson</a>, <a href=\"/wiki/Arizona\" title=\"Arizona\">Arizona</a>, United States</td>
+<td><a href=\"/wiki/Mountain_Time_Zone\" title=\"Mountain Time Zone\">UTC\u221207:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DMB</td>
+<td>UADD</td>
+<td><a href=\"/wiki/Taraz_Airport\" title=\"Taraz Airport\">Taraz Airport</a> (Jambyl Airport)</td>
+<td><a href=\"/wiki/Taraz\" title=\"Taraz\">Taraz</a>, <a href=\"/wiki/Kazakhstan\" title=\"Kazakhstan\">Kazakhstan</a></td>
+<td><a href=\"/wiki/Time_in_Kazakhstan\" title=\"Time in Kazakhstan\">UTC+06:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DMD</td>
+<td>YDMG</td>
+<td><a href=\"/wiki/Doomadgee_Airport\" title=\"Doomadgee Airport\">Doomadgee Airport</a></td>
+<td><a href=\"/wiki/Doomadgee,_Queensland\" title=\"Doomadgee, Queensland\">Doomadgee</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+10:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DME</td>
+<td>UUDD</td>
+<td><a href=\"/wiki/Domodedovo_International_Airport\" class=\"mw-redirect\" title=\"Domodedovo International Airport\">Domodedovo International Airport</a></td>
+<td><a href=\"/wiki/Moscow\" title=\"Moscow\">Moscow</a>, Russia</td>
+<td><a href=\"/wiki/Moscow_Time\" title=\"Moscow Time\">UTC+03:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DMK</td>
+<td>VTBD</td>
+<td><a href=\"/wiki/Don_Mueang_International_Airport\" title=\"Don Mueang International Airport\">Don Mueang International Airport</a></td>
+<td><a href=\"/wiki/Bangkok\" title=\"Bangkok\">Bangkok</a>, <a href=\"/wiki/Thailand\" title=\"Thailand\">Thailand</a></td>
+<td><a href=\"/wiki/UTC%2B07:00\" title=\"UTC+07:00\">UTC+07:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DMM</td>
+<td>OEDF</td>
+<td><a href=\"/wiki/King_Fahd_International_Airport\" title=\"King Fahd International Airport\">King Fahd International Airport</a></td>
+<td><a href=\"/wiki/Dammam\" title=\"Dammam\">Dammam</a>, <a href=\"/wiki/Saudi_Arabia\" title=\"Saudi Arabia\">Saudi Arabia</a></td>
+<td><a href=\"/wiki/UTC%2B03:00#Arabia_Standard_Time\" title=\"UTC+03:00\">UTC+03:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DMN</td>
+<td>KDMN</td>
+<td><a href=\"/wiki/Deming_Municipal_Airport\" title=\"Deming Municipal Airport\">Deming Municipal Airport</a></td>
+<td><a href=\"/wiki/Deming,_New_Mexico\" title=\"Deming, New Mexico\">Deming</a>, <a href=\"/wiki/New_Mexico\" title=\"New Mexico\">New Mexico</a>, United States</td>
+<td><a href=\"/wiki/Mountain_Time_Zone\" title=\"Mountain Time Zone\">UTC\u221207:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>DMO</td>
+<td>KDMO</td>
+<td><a href=\"/wiki/Sedalia_Regional_Airport\" title=\"Sedalia Regional Airport\">Sedalia Regional Airport</a></td>
+<td><a href=\"/wiki/Sedalia,_Missouri\" title=\"Sedalia, Missouri\">Sedalia</a>, <a href=\"/wiki/Missouri\" title=\"Missouri\">Missouri</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>DMR</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Dhamar_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Dhamar Airport (page does not exist)\">Dhamar Airport</a></td>
+<td><a href=\"/wiki/Dhamar,_Yemen\" title=\"Dhamar, Yemen\">Dhamar</a>, <a href=\"/wiki/Yemen\" title=\"Yemen\">Yemen</a></td>
+<td><a href=\"/wiki/UTC%2B03:00#Arabia_Standard_Time\" title=\"UTC+03:00\">UTC+03:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DMT</td>
+<td>SWDM</td>
+<td><a href=\"/w/index.php?title=Diamantino_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Diamantino Airport (page does not exist)\">Diamantino Airport</a></td>
+<td><a href=\"/wiki/Diamantino\" title=\"Diamantino\">Diamantino</a>, <a href=\"/wiki/Mato_Grosso\" title=\"Mato Grosso\">Mato Grosso</a>, Brazil</td>
+<td><a href=\"/wiki/Time_in_Brazil\" title=\"Time in Brazil\">UTC\u221204:00</a></td>
+<td>Oct-Feb
+</td></tr>
+<tr>
+<td>DMU</td>
+<td>VEMR</td>
+<td><a href=\"/wiki/Dimapur_Airport\" title=\"Dimapur Airport\">Dimapur Airport</a></td>
+<td><a href=\"/wiki/Dimapur\" title=\"Dimapur\">Dimapur</a>, <a href=\"/wiki/Nagaland\" title=\"Nagaland\">Nagaland</a>, India</td>
+<td><a href=\"/wiki/Indian_Standard_Time\" title=\"Indian Standard Time\">UTC+05:30</a></td>
+<td>
+</td></tr>
+<tr class=\"sortbottom\">
+<th colspan=\"6\" style=\"text-align:left; background:#DDDDDD;\"><span id=\"DN\"></span>-DN-
+</th></tr>
+<tr>
+<td>DNA</td>
+<td>RODN</td>
+<td><a href=\"/wiki/Kadena_Air_Base\" title=\"Kadena Air Base\">Kadena Air Base</a></td>
+<td><a href=\"/wiki/Kadena,_Okinawa\" title=\"Kadena, Okinawa\">Kadena</a>, <a href=\"/wiki/Okinawa_Islands\" title=\"Okinawa Islands\">Okinawa</a>, Japan</td>
+<td><a href=\"/wiki/Japan_Standard_Time\" title=\"Japan Standard Time\">UTC+09:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DNB</td>
+<td>YDBR</td>
+<td><a href=\"/w/index.php?title=Dunbar_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Dunbar Airport (page does not exist)\">Dunbar Airport</a></td>
+<td><a href=\"/w/index.php?title=Dunbar,_Queensland&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Dunbar, Queensland (page does not exist)\">Dunbar</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+10:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DND</td>
+<td>EGPN</td>
+<td><a href=\"/wiki/Dundee_Airport\" title=\"Dundee Airport\">Dundee Airport</a></td>
+<td><a href=\"/wiki/Dundee\" title=\"Dundee\">Dundee</a>, <a href=\"/wiki/Scotland\" title=\"Scotland\">Scotland</a>, United Kingdom</td>
+<td><a href=\"/wiki/Greenwich_Mean_Time\" title=\"Greenwich Mean Time\">UTC\u00b100:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>DNF</td>
+<td></td>
+<td><a href=\"/wiki/Martuba_Air_Base\" class=\"mw-redirect\" title=\"Martuba Air Base\">Martuba Air Base</a></td>
+<td><a href=\"/wiki/Derna,_Libya\" title=\"Derna, Libya\">Derna</a>, <a href=\"/wiki/Libya\" title=\"Libya\">Libya</a></td>
+<td><a href=\"/wiki/Eastern_European_Time\" title=\"Eastern European Time\">UTC+02:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DNG</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Doongan_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Doongan Airport (page does not exist)\">Doongan Airport</a><sup id=\"cite_ref-IATA_1-17\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Doongan,_Western_Australia&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Doongan, Western Australia (page does not exist)\">Doongan</a>, <a href=\"/wiki/Western_Australia\" title=\"Western Australia\">Western Australia</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+08:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DNH</td>
+<td>ZLDH</td>
+<td><a href=\"/wiki/Dunhuang_Airport\" title=\"Dunhuang Airport\">Dunhuang Airport</a></td>
+<td><a href=\"/wiki/Dunhuang\" title=\"Dunhuang\">Dunhuang</a>, <a href=\"/wiki/Gansu\" title=\"Gansu\">Gansu</a>, China</td>
+<td><a href=\"/wiki/Time_in_China\" title=\"Time in China\">UTC+08:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DNI</td>
+<td>HSWD</td>
+<td><a href=\"/wiki/Wad_Medani_Airport\" title=\"Wad Medani Airport\">Wad Medani Airport</a></td>
+<td><a href=\"/wiki/Wad_Madani\" title=\"Wad Madani\">Wad Madani</a>, <a href=\"/wiki/Sudan\" title=\"Sudan\">Sudan</a></td>
+<td><a href=\"/wiki/East_Africa_Time\" title=\"East Africa Time\">UTC+03:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DNK</td>
+<td>UKDD</td>
+<td><a href=\"/wiki/Dnipropetrovsk_International_Airport\" title=\"Dnipropetrovsk International Airport\">Dnipropetrovsk International Airport</a></td>
+<td><a href=\"/wiki/Dnipro\" title=\"Dnipro\">Dnipro</a>, <a href=\"/wiki/Ukraine\" title=\"Ukraine\">Ukraine</a></td>
+<td><a href=\"/wiki/Eastern_European_Time\" title=\"Eastern European Time\">UTC+02:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>DNL</td>
+<td>KDNL</td>
+<td><a href=\"/wiki/Daniel_Field\" title=\"Daniel Field\">Daniel Field</a></td>
+<td><a href=\"/wiki/Augusta,_Georgia\" title=\"Augusta, Georgia\">Augusta</a>, <a href=\"/wiki/Georgia_(U.S._state)\" title=\"Georgia (U.S. state)\">Georgia</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>DNM</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Denham_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Denham Airport (page does not exist)\">Denham Airport</a></td>
+<td><a href=\"/wiki/Denham,_Western_Australia\" title=\"Denham, Western Australia\">Denham</a>, <a href=\"/wiki/Western_Australia\" title=\"Western Australia\">Western Australia</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+08:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DNN</td>
+<td>KDNN</td>
+<td><a href=\"/wiki/Dalton_Municipal_Airport\" title=\"Dalton Municipal Airport\">Dalton Municipal Airport</a></td>
+<td><a href=\"/wiki/Dalton,_Georgia\" title=\"Dalton, Georgia\">Dalton</a>, <a href=\"/wiki/Georgia_(U.S._state)\" title=\"Georgia (U.S. state)\">Georgia</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>DNO</td>
+<td>SWDN</td>
+<td><a href=\"/w/index.php?title=Dian%C3%B3polis_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Dian\u00f3polis Airport (page does not exist)\">Dian\u00f3polis Airport</a></td>
+<td><a href=\"/wiki/Dian%C3%B3polis\" title=\"Dian\u00f3polis\">Dian\u00f3polis</a>, <a href=\"/wiki/Tocantins\" title=\"Tocantins\">Tocantins</a>, Brazil</td>
+<td><a href=\"/wiki/Time_in_Brazil\" title=\"Time in Brazil\">UTC\u221203:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DNP</td>
+<td>VNDG</td>
+<td><a href=\"/wiki/Tribhuvannagar_Airport\" class=\"mw-redirect\" title=\"Tribhuvannagar Airport\">Tribhuvannagar Airport</a> (Dang Airport)</td>
+<td><a href=\"/wiki/Ghorahi\" title=\"Ghorahi\">Tribhuwannagar</a>, <a href=\"/wiki/Nepal\" title=\"Nepal\">Nepal</a></td>
+<td><a href=\"/wiki/Nepal_Standard_Time\" title=\"Nepal Standard Time\">UTC+05:45</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DNQ</td>
+<td>YDLQ</td>
+<td><a href=\"/wiki/Deniliquin_Airport\" title=\"Deniliquin Airport\">Deniliquin Airport</a></td>
+<td><a href=\"/wiki/Deniliquin\" title=\"Deniliquin\">Deniliquin</a>, <a href=\"/wiki/New_South_Wales\" title=\"New South Wales\">New South Wales</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+10:00</a></td>
+<td>Oct-Apr
+</td></tr>
+<tr>
+<td>DNR</td>
+<td>LFRD</td>
+<td><a href=\"/wiki/Dinard%E2%80%93Pleurtuit%E2%80%93Saint-Malo_Airport\" title=\"Dinard\u2013Pleurtuit\u2013Saint-Malo Airport\">Dinard\u2013Pleurtuit\u2013Saint-Malo Airport</a></td>
+<td><a href=\"/wiki/Dinard\" title=\"Dinard\">Dinard</a> / <a href=\"/wiki/Saint-Malo\" title=\"Saint-Malo\">Saint-Malo</a>, <a href=\"/wiki/Brittany_(administrative_region)\" title=\"Brittany (administrative region)\">Brittany</a>, France</td>
+<td><a href=\"/wiki/Central_European_Time\" title=\"Central European Time\">UTC+01:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>DNS</td>
+<td>KDNS</td>
+<td><a href=\"/wiki/Denison_Municipal_Airport\" title=\"Denison Municipal Airport\">Denison Municipal Airport</a></td>
+<td><a href=\"/wiki/Denison,_Iowa\" title=\"Denison, Iowa\">Denison</a>, <a href=\"/wiki/Iowa\" title=\"Iowa\">Iowa</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>DNU</td>
+<td>AYDN</td>
+<td><a href=\"/w/index.php?title=Dinangat_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Dinangat Airport (page does not exist)\">Dinangat Airport</a></td>
+<td><a href=\"/w/index.php?title=Dinangat&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Dinangat (page does not exist)\">Dinangat</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+<td><a href=\"/wiki/UTC%2B10:00\" title=\"UTC+10:00\">UTC+10:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DNV</td>
+<td>KDNV</td>
+<td><a href=\"/wiki/Vermilion_Regional_Airport\" title=\"Vermilion Regional Airport\">Vermilion Regional Airport</a></td>
+<td><a href=\"/wiki/Danville,_Illinois\" title=\"Danville, Illinois\">Danville</a>, <a href=\"/wiki/Illinois\" title=\"Illinois\">Illinois</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>DNX</td>
+<td>HSGG</td>
+<td><a href=\"/wiki/Galegu_Airport\" title=\"Galegu Airport\">Galegu Airport</a></td>
+<td><a href=\"/wiki/Dinder,_Sudan\" title=\"Dinder, Sudan\">Dinder</a>, <a href=\"/wiki/Sudan\" title=\"Sudan\">Sudan</a></td>
+<td><a href=\"/wiki/East_Africa_Time\" title=\"East Africa Time\">UTC+03:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DNZ</td>
+<td>LTAY</td>
+<td><a href=\"/wiki/Denizli_%C3%87ardak_Airport\" title=\"Denizli \u00c7ardak Airport\">Denizli \u00c7ardak Airport</a></td>
+<td><a href=\"/wiki/Denizli\" title=\"Denizli\">Denizli</a>, <a href=\"/wiki/Turkey\" title=\"Turkey\">Turkey</a></td>
+<td><a href=\"/wiki/Time_in_Turkey\" title=\"Time in Turkey\">UTC+03:00</a></td>
+<td>
+</td></tr>
+<tr class=\"sortbottom\">
+<th colspan=\"6\" style=\"text-align:left; background:#DDDDDD;\"><span id=\"DO\"></span>-DO-
+</th></tr>
+<tr>
+<td>DOA</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Doany_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Doany Airport (page does not exist)\">Doany Airport</a></td>
+<td><a href=\"/wiki/Doany\" title=\"Doany\">Doany</a>, <a href=\"/wiki/Madagascar\" title=\"Madagascar\">Madagascar</a></td>
+<td><a href=\"/wiki/East_Africa_Time\" title=\"East Africa Time\">UTC+03:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DOB</td>
+<td>WAPD</td>
+<td><a href=\"/wiki/Dobo_Airport\" class=\"mw-redirect\" title=\"Dobo Airport\">Dobo Airport</a></td>
+<td><a href=\"/w/index.php?title=Dobo,_Indonesia&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Dobo, Indonesia (page does not exist)\">Dobo</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+<td><a href=\"/wiki/Time_in_Indonesia\" title=\"Time in Indonesia\">UTC+09:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DOC</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Dornoch_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Dornoch Airport (page does not exist)\">Dornoch Airport</a></td>
+<td><a href=\"/wiki/Dornoch\" title=\"Dornoch\">Dornoch</a>, <a href=\"/wiki/Scotland\" title=\"Scotland\">Scotland</a>, United Kingdom</td>
+<td><a href=\"/wiki/Greenwich_Mean_Time\" title=\"Greenwich Mean Time\">UTC\u00b100:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>DOD</td>
+<td>HTDO</td>
+<td><a href=\"/wiki/Dodoma_Airport\" title=\"Dodoma Airport\">Dodoma Airport</a></td>
+<td><a href=\"/wiki/Dodoma\" title=\"Dodoma\">Dodoma</a>, <a href=\"/wiki/Tanzania\" title=\"Tanzania\">Tanzania</a></td>
+<td><a href=\"/wiki/East_Africa_Time\" title=\"East Africa Time\">UTC+03:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DOE</td>
+<td></td>
+<td><a href=\"/wiki/Djoemoe_Airstrip\" title=\"Djoemoe Airstrip\">Djoemoe Airstrip</a></td>
+<td><a href=\"/wiki/Djumu\" title=\"Djumu\">Djoemoe</a>, <a href=\"/wiki/Suriname\" title=\"Suriname\">Suriname</a></td>
+<td><a href=\"/wiki/UTC%E2%88%9203:00\" title=\"UTC\u221203:00\">UTC\u221203:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DOG</td>
+<td>HSDN</td>
+<td><a href=\"/wiki/Dongola_Airport\" title=\"Dongola Airport\">Dongola Airport</a></td>
+<td><a href=\"/wiki/Dongola\" title=\"Dongola\">Dongola</a>, <a href=\"/wiki/Sudan\" title=\"Sudan\">Sudan</a></td>
+<td><a href=\"/wiki/East_Africa_Time\" title=\"East Africa Time\">UTC+03:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DOH</td>
+<td>OTHH</td>
+<td><a href=\"/wiki/Hamad_International_Airport\" title=\"Hamad International Airport\">Hamad International Airport</a></td>
+<td><a href=\"/wiki/Doha\" title=\"Doha\">Doha</a>, <a href=\"/wiki/Qatar\" title=\"Qatar\">Qatar</a></td>
+<td><a href=\"/wiki/UTC%2B03:00#Arabia_Standard_Time\" title=\"UTC+03:00\">UTC+03:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DOI</td>
+<td>AYDO</td>
+<td><a href=\"/w/index.php?title=Doini_Island_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Doini Island Airport (page does not exist)\">Doini Island Airport</a></td>
+<td><a href=\"/wiki/Doini_Island\" title=\"Doini Island\">Doini Island</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+<td><a href=\"/wiki/UTC%2B10:00\" title=\"UTC+10:00\">UTC+10:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DOK</td>
+<td>UKCC</td>
+<td><a href=\"/wiki/Donetsk_International_Airport\" title=\"Donetsk International Airport\">Donetsk International Airport</a></td>
+<td><a href=\"/wiki/Donetsk\" title=\"Donetsk\">Donetsk</a>, <a href=\"/wiki/Ukraine\" title=\"Ukraine\">Ukraine</a></td>
+<td><a href=\"/wiki/Moscow_Time\" title=\"Moscow Time\">UTC+03:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DOL</td>
+<td>LFRG</td>
+<td><a href=\"/wiki/Deauville_%E2%80%93_Saint-Gatien_Airport\" class=\"mw-redirect\" title=\"Deauville \u2013 Saint-Gatien Airport\">Deauville \u2013 Saint-Gatien Airport</a></td>
+<td><a href=\"/wiki/Deauville\" title=\"Deauville\">Deauville</a>, <a href=\"/wiki/Lower_Normandy\" title=\"Lower Normandy\">Lower Normandy</a>, France</td>
+<td><a href=\"/wiki/Central_European_Time\" title=\"Central European Time\">UTC+01:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>DOM</td>
+<td>TDPD</td>
+<td><a href=\"/wiki/Douglas%E2%80%93Charles_Airport\" title=\"Douglas\u2013Charles Airport\">Douglas\u2013Charles Airport</a></td>
+<td><a href=\"/wiki/Saint_Andrew_Parish,_Dominica\" title=\"Saint Andrew Parish, Dominica\">St Andrew Parish</a>, <a href=\"/wiki/Dominica\" title=\"Dominica\">Dominica</a></td>
+<td><a href=\"/wiki/Atlantic_Time_Zone\" title=\"Atlantic Time Zone\">UTC\u221204:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DON</td>
+<td></td>
+<td><a href=\"/wiki/Dos_Lagunas_Airport\" title=\"Dos Lagunas Airport\">Dos Lagunas Airport</a></td>
+<td><a href=\"/w/index.php?title=Dos_Lagunas&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Dos Lagunas (page does not exist)\">Dos Lagunas</a>, <a href=\"/wiki/Guatemala\" title=\"Guatemala\">Guatemala</a></td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DOO</td>
+<td>AYDR</td>
+<td><a href=\"/w/index.php?title=Dorobisoro_Airstrip&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Dorobisoro Airstrip (page does not exist)\">Dorobisoro Airstrip</a></td>
+<td><a href=\"/w/index.php?title=Dorobisoro&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Dorobisoro (page does not exist)\">Dorobisoro</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+<td><a href=\"/wiki/UTC%2B10:00\" title=\"UTC+10:00\">UTC+10:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DOP</td>
+<td>VNDP</td>
+<td><a href=\"/wiki/Dolpa_Airport\" title=\"Dolpa Airport\">Dolpa Airport</a></td>
+<td><a href=\"/wiki/Dolpa_District\" title=\"Dolpa District\">Dolpa</a>, <a href=\"/wiki/Nepal\" title=\"Nepal\">Nepal</a></td>
+<td><a href=\"/wiki/Nepal_Standard_Time\" title=\"Nepal Standard Time\">UTC+05:45</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DOR</td>
+<td>DFEE</td>
+<td><a href=\"/wiki/Dori_Airport\" title=\"Dori Airport\">Dori Airport</a></td>
+<td><a href=\"/wiki/Dori,_Burkina_Faso\" title=\"Dori, Burkina Faso\">Dori</a>, <a href=\"/wiki/Burkina_Faso\" title=\"Burkina Faso\">Burkina Faso</a></td>
+<td><a href=\"/wiki/Greenwich_Mean_Time\" title=\"Greenwich Mean Time\">UTC\u00b100:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DOS</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Dios_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Dios Airport (page does not exist)\">Dios Airport</a></td>
+<td><a href=\"/w/index.php?title=Dios,_Papua_New_Guinea&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Dios, Papua New Guinea (page does not exist)\">Dios</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+<td><a href=\"/wiki/UTC%2B11:00\" title=\"UTC+11:00\">UTC+11:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DOU</td>
+<td>SSDO</td>
+<td><a href=\"/wiki/Dourados_Airport\" title=\"Dourados Airport\">Dourados Airport</a> (Francisco de Matos Pereira Airport)</td>
+<td><a href=\"/wiki/Dourados\" title=\"Dourados\">Dourados</a>, <a href=\"/wiki/Mato_Grosso_do_Sul\" title=\"Mato Grosso do Sul\">Mato Grosso do Sul</a>, Brazil</td>
+<td><a href=\"/wiki/Time_in_Brazil\" title=\"Time in Brazil\">UTC\u221204:00</a></td>
+<td>Oct-Feb
+</td></tr>
+<tr>
+<td>DOV</td>
+<td>KDOV</td>
+<td><a href=\"/wiki/Dover_Air_Force_Base\" title=\"Dover Air Force Base\">Dover Air Force Base</a></td>
+<td><a href=\"/wiki/Dover,_Delaware\" title=\"Dover, Delaware\">Dover</a>, <a href=\"/wiki/Delaware\" title=\"Delaware\">Delaware</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>DOX</td>
+<td>YDRA</td>
+<td><a href=\"/w/index.php?title=Dongara_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Dongara Airport (page does not exist)\">Dongara Airport</a></td>
+<td><a href=\"/wiki/Dongara,_Western_Australia\" title=\"Dongara, Western Australia\">Dongara</a>, <a href=\"/wiki/Western_Australia\" title=\"Western Australia\">Western Australia</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+08:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DOY</td>
+<td>ZSDY</td>
+<td><a href=\"/wiki/Dongying_Shengli_Airport\" title=\"Dongying Shengli Airport\">Dongying Shengli Airport</a><sup id=\"cite_ref-IATA_1-18\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Dongying\" title=\"Dongying\">Dongying</a>, <a href=\"/wiki/Shandong\" title=\"Shandong\">Shandong</a>, China</td>
+<td><a href=\"/wiki/Time_in_China\" title=\"Time in China\">UTC+08:00</a></td>
+<td>
+</td></tr>
+<tr class=\"sortbottom\">
+<th colspan=\"6\" style=\"text-align:left; background:#DDDDDD;\"><span id=\"DP\"></span>-DP-
+</th></tr>
+<tr>
+<td>DPA</td>
+<td>KDPA</td>
+<td><a href=\"/wiki/DuPage_Airport\" title=\"DuPage Airport\">DuPage Airport</a></td>
+<td><a href=\"/wiki/West_Chicago,_Illinois\" title=\"West Chicago, Illinois\">West Chicago</a>, <a href=\"/wiki/Illinois\" title=\"Illinois\">Illinois</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>DPE</td>
+<td>LFAB</td>
+<td><a href=\"/w/index.php?title=Dieppe_-_Saint-Aubin_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Dieppe - Saint-Aubin Airport (page does not exist)\">Dieppe - Saint-Aubin Airport</a></td>
+<td><a href=\"/wiki/Dieppe\" title=\"Dieppe\">Dieppe</a>, <a href=\"/wiki/Upper_Normandy\" title=\"Upper Normandy\">Upper Normandy</a>, France</td>
+<td><a href=\"/wiki/Central_European_Time\" title=\"Central European Time\">UTC+01:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>DPG</td>
+<td>KDPG</td>
+<td><a href=\"/wiki/Michael_Army_Airfield\" title=\"Michael Army Airfield\">Michael Army Airfield</a></td>
+<td><a href=\"/wiki/Dugway,_Utah\" title=\"Dugway, Utah\">Dugway</a>, <a href=\"/wiki/Utah\" title=\"Utah\">Utah</a>, United States</td>
+<td><a href=\"/wiki/Mountain_Time_Zone\" title=\"Mountain Time Zone\">UTC\u221207:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>DPL</td>
+<td>RPMG</td>
+<td><a href=\"/wiki/Dipolog_Airport\" title=\"Dipolog Airport\">Dipolog Airport</a></td>
+<td><a href=\"/wiki/Dipolog\" title=\"Dipolog\">Dipolog</a>, <a href=\"/wiki/Philippines\" title=\"Philippines\">Philippines</a></td>
+<td><a href=\"/wiki/Philippine_Standard_Time\" title=\"Philippine Standard Time\">UTC+08:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DPO</td>
+<td>YDPO</td>
+<td><a href=\"/wiki/Devonport_Airport\" title=\"Devonport Airport\">Devonport Airport</a></td>
+<td><a href=\"/wiki/Devonport,_Tasmania\" title=\"Devonport, Tasmania\">Devonport</a>, <a href=\"/wiki/Tasmania\" title=\"Tasmania\">Tasmania</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+10:00</a></td>
+<td>Oct-Apr
+</td></tr>
+<tr>
+<td>DPS</td>
+<td>WADD</td>
+<td><a href=\"/wiki/Ngurah_Rai_International_Airport\" title=\"Ngurah Rai International Airport\">Ngurah Rai International Airport</a></td>
+<td><a href=\"/wiki/Denpasar\" title=\"Denpasar\">Denpasar</a> (Bali), <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+<td><a href=\"/wiki/Time_in_Indonesia\" title=\"Time in Indonesia\">UTC+08:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DPT</td>
+<td></td>
+<td><a href=\"/wiki/Deputatsky_Airport\" title=\"Deputatsky Airport\">Deputatsky Airport</a></td>
+<td><a href=\"/wiki/Deputatsky,_Sakha_Republic\" class=\"mw-redirect\" title=\"Deputatsky, Sakha Republic\">Deputatsky</a>, <a href=\"/wiki/Sakha_Republic\" title=\"Sakha Republic\">Yakutia</a>, Russia</td>
+<td><a href=\"/wiki/Vladivostok_Time\" title=\"Vladivostok Time\">UTC+10:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DPU</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Dumpu_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Dumpu Airport (page does not exist)\">Dumpu Airport</a></td>
+<td><a href=\"/wiki/Dumpu,_Papua_New_Guinea\" title=\"Dumpu, Papua New Guinea\">Dumpu</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+<td><a href=\"/wiki/UTC%2B10:00\" title=\"UTC+10:00\">UTC+10:00</a></td>
+<td>
+</td></tr>
+<tr class=\"sortbottom\">
+<th colspan=\"6\" style=\"text-align:left; background:#DDDDDD;\"><span id=\"DQ\"></span>-DQ-
+</th></tr>
+<tr>
+<td>DQA</td>
+<td>ZYDQ</td>
+<td><a href=\"/wiki/Daqing_Sartu_Airport\" title=\"Daqing Sartu Airport\">Daqing Sartu Airport</a></td>
+<td><a href=\"/wiki/Daqing\" title=\"Daqing\">Daqing</a>, <a href=\"/wiki/Heilongjiang\" title=\"Heilongjiang\">Heilongjiang</a>, China</td>
+<td><a href=\"/wiki/Time_in_China\" title=\"Time in China\">UTC+08:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DQM</td>
+<td></td>
+<td><a href=\"/wiki/Duqm_International_Airport\" title=\"Duqm International Airport\">Duqm International Airport</a><sup id=\"cite_ref-IATA_1-19\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Duqm\" title=\"Duqm\">Duqm</a>, <a href=\"/wiki/Oman\" title=\"Oman\">Oman</a></td>
+<td><a href=\"/wiki/UTC%2B04:00\" title=\"UTC+04:00\">UTC+04:00</a></td>
+<td>
+</td></tr>
+<tr class=\"sortbottom\">
+<th colspan=\"6\" style=\"text-align:left; background:#DDDDDD;\"><span id=\"DR\"></span>-DR-
+</th></tr>
+<tr>
+<td>DRA</td>
+<td>KDRA</td>
+<td><a href=\"/wiki/Desert_Rock_Airport\" title=\"Desert Rock Airport\">Desert Rock Airport</a></td>
+<td><a href=\"/wiki/Mercury,_Nevada\" title=\"Mercury, Nevada\">Mercury</a>, <a href=\"/wiki/Nevada\" title=\"Nevada\">Nevada</a>, United States</td>
+<td><a href=\"/wiki/Pacific_Time_Zone\" title=\"Pacific Time Zone\">UTC\u221208:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>DRB</td>
+<td>YDBY</td>
+<td><a href=\"/wiki/Derby_Airport_(Australia)\" title=\"Derby Airport (Australia)\">Derby Airport</a></td>
+<td><a href=\"/wiki/Derby,_Western_Australia\" title=\"Derby, Western Australia\">Derby</a>, <a href=\"/wiki/Western_Australia\" title=\"Western Australia\">Western Australia</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+08:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DRC</td>
+<td></td>
+<td><a href=\"/wiki/Dirico_Airport\" title=\"Dirico Airport\">Dirico Airport</a></td>
+<td><a href=\"/wiki/Dirico\" title=\"Dirico\">Dirico</a>, <a href=\"/wiki/Angola\" title=\"Angola\">Angola</a></td>
+<td><a href=\"/wiki/West_Africa_Time\" title=\"West Africa Time\">UTC+01:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DRD</td>
+<td>YDOR</td>
+<td><a href=\"/w/index.php?title=Dorunda_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Dorunda Airport (page does not exist)\">Dorunda Airport</a></td>
+<td><a href=\"/w/index.php?title=Dorunda&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Dorunda (page does not exist)\">Dorunda</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+10:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DRE</td>
+<td>KDRM</td>
+<td><a href=\"/wiki/Drummond_Island_Airport\" title=\"Drummond Island Airport\">Drummond Island Airport</a> (FAA: DRM)</td>
+<td><a href=\"/wiki/Drummond_Township,_Michigan\" title=\"Drummond Township, Michigan\">Drummond Island</a>, <a href=\"/wiki/Michigan\" title=\"Michigan\">Michigan</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>DRF</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Drift_River_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Drift River Airport (page does not exist)\">Drift River Airport</a><sup id=\"cite_ref-IATA_1-20\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Drift_River_Terminal_Facility\" title=\"Drift River Terminal Facility\">Drift River</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+<td><a href=\"/wiki/Alaska_Time_Zone\" title=\"Alaska Time Zone\">UTC\u221209:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>DRG</td>
+<td>PADE</td>
+<td><a href=\"/wiki/Deering_Airport\" title=\"Deering Airport\">Deering Airport</a> (FAA: DEE)</td>
+<td><a href=\"/wiki/Deering,_Alaska\" title=\"Deering, Alaska\">Deering</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+<td><a href=\"/wiki/Alaska_Time_Zone\" title=\"Alaska Time Zone\">UTC\u221209:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>DRH</td>
+<td></td>
+<td><a href=\"/wiki/Dabra_Airport\" title=\"Dabra Airport\">Dabra Airport</a></td>
+<td><a href=\"/w/index.php?title=Dabra,_Indonesia&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Dabra, Indonesia (page does not exist)\">Dabra</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+<td><a href=\"/wiki/Time_in_Indonesia\" title=\"Time in Indonesia\">UTC+09:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DRI</td>
+<td>KDRI</td>
+<td><a href=\"/wiki/Beauregard_Regional_Airport\" title=\"Beauregard Regional Airport\">Beauregard Regional Airport</a></td>
+<td><a href=\"/wiki/DeRidder,_Louisiana\" title=\"DeRidder, Louisiana\">DeRidder</a>, <a href=\"/wiki/Louisiana\" title=\"Louisiana\">Louisiana</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>DRJ</td>
+<td>SMDA</td>
+<td><a href=\"/wiki/Drietabbetje_Airstrip\" title=\"Drietabbetje Airstrip\">Drietabbetje Airstrip</a></td>
+<td><a href=\"/wiki/Drietabbetje\" class=\"mw-redirect\" title=\"Drietabbetje\">Drietabbetje</a>, <a href=\"/wiki/Suriname\" title=\"Suriname\">Suriname</a></td>
+<td><a href=\"/wiki/UTC%E2%88%9203:00\" title=\"UTC\u221203:00\">UTC\u221203:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DRK</td>
+<td>MRDK</td>
+<td><a href=\"/wiki/Drake_Bay_Airport\" class=\"mw-redirect\" title=\"Drake Bay Airport\">Drake Bay Airport</a></td>
+<td><a href=\"/wiki/Bah%C3%ADa_Drake\" title=\"Bah\u00eda Drake\">Drake Bay</a>, <a href=\"/wiki/Costa_Rica\" title=\"Costa Rica\">Costa Rica</a></td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DRN</td>
+<td>YDBI</td>
+<td><a href=\"/wiki/Dirranbandi_Airport\" title=\"Dirranbandi Airport\">Dirranbandi Airport</a></td>
+<td><a href=\"/wiki/Dirranbandi,_Queensland\" title=\"Dirranbandi, Queensland\">Dirranbandi</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+10:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DRO</td>
+<td>KDRO</td>
+<td><a href=\"/wiki/Durango%E2%80%93La_Plata_County_Airport\" title=\"Durango\u2013La Plata County Airport\">Durango\u2013La Plata County Airport</a></td>
+<td><a href=\"/wiki/Durango,_Colorado\" title=\"Durango, Colorado\">Durango</a>, <a href=\"/wiki/Colorado\" title=\"Colorado\">Colorado</a>, United States</td>
+<td><a href=\"/wiki/Mountain_Time_Zone\" title=\"Mountain Time Zone\">UTC\u221207:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>DRR</td>
+<td>YDRI</td>
+<td><a href=\"/w/index.php?title=Durrie_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Durrie Airport (page does not exist)\">Durrie Airport</a></td>
+<td><a href=\"/wiki/Durrie_Station\" title=\"Durrie Station\">Durrie</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+10:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DRS</td>
+<td>EDDC</td>
+<td><a href=\"/wiki/Dresden_Airport\" title=\"Dresden Airport\">Dresden Airport</a></td>
+<td><a href=\"/wiki/Dresden\" title=\"Dresden\">Dresden</a>, <a href=\"/wiki/Saxony\" title=\"Saxony\">Saxony</a>, Germany</td>
+<td><a href=\"/wiki/Central_European_Time\" title=\"Central European Time\">UTC+01:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>DRT</td>
+<td>KDRT</td>
+<td><a href=\"/wiki/Del_Rio_International_Airport\" title=\"Del Rio International Airport\">Del Rio International Airport</a></td>
+<td><a href=\"/wiki/Del_Rio,_Texas\" title=\"Del Rio, Texas\">Del Rio</a>, <a href=\"/wiki/Texas\" title=\"Texas\">Texas</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>DRU</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Drummond_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Drummond Airport (page does not exist)\">Drummond Airport</a> (FAA: M26)</td>
+<td><a href=\"/wiki/Drummond,_Montana\" title=\"Drummond, Montana\">Drummond</a>, <a href=\"/wiki/Montana\" title=\"Montana\">Montana</a>, United States</td>
+<td><a href=\"/wiki/Mountain_Time_Zone\" title=\"Mountain Time Zone\">UTC\u221207:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>DRV</td>
+<td>VRMD</td>
+<td><a href=\"/wiki/Dharavandhoo_Airport\" title=\"Dharavandhoo Airport\">Dharavandhoo Airport</a><sup id=\"cite_ref-IATA_1-21\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Dharavandhoo\" title=\"Dharavandhoo\">Dharavandhoo Island</a>, <a href=\"/wiki/Baa_Atoll\" title=\"Baa Atoll\">Baa Atoll</a>, <a href=\"/wiki/Maldives\" title=\"Maldives\">Maldives</a></td>
+<td><a href=\"/wiki/UTC%2B05:00\" title=\"UTC+05:00\">UTC+05:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DRW</td>
+<td>YPDN</td>
+<td><a href=\"/wiki/Darwin_International_Airport\" title=\"Darwin International Airport\">Darwin International Airport</a></td>
+<td><a href=\"/wiki/Darwin,_Northern_Territory\" title=\"Darwin, Northern Territory\">Darwin</a>, <a href=\"/wiki/Northern_Territory\" title=\"Northern Territory\">Northern Territory</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+09:30</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DRY</td>
+<td>YDRD<sup id=\"cite_ref-3\" class=\"reference\"><a href=\"#cite_note-3\">&#91;3&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Drysdale_River_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Drysdale River Airport (page does not exist)\">Drysdale River Airport</a><sup id=\"cite_ref-IATA_1-22\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Drysdale_River_Station\" title=\"Drysdale River Station\">Drysdale River</a>, <a href=\"/wiki/Western_Australia\" title=\"Western Australia\">Western Australia</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+08:00</a></td>
+<td>
+</td></tr>
+<tr class=\"sortbottom\">
+<th colspan=\"6\" style=\"text-align:left; background:#DDDDDD;\"><span id=\"DS\"></span>-DS-
+</th></tr>
+<tr>
+<td>DSA</td>
+<td>EGCN</td>
+<td><a href=\"/wiki/Robin_Hood_Airport_Doncaster_Sheffield\" class=\"mw-redirect\" title=\"Robin Hood Airport Doncaster Sheffield\">Robin Hood Airport Doncaster Sheffield</a></td>
+<td><a href=\"/wiki/Doncaster\" title=\"Doncaster\">Doncaster</a>, <a href=\"/wiki/England\" title=\"England\">England</a>, United Kingdom</td>
+<td><a href=\"/wiki/Greenwich_Mean_Time\" title=\"Greenwich Mean Time\">UTC\u00b100:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>DSC</td>
+<td>FKKS</td>
+<td><a href=\"/wiki/Dschang_Airport\" title=\"Dschang Airport\">Dschang Airport</a></td>
+<td><a href=\"/wiki/Dschang\" title=\"Dschang\">Dschang</a>, <a href=\"/wiki/Cameroon\" title=\"Cameroon\">Cameroon</a></td>
+<td><a href=\"/wiki/West_Africa_Time\" title=\"West Africa Time\">UTC+01:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DSD</td>
+<td>TFFA</td>
+<td><a href=\"/wiki/La_D%C3%A9sirade_Airport\" title=\"La D\u00e9sirade Airport\">La D\u00e9sirade Airport</a> (Grande-Anse Airport)</td>
+<td><a href=\"/wiki/La_D%C3%A9sirade\" title=\"La D\u00e9sirade\">La D\u00e9sirade</a>, <a href=\"/wiki/Guadeloupe\" title=\"Guadeloupe\">Guadeloupe</a></td>
+<td><a href=\"/wiki/Atlantic_Time_Zone\" title=\"Atlantic Time Zone\">UTC\u221204:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DSE</td>
+<td>HADC</td>
+<td><a href=\"/wiki/Combolcha_Airport\" class=\"mw-redirect\" title=\"Combolcha Airport\">Combolcha Airport</a></td>
+<td><a href=\"/wiki/Dessie\" title=\"Dessie\">Dessie</a> / <a href=\"/wiki/Kombolcha\" title=\"Kombolcha\">Kombolcha</a>, <a href=\"/wiki/Ethiopia\" title=\"Ethiopia\">Ethiopia</a></td>
+<td><a href=\"/wiki/East_Africa_Time\" title=\"East Africa Time\">UTC+03:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DSG</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Dilasag_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Dilasag Airport (page does not exist)\">Dilasag Airport</a></td>
+<td><a href=\"/wiki/Dilasag,_Aurora\" title=\"Dilasag, Aurora\">Dilasag</a>, <a href=\"/wiki/Philippines\" title=\"Philippines\">Philippines</a></td>
+<td><a href=\"/wiki/Philippine_Standard_Time\" title=\"Philippine Standard Time\">UTC+08:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DSI</td>
+<td>KDTS</td>
+<td><a href=\"/wiki/Destin_Executive_Airport\" title=\"Destin Executive Airport\">Destin Executive Airport</a> (FAA: DTS)</td>
+<td><a href=\"/wiki/Destin,_Florida\" title=\"Destin, Florida\">Destin</a>, <a href=\"/wiki/Florida\" title=\"Florida\">Florida</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>DSK</td>
+<td>OPDI</td>
+<td><a href=\"/wiki/Dera_Ismail_Khan_Airport\" title=\"Dera Ismail Khan Airport\">Dera Ismail Khan Airport</a></td>
+<td><a href=\"/wiki/Dera_Ismail_Khan\" title=\"Dera Ismail Khan\">Dera Ismail Khan</a>, <a href=\"/wiki/Pakistan\" title=\"Pakistan\">Pakistan</a></td>
+<td><a href=\"/wiki/Time_in_Pakistan\" title=\"Time in Pakistan\">UTC+05:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DSM</td>
+<td>KDSM</td>
+<td><a href=\"/wiki/Des_Moines_International_Airport\" title=\"Des Moines International Airport\">Des Moines International Airport</a></td>
+<td><a href=\"/wiki/Des_Moines,_Iowa\" title=\"Des Moines, Iowa\">Des Moines</a>, <a href=\"/wiki/Iowa\" title=\"Iowa\">Iowa</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>DSN</td>
+<td>ZBDS</td>
+<td><a href=\"/wiki/Ordos_Ejin_Horo_Airport\" title=\"Ordos Ejin Horo Airport\">Ordos Ejin Horo Airport</a></td>
+<td><a href=\"/wiki/Ordos_City\" title=\"Ordos City\">Ordos</a>, <a href=\"/wiki/Inner_Mongolia\" title=\"Inner Mongolia\">Inner Mongolia</a>, China</td>
+<td><a href=\"/wiki/Time_in_China\" title=\"Time in China\">UTC+08:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DSO</td>
+<td>ZKSD</td>
+<td><a href=\"/wiki/Sondok_Airport\" title=\"Sondok Airport\">Sondok Airport</a><sup id=\"cite_ref-IATA_1-23\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Sondok-ri&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Sondok-ri (page does not exist)\">Sondok</a>, <a href=\"/wiki/North_Korea\" title=\"North Korea\">North Korea</a></td>
+<td><a href=\"/wiki/Time_in_North_Korea\" title=\"Time in North Korea\">UTC+08:30</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DSS</td>
+<td>GOBD</td>
+<td><a href=\"/wiki/Blaise_Diagne_International_Airport\" title=\"Blaise Diagne International Airport\">Blaise Diagne International Airport</a></td>
+<td><a href=\"/wiki/Dakar\" title=\"Dakar\">Dakar</a>, <a href=\"/wiki/Senegal\" title=\"Senegal\">Senegal</a></td>
+<td><a href=\"/wiki/Greenwich_Mean_Time\" title=\"Greenwich Mean Time\">UTC\u00b100:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DSV</td>
+<td>KDSV</td>
+<td><a href=\"/wiki/Dansville_Municipal_Airport\" title=\"Dansville Municipal Airport\">Dansville Municipal Airport</a></td>
+<td><a href=\"/wiki/Dansville,_Livingston_County,_New_York\" title=\"Dansville, Livingston County, New York\">Dansville</a>, <a href=\"/wiki/New_York_(state)\" title=\"New York (state)\">New York</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>DSX</td>
+<td>RCLM</td>
+<td><a href=\"/wiki/Dongsha_Island_Airport\" class=\"mw-redirect\" title=\"Dongsha Island Airport\">Dongsha Island Airport</a><sup id=\"cite_ref-IATA_1-24\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Pratas_Islands\" title=\"Pratas Islands\">Pratas (Dongsha) Islands</a>, <a href=\"/wiki/Taiwan\" title=\"Taiwan\">Taiwan</a></td>
+<td><a href=\"/wiki/Time_in_China\" title=\"Time in China\">UTC+08:00</a></td>
+<td>
+</td></tr>
+<tr class=\"sortbottom\">
+<th colspan=\"6\" style=\"text-align:left; background:#DDDDDD;\"><span id=\"DT\"></span>-DT-
+</th></tr>
+<tr>
+<td>DTA</td>
+<td>KDTA</td>
+<td><a href=\"/wiki/Delta_Municipal_Airport\" title=\"Delta Municipal Airport\">Delta Municipal Airport</a></td>
+<td><a href=\"/wiki/Delta,_Utah\" title=\"Delta, Utah\">Delta</a>, <a href=\"/wiki/Utah\" title=\"Utah\">Utah</a>, United States</td>
+<td><a href=\"/wiki/Mountain_Time_Zone\" title=\"Mountain Time Zone\">UTC\u221207:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>DTB</td>
+<td>WIMN</td>
+<td><a href=\"/wiki/Silangit_Airport\" class=\"mw-redirect\" title=\"Silangit Airport\">Silangit Airport</a><sup id=\"cite_ref-IATA_1-25\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Siborong-Borong\" title=\"Siborong-Borong\">Siborong-Borong</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+<td><a href=\"/wiki/Time_in_Indonesia\" title=\"Time in Indonesia\">UTC+07:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DTD</td>
+<td>WALJ</td>
+<td><a href=\"/wiki/Datadawai_Airport\" class=\"mw-redirect\" title=\"Datadawai Airport\">Datadawai Airport</a></td>
+<td><a href=\"/w/index.php?title=Datadawai&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Datadawai (page does not exist)\">Datadawai</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+<td><a href=\"/wiki/Time_in_Indonesia\" title=\"Time in Indonesia\">UTC+08:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DTE</td>
+<td>RPUD</td>
+<td><a href=\"/wiki/Bagasbas_Airport\" title=\"Bagasbas Airport\">Bagasbas Airport</a></td>
+<td><a href=\"/wiki/Daet,_Camarines_Norte\" title=\"Daet, Camarines Norte\">Daet</a>, <a href=\"/wiki/Philippines\" title=\"Philippines\">Philippines</a></td>
+<td><a href=\"/wiki/Philippine_Standard_Time\" title=\"Philippine Standard Time\">UTC+08:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DTH</td>
+<td></td>
+<td><a href=\"/wiki/Furnace_Creek_Airport\" title=\"Furnace Creek Airport\">Furnace Creek Airport</a> (FAA: L06)</td>
+<td><a href=\"/wiki/Death_Valley\" title=\"Death Valley\">Death Valley</a>, <a href=\"/wiki/California\" title=\"California\">California</a>, United States</td>
+<td><a href=\"/wiki/Pacific_Time_Zone\" title=\"Pacific Time Zone\">UTC\u221208:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>DTI</td>
+<td>SNDT</td>
+<td><a href=\"/wiki/Diamantina_Airport\" title=\"Diamantina Airport\">Diamantina Airport</a><sup id=\"cite_ref-IATA_1-26\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Diamantina,_Minas_Gerais\" title=\"Diamantina, Minas Gerais\">Diamantina</a>, <a href=\"/wiki/Minas_Gerais\" title=\"Minas Gerais\">Minas Gerais</a>, Brazil</td>
+<td><a href=\"/wiki/Time_in_Brazil\" title=\"Time in Brazil\">UTC\u221203:00</a></td>
+<td>Oct-Feb
+</td></tr>
+<tr>
+<td>DTL</td>
+<td>KDTL</td>
+<td><a href=\"/wiki/Detroit_Lakes_Airport\" title=\"Detroit Lakes Airport\">Detroit Lakes Airport</a> (Wething Field)</td>
+<td><a href=\"/wiki/Detroit_Lakes,_Minnesota\" title=\"Detroit Lakes, Minnesota\">Detroit Lakes</a>, <a href=\"/wiki/Minnesota\" title=\"Minnesota\">Minnesota</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>DTM</td>
+<td>EDLW</td>
+<td><a href=\"/wiki/Dortmund_Airport\" title=\"Dortmund Airport\">Dortmund Airport</a></td>
+<td><a href=\"/wiki/Dortmund\" title=\"Dortmund\">Dortmund</a>, <a href=\"/wiki/North_Rhine-Westphalia\" title=\"North Rhine-Westphalia\">North Rhine-Westphalia</a>, Germany</td>
+<td><a href=\"/wiki/Central_European_Time\" title=\"Central European Time\">UTC+01:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>DTN</td>
+<td>KDTN</td>
+<td><a href=\"/wiki/Shreveport_Downtown_Airport\" title=\"Shreveport Downtown Airport\">Shreveport Downtown Airport</a></td>
+<td><a href=\"/wiki/Shreveport,_Louisiana\" title=\"Shreveport, Louisiana\">Shreveport</a>, <a href=\"/wiki/Louisiana\" title=\"Louisiana\">Louisiana</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>DTR</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Decatur_Shores_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Decatur Shores Airport (page does not exist)\">Decatur Shores Airport</a><sup id=\"cite_ref-IATA_1-27\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Decatur_Island\" title=\"Decatur Island\">Decatur Island</a>, <a href=\"/wiki/Washington_(state)\" title=\"Washington (state)\">Washington</a>, United States</td>
+<td><a href=\"/wiki/Pacific_Time_Zone\" title=\"Pacific Time Zone\">UTC\u221208:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>DTT<sup id=\"cite_ref-IATA_1-28\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td></td>
+<td>metropolitan area<sup class=\"reference plainlinks nourlexpansion\" id=\"ref_1\"><a href=\"#endnote_1\">1</a></sup></td>
+<td><a href=\"/wiki/Detroit\" title=\"Detroit\">Detroit</a>, <a href=\"/wiki/Michigan\" title=\"Michigan\">Michigan</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>DTU</td>
+<td></td>
+<td><a href=\"/wiki/Wudalianchi_Airport\" class=\"mw-redirect\" title=\"Wudalianchi Airport\">Wudalianchi Airport</a><sup id=\"cite_ref-IATA_1-29\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Wudalianchi\" title=\"Wudalianchi\">Wudalianchi</a>, <a href=\"/wiki/Heilongjiang\" title=\"Heilongjiang\">Heilongjiang</a>, China</td>
+<td><a href=\"/wiki/Time_in_China\" title=\"Time in China\">UTC+08:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DTW</td>
+<td>KDTW</td>
+<td><a href=\"/wiki/Detroit_Metropolitan_Airport\" title=\"Detroit Metropolitan Airport\">Detroit Metropolitan Wayne County Airport</a></td>
+<td><a href=\"/wiki/Detroit\" title=\"Detroit\">Detroit</a>, <a href=\"/wiki/Michigan\" title=\"Michigan\">Michigan</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr class=\"sortbottom\">
+<th colspan=\"6\" style=\"text-align:left; background:#DDDDDD;\"><span id=\"DU\"></span>-DU-
+</th></tr>
+<tr>
+<td>DUA</td>
+<td>KDUA</td>
+<td><a href=\"/wiki/Durant_Regional_Airport%E2%80%93Eaker_Field\" title=\"Durant Regional Airport\u2013Eaker Field\">Durant Regional Airport\u2013Eaker Field</a></td>
+<td><a href=\"/wiki/Durant,_Oklahoma\" title=\"Durant, Oklahoma\">Durant</a>, <a href=\"/wiki/Oklahoma\" title=\"Oklahoma\">Oklahoma</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>DUB</td>
+<td>EIDW</td>
+<td><a href=\"/wiki/Dublin_Airport\" title=\"Dublin Airport\">Dublin Airport</a></td>
+<td><a href=\"/wiki/Dublin\" title=\"Dublin\">Dublin</a>, <a href=\"/wiki/Republic_of_Ireland\" title=\"Republic of Ireland\">Ireland</a></td>
+<td><a href=\"/wiki/Greenwich_Mean_Time\" title=\"Greenwich Mean Time\">UTC\u00b100:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>DUC</td>
+<td>KDUC</td>
+<td><a href=\"/wiki/Halliburton_Field_(airport)\" title=\"Halliburton Field (airport)\">Halliburton Field</a></td>
+<td><a href=\"/wiki/Duncan,_Oklahoma\" title=\"Duncan, Oklahoma\">Duncan</a>, <a href=\"/wiki/Oklahoma\" title=\"Oklahoma\">Oklahoma</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>DUD</td>
+<td>NZDN</td>
+<td><a href=\"/wiki/Dunedin_International_Airport\" class=\"mw-redirect\" title=\"Dunedin International Airport\">Dunedin International Airport</a></td>
+<td><a href=\"/wiki/Dunedin\" title=\"Dunedin\">Dunedin</a>, <a href=\"/wiki/New_Zealand\" title=\"New Zealand\">New Zealand</a></td>
+<td><a href=\"/wiki/Time_in_New_Zealand\" title=\"Time in New Zealand\">UTC+12:00</a></td>
+<td>Sep-Apr
+</td></tr>
+<tr>
+<td>DUE</td>
+<td>FNDU</td>
+<td><a href=\"/wiki/Dundo_Airport\" title=\"Dundo Airport\">Dundo Airport</a></td>
+<td><a href=\"/wiki/Dundo\" title=\"Dundo\">Dundo</a>, <a href=\"/wiki/Angola\" title=\"Angola\">Angola</a></td>
+<td><a href=\"/wiki/West_Africa_Time\" title=\"West Africa Time\">UTC+01:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DUF</td>
+<td></td>
+<td><a href=\"/wiki/Pine_Island_Airport\" title=\"Pine Island Airport\">Pine Island Airport</a> (FAA: 7NC2)</td>
+<td><a href=\"/wiki/Corolla,_North_Carolina\" title=\"Corolla, North Carolina\">Corolla</a>, <a href=\"/wiki/North_Carolina\" title=\"North Carolina\">North Carolina</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>DUG</td>
+<td>KDUG</td>
+<td><a href=\"/wiki/Bisbee_Douglas_International_Airport\" title=\"Bisbee Douglas International Airport\">Bisbee Douglas International Airport</a></td>
+<td><a href=\"/wiki/Bisbee,_Arizona\" title=\"Bisbee, Arizona\">Bisbee</a> / <a href=\"/wiki/Douglas,_Arizona\" title=\"Douglas, Arizona\">Douglas</a>, <a href=\"/wiki/Arizona\" title=\"Arizona\">Arizona</a>, United States</td>
+<td><a href=\"/wiki/Mountain_Time_Zone\" title=\"Mountain Time Zone\">UTC\u221207:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DUJ</td>
+<td>KDUJ</td>
+<td><a href=\"/wiki/DuBois_Regional_Airport\" title=\"DuBois Regional Airport\">DuBois Regional Airport</a></td>
+<td><a href=\"/wiki/DuBois,_Pennsylvania\" title=\"DuBois, Pennsylvania\">DuBois</a>, <a href=\"/wiki/Pennsylvania\" title=\"Pennsylvania\">Pennsylvania</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>DUK</td>
+<td>FADK</td>
+<td><a href=\"/w/index.php?title=Dukuduku_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Dukuduku Airport (page does not exist)\">Dukuduku Airport</a></td>
+<td><a href=\"/wiki/Mtubatuba\" title=\"Mtubatuba\">Mtubatuba</a>, <a href=\"/wiki/South_Africa\" title=\"South Africa\">South Africa</a></td>
+<td><a href=\"/wiki/South_African_Standard_Time\" title=\"South African Standard Time\">UTC+02:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DUM</td>
+<td>WIBD</td>
+<td><a href=\"/wiki/Pinang_Kampai_Airport\" title=\"Pinang Kampai Airport\">Pinang Kampai Airport</a></td>
+<td><a href=\"/wiki/Dumai\" title=\"Dumai\">Dumai</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+<td><a href=\"/wiki/Time_in_Indonesia\" title=\"Time in Indonesia\">UTC+07:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DUQ</td>
+<td></td>
+<td><a href=\"/wiki/Duncan_Airport\" title=\"Duncan Airport\">Duncan Airport</a></td>
+<td><a href=\"/wiki/Duncan,_British_Columbia\" title=\"Duncan, British Columbia\">Duncan</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+<td><a href=\"/wiki/Pacific_Time_Zone\" title=\"Pacific Time Zone\">UTC\u221208:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>DUR</td>
+<td>FALE</td>
+<td><a href=\"/wiki/King_Shaka_International_Airport\" title=\"King Shaka International Airport\">King Shaka International Airport</a></td>
+<td><a href=\"/wiki/Durban\" title=\"Durban\">Durban</a>, <a href=\"/wiki/South_Africa\" title=\"South Africa\">South Africa</a></td>
+<td><a href=\"/wiki/South_African_Standard_Time\" title=\"South African Standard Time\">UTC+02:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DUS</td>
+<td>EDDL</td>
+<td><a href=\"/wiki/D%C3%BCsseldorf_Airport\" title=\"D\u00fcsseldorf Airport\">D\u00fcsseldorf Airport</a></td>
+<td><a href=\"/wiki/D%C3%BCsseldorf\" title=\"D\u00fcsseldorf\">D\u00fcsseldorf</a>, <a href=\"/wiki/North_Rhine-Westphalia\" title=\"North Rhine-Westphalia\">North Rhine-Westphalia</a>, Germany</td>
+<td><a href=\"/wiki/Central_European_Time\" title=\"Central European Time\">UTC+01:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>DUT</td>
+<td>PADU</td>
+<td><a href=\"/wiki/Unalaska_Airport\" title=\"Unalaska Airport\">Unalaska Airport</a></td>
+<td><a href=\"/wiki/Unalaska,_Alaska\" title=\"Unalaska, Alaska\">Unalaska</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+<td><a href=\"/wiki/Alaska_Time_Zone\" title=\"Alaska Time Zone\">UTC\u221209:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr class=\"sortbottom\">
+<th colspan=\"6\" style=\"text-align:left; background:#DDDDDD;\"><span id=\"DV\"></span>-DV-
+</th></tr>
+<tr>
+<td>DVD</td>
+<td></td>
+<td><a href=\"/wiki/Andavadoaka_Airport\" title=\"Andavadoaka Airport\">Andavadoaka Airport</a></td>
+<td><a href=\"/wiki/Andavadoaka\" title=\"Andavadoaka\">Andavadoaka</a>, <a href=\"/wiki/Madagascar\" title=\"Madagascar\">Madagascar</a></td>
+<td><a href=\"/wiki/East_Africa_Time\" title=\"East Africa Time\">UTC+03:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DVK</td>
+<td></td>
+<td><a href=\"/wiki/Diavik_Airport\" title=\"Diavik Airport\">Diavik Airport</a><sup id=\"cite_ref-IATA_1-30\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Diavik_Diamond_Mine\" title=\"Diavik Diamond Mine\">Diavik Diamond Mine</a>, <a href=\"/wiki/Northwest_Territories\" title=\"Northwest Territories\">Northwest Territories</a>, Canada</td>
+<td><a href=\"/wiki/Mountain_Time_Zone\" title=\"Mountain Time Zone\">UTC\u221207:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>DVL</td>
+<td>KDVL</td>
+<td><a href=\"/wiki/Devils_Lake_Regional_Airport\" title=\"Devils Lake Regional Airport\">Devils Lake Regional Airport</a> (Devils Lake Municipal Airport)</td>
+<td><a href=\"/wiki/Devils_Lake,_North_Dakota\" title=\"Devils Lake, North Dakota\">Devils Lake</a>, <a href=\"/wiki/North_Dakota\" title=\"North Dakota\">North Dakota</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>DVN</td>
+<td>KDVN</td>
+<td><a href=\"/wiki/Davenport_Municipal_Airport_(Iowa)\" title=\"Davenport Municipal Airport (Iowa)\">Davenport Municipal Airport</a></td>
+<td><a href=\"/wiki/Davenport,_Iowa\" title=\"Davenport, Iowa\">Davenport</a>, <a href=\"/wiki/Iowa\" title=\"Iowa\">Iowa</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>DVO</td>
+<td>RPMD</td>
+<td><a href=\"/wiki/Francisco_Bangoy_International_Airport\" title=\"Francisco Bangoy International Airport\">Francisco Bangoy International Airport</a></td>
+<td><a href=\"/wiki/Davao_City\" title=\"Davao City\">Davao City</a>, <a href=\"/wiki/Philippines\" title=\"Philippines\">Philippines</a></td>
+<td><a href=\"/wiki/Philippine_Standard_Time\" title=\"Philippine Standard Time\">UTC+08:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DVP</td>
+<td>YDPD</td>
+<td><a href=\"/w/index.php?title=Davenport_Downs_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Davenport Downs Airport (page does not exist)\">Davenport Downs Airport</a></td>
+<td><a href=\"/wiki/Davenport_Downs_Station\" title=\"Davenport Downs Station\">Davenport Downs</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+10:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DVR</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Daly_River_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Daly River Airport (page does not exist)\">Daly River Airport</a></td>
+<td><a href=\"/wiki/Daly_River,_Northern_Territory\" title=\"Daly River, Northern Territory\">Daly River</a>, <a href=\"/wiki/Northern_Territory\" title=\"Northern Territory\">Northern Territory</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+09:30</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DVT</td>
+<td>KDVT</td>
+<td><a href=\"/wiki/Phoenix_Deer_Valley_Airport\" title=\"Phoenix Deer Valley Airport\">Phoenix Deer Valley Airport</a></td>
+<td><a href=\"/wiki/Phoenix,_Arizona\" title=\"Phoenix, Arizona\">Phoenix</a>, <a href=\"/wiki/Arizona\" title=\"Arizona\">Arizona</a>, United States</td>
+<td><a href=\"/wiki/Mountain_Time_Zone\" title=\"Mountain Time Zone\">UTC\u221207:00</a></td>
+<td>
+</td></tr>
+<tr class=\"sortbottom\">
+<th colspan=\"6\" style=\"text-align:left; background:#DDDDDD;\"><span id=\"DW\"></span>-DW-
+</th></tr>
+<tr>
+<td>DWA</td>
+<td>FWDW</td>
+<td><a href=\"/wiki/Dwanga_Airport\" title=\"Dwanga Airport\">Dwanga Airport</a> (Dwangwa Airport)</td>
+<td><a href=\"/w/index.php?title=Dwangwa&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Dwangwa (page does not exist)\">Dwangwa</a>, <a href=\"/wiki/Malawi\" title=\"Malawi\">Malawi</a></td>
+<td><a href=\"/wiki/Central_Africa_Time\" title=\"Central Africa Time\">UTC+02:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DWB</td>
+<td>FMNO</td>
+<td><a href=\"/wiki/Soalala_Airport\" title=\"Soalala Airport\">Soalala Airport</a></td>
+<td><a href=\"/wiki/Soalala\" title=\"Soalala\">Soalala</a>, <a href=\"/wiki/Madagascar\" title=\"Madagascar\">Madagascar</a></td>
+<td><a href=\"/wiki/East_Africa_Time\" title=\"East Africa Time\">UTC+03:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DWC</td>
+<td>OMDW</td>
+<td><a href=\"/wiki/Al_Maktoum_International_Airport\" title=\"Al Maktoum International Airport\">Al Maktoum International Airport</a></td>
+<td><a href=\"/wiki/Dubai\" title=\"Dubai\">Dubai</a>, <a href=\"/wiki/United_Arab_Emirates\" title=\"United Arab Emirates\">United Arab Emirates</a></td>
+<td><a href=\"/wiki/UTC%2B04:00\" title=\"UTC+04:00\">UTC+04:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DWD</td>
+<td>OEDW</td>
+<td><a href=\"/wiki/Dawadmi_Domestic_Airport\" title=\"Dawadmi Domestic Airport\">Dawadmi Domestic Airport</a> (King Salman bin Abdul Aziz Domestic Airport)</td>
+<td><a href=\"/wiki/Dawadmi\" title=\"Dawadmi\">Dawadmi</a>, <a href=\"/wiki/Saudi_Arabia\" title=\"Saudi Arabia\">Saudi Arabia</a></td>
+<td><a href=\"/wiki/UTC%2B03:00#Arabia_Standard_Time\" title=\"UTC+03:00\">UTC+03:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DWH</td>
+<td>KDWH</td>
+<td><a href=\"/wiki/David_Wayne_Hooks_Memorial_Airport\" title=\"David Wayne Hooks Memorial Airport\">David Wayne Hooks Memorial Airport</a></td>
+<td><a href=\"/wiki/Houston\" title=\"Houston\">Houston</a>, <a href=\"/wiki/Texas\" title=\"Texas\">Texas</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>DWO</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Diyawanna_Oya_Seaplane_Base&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Diyawanna Oya Seaplane Base (page does not exist)\">Diyawanna Oya Seaplane Base</a><sup id=\"cite_ref-IATA_1-31\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Sri_Jayawardenepura_Kotte\" title=\"Sri Jayawardenepura Kotte\">Sri Jayawardenepura Kotte</a>, <a href=\"/wiki/Sri_Lanka\" title=\"Sri Lanka\">Sri Lanka</a></td>
+<td><a href=\"/wiki/Indian_Standard_Time\" title=\"Indian Standard Time\">UTC+05:30</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DWR</td>
+<td>OADY</td>
+<td><a href=\"/wiki/Dwyer_Airport\" title=\"Dwyer Airport\">Dwyer Airport</a><sup id=\"cite_ref-IATA_1-32\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Camp_Dwyer\" title=\"Camp Dwyer\">Camp Dwyer</a>, <a href=\"/wiki/Afghanistan\" title=\"Afghanistan\">Afghanistan</a></td>
+<td><a href=\"/wiki/Time_in_Afghanistan\" title=\"Time in Afghanistan\">UTC+04:30</a></td>
+<td>
+</td></tr>
+<tr class=\"sortbottom\">
+<th colspan=\"6\" style=\"text-align:left; background:#DDDDDD;\"><span id=\"DX\"></span>-DX-
+</th></tr>
+<tr>
+<td>DXB</td>
+<td>OMDB</td>
+<td><a href=\"/wiki/Dubai_International_Airport\" title=\"Dubai International Airport\">Dubai International Airport</a></td>
+<td><a href=\"/wiki/Dubai\" title=\"Dubai\">Dubai</a>, <a href=\"/wiki/United_Arab_Emirates\" title=\"United Arab Emirates\">United Arab Emirates</a></td>
+<td><a href=\"/wiki/UTC%2B04:00\" title=\"UTC+04:00\">UTC+04:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DXD</td>
+<td>YDIX</td>
+<td><a href=\"/w/index.php?title=Dixie_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Dixie Airport (page does not exist)\">Dixie Airport</a></td>
+<td><a href=\"/wiki/Dixie,_Queensland\" title=\"Dixie, Queensland\">Dixie</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+10:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DXE</td>
+<td>KMBO</td>
+<td><a href=\"/wiki/Bruce_Campbell_Field\" title=\"Bruce Campbell Field\">Bruce Campbell Field</a><sup id=\"cite_ref-IATA_1-33\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (FAA: MBO)</td>
+<td><a href=\"/wiki/Madison,_Mississippi\" title=\"Madison, Mississippi\">Madison</a>, <a href=\"/wiki/Mississippi\" title=\"Mississippi\">Mississippi</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>DXR</td>
+<td>KDXR</td>
+<td><a href=\"/wiki/Danbury_Municipal_Airport\" title=\"Danbury Municipal Airport\">Danbury Municipal Airport</a></td>
+<td><a href=\"/wiki/Danbury,_Connecticut\" title=\"Danbury, Connecticut\">Danbury</a>, <a href=\"/wiki/Connecticut\" title=\"Connecticut\">Connecticut</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr class=\"sortbottom\">
+<th colspan=\"6\" style=\"text-align:left; background:#DDDDDD;\"><span id=\"DY\"></span>-DY-
+</th></tr>
+<tr>
+<td>DYA</td>
+<td>YDYS</td>
+<td><a href=\"/wiki/Dysart_Airport\" title=\"Dysart Airport\">Dysart Airport</a></td>
+<td><a href=\"/wiki/Dysart,_Queensland\" title=\"Dysart, Queensland\">Dysart</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+10:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DYG</td>
+<td>ZGDY</td>
+<td><a href=\"/wiki/Zhangjiajie_Hehua_Airport\" class=\"mw-redirect\" title=\"Zhangjiajie Hehua Airport\">Zhangjiajie Hehua Airport</a></td>
+<td><a href=\"/wiki/Zhangjiajie\" title=\"Zhangjiajie\">Zhangjiajie</a>, <a href=\"/wiki/Hunan\" title=\"Hunan\">Hunan</a>, China</td>
+<td><a href=\"/wiki/Time_in_China\" title=\"Time in China\">UTC+08:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DYL</td>
+<td>KDYL</td>
+<td><a href=\"/wiki/Doylestown_Airport\" title=\"Doylestown Airport\">Doylestown Airport</a></td>
+<td><a href=\"/wiki/Doylestown,_Pennsylvania\" title=\"Doylestown, Pennsylvania\">Doylestown</a>, <a href=\"/wiki/Pennsylvania\" title=\"Pennsylvania\">Pennsylvania</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>DYM</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Diamantina_Lakes_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Diamantina Lakes Airport (page does not exist)\">Diamantina Lakes Airport</a></td>
+<td><a href=\"/wiki/Diamantina_Lakes_Station\" title=\"Diamantina Lakes Station\">Diamantina Lakes</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+10:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DYR</td>
+<td>UHMA</td>
+<td><a href=\"/wiki/Ugolny_Airport\" title=\"Ugolny Airport\">Ugolny Airport</a></td>
+<td><a href=\"/wiki/Anadyr_(town)\" title=\"Anadyr (town)\">Anadyr</a>, <a href=\"/wiki/Chukotka_Autonomous_Okrug\" title=\"Chukotka Autonomous Okrug\">Chukotka</a>, Russia</td>
+<td><a href=\"/wiki/Time_in_Russia\" title=\"Time in Russia\">UTC+12:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DYS</td>
+<td>KDYS</td>
+<td><a href=\"/wiki/Dyess_Air_Force_Base\" title=\"Dyess Air Force Base\">Dyess Air Force Base</a></td>
+<td><a href=\"/wiki/Abilene,_Texas\" title=\"Abilene, Texas\">Abilene</a>, <a href=\"/wiki/Texas\" title=\"Texas\">Texas</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>DYU</td>
+<td>UTDD</td>
+<td><a href=\"/wiki/Dushanbe_International_Airport\" title=\"Dushanbe International Airport\">Dushanbe International Airport</a></td>
+<td><a href=\"/wiki/Dushanbe\" title=\"Dushanbe\">Dushanbe</a>, <a href=\"/wiki/Tajikistan\" title=\"Tajikistan\">Tajikistan</a></td>
+<td><a href=\"/wiki/UTC%2B05:00\" title=\"UTC+05:00\">UTC+05:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DYW</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Daly_Waters_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Daly Waters Airport (page does not exist)\">Daly Waters Airport</a></td>
+<td><a href=\"/wiki/Daly_Waters,_Northern_Territory\" title=\"Daly Waters, Northern Territory\">Daly Waters</a>, <a href=\"/wiki/Northern_Territory\" title=\"Northern Territory\">Northern Territory</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+09:30</a></td>
+<td>
+</td></tr>
+<tr class=\"sortbottom\">
+<th colspan=\"6\" style=\"text-align:left; background:#DDDDDD;\"><span id=\"DZ\"></span>-DZ-
+</th></tr>
+<tr>
+<td>DZA</td>
+<td>FMCZ</td>
+<td><a href=\"/wiki/Dzaoudzi%E2%80%93Pamandzi_International_Airport\" title=\"Dzaoudzi\u2013Pamandzi International Airport\">Dzaoudzi\u2013Pamandzi International Airport</a></td>
+<td><a href=\"/wiki/Dzaoudzi\" title=\"Dzaoudzi\">Dzaoudzi</a>, <a href=\"/wiki/Mayotte\" title=\"Mayotte\">Mayotte</a></td>
+<td><a href=\"/wiki/East_Africa_Time\" title=\"East Africa Time\">UTC+03:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DZI</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Codazzi_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Codazzi Airport (page does not exist)\">Codazzi Airport</a></td>
+<td><a href=\"/wiki/Codazzi\" class=\"mw-redirect\" title=\"Codazzi\">Codazzi</a>, <a href=\"/wiki/Colombia\" title=\"Colombia\">Colombia</a></td>
+<td><a href=\"/wiki/Time_in_Colombia\" title=\"Time in Colombia\">UTC\u221205:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DZN</td>
+<td>UAKD</td>
+<td><a href=\"/wiki/Zhezkazgan_Airport\" title=\"Zhezkazgan Airport\">Zhezkazgan Airport</a></td>
+<td><a href=\"/wiki/Jezkazgan\" title=\"Jezkazgan\">Zhezkazgan</a>, <a href=\"/wiki/Kazakhstan\" title=\"Kazakhstan\">Kazakhstan</a></td>
+<td><a href=\"/wiki/Time_in_Kazakhstan\" title=\"Time in Kazakhstan\">UTC+06:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DZO</td>
+<td>SUDU</td>
+<td><a href=\"/wiki/Santa_Bernardina_International_Airport\" title=\"Santa Bernardina International Airport\">Santa Bernardina International Airport</a></td>
+<td><a href=\"/wiki/Durazno\" title=\"Durazno\">Durazno</a>, <a href=\"/wiki/Uruguay\" title=\"Uruguay\">Uruguay</a></td>
+<td><a href=\"/wiki/Time_in_Uruguay\" title=\"Time in Uruguay\">UTC\u221203:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>DZU</td>
+<td>ZUDZ</td>
+<td><a href=\"/w/index.php?title=Dazu_Air_Base&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Dazu Air Base (page does not exist)\">Dazu Air Base</a></td>
+<td><a href=\"/wiki/Dazu_District\" title=\"Dazu District\">Dazu</a>, <a href=\"/wiki/Chongqing\" title=\"Chongqing\">Chongqing</a>, China</td>
+<td><a href=\"/wiki/Time_in_China\" title=\"Time in China\">UTC+08:00</a></td>
+<td>
+</td></tr>

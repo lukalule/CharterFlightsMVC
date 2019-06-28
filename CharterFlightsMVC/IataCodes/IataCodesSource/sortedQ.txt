@@ -1,0 +1,114 @@
+<tr>
+<td>QAQ</td>
+<td>LIAP</td>
+<td><a href=\"/wiki/L%27Aquila%E2%80%93Preturo_Airport\" title=\"L&#39;Aquila\u2013Preturo Airport\">L'Aquila\u2013Preturo Airport</a><sup id=\"cite_ref-IATAsearch_1-0\" class=\"reference\"><a href=\"#cite_note-IATAsearch-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/L%27Aquila\" title=\"L&#39;Aquila\">L'Aquila</a>, <a href=\"/wiki/Abruzzo\" title=\"Abruzzo\">Abruzzo</a>, Italy</td>
+</tr>
+<tr>
+<td>QBC</td>
+<td>CYBD</td>
+<td><a href=\"/wiki/Bella_Coola_Airport\" title=\"Bella Coola Airport\">Bella Coola Airport</a></td>
+<td><a href=\"/wiki/Bella_Coola,_British_Columbia\" title=\"Bella Coola, British Columbia\">Bella Coola</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>QCY</td>
+<td>EGXC</td>
+<td><a href=\"/wiki/RAF_Coningsby\" title=\"RAF Coningsby\">RAF Coningsby</a></td>
+<td><a href=\"/wiki/Coningsby\" title=\"Coningsby\">Coningsby</a>, <a href=\"/wiki/England\" title=\"England\">England</a>, United Kingdom</td>
+</tr>
+<tr>
+<td>QHU</td>
+<td>EDXJ</td>
+<td><a href=\"/wiki/Husum_Schwesing_Airport\" title=\"Husum Schwesing Airport\">Husum Schwesing Airport</a><sup id=\"cite_ref-IATAsearch_1-1\" class=\"reference\"><a href=\"#cite_note-IATAsearch-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Husum\" title=\"Husum\">Husum</a>, <a href=\"/wiki/Schleswig-Holstein\" title=\"Schleswig-Holstein\">Schleswig-Holstein</a>, Germany</td>
+</tr>
+<tr>
+<td>QOW</td>
+<td>DNIM</td>
+<td><a href=\"/wiki/Sam_Mbakwe_Airport\" title=\"Sam Mbakwe Airport\">Sam Mbakwe Airport</a></td>
+<td><a href=\"/wiki/Owerri\" title=\"Owerri\">Owerri</a>, <a href=\"/wiki/Nigeria\" title=\"Nigeria\">Nigeria</a></td>
+</tr>
+<tr>
+<td>QPG</td>
+<td>WSAP</td>
+<td><a href=\"/wiki/Paya_Lebar_Air_Base\" title=\"Paya Lebar Air Base\">Paya Lebar Air Base</a></td>
+<td><a href=\"/wiki/Singapore\" title=\"Singapore\">Singapore</a></td>
+</tr>
+<tr>
+<td>QRA</td>
+<td>FAGM</td>
+<td><a href=\"/wiki/Rand_Airport\" title=\"Rand Airport\">Rand Airport</a></td>
+<td><a href=\"/wiki/Johannesburg\" title=\"Johannesburg\">Johannesburg</a>, <a href=\"/wiki/South_Africa\" title=\"South Africa\">South Africa</a></td>
+</tr>
+<tr>
+<td>QRO</td>
+<td>MMQT</td>
+<td><a href=\"/wiki/Quer%C3%A9taro_Intercontinental_Airport\" title=\"Quer\u00e9taro Intercontinental Airport\">Quer\u00e9taro Intercontinental Airport</a></td>
+<td><a href=\"/wiki/Quer%C3%A9taro_City\" title=\"Quer\u00e9taro City\">Quer\u00e9taro City</a>, <a href=\"/wiki/Quer%C3%A9taro\" title=\"Quer\u00e9taro\">Quer\u00e9taro</a>, Mexico</td>
+</tr>
+<tr>
+<td>QRW</td>
+<td>DNSU</td>
+<td><a href=\"/wiki/Warri_Airport\" title=\"Warri Airport\">Warri Airport</a> (Osubi Airport)</td>
+<td><a href=\"/wiki/Warri\" title=\"Warri\">Warri</a>, <a href=\"/wiki/Nigeria\" title=\"Nigeria\">Nigeria</a></td>
+</tr>
+<tr>
+<td>QSC</td>
+<td>SDSC</td>
+<td><a href=\"/wiki/S%C3%A3o_Carlos_Airport\" class=\"mw-redirect\" title=\"S\u00e3o Carlos Airport\">M\u00e1rio Pereira Lopes Airport</a></td>
+<td><a href=\"/wiki/S%C3%A3o_Carlos\" title=\"S\u00e3o Carlos\">S\u00e3o Carlos</a>, <a href=\"/wiki/S%C3%A3o_Paulo_(state)\" title=\"S\u00e3o Paulo (state)\">S\u00e3o Paulo</a>, Brazil</td>
+</tr>
+<tr>
+<td>QSF</td>
+<td>DAAS</td>
+<td><a href=\"/wiki/Ain_Arnat_Airport\" title=\"Ain Arnat Airport\">Ain Arnat Airport</a></td>
+<td><a href=\"/wiki/S%C3%A9tif\" title=\"S\u00e9tif\">S\u00e9tif</a>, <a href=\"/wiki/Algeria\" title=\"Algeria\">Algeria</a></td>
+</tr>
+<tr>
+<td>QSR</td>
+<td>LIRI</td>
+<td><a href=\"/wiki/Salerno_Costa_d%27Amalfi_Airport\" title=\"Salerno Costa d&#39;Amalfi Airport\">Salerno Costa d'Amalfi Airport</a> (Pontecagnano Airport)</td>
+<td><a href=\"/wiki/Salerno\" title=\"Salerno\">Salerno</a>, <a href=\"/wiki/Campania\" title=\"Campania\">Campania</a>, Italy</td>
+</tr>
+<tr>
+<td>QSZ</td>
+<td></td>
+<td><a href=\"/wiki/Shache_Airport\" title=\"Shache Airport\">Shache Airport</a></td>
+<td><a href=\"/wiki/Shache\" class=\"mw-redirect\" title=\"Shache\">Shache</a>, <a href=\"/wiki/Xinjiang\" title=\"Xinjiang\">Xinjiang</a>, China</td>
+</tr>
+<tr>
+<td>QUB</td>
+<td>HLUB</td>
+<td><a href=\"/wiki/Ubari_Airport\" title=\"Ubari Airport\">Ubari Airport</a><sup id=\"cite_ref-IATAsearch_1-2\" class=\"reference\"><a href=\"#cite_note-IATAsearch-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Ubari\" title=\"Ubari\">Ubari</a>, <a href=\"/wiki/Libya\" title=\"Libya\">Libya</a></td>
+</tr>
+<tr>
+<td>QUG</td>
+<td>EGHR</td>
+<td><a href=\"/wiki/Chichester/Goodwood_Airport\" title=\"Chichester/Goodwood Airport\">Chichester/Goodwood Airport</a></td>
+<td><a href=\"/wiki/Chichester\" title=\"Chichester\">Chichester</a>, <a href=\"/wiki/England\" title=\"England\">England</a>, United Kingdom</td>
+</tr>
+<tr>
+<td>QUO</td>
+<td>DNAI</td>
+<td><a href=\"/wiki/Akwa_Ibom_Airport\" title=\"Akwa Ibom Airport\">Akwa Ibom International Airport</a></td>
+<td><a href=\"/wiki/Uyo\" title=\"Uyo\">Uyo</a>, <a href=\"/wiki/Nigeria\" title=\"Nigeria\">Nigeria</a></td>
+</tr>
+<tr>
+<td>QUY</td>
+<td>EGUY</td>
+<td><a href=\"/wiki/RAF_Wyton\" title=\"RAF Wyton\">RAF Wyton</a><sup id=\"cite_ref-IATAsearch_1-3\" class=\"reference\"><a href=\"#cite_note-IATAsearch-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Wyton,_Cambridgeshire\" title=\"Wyton, Cambridgeshire\">Wyton</a>, <a href=\"/wiki/England\" title=\"England\">England</a>, United Kingdom</td>
+</tr>
+<tr>
+<td>QWG</td>
+<td></td>
+<td><a href=\"/wiki/Wilgrove_Air_Park\" title=\"Wilgrove Air Park\">Wilgrove Air Park</a> (FAA: 8A6)</td>
+<td><a href=\"/wiki/Charlotte,_North_Carolina\" title=\"Charlotte, North Carolina\">Charlotte</a>, <a href=\"/wiki/North_Carolina\" title=\"North Carolina\">North Carolina</a>, United States</td>
+</tr>
+<tr>
+<td>QXB</td>
+<td>LFMA</td>
+<td><a href=\"/w/index.php?title=Aix_les_Milles,_France&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Aix les Milles, France (page does not exist)\">Aix les Milles, France</a></td>
+<td><a href=\"/wiki/Aix-en-Provence\" title=\"Aix-en-Provence\">Bouches-du-Rh\u00f4ne</a>, <a href=\"/w/index.php?title=Provence-Alpes-C%C3%B4te_d%27Azur_region&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Provence-Alpes-C\u00f4te d&#39;Azur region (page does not exist)\">Provence-Alpes-C\u00f4te d'Azur region</a>, France</td>
+</tr>

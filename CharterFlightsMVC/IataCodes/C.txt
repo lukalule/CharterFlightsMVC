@@ -1,0 +1,541 @@
+CAA,Catacamas, Honduras
+CAB,Cabinda, Angola
+CAC,Cascavel, Paran\u00e1, Brazil
+CAD, Cadillac, Michigan, United States
+CAE, Columbia, South Carolina, United States
+CAF,Carauari, Amazonas, Brazil
+CAG,Cagliari, Sardinia, Italy
+CAH,C\u00e0 Mau, Vietnam
+CAI,Cairo, Egypt
+CAJ, Canaima, Venezuela
+CAK, Canton, Ohio, United States
+CAL,Campbeltown, Scotland, United Kingdom
+CAM,Camiri, Bolivia
+CAN,Guangzhou, Guangdong, China
+CAO, Clayton, New Mexico, United States
+CAP,Cap-Ha\u00eftien, Haiti
+CAQ, Caucasia, Colombia
+CAR, Caribou, Maine, United States
+CAS,Casablanca, Morocco
+CAT,Cascais, Portugal
+CAU,Caruaru, Pernambuco, Brazil
+CAV,Cazombo, Angola
+CAW,Campos dos Goytacazes, Rio de Janeiro, Brazil
+CAX,Carlisle, England, United Kingdom
+CAY,Cayenne, French Guiana
+CAZ,Cobar, New South Wales, Australia
+CBB,Cochabamba, Bolivia
+CBC,Cherrabun, Western Australia, Australia
+CBD,Car Nicobar, Andaman and Nicobar Islands, India
+CBE, Cumberland, Maryland, United States
+CBF, Council Bluffs, Iowa, United States
+CBG,Cambridge, England, United Kingdom
+CBH,B\u00e9char, Algeria
+CBI,Cape Barren Island, Tasmania, Australia
+CBJ, Pedernales, Dominican Republic
+CBK, Colby, Kansas, United States
+CBL,Ciudad Bol\u00edvar, Venezuela
+CBM, Columbus, Mississippi, United States
+CBN,Cirebon, Indonesia
+CBO,Cotabato City, Philippines
+CBP,Coimbra, Portugal
+CBQ,Calabar, Nigeria
+CBR,Canberra, Australian Capital Territory, Australia
+CBS,Cabimas, Venezuela
+CBT,Catumbela, Angola
+CBU,Cottbus, Brandenburg, Germany
+CBV,Cob\u00e1n, Guatemala
+CBW,Campo Mour\u00e3o, Paran\u00e1, Brazil
+CBX,Condobolin, New South Wales, Australia
+CBY,Canobie Station, Queensland, Australia
+CCB, Upland, California, United States
+CCC,Cayo Coco, Cuba
+CCF,Carcassonne, Languedoc-Roussillon, France
+CCG, Crane, Texas, United States
+CCH,Chile Chico, Chile
+CCI,Conc\u00f3rdia, Santa Catarina, Brazil
+CCJ, (Calicut), Kerala, India
+CCK,Cocos (Keeling) Islands, Australia
+CCL, Chinchilla, Queensland, Australia
+CCM,Crici\u00fama, Santa Catarina, Brazil
+CCN,Chaghcharan, Afghanistan
+CCO,Carimagua, Colombia
+CCP, Concepci\u00f3n, Chile
+CCR, Concord, California, United States
+CCS,Caracas, Venezuela
+CCT,Catriel, R\u00edo Negro, Argentina
+CCU,Kolkata, West Bengal, India
+CCV,Craig Cove, Ambrym Island, Malampa, Vanuatu
+CCW, Cowell, South Australia, Australia
+CCX, C\u00e1ceres, Mato Grosso, Brazil
+CCY, Charles City, Iowa, United States
+CCZ,Chub Cay, Berry Islands, Bahamas
+CDA,Cooinda, Northern Territory, Australia
+CDB, Cold Bay, Alaska, United States
+CDC, Cedar City, Utah, United States
+CDD,Cauquira, Honduras
+CDE,Chengde, Hebei, China
+CDG,Paris, \u00cele-de-France, France
+CDH, Camden, Arkansas, United States
+CDI,Cachoeiro de Itapemirim, Esp\u00edrito Santo, Brazil
+CDJ,Concei\u00e7\u00e3o do Araguaia, Par\u00e1, Brazil
+CDK, Cedar Key, Florida, United States
+CDL, Candle, Alaska, United States
+CDN, Camden, South Carolina, United States
+CDO, Cradock, South Africa
+CDP,Kadapa, Andhra Pradesh, India
+CDQ, Croydon, Queensland, Australia
+CDR, Chadron, Nebraska, United States
+CDS, Childress, Texas, United States
+CDT,Castell\u00f3n de la Plana, Valencia, Spain
+CDU, Camden, New South Wales, Australia
+CDV, Cordova, Alaska, United States
+CDW, Caldwell, New Jersey, United States
+CDY, Mapun, Philippines
+CEA, Wichita, Kansas, United States
+CEB, Lapu-Lapu, Philippines
+CEC, Crescent City, California, United States
+CED, Ceduna, South Australia, Australia
+CEE,Cherepovets, Vologda Oblast, Russia
+CEF, Springfield, Massachusetts, United States
+CEG,Chester, England, United Kingdom
+CEH,Chelinda, Malawi
+CEI,Chiang Rai, Thailand
+CEK,Chelyabinsk, Chelyabinsk Oblast, Russia
+CEM, Central, Alaska, United States
+CEN,Ciudad Obreg\u00f3n, Sonora, Mexico
+CEO,Waku-Kungo, Angola
+CEP, Concepci\u00f3n, Bolivia
+CEQ,Cannes, Provence-Alpes-C\u00f4te d'Azur, France
+CER,Cherbourg-Octeville, Lower Normandy, France
+CES, Cessnock, New South Wales, Australia
+CET,Cholet, Pays de la Loire, France
+CEU, Clemson, South Carolina, United States
+CEV, Connersville, Indiana, United States
+CEW, Crestview, Florida, United States
+CEX, Chena Hot Springs, Alaska, United States
+CEY, Murray, Kentucky, United States
+CEZ, Cortez, Colorado, United States
+CFB,Cabo Frio, Rio de Janeiro, Brazil
+CFC,Ca\u00e7ador, Santa Catarina, Brazil
+CFD, Bryan, Texas, United States
+CFE,Clermont-Ferrand, Auvergne, France
+CFF,Cafunfo, Angola
+CFG,Cienfuegos, Cuba
+CFH,Clifton Hills, South Australia, Australia
+CFI,Camfield Station, Northern Territory, Australia
+CFK,Chlef, Algeria
+CFN,Donegal, Ireland
+CFO,Confresa, Mato Grosso, Brazil
+CFP,Carpentaria Downs, Queensland, Australia
+CFQ, Creston, British Columbia, Canada
+CFR,Caen, Lower Normandy, France
+CFS,Coffs Harbour, New South Wales, Australia
+CFT, Morenci, Arizona, United States
+CFU,Corfu, Greece
+CFV, Coffeyville, Kansas, United States
+CGA, Craig, Alaska, United States
+CGB,Cuiab\u00e1, Mato Grosso, Brazil
+CGC,Cape Gloucester, Papua New Guinea
+CGD,Changde, Hunan, China
+CGE, Cambridge, Maryland, United States
+CGF,Cleveland, Ohio, United States
+CGG, Casiguran, Philippines
+CGH,S\u00e3o Paulo, S\u00e3o Paulo, Brazil
+CGI, Cape Girardeau, Missouri, United States
+CGJ,Chingola, Zambia
+CGK,Jakarta, Indonesia
+CGM,Mambajao, Philippines
+CGN,Bonn, North Rhine-Westphalia, Germany
+CGO,Zhengzhou, Henan, China
+CGP,Chittagong, Bangladesh
+CGQ,Changchun, Jilin, China
+CGR,Campo Grande, Mato Grosso do Sul, Brazil
+CGS, College Park, Maryland, United States
+CGT,Chinguetti, Mauritania
+CGV, Caiguna, Western Australia, Australia
+CGY,Cagayan de Oro, Philippines
+CGZ, Casa Grande, Arizona, United States
+CHA, Chattanooga, Tennessee, United States
+CHB,Chilas, Pakistan
+CHC,Christchurch, New Zealand
+CHF,Jinhae, South Korea
+CHG, Chaoyang, Liaoning, China
+CHH, Chachapoyas, Peru
+CHI,Chicago, Illinois, United States
+CHJ,Chipinge, Zimbabwe
+CHK, Chickasha, Oklahoma, United States
+CHL, Challis, Idaho, United States
+CHM,Chimbote, Peru
+CHN,Jeonju, South Korea
+CHO, Charlottesville, Virginia, United States
+CHP, Circle Hot Springs, Alaska, United States
+CHQ,Chania, Greece
+CHR,Ch\u00e2teauroux, Centre-Val de Loire, France
+CHS, Charleston, South Carolina, United States
+CHT,Chatham Islands, New Zealand
+CHU, Chuathbaluk, Alaska, United States
+CHV, Chaves, Portugal
+CHX,Changuinola, Panama
+CHY,Choiseul Bay, Taro Island, Solomon Islands
+CHZ, Chiloquin, Oregon, United States
+CIA,Rome, Lazio, Italy
+CIC, Chico, California, United States
+CID, Cedar Rapids, Iowa, United States
+CIE, Collie, Western Australia, Australia
+CIF,Chifeng, Inner Mongolia, China
+CIG, Craig, Colorado, United States
+CIH,Changzhi, Shanxi, China
+CII,Ayd\u0131n, Turkey
+CIJ,Cobija, Bolivia
+CIK, Chalkyitsik, Alaska, United States
+CIL, Council, Alaska, United States
+CIM,Cimitarra, Colombia
+CIN, Carroll, Iowa, United States
+CIO, Concepci\u00f3n, Paraguay
+CIP,Chipata, Zambia
+CIQ,Chiquimula, Guatemala
+CIR, Cairo, Illinois, United States
+CIS,Canton Island, Kiribati
+CIT,Shymkent, Kazakhstan
+CIU, Sault Ste Marie, Michigan, United States
+CIW,Canouan, Saint Vincent and the Grenadines
+CIX,Chiclayo, Peru
+CIY,Comiso, Sicily, Italy
+CIZ,Coari, Amazonas, Brazil
+CJA,Cajamarca, Peru
+CJB,Coimbatore, Tamil Nadu, India
+CJC, Calama, Chile
+CJD,Candilejas, Colombia
+CJF,Coondewanna, Western Australia, Australia
+CJH,Chilko Lake, British Columbia, Canada
+CJJ,Cheongju, South Korea
+CJL,Chitral, Pakistan
+CJM,Chumphon, Thailand
+CJN,Cijulang, Indonesia
+CJS,Ciudad Ju\u00e1rez, Chihuahua, Mexico
+CJT,Comit\u00e1n, Chiapas, Mexico
+CJU,Jeju, South Korea
+CKA, Cherokee, Oklahoma, United States
+CKB, Clarksburg, West Virginia, United States
+CKC,Cherkasy, Ukraine
+CKD, Crooked Creek, Alaska, United States
+CKE, Lakeport, California, United States
+CKG,Chongqing, China
+CKH,Chokurdakh, Yakutia, Russia
+CKI,Croker Island, Northern Territory, Australia
+CKK, Ash Flat, Arkansas, United States
+CKL,), Russia
+CKM, Clarksdale, Mississippi, United States
+CKN, Crookston, Minnesota, United States
+CKO,Corn\u00e9lio Proc\u00f3pio, Paran\u00e1, Brazil
+CKR,Crane Island, Washington, United States
+CKS,Parauapebas, Par\u00e1, Brazil
+CKT,Sarakhs, Iran
+CKU, Cordova, Alaska, United States
+CKV, Clarksville, Tennessee, United States
+CKW,Christmas Creek mine, Western Australia
+CKX, Chicken, Alaska, United States
+CKY,Conakry, Guinea
+CKZ,\u00c7anakkale, Turkey
+CLA,Comilla, Bangladesh
+CLD, Carlsbad, California, United States
+CLE,Cleveland, Ohio, United States
+CLG, Coalinga, California, United States
+CLH, Coolah, New South Wales, Australia
+CLI, Clintonville, Wisconsin, United States
+CLJ,Cluj-Napoca, Romania
+CLK, Clinton, Oklahoma, United States
+CLL, College Station, Texas, United States
+CLM, Port Angeles, Washington, United States
+CLN, Carolina, Maranh\u00e3o, Brazil
+CLO,Cali, Colombia
+CLP, Clark's Point, Alaska, United States
+CLQ,Colima City, Colima, Mexico
+CLR, Calipatria, California, United States
+CLS, Chehalis, Washington, United States
+CLT, Charlotte, North Carolina, United States
+CLU, Columbus, Indiana, United States
+CLV,Caldas Novas, Goi\u00e1s, Brazil
+CLW, Clearwater, Florida, United States
+CLX, Clorinda, Formosa, Argentina
+CLY, Calvi, Corsica, France
+CLZ,Calabozo, Venezuela
+CMA,Cunnamulla, Queensland, Australia
+CMB,Colombo, Sri Lanka
+CMC,Camocim, Cear\u00e1, Brazil
+CMD,Cootamundra, New South Wales, Australia
+CME,Ciudad del Carmen, Campeche, Mexico
+CMF,Chamb\u00e9ry, Rh\u00f4ne-Alpes, France
+CMG,Corumb\u00e1, Mato Grosso do Sul, Brazil
+CMH, Columbus, Ohio, United States
+CMI, Champaign, Illinois, United States
+CMJ, Qimei, Taiwan
+CMK,Club Makokola, Malawi
+CML,Camooweal, Queensland, Australia
+CMM, Carmelita, Guatemala
+CMN,Casablanca, Morocco
+CMO,Obbia, Somalia
+CMP,Santana do Araguaia, Par\u00e1, Brazil
+CMQ, Clermont, Queensland, Australia
+CMR,Colmar, Alsace, France
+CMS, (Scusciuban), Somalia
+CMT,Camet\u00e1, Par\u00e1, Brazil
+CMU,Kundiawa, Papua New Guinea
+CMV, Coromandel, New Zealand
+CMW,Camag\u00fcey, Cuba
+CMX, Hancock, Michigan, United States
+CMY, Sparta, Wisconsin, United States
+CMZ, Caia, Mozambique
+CNA,Cananea, Sonora, Mexico
+CNB, Coonamble, New South Wales, Australia
+CNC,Coconut (Poruma) Island, Queensland, Australia
+CND,Constan\u021ba, Romania
+CNE, Ca\u00f1on City, Colorado, United States
+CNF,Belo Horizonte, Minas Gerais, Brazil
+CNG, Cognac, Poitou-Charentes, France
+CNH, Claremont, New Hampshire, United States
+CNI,Changhai, Liaoning, China
+CNJ, Cloncurry, Queensland, Australia
+CNK, Concordia, Kansas, United States
+CNL,Sindal, Denmark
+CNM, Carlsbad, New Mexico, United States
+CNN,kannur, Kerala, India
+CNO, Chino, California, United States
+CNP,Ittoqqortoormiit, Greenland
+CNQ,Corrientes, Corrientes, Argentina
+CNR,Cha\u00f1aral, Chile
+CNS,Cairns, Queensland, Australia
+CNT,Charata, Chaco, Argentina
+CNU, Chanute, Kansas, United States
+CNV,Canavieiras, Bahia, Brazil
+CNW, Waco, Texas, United States
+CNX,Chiang Mai, Thailand
+CNY, Moab, Utah, United States
+CNZ,Cangamba, Angola
+COA, Columbia, California, United States
+COB,Coolibah Station, Northern Territory, Australia
+COC, Concordia, Entre R\u00edos, Argentina
+COD, Cody, Wyoming, United States
+COE, Coeur d'Alene, Idaho, United States
+COF, Cocoa Beach, Florida, United States
+COG,Condoto, Colombia
+COH,Cooch Behar, West Bengal, India
+COI, Merritt Island, Florida, United States
+COJ,Coonabarabran, New South Wales, Australia
+COK, (Cochin), Kerala, India
+COL,Coll, Scotland, United Kingdom
+COM, Coleman, Texas, United States
+CON, Concord, New Hampshire, United States
+COO,Cotonou, Benin
+COP, Cooperstown, New York, United States
+COQ,Choibalsan, Mongolia
+COR, C\u00f3rdoba, Argentina
+COS, Colorado Springs, Colorado, United States
+COT, Cotulla, Texas, United States
+COU, Columbia, Missouri, United States
+COW,Coquimbo, Chile
+COY,Coolawanyah Station, Western Australia, Australia
+COZ, Constanza, Dominican Republic
+CPA, Harper, Liberia
+CPB,Capurgan\u00e1, Colombia
+CPC,San Mart\u00edn de los Andes, Neuqu\u00e9n, Argentina
+CPD,Coober Pedy, South Australia, Australia
+CPE,Campeche, Campeche, Mexico
+CPF,Cepu, Indonesia
+CPG,Carmen de Patagones, Buenos Aires, Argentina
+CPH,Copenhagen, Denmark
+CPI, Cape Orford, Papua New Guinea
+CPL,Chaparral, Colombia
+CPM, Compton, California, United States
+CPN,Cape Rodney, Papua New Guinea
+CPO,Copiap\u00f3, Chile
+CPR, Casper, Wyoming, United States
+CPS, Illinois, United States
+CPT,Cape Town, South Africa
+CPU,Cururupu, Maranh\u00e3o, Brazil
+CPV,Campina Grande, Para\u00edba, Brazil
+CPX, Culebra, Puerto Rico, United States
+CQA, Canarana, Mato Grosso, Brazil
+CQD,Shahrekord, Iran
+CQF,Dunkirk, Nord-Pas-de-Calais, France
+CQM,Ciudad Real, Castilla-La Mancha, Spain
+CQP,Cape Flattery, Queensland, Australia
+CQS,Costa Marques, Rond\u00f4nia, Brazil
+CQT,Caquetania, Colombia
+CRA,Craiova, Romania
+CRB,Collarenebri, New South Wales, Australia
+CRC, Cartago, Colombia
+CRD,Comodoro Rivadavia, Chubut, Argentina
+CRE, North Myrtle Beach, South Carolina, United States
+CRF, Carnot, Central African Republic
+CRG, Jacksonville, Florida, United States
+CRH, Cherrabah, Queensland, Australia
+CRI,Colonel Hill,   Crooked Island, Bahamas
+CRJ,Coorabie, South Australia, Australia
+CRK,Clark Special Economic Zone, Philippines
+CRL,Charleroi, Belgium
+CRM, Catarman, Philippines
+CRO, Corcoran, California, United States
+CRP, Corpus Christi, Texas, United States
+CRQ,Caravelas, Bahia, Brazil
+CRR, Ceres, Santa Fe, Argentina
+CRS, Corsicana, Texas, United States
+CRT, Crossett, Arkansas, United States
+CRU,Carriacou, Grenada
+CRV,Crotone, Calabria, Italy
+CRW, Charleston, West Virginia, United States
+CRX, Corinth, Mississippi, United States
+CRY,Carlton Hill Station, Western Australia, Australia
+CRZ,T\u00fcrkmenabat, Turkmenistan
+CSA,Colonsay, Scotland, United Kingdom
+CSB,Caransebe\u0219, Romania
+CSC, Ca\u00f1as, Costa Rica
+CSD,Cresswell Downs, Northern Territory, Australia
+CSE, Crested Butte, Colorado, United States
+CSF,Creil, Picardy, France
+CSG, Columbus, Georgia, United States
+CSH,Solovetsky Islands, Arkhangelsk Oblast, Russia
+CSI, Casino, New South Wales, Australia
+CSK,Cap Skirring, Senegal
+CSM, Clinton, Oklahoma, United States
+CSN, Carson City, Nevada, United States
+CSO,Magdeburg, Saxony-Anhalt, Germany
+CSQ, Creston, Iowa, United States
+CSR,Casuarito, Colombia
+CSS,Cassil\u00e2ndia, Mato Grosso do Sul, Brazil
+CST,Castaway Island, Mamanuca Islands, Fiji
+CSU,Santa Cruz do Sul, Rio Grande do Sul, Brazil
+CSV, Crossville, Tennessee, United States
+CSX,Changsha, Hunan, China
+CSY,Cheboksary, Chuvashia, Russia
+CSZ,Coronel Su\u00e1rez, Buenos Aires, Argentina
+CTA,Catania, Sicily, Italy
+CTB, Cut Bank, Montana, United States
+CTC,Catamarca, Catamarca, Argentina
+CTD,Chitr\u00e9, Panama
+CTE,Cart\u00ed, Panama
+CTF, Coatepeque, Guatemala
+CTG, Cartagena, Colombia
+CTH, Coatesville, Pennsylvania, United States
+CTI,Cuito Cuanavale, Angola
+CTK, Canton, South Dakota, United States
+CTL, Charleville, Queensland, Australia
+CTM,Chetumal, Quintana Roo, Mexico
+CTN, Cooktown, Queensland, Australia
+CTO, Calverton, New York, United States
+CTP,Carutapera, Maranh\u00e3o, Brazil
+CTQ,Santa Vit\u00f3ria, Rio Grande do Sul, Brazil
+CTR, Cattle Creek, Northern Territory, Australia
+CTS,Sapporo, Hokkaido, Japan
+CTT, Le Castellet, Provence-Alpes-C\u00f4te d'Azur, France
+CTU,Chengdu, Sichuan, China
+CTW, Cottonwood, Arizona, United States
+CTX, Cortland, New York, United States
+CTY, Cross City, Florida, United States
+CTZ, Clinton, North Carolina, United States
+CUA,Ciudad Constituci\u00f3n, Baja California Sur, Mexico
+CUB, Columbia, South Carolina, United States
+CUC,C\u00facuta, Colombia
+CUD,Caloundra, Queensland, Australia
+CUE, Cuenca, Ecuador
+CUF,Cuneo, Piedmont, Italy
+CUG, Cudal, New South Wales, Australia
+CUH, Cushing, Oklahoma, United States
+CUI,Curillo, Colombia
+CUJ,Culion, Philippines
+CUK,Caye Caulker, Belize
+CUL,Culiac\u00e1n, Sinaloa, Mexico
+CUM,Cuman\u00e1, Venezuela
+CUN,Canc\u00fan, Quintana Roo, Mexico
+CUO,Caruru, Colombia
+CUP,Car\u00fapano, Venezuela
+CUQ, Coen, Queensland, Australia
+CUR,Willemstad, Cura\u00e7ao
+CUS, Columbus, New Mexico, United States
+CUT,Cutral C\u00f3, Neuqu\u00e9n, Argentina
+CUU,Chihuahua, Chihuahua, Mexico
+CUV,Casigua El Cubo, Venezuela
+CUX, Corpus Christi, Texas, United States
+CUY, Cue, Western Australia, Australia
+CUZ,Cusco, Peru
+CVB,Chungrebu, Papua New Guinea
+CVC, Cleve, South Australia, Australia
+CVE,Cove\u00f1as, Colombia
+CVF,Courchevel, Rh\u00f4ne-Alpes, France
+CVG, Kentucky, United States
+CVH,Caviahue, Neuqu\u00e9n, Argentina
+CVI,Caleta Olivia,   Santa Cruz, Argentina
+CVJ,Cuernavaca, Morelos, Mexico
+CVL,Cape Vogel, Papua New Guinea
+CVM,Ciudad Victoria, Tamaulipas, Mexico
+CVN, Clovis, New Mexico, United States
+CVO, Corvallis, Oregon, United States
+CVQ, Carnarvon, Western Australia, Australia
+CVS, Clovis, New Mexico, United States
+CVT,Coventry, England, United Kingdom
+CVU,Corvo Island, Azores, Portugal
+CWA, Wausau, Wisconsin, United States
+CWB,Curitiba, Paran\u00e1, Brazil
+CWC,Chernivtsi, Ukraine
+CWF, Lake Charles, Louisiana, United States
+CWI, Clinton, Iowa, United States
+CWJ,Nuoliang Township, China
+CWL,Cardiff, Wales, United Kingdom
+CWR,Cowarie, South Australia, Australia
+CWS,Center Island, Washington, United States
+CWT,Cowra, New South Wales, Australia
+CWW,Corowa, New South Wales, Australia
+CWX, Willcox, Arizona, United States
+CXA,Caicara del Orinoco, Venezuela
+CXB,Cox's Bazar, Bangladesh
+CXC, Chitina, Alaska, United States
+CXF, Coldfoot, Alaska, United States
+CXH,Vancouver, British Columbia, Canada
+CXI,Christmas Island, Kiribati
+CXJ,Caxias do Sul, Rio Grande do Sul, Brazil
+CXL, Calexico, California, United States
+CXN,Candala, Somalia
+CXO,Houston, Texas, United States
+CXP,Cilacap, Indonesia
+CXQ,Christmas Creek Station, Western Australia, Australia
+CXR,Cam Ranh, Vietnam
+CXT,Charters Towers, Queensland, Australia
+CXY,Cat Cays, Bimini, Bahamas
+CYA,Les Cayes, Haiti
+CYB,Cayman Brac, Cayman Islands
+CYC,Caye Chapel, Belize
+CYD, San Ignacio, Belize
+CYF, Chefornak, Alaska, United States
+CYG,Corryong, Victoria, Australia
+CYI,Chiayi, Taiwan
+CYL,Coyoles, Honduras
+CYM, Chatham, Alaska, United States
+CYO,Cayo Largo del Sur, Cuba
+CYP,Calbayog, Philippines
+CYR,Colonia del Sacramento, Uruguay
+CYS, Cheyenne, Wyoming, United States
+CYT, Yakataga, Alaska, United States
+CYU, Cuyo, Philippines
+CYW,Celaya, Guanajuato, Mexico
+CYX,Chersky, Yakutia, Russia
+CYZ, Cauayan, Philippines
+CZA,Chichen Itza, Yucat\u00e1n, Mexico
+CZB, Cruz Alta, Rio Grande do Sul, Brazil
+CZC, Copper Center, Alaska, United States
+CZE,Coro, Venezuela
+CZF,Cape Romanzof, Alaska, United States
+CZH,Corozal, Belize
+CZJ,Coraz\u00f3n de Jes\u00fas, Panama
+CZK, Cascade Locks, Oregon, United States
+CZL, Constantine, Algeria
+CZM,Cozumel, Quintana Roo, Mexico
+CZN, Chisana, Alaska, United States
+CZO, Chistochina, Alaska, United States
+CZP, Cape Pole, Alaska, United States
+CZS, Cruzeiro do Sul, Acre, Brazil
+CZT, Carrizo Springs, Texas, United States
+CZU, Corozal, Colombia
+CZW,Cz\u0119stochowa, Poland
+CZX,Changzhou, Jiangsu, China
+CZY, Cluny, Queensland, Australia

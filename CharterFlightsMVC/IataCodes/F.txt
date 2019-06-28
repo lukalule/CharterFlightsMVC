@@ -1,0 +1,210 @@
+FAA,Faranah, Guinea
+FAB, Farnborough, England, United Kingdom
+FAC,Faaite, Tuamotus, French Polynesia
+FAE,V\u00e1gar, Faroe Islands
+FAF,Fort Eustis, Virginia, United States
+FAG,Fagurh\u00f3lsm\u00fdri, Iceland
+FAH, Farah, Afghanistan
+FAI, Fairbanks, Alaska, United States
+FAJ, Fajardo, Puerto Rico, United States
+FAK,False Island, Alaska, United States
+FAM, Farmington, Missouri, United States
+FAO, Faro, Portugal
+FAQ,Frieda River, Papua New Guinea
+FAR, Fargo, North Dakota, United States
+FAS,F\u00e1skr\u00fa\u00f0sfj\u00f6r\u00f0ur, Iceland
+FAT, Fresno, California, United States
+FAU,Fahud, Oman
+FAV,Fakarava, Tuamotus, French Polynesia
+FAY, Fayetteville, North Carolina, United States
+FAZ,Fasa, Iran
+FBA, Fonte Boa, Amazonas, Brazil
+FBD, Fayzabad, Afghanistan
+FBE,Francisco Beltr\u00e3o, Paran\u00e1, Brazil
+FBG,Fort Bragg, North Carolina, United States
+FBK, Fairbanks, Alaska, United States
+FBL, Faribault, Minnesota, United States
+FBM,Lubumbashi, Democratic Republic of the Congo
+FBR, Fort Bridger, Wyoming, United States
+FBS, Friday Harbor, Washington, United States
+FBY, Fairbury, Nebraska, United States
+FCA, Kalispell, Montana, United States
+FCB,Ficksburg, South Africa
+FCH, Fresno, California, United States
+FCM, Eden Prairie, Minnesota, United States
+FCN,Cuxhaven, Lower Saxony, Germany
+FCO,Rome, Lazio, Italy
+FCS, Colorado Springs, Colorado, United States
+FCY, Forrest City, Arkansas, United States
+FDE,F\u00f8rde, Norway
+FDF,Fort-de-France, Martinique
+FDH,Friedrichshafen, Baden-W\u00fcrttemberg, Germany
+FDK, Frederick, Maryland, United States
+FDR, Frederick, Oklahoma, United States
+FDU,Bandundu, Democratic Republic of the Congo
+FDY, Findlay, Ohio, United States
+FEA,Fetlar, Scotland, United Kingdom
+FEB,Sanfebagar, Nepal
+FEC,Feira de Santana, Bahia, Brazil
+FEG,Fergana, Uzbekistan
+FEJ, Feij\u00f3, Acre, Brazil
+FEK,Ferkess\u00e9dougou, Ivory Coast
+FEL,F\u00fcrstenfeldbruck, Bavaria, Germany
+FEN,Fernando de Noronha, Pernambuco, Brazil
+FEP, Freeport, Illinois, United States
+FET, Fremont, Nebraska, United States
+FEZ, Fez, Morocco
+FFA, Kill Devil Hills, North Carolina, United States
+FFD,Fairford, England, United Kingdom
+FFL, Fairfield, Iowa, United States
+FFM, Fergus Falls, Minnesota, United States
+FFO, Dayton, Ohio, United States
+FFT, Frankfort, Kentucky, United States
+FFU, Futaleuf\u00fa, Chile
+FGD,Fder\u00eeck, Mauritania
+FGI,Apia, Upolu Island, Samoa
+FGU,Fangatau, Tuamotus, French Polynesia
+FHU, Sierra Vista, Arizona, United States
+FHZ,Fakahina, Tuamotus, French Polynesia
+FID, Fishers Island, New York, United States
+FIE,Fair Isle, Scotland, United Kingdom
+FIG,Fria, Guinea
+FIH,Kinshasa, Democratic Republic of the Congo
+FIK, (Aputula), Northern Territory, Australia
+FIL, Fillmore, Utah, United States
+FIN,Finschhafen, Papua New Guinea
+FIZ, Fitzroy Crossing, Western Australia, Australia
+FJR,Fujairah, United Arab Emirates
+FKB,Baden-Baden, Baden-W\u00fcrttemberg, Germany
+FKI,Kisangani, Democratic Republic of the Congo
+FKJ, Fukui, Honshu, Japan
+FKL, Franklin, Pennsylvania, United States
+FKN, Franklin, Virginia, United States
+FKQ,Fakfak, Indonesia
+FKS, Sukagawa, Honshu, Japan
+FLA, Florencia (Caquet\u00e1), Colombia
+FLB, Floriano, Piau\u00ed, Brazil
+FLD, Fond du Lac, Wisconsin, United States
+FLF,Flensburg, Schleswig-Holstein, Germany
+FLG, Flagstaff, Arizona, United States
+FLH,Flotta, Scotland, United Kingdom
+FLI,Flateyri, Iceland
+FLL, Hollywood, Florida, United States
+FLM,Filadelfia, Paraguay
+FLN,Florian\u00f3polis, Santa Catarina, Brazil
+FLO, Florence, South Carolina, United States
+FLP, Flippin, Arkansas, United States
+FLR,Florence, Tuscany, Italy
+FLS,Flinders Island, Tasmania, Australia
+FLT, Flat, Alaska, United States
+FLV,Fort Leavenworth, Kansas, United States
+FLW,Flores Island, Azores, Portugal
+FLX, Fallon, Nevada, United States
+FLY, Finley, New South Wales, Australia
+FLZ,Sibolga, Indonesia
+FMA, Formosa, Argentina
+FME, Odenton, Maryland, United States
+FMH, Falmouth, Massachusetts, United States
+FMI,Kalemie, Democratic Republic of the Congo
+FMM,Memmingen, Bavaria, Germany
+FMN, Farmington, New Mexico, United States
+FMO,Osnabr\u00fcck (LS), North Rhine-Westphalia, Germany
+FMS, Fort Madison, Iowa, United States
+FMU, Florence, Oregon, United States
+FMY, Fort Myers, Florida, United States
+FNA,Freetown, Sierra Leone
+FNB,Neubrandenburg, Mecklenburg-Vorpommern, Germany
+FNC,Funchal, Madeira, Portugal
+FNE, Fane, Papua New Guinea
+FNG,Fada N'gourma, Burkina Faso
+FNH,Fincha, Ethiopia
+FNI,N\u00eemes, Languedoc-Roussillon, France
+FNJ,Pyongyang, North Korea
+FNL, Loveland, Colorado, United States
+FNR,Funter Bay, Alaska, United States
+FNT, Flint, Michigan, United States
+FNU,Oristano, Sardinia, Italy
+FOA,Foula, Scotland, United Kingdom
+FOB, Fort Bragg, California, United States
+FOC,Fuzhou, Fujian, China
+FOD, Fort Dodge, Iowa, United States
+FOE, Topeka, Kansas, United States
+FOG,Foggia, Apulia, Italy
+FOK, Westhampton Beach, New York, United States
+FOM,Foumban, Cameroon
+FON, La Fortuna, Costa Rica
+FOO,Numfoor, Indonesia
+FOR,Fortaleza, Cear\u00e1, Brazil
+FOS, Forrest, Western Australia, Australia
+FOT, Forster, New South Wales, Australia
+FOU,Fougamou, Gabon
+FOY,Foya, Liberia
+FPO, Freeport, Grand Bahama, Bahamas
+FPR, Fort Pierce, Florida, United States
+FPY, Perry, Florida, United States
+FRA,Frankfurt, Hessen, Germany
+FRB, Forbes, New South Wales, Australia
+FRC,Franca, S\u00e3o Paulo, Brazil
+FRD, Friday Harbor, Washington, United States
+FRE,Fera Island, Isabel Province, Solomon Islands
+FRG, Farmingdale, New York, United States
+FRH, French Lick, Indiana, United States
+FRI,Fort Riley, Kansas, United States
+FRK,Fr\u00e9gate Island, Seychelles
+FRL,Forl\u00ec, Emilia-Romagna, Italy
+FRM, Fairmont, Minnesota, United States
+FRN, Anchorage, Alaska, United States
+FRO,Flor\u00f8, Norway
+FRQ,Feramin, Papua New Guinea
+FRR, Front Royal, Virginia, United States
+FRS, Flores, Guatemala
+FRT,Frutillar, Chile
+FRU,Bishkek, Kyrgyzstan
+FRW,Francistown, Botswana
+FRY, Fryeburg, Maine, United States
+FRZ,Fritzlar, Hesse, Germany
+FSC,Figari, Corsica, France
+FSD, Sioux Falls, South Dakota, United States
+FSI, Lawton, Oklahoma, United States
+FSK, Fort Scott, Kansas, United States
+FSL,Fossil Downs Station, Western Australia, Australia
+FSM, Fort Smith, Arkansas, United States
+FSP, Saint-Pierre, Saint Pierre and Miquelon
+FSS,Forres, Scotland, United Kingdom
+FST, Fort Stockton, Texas, United States
+FSU, Fort Sumner, New Mexico, United States
+FSZ, Shizuoka, Honshu, Japan
+FTA, Futuna Island, Tafea, Vanuatu
+FTE,El Calafate,   Santa Cruz, Argentina
+FTI, Fitiuta, American Samoa, United States
+FTK,Fort Knox, Kentucky, United States
+FTU,T\u00f4lanaro, Madagascar
+FTW, Fort Worth, Texas, United States
+FTX,Owando, Republic of the Congo
+FTY,Atlanta, Georgia, United States
+FUB,Fulleborn, Papua New Guinea
+FUE,Fuerteventura, Canary Islands, Spain
+FUG,Fuyang, Anhui, China
+FUJ, Got\u014d, Got\u014d Islands, Japan
+FUK,Fukuoka, Kyushu, Japan
+FUL, Fullerton, California, United States
+FUM, Fuma, Papua New Guinea
+FUN,Funafuti, Tuvalu
+FUO,Foshan, Guangdong, China
+FUT,Futuna Island, Wallis and Futuna
+FVL, Flora Valley, Western Australia, Australia
+FVM,Fuvahmulah, Gnaviyani Atoll, Maldives
+FVR, Forrest River Mission, Western Australia, Australia
+FWA, Fort Wayne, Indiana, United States
+FWH, Fort Worth, Texas, United States
+FWL, Farewell, Alaska, United States
+FXE, Fort Lauderdale, Florida, United States
+FXO,Cuamba, Mozambique
+FXY, Forest City, Iowa, United States
+FYJ, Fuyuan, Heilongjiang, China
+FYM, Fayetteville, Tennessee, United States
+FYN,Fuyun, Xinjiang, China
+FYT,Faya-Largeau, Chad
+FYU, Fort Yukon, Alaska, United States
+FYV, Fayetteville, Arkansas, United States
+FZO,Bristol, England, United Kingdom

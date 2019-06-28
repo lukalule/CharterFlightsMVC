@@ -1,0 +1,231 @@
+WAC,Wacca, Ethiopia
+WAD,Andriamena, Madagascar
+WAE, (Wadi al-Dawaser), Saudi Arabia
+WAF, Wana, Pakistan
+WAG,Whanganui, New Zealand
+WAH, Wahpeton, North Dakota, United States
+WAI,Antsohihy, Madagascar
+WAJ,Wawoi Falls, Papua New Guinea
+WAK,Ankazoabo, Madagascar
+WAL,Wallops Island, Virginia, United States
+WAM,Ambatondrazaka, Madagascar
+WAN, Waverney, Queensland, Australia
+WAO, Wabo, Papua New Guinea
+WAP, Palena, Chile
+WAQ,Antsalova, Madagascar
+WAR, Waris, Indonesia
+WAS, Washington, Washington D.C., United States
+WAT,Waterford, Ireland
+WAU, Wauchope, New South Wales, Australia
+WAV, (Wave Hill), Northern Territory, Australia
+WAW,Warsaw, Poland
+WAX, (Zuara), Libya
+WAY, Waynesburg, Pennsylvania, United States
+WAZ, Warwick, Queensland, Australia
+WBA,Seram Island, Indonesia
+WBB, Stebbins, Alaska, United States
+WBC,Wapolu, Papua New Guinea
+WBD,Befandriana-Avaratra, Madagascar
+WBE,Bealanana, Madagascar
+WBG, Schleswig, Schleswig-Holstein, Germany
+WBK, West Branch, Michigan, United States
+WBM,Wapenamanda, Papua New Guinea
+WBO,Beroroha, Madagascar
+WBQ, Beaver, Alaska, United States
+WBR, Big Rapids, Michigan, United States
+WBU, Boulder, Colorado, United States
+WBW, Wilkes-Barre, Pennsylvania, United States
+WCA, Castro, Chile
+WCH,Chait\u00e9n, Chile
+WCR,Chandalar Lake, Alaska, United States
+WDA,Wadi Ain, Yemen
+WDG, Enid, Oklahoma, United States
+WDH,Windhoek, Namibia
+WDI,Wondai, Queensland, Australia
+WDN, Waldron Island, Washington, United States
+WDR, Winder, Georgia, United States
+WDS,Shiyan, Hubei, China
+WEA, Weatherford, Texas, United States
+WED, Wedau, Papua New Guinea
+WEF,Weifang, Shandong, China
+WEH,Weihai, Shandong, China
+WEI, Weipa, Queensland, Australia
+WEL,Welkom, South Africa
+WEP,Weam, Papua New Guinea
+WET,Waghete, Indonesia
+WEW,Wee Waa, New South Wales, Australia
+WFB, Ketchikan, Alaska, United States
+WFD, Woodford, England, United Kingdom
+WFI,Fianarantsoa, Madagascar
+WFK, Frenchville, Maine, United States
+WGA,Wagga Wagga, New South Wales, Australia
+WGC,Warangal, Telangana, India
+WGE, Walgett, New South Wales, Australia
+WGN,Shaoyang, Hunan, China
+WGO, Winchester, Virginia, United States
+WGP,Waingapu, Indonesia
+WGT,Wangaratta, Victoria, Australia
+WGU,Wagau, Papua New Guinea
+WGY,Wagny, Gabon
+WHD, Hyder, Alaska, United States
+WHF,Wadi Halfa, Sudan
+WHK,Whakatane, New Zealand
+WHL, Welshpool, Victoria, Australia
+WHO,Franz Josef Glacier, New Zealand
+WHP,Los Angeles, California, United States
+WHS,Whalsay, Scotland, United Kingdom
+WHT, Wharton, Texas, United States
+WHU,Wuhu, Anhui, China
+WIB, Vernon, Texas, United States
+WIC, Wick, Scotland, United Kingdom
+WIE,Wiesbaden, Hesse, Germany
+WIK,Waiheke Island, New Zealand
+WIL,Nairobi, Kenya
+WIN, Winton, Queensland, Australia
+WIO,Wilcannia, New South Wales, Australia
+WIR,Wairoa, New Zealand
+WIT, Wittenoom, Western Australia, Australia
+WIU, Witu, Papua New Guinea
+WJA,Woja, Ailinglaplap Atoll, Marshall Islands
+WJF, Lancaster, California, United States
+WJR,Wajir, Kenya
+WJU,Wonju, South Korea
+WKA,Wanaka, New Zealand
+WKB,Warracknabeal, Victoria, Australia
+WKF,Pretoria, South Africa
+WKI,Hwange, Zimbabwe
+WKJ, Wakkanai, Hokkaido, Japan
+WKK, Aleknagik, Alaska, United States
+WKL, Waikoloa Village, Hawaii, United States
+WKN, Wakunai, Papua New Guinea
+WKR,Walker's Cay, Abaco Islands, Bahamas
+WLA, (Wallal Downs), Western Australia, Australia
+WLC, Walcha, New South Wales, Australia
+WLD, Arkansas City, Kansas, United States
+WLE, Miles, Queensland, Australia
+WLG,Wellington, New Zealand
+WLH,Walaha, Vanuatu
+WLK, Selawik, Alaska, United States
+WLL,Wollogorang Station, Northern Territory, Australia
+WLO, Waterloo, Northern Territory, Australia
+WLP,West Angelas, Western Australia, Australia
+WLR, Loring, Alaska, United States
+WLS,Wallis Island, Wallis and Futuna
+WLW, Willows, California, United States
+WMA,Mandritsara, Madagascar
+WMB,Warrnambool, Victoria, Australia
+WMC, Winnemucca, Nevada, United States
+WMD,Mandabe, Madagascar
+WME,Mount Keith, Western Australia, Australia
+WMH, Mountain Home, Arkansas, United States
+WMI,Warsaw, Poland
+WMK, Meyers Chuck, Alaska, United States
+WML,Malaimbandy, Madagascar
+WMN,Maroantsetra, Madagascar
+WMO, White Mountain, Alaska, United States
+WMP,Mampikony, Madagascar
+WMR, (Mananara Avaratra), Madagascar
+WMV,Madirovalo, Madagascar
+WMX,Wamena, Indonesia
+WNA, Napakiak, Alaska, United States
+WND, Windarra, Western Australia, Australia
+WNE,Wora na Yeno, Gabon
+WNH,Wenshan, Yunnan, China
+WNN,Wunnumin Lake, Ontario, Canada
+WNP, Naga, Philippines
+WNR,Windorah, Queensland, Australia
+WNS, (Shaheed Benazirabad), Pakistan
+WNU,Wanuma, Papua New Guinea
+WNZ,Wenzhou, Zhejiang, China
+WOA,Wonenara, Papua New Guinea
+WOE,Bergen op Zoom, Netherlands
+WOK,Uonqu\u00e9n, Venezuela
+WOL,Wollongong, New South Wales, Australia
+WON,Wondoola, Queensland, Australia
+WOR,Ankorefo, Madagascar
+WOS,Wonsan, North Korea
+WOT, Wang'an, Taiwan
+WOW, Willow, Alaska, United States
+WPA,Puerto Ais\u00e9n, Chile
+WPB, (Port Berg\u00e9), Madagascar
+WPC,Pincher Creek, Alberta, Canada
+WPK, Wrotham Park, Queensland, Australia
+WPL, Powell River, British Columbia, Canada
+WPM,Wipim, Papua New Guinea
+WPO, Paonia, Colorado, United States
+WPR, Porvenir, Chile
+WPU,Puerto Williams, Chile
+WRA,  (Warder), Ethiopia
+WRB, Warner Robins, Georgia, United States
+WRE,Whangarei, New Zealand
+WRG, Wrangell, Alaska, United States
+WRI, Wrightstown, New Jersey, United States
+WRL, Worland, Wyoming, United States
+WRN,Windarling, Western Australia, Australia
+WRO,Wroc\u0142aw, Poland
+WRT, Warton, England, United Kingdom
+WRW,Warrawagine Station, Western Australia, Australia
+WRY,Westray, Scotland, United Kingdom
+WRZ, Weerawila, Sri Lanka
+WSA,Wasua, Papua New Guinea
+WSB, Steamboat Bay, Alaska, United States
+WSD, White Sands, New Mexico, United States
+WSF, Cape Sarichef, Alaska, United States
+WSG, Washington, Pennsylvania, United States
+WSH, Shirley, New York, United States
+WSM, Wiseman, Alaska, United States
+WSN, South Naknek, Alaska, United States
+WSO, (Wasjabo), Suriname
+WSP,Waspam, Nicaragua
+WSR,Wasior, Indonesia
+WST, Westerly, Rhode Island, United States
+WSU, Wasu, Papua New Guinea
+WSX, West Sound, Washington, United States
+WSY, Shute Harbour, Queensland, Australia
+WSZ, Westport, New Zealand
+WTA,Tambohorano, Madagascar
+WTB,Toowoomba, Queensland, Australia
+WTD, West End, Grand Bahama, Bahamas
+WTE,Wotje Atoll, Marshall Islands
+WTK, Noatak, Alaska, United States
+WTL, Tuntutuliak, Alaska, United States
+WTN, Waddington, England, United Kingdom
+WTO,Wotho Atoll, Marshall Islands
+WTP,Woitape, Papua New Guinea
+WTR, Whiteriver, Arizona, United States
+WTS,Tsiroanomandidy, Madagascar
+WTT,Wantoat, Papua New Guinea
+WTZ,Whitianga, New Zealand
+WUA,Wuhai, Inner Mongolia, China
+WUD, Wudinna, South Australia, Australia
+WUG, Wau, Papua New Guinea
+WUH,Wuhan, Hubei, China
+WUI,Murrin Murrin, Western Australia, Australia
+WUM,Wasum, Papua New Guinea
+WUN, Wiluna, Western Australia, Australia
+WUS, Wuyishan, Fujian, China
+WUT,Xinzhou, Shanxi, China
+WUU, Wau, South Sudan
+WUV,Wuvulu Island, Papua New Guinea
+WUX,Suzhou, Jiangsu, China
+WUZ,Wuzhou, Guangxi, China
+WVB,Walvis Bay, Namibia
+WVI, Watsonville, California, United States
+WVK,Manakara, Madagascar
+WVL, Waterville, Maine, United States
+WVN,Wilhelmshaven, Lower Saxony, Germany
+WWA, Wasilla, Alaska, United States
+WWD, Wildwood, New Jersey, United States
+WWI,Woodie Woodie, Western Australia, Australia
+WWK,Wewak, Papua New Guinea
+WWP, Whale Pass, Alaska, United States
+WWR, Woodward, Oklahoma, United States
+WWT, Newtok, Alaska, United States
+WWY,West Wyalong, New South Wales, Australia
+WXN,Wanzhou, Chongqing, China
+WYA,Whyalla, South Australia, Australia
+WYB, Yes Bay, Alaska, United States
+WYE,Yengema, Sierra Leone
+WYN, Wyndham, Western Australia, Australia
+WYS, West Yellowstone, Montana, United States
+WZQ,Urad Middle Banner, Inner Mongolia, China

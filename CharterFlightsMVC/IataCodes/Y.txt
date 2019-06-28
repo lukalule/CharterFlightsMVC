@@ -1,0 +1,453 @@
+YAA,Anahim Lake, British Columbia, Canada
+YAB,Arctic Bay, Nunavut, Canada
+YAC,Cat Lake, Ontario, Canada
+YAD, Moose Lake, Manitoba, Canada
+YAG,Fort Frances, Ontario, Canada
+YAH,La Grande-4, Quebec, Canada
+YAI,Chill\u00e1n, Chile
+YAJ,Saturna Island, British Columbia, Canada
+YAK, Yakutat, Alaska, United States
+YAL,Alert Bay, British Columbia, Canada
+YAM, Sault Ste. Marie, Ontario, Canada
+YAN,Yangambi, Democratic Republic of the Congo
+YAO,Yaound\u00e9, Cameroon
+YAP,Yap, Federated States of Micronesia
+YAQ, Maple Bay, British Columbia, Canada
+YAR,La Grande-3, Quebec, Canada
+YAS,Yasawa, Fiji
+YAT,Attawapiskat, Ontario, Canada
+YAU,Raglan Mine, Quebec, Canada
+YAV,Mayne Island, British Columbia, Canada
+YAX,Wapekeka, Ontario, Canada
+YAY, St. Anthony, Newfoundland and Labrador, Canada
+YAZ,Tofino, British Columbia, Canada
+YBA, Banff, Alberta, Canada
+YBB,Kugaaruk, Nunavut, Canada
+YBC,Baie-Comeau, Quebec, Canada
+YBE,Uranium City, Saskatchewan, Canada
+YBF,Bamfield, British Columbia, Canada
+YBG,  (Bagotville), Quebec, Canada
+YBH,Bull Harbour, British Columbia, Canada
+YBI,Black Tickle, Newfoundland and Labrador, Canada
+YBJ, Baie-Johan-Beetz, Quebec, Canada
+YBK, Baker Lake, Nunavut, Canada
+YBL, Campbell River, British Columbia, Canada
+YBO, Bob Quinn Lake, British Columbia, Canada
+YBP,Yibin, Sichuan, China
+YBQ,Thetis Island, British Columbia, Canada
+YBR, Brandon, Manitoba, Canada
+YBS,Opapimiskan Lake, Ontario, Canada
+YBT, Brochet, Manitoba, Canada
+YBV, Berens River, Manitoba, Canada
+YBW,Bedwell Harbour, British Columbia, Canada
+YBX, Blanc-Sablon, Quebec, Canada
+YBY,Bonnyville, Alberta, Canada
+YCA, Courtenay, British Columbia, Canada
+YCB,Cambridge Bay, Nunavut, Canada
+YCC, Cornwall, Ontario, Canada
+YCD,Nanaimo, British Columbia, Canada
+YCE,Centralia, Ontario, Canada
+YCF,Cortes Island, British Columbia, Canada
+YCG, Castlegar, British Columbia, Canada
+YCH, Miramichi, New Brunswick, Canada
+YCK, Colville Lake, Northwest Territories, Canada
+YCL, Charlo, New Brunswick, Canada
+YCM,St. Catharines, Ontario, Canada
+YCN, Cochrane, Ontario, Canada
+YCO,Kugluktuk, Nunavut, Canada
+YCQ, Chetwynd, British Columbia, Canada
+YCR, Cross Lake, Manitoba, Canada
+YCS, Chesterfield Inlet, Nunavut, Canada
+YCT, Coronation, Alberta, Canada
+YCU,Yuncheng, Shanxi, China
+YCW,Chilliwack, British Columbia, Canada
+YCY, Clyde River, Nunavut, Canada
+YCZ, Fairmont Hot Springs, British Columbia, Canada
+YDA,Dawson City, Yukon, Canada
+YDB,Burwash Landing, Yukon, Canada
+YDC,Drayton Valley, Alberta, Canada
+YDE, Paradise River, Newfoundland and Labrador, Canada
+YDF, Deer Lake, Newfoundland and Labrador, Canada
+YDG, Digby, Nova Scotia, Canada
+YDJ,Hatchet Lake, Saskatchewan, Canada
+YDL,Dease Lake, British Columbia, Canada
+YDN, Dauphin, Manitoba, Canada
+YDO,Dolbeau-Mistassini, Quebec, Canada
+YDP, Nain, Newfoundland and Labrador, Canada
+YDQ,Dawson Creek, British Columbia, Canada
+YDT,Vancouver, British Columbia, Canada
+YDU,Kasba Lake, Northwest Territories, Canada
+YDV,Bloodvein, Manitoba, Canada
+YDW,Obre Lake, Northwest Territories, Canada
+YEA,Edmonton, Alberta, Canada
+YEB, Bar River, Ontario, Canada
+YEC,Yecheon, South Korea
+YEG,Edmonton, Alberta, Canada
+YEI,Bursa, Turkey
+YEK,Arviat, Nunavut, Canada
+YEL,Elliot Lake, Ontario, Canada
+YEM,Manitowaning, Ontario, Canada
+YEN,Estevan, Saskatchewan, Canada
+YEO,Yeovilton, England, United Kingdom
+YEQ,Yankisa, Papua New Guinea
+YER,Fort Severn, Ontario, Canada
+YES, (Yasouj), Iran
+YET, Edson, Alberta, Canada
+YEU, Eureka, Nunavut, Canada
+YEV,Inuvik, Northwest Territories, Canada
+YEY, Amos, Quebec, Canada
+YFA,Fort Albany, Ontario, Canada
+YFB,Iqaluit, Nunavut, Canada
+YFC,Fredericton, New Brunswick, Canada
+YFE, Forestville, Quebec, Canada
+YFG, Fontanges, Quebec, Canada
+YFH, (Fort Hope), Ontario, Canada
+YFI,Fort McKay, Alberta, Canada
+YFJ,Wekweeti, Northwest Territories, Canada
+YFL, Fort Reliance, Northwest Territories, Canada
+YFO,Flin Flon, Manitoba, Canada
+YFR,Fort Resolution, Northwest Territories, Canada
+YFS,Fort Simpson, Northwest Territories, Canada
+YFX, St. Lewis, Newfoundland and Labrador, Canada
+YGB,Gillies Bay, British Columbia, Canada
+YGC,Grande Cache, Alberta, Canada
+YGE,Gorge Harbour, British Columbia, Canada
+YGG, Ganges, British Columbia, Canada
+YGH,Fort Good Hope, Northwest Territories, Canada
+YGJ, Yonago, Honshu, Japan
+YGK, Kingston, Ontario, Canada
+YGL, Radisson, Quebec, Canada
+YGM, Gimli, Manitoba, Canada
+YGN,Greenway Sound, British Columbia, Canada
+YGO, Gods Lake Narrows, Manitoba, Canada
+YGP, Gasp\u00e9, Quebec, Canada
+YGQ,  (Geraldton), Ontario, Canada
+YGR, Les \u00celes-de-la-Madeleine, Quebec, Canada
+YGT,Igloolik, Nunavut, Canada
+YGV,Havre-Saint-Pierre, Quebec, Canada
+YGW,Kuujjuarapik, Quebec, Canada
+YGX, Gillam, Manitoba, Canada
+YGZ,Grise Fiord, Nunavut, Canada
+YHA,Port Hope Simpson, Newfoundland and Labrador, Canada
+YHB, Hudson Bay, Saskatchewan, Canada
+YHC,Hakai Passage, British Columbia, Canada
+YHD, Dryden, Ontario, Canada
+YHE, Hope, British Columbia, Canada
+YHF, Hearst, Ontario, Canada
+YHG, Charlottetown, Prince Edward Island, Canada
+YHH, Campbell River, British Columbia, Canada
+YHI,Ulukhaktok, Northwest Territories, Canada
+YHK,Gjoa Haven, Nunavut, Canada
+YHM, Hamilton, Ontario, Canada
+YHN,Hornepayne, Ontario, Canada
+YHO, Hopedale, Newfoundland and Labrador, Canada
+YHP,Poplar Hill, Ontario, Canada
+YHR, Chevery, Quebec, Canada
+YHS,Sechelt, British Columbia, Canada
+YHT,Haines Junction, Yukon, Canada
+YHU,Montreal, Quebec, Canada
+YHY, Hay River, Northwest Territories, Canada
+YHZ, Halifax, Nova Scotia, Canada
+YIA,Kulon Progo Regency, Special Region of Yogyakarta, Indonesia
+YIB,Atikokan, Ontario, Canada
+YIC, Yichun, Jiangxi, China
+YIE, (Aershan), Inner Mongolia, China
+YIF, Pakuashipi, Quebec, Canada
+YIG,Stuart Island, British Columbia, Canada
+YIH,Yichang, Hubei, China
+YIK,Ivujivik, Quebec, Canada
+YIN, (Ghulja), Xinjiang, China
+YIO,Pond Inlet, Nunavut, Canada
+YIP,Detroit, Michigan, United States
+YIV, Garden Hill, Manitoba, Canada
+YIW,Yiwu, Zhejiang, China
+YJA, Jasper, Alberta, Canada
+YJF,Fort Liard, Northwest Territories, Canada
+YJN,Saint-Jean-sur-Richelieu, Quebec, Canada
+YJP, Hinton, Alberta, Canada
+YJS,Samjiyon, North Korea
+YJT, Stephenville, Newfoundland and Labrador, Canada
+YKA,Kamloops, British Columbia, Canada
+YKC, Collins Bay, Saskatchewan, Canada
+YKD, Kincardine, Ontario, Canada
+YKE,Knee Lake, Manitoba, Canada
+YKF, Waterloo, Ontario, Canada
+YKG,Kangirsuk, Quebec, Canada
+YKH,Yingkou, Liaoning, China
+YKJ,Key Lake, Saskatchewan, Canada
+YKK,Kitkatla, British Columbia, Canada
+YKL,Schefferville, Quebec, Canada
+YKM, Yakima, Washington, United States
+YKN, Yankton, South Dakota, United States
+YKO,Y\u00fcksekova, Turkey
+YKQ,Waskaganish, Quebec, Canada
+YKS,Yakutsk, Yakutia, Russia
+YKT,Klemtu, British Columbia, Canada
+YKU,Chisasibi, Quebec, Canada
+YKX,Kirkland Lake, Ontario, Canada
+YKY,Kindersley, Saskatchewan, Canada
+YKZ,Toronto, Ontario, Canada
+YLB, Lac La Biche, Alberta, Canada
+YLC,Kimmirut, Nunavut, Canada
+YLD, Chapleau, Ontario, Canada
+YLE,What\u00ec, Northwest Territories, Canada
+YLG, Yalgoo, Western Australia, Australia
+YLH, (Lansdowne House Indian Band), Ontario, Canada
+YLI,Ylivieska, Finland
+YLJ, Meadow Lake, Saskatchewan, Canada
+YLK,Orillia, Ontario, Canada
+YLL,Lloydminster, Saskatchewan, Canada
+YLM,Clinton Creek, Yukon, Canada
+YLN, Yilan, Heilongjiang, China
+YLP, Mingan, Quebec, Canada
+YLQ, La Tuque, Quebec, Canada
+YLR,Leaf Rapids, Manitoba, Canada
+YLS,Lebel-sur-Qu\u00e9villon, Quebec, Canada
+YLT, Alert, Nunavut, Canada
+YLV,Yevlakh, Azerbaijan
+YLW,Kelowna, British Columbia, Canada
+YLY, Langley, British Columbia, Canada
+YMA, Mayo, Yukon, Canada
+YMB, Merritt, British Columbia, Canada
+YMD,Prince Patrick Island, Northwest Territories, Canada
+YME,Matane, Quebec, Canada
+YMF,Galiano Island, British Columbia, Canada
+YMG,Manitouwadge, Ontario, Canada
+YMH,Mary's Harbour, Newfoundland and Labrador, Canada
+YMJ,Moose Jaw, Saskatchewan, Canada
+YMK,Mys-Kamenny, Yamalo-Nenets Autonomous Okrug, Russia
+YML,La Malbaie, Quebec, Canada
+YMM,Fort McMurray, Alberta, Canada
+YMN,Makkovik, Newfoundland and Labrador, Canada
+YMO,Moosonee, Ontario, Canada
+YMP,Port McNeill, British Columbia, Canada
+YMQ,Montreal, Quebec, Canada
+YMS,Yurimaguas, Peru
+YMT,Chibougamau, Quebec, Canada
+YMU,Mansons Landing, British Columbia, Canada
+YMV,Mary River, Nunavut, Canada
+YMW,Maniwaki, Quebec, Canada
+YMX,Montreal, Quebec, Canada
+YNA, Natashquan, Quebec, Canada
+YNB, (Yenbo), Saudi Arabia
+YNC, Wemindji, Quebec, Canada
+YND,Ottawa (ON), Quebec, Canada
+YNE,Norway House, Manitoba, Canada
+YNG, Warren, Ohio, United States
+YNH,Hudson's Hope, British Columbia, Canada
+YNJ,Yanji, Jilin, China
+YNL, Points North Landing, Saskatchewan, Canada
+YNM,Matagami, Quebec, Canada
+YNN,Yandicoogina, Western Australia, Australia
+YNO,North Spirit Lake, Ontario, Canada
+YNP,Natuashish, Newfoundland and Labrador, Canada
+YNS,Nemiscau, Quebec, Canada
+YNT,Yantai, Shandong, China
+YNX,Snap Lake, Northwest Territories, Canada
+YNY,Yangyang, South Korea
+YNZ,Yancheng, Jiangsu, China
+YOA,Ekati, Northwest Territories, Canada
+YOC, Old Crow, Yukon, Canada
+YOD, Cold Lake, Alberta, Canada
+YOE, Donnelly, Alberta, Canada
+YOG, (Ogoki), Ontario, Canada
+YOH, Oxford House, Manitoba, Canada
+YOI,Opinaca, Quebec, Canada
+YOJ,High Level, Alberta, Canada
+YOL, Yola, Nigeria
+YON,Trashigang, Bhutan
+YOO,Oshawa, Ontario, Canada
+YOP, Rainbow Lake, Alberta, Canada
+YOS,Owen Sound, Ontario, Canada
+YOT,Yotvata, Israel
+YOW,Ottawa, Ontario, Canada
+YPA, Prince Albert, Saskatchewan, Canada
+YPB,Port Alberni, British Columbia, Canada
+YPC,Paulatuk, Northwest Territories, Canada
+YPD, Parry Sound, Ontario, Canada
+YPE, Peace River, Alberta, Canada
+YPG,Portage la Prairie, Manitoba, Canada
+YPH,Inukjuak, Quebec, Canada
+YPI, (Port Simpson), British Columbia, Canada
+YPJ,Aupaluk, Quebec, Canada
+YPL,Pickle Lake, Ontario, Canada
+YPM,Pikangikum, Ontario, Canada
+YPN, Port-Menier, Quebec, Canada
+YPO,Peawanuck, Ontario, Canada
+YPQ, Peterborough, Ontario, Canada
+YPR, Prince Rupert, British Columbia, Canada
+YPS,Port Hawkesbury, Nova Scotia, Canada
+YPT, Pender Harbour, British Columbia, Canada
+YPW, Powell River, British Columbia, Canada
+YPX,Puvirnituq, Quebec, Canada
+YPY,Fort Chipewyan, Alberta, Canada
+YPZ,Burns Lake, British Columbia, Canada
+YQA,Muskoka, Ontario, Canada
+YQB,Quebec City, Quebec, Canada
+YQC,Quaqtaq, Quebec, Canada
+YQD,The Pas, Manitoba, Canada
+YQF, Red Deer, Alberta, Canada
+YQG, Windsor, Ontario, Canada
+YQH, Watson Lake, Yukon, Canada
+YQI, Yarmouth, Nova Scotia, Canada
+YQJ,Quadra Island, British Columbia, Canada
+YQK,Kenora, Ontario, Canada
+YQL,Lethbridge, Alberta, Canada
+YQM,Moncton, New Brunswick, Canada
+YQN,  (Nakina), Ontario, Canada
+YQQ, Comox, British Columbia, Canada
+YQR, Regina, Saskatchewan, Canada
+YQS, St. Thomas, Ontario, Canada
+YQT,Thunder Bay, Ontario, Canada
+YQU,Grande Prairie, Alberta, Canada
+YQV,Yorkton, Saskatchewan, Canada
+YQW,North Battleford, Saskatchewan, Canada
+YQX, Gander, Newfoundland and Labrador, Canada
+YQY, Sydney, Nova Scotia, Canada
+YQZ, Quesnel, British Columbia, Canada
+YRA,Gam\u00e8ti, Northwest Territories, Canada
+YRB, Resolute, Nunavut, Canada
+YRC, Refuge Cove, British Columbia, Canada
+YRD,Dean River, British Columbia, Canada
+YRF, Cartwright, Newfoundland and Labrador, Canada
+YRG,Rigolet, Newfoundland and Labrador, Canada
+YRI,Rivi\u00e8re-du-Loup, Quebec, Canada
+YRJ, Roberval, Quebec, Canada
+YRL, Red Lake, Ontario, Canada
+YRM,Rocky Mountain House, Alberta, Canada
+YRN, Rivers Inlet, British Columbia, Canada
+YRO,Ottawa, Ontario, Canada
+YRP,Carp, Ontario, Canada
+YRQ,Trois-Rivi\u00e8res, Quebec, Canada
+YRR,Stuart Island, British Columbia, Canada
+YRS, Red Sucker Lake, Manitoba, Canada
+YRT,Rankin Inlet, Nunavut, Canada
+YRV, Revelstoke, British Columbia, Canada
+YSA,Sable Island, Nova Scotia, Canada
+YSB,Greater Sudbury, Ontario, Canada
+YSC,Sherbrooke, Quebec, Canada
+YSD, Suffield, Alberta, Canada
+YSE, Squamish, British Columbia, Canada
+YSF,Stony Rapids, Saskatchewan, Canada
+YSG,Lutselk'e, Northwest Territories, Canada
+YSH,Smiths Falls, Ontario, Canada
+YSI,Fryingpan Island, Ontario, Canada
+YSJ, Saint John, New Brunswick, Canada
+YSK,Sanikiluaq, Nunavut, Canada
+YSL, Saint-L\u00e9onard, New Brunswick, Canada
+YSM, Fort Smith, Northwest Territories, Canada
+YSN,Salmon Arm, British Columbia, Canada
+YSO, Postville, Newfoundland and Labrador, Canada
+YSP, Marathon, Ontario, Canada
+YST, St. Theresa Point, Manitoba, Canada
+YSU, Summerside, Prince Edward Island, Canada
+YSX, Bella Bella, British Columbia, Canada
+YSY,Sachs Harbour, Northwest Territories, Canada
+YTA, Pembroke, Ontario, Canada
+YTB,Hartley Bay, British Columbia, Canada
+YTD, Thicket Portage, Manitoba, Canada
+YTE,Cape Dorset, Nunavut, Canada
+YTF, Alma, Quebec, Canada
+YTG, Sullivan Bay, British Columbia, Canada
+YTH, Thompson, Manitoba, Canada
+YTL, (Big Trout Lake), Ontario, Canada
+YTM, Mont-Tremblant, Quebec, Canada
+YTO,Toronto, Ontario, Canada
+YTP,Tofino, British Columbia, Canada
+YTQ,Tasiujaq, Quebec, Canada
+YTR, Trenton, Ontario, Canada
+YTS,Timmins, Ontario, Canada
+YTT, Tisdale, Saskatchewan, Canada
+YTU,Tasu, British Columbia, Canada
+YTX,Telegraph Creek, British Columbia, Canada
+YTY,Taizhou, Jiangsu, China
+YTZ,Toronto, Ontario, Canada
+YUA,Yuanmou, Yunnan, China
+YUB,Tuktoyaktuk, Northwest Territories, Canada
+YUD,Umiujaq, Quebec, Canada
+YUE,Yuendumu, Northern Territory, Australia
+YUL,Montreal, Quebec, Canada
+YUM, Yuma, Arizona, United States
+YUS, Yushu City, Qinghai, China
+YUT, (Repulse Bay), Nunavut, Canada
+YUX,Hall Beach, Nunavut, Canada
+YUY,Rouyn-Noranda, Quebec, Canada
+YVA, Moroni, Comoros
+YVB, Bonaventure, Quebec, Canada
+YVC,La Ronge, Saskatchewan, Canada
+YVD,Yeva, Papua New Guinea
+YVE, Vernon, British Columbia, Canada
+YVG, Vermilion, Alberta, Canada
+YVM,Qikiqtarjuaq, Nunavut, Canada
+YVN, Cape Dyer, Nunavut, Canada
+YVO,Val-d'Or, Quebec, Canada
+YVP,Kuujjuaq, Quebec, Canada
+YVQ,Norman Wells, Northwest Territories, Canada
+YVR,Vancouver, British Columbia, Canada
+YVT,Buffalo Narrows, Saskatchewan, Canada
+YVV, Wiarton, Ontario, Canada
+YVZ,Deer Lake, Ontario, Canada
+YWA,Petawawa, Ontario, Canada
+YWB,Kangiqsujuaq, Quebec, Canada
+YWG,Winnipeg, Manitoba, Canada
+YWH, Victoria, British Columbia, Canada
+YWJ,Deline, Northwest Territories, Canada
+YWK,Wabush, Newfoundland and Labrador, Canada
+YWL, Williams Lake, British Columbia, Canada
+YWM,William's Harbour, Newfoundland and Labrador, Canada
+YWP,Webequie, Ontario, Canada
+YWQ,  (Chute-des-Passes), Quebec, Canada
+YWR, White River, Ontario, Canada
+YWS, Whistler, British Columbia, Canada
+YWY, Wrigley, Northwest Territories, Canada
+YXC, Cranbrook, British Columbia, Canada
+YXD,Edmonton, Alberta, Canada
+YXE,Saskatoon, Saskatchewan, Canada
+YXH,Medicine Hat, Alberta, Canada
+YXJ, Fort St. John, British Columbia, Canada
+YXK,Rimouski, Quebec, Canada
+YXL,Sioux Lookout, Ontario, Canada
+YXN, Whale Cove, Nunavut, Canada
+YXP,Pangnirtung, Nunavut, Canada
+YXQ, Beaver Creek, Yukon, Canada
+YXR,  (Earlton), Ontario, Canada
+YXS, Prince George, British Columbia, Canada
+YXT, Terrace, British Columbia, Canada
+YXU, London, Ontario, Canada
+YXX, Abbotsford, British Columbia, Canada
+YXY, Whitehorse, Yukon, Canada
+YXZ, Wawa, Ontario, Canada
+YYB, North Bay, Ontario, Canada
+YYC,Calgary, Alberta, Canada
+YYD, Smithers, British Columbia, Canada
+YYE, Fort Nelson, British Columbia, Canada
+YYF,Penticton, British Columbia, Canada
+YYG,Charlottetown, Prince Edward Island, Canada
+YYH,Taloyoak, Nunavut, Canada
+YYI, Rivers, Manitoba, Canada
+YYJ, Victoria, British Columbia, Canada
+YYL,Lynn Lake, Manitoba, Canada
+YYM, Cowley, Alberta, Canada
+YYN,Swift Current, Saskatchewan, Canada
+YYQ, Churchill, Manitoba, Canada
+YYR,Happy Valley-Goose Bay, Newfoundland and Labrador, Canada
+YYT, St. John's, Newfoundland and Labrador, Canada
+YYU,Kapuskasing, Ontario, Canada
+YYW, Armstrong, Ontario, Canada
+YYY,Mont-Joli, Quebec, Canada
+YYZ,Toronto, Ontario, Canada
+YZA, Ashcroft, British Columbia, Canada
+YZE, Gore Bay, Ontario, Canada
+YZF,Yellowknife, Northwest Territories, Canada
+YZG,Salluit, Quebec, Canada
+YZH,Slave Lake, Alberta, Canada
+YZP, Sandspit, British Columbia, Canada
+YZR,Sarnia, Ontario, Canada
+YZS,Coral Harbour, Nunavut, Canada
+YZT,Port Hardy, British Columbia, Canada
+YZU,Whitecourt, Alberta, Canada
+YZV, Sept-\u00celes, Quebec, Canada
+YZW, Teslin, Yukon, Canada
+YZX, Greenwood, Nova Scotia, Canada
+YZY,Zhangye, Gansu, China
+YZZ, Trail, British Columbia, Canada

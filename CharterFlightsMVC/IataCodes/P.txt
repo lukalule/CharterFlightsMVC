@@ -1,0 +1,478 @@
+PAA,Hpa-An, Myanmar
+PAB, Bilaspur, Chhattisgarh, India
+PAC,Panama City, Panama
+PAD,Lippstadt, North Rhine-Westphalia, Germany
+PAE, Everett, Washington, United States
+PAF,Pakuba, Uganda
+PAG,Pagadian, Philippines
+PAH, Paducah, Kentucky, United States
+PAJ,Parachinar, Pakistan
+PAK, Hanapepe, Hawaii, United States
+PAL,Palanquero, Colombia
+PAM, Panama City, Florida, United States
+PAN, Pattani, Thailand
+PAO, Palo Alto, California, United States
+PAP,Port-au-Prince, Haiti
+PAQ, Palmer, Alaska, United States
+PAR,Paris, \u00cele-de-France, France
+PAS,Paros, Greece
+PAT,Patna, Bihar, India
+PAU,Pauk, Myanmar
+PAV,Paulo Afonso, Bahia, Brazil
+PAW,Pambwa, Papua New Guinea
+PAX,Port-de-Paix, Haiti
+PAY,Pamol, Sabah, Malaysia
+PAZ,Poza Rica, Veracruz, Mexico
+PBB,Parana\u00edba, Mato Grosso do Sul, Brazil
+PBC,Puebla City, Puebla, Mexico
+PBD,Porbandar, Gujarat, India
+PBE,Puerto Berr\u00edo, Colombia
+PBF, Pine Bluff, Arkansas, United States
+PBG, Plattsburgh, New York, United States
+PBH, Paro, Bhutan
+PBI, West Palm Beach, Florida, United States
+PBJ,Paama, Vanuatu
+PBL,Puerto Cabello, Venezuela
+PBM,Paramaribo, Suriname
+PBN,Porto Amboim, Angola
+PBO, Paraburdoo, Western Australia, Australia
+PBP,Punta Islita, Costa Rica
+PBQ,Pimenta Bueno, Rond\u00f4nia, Brazil
+PBR,Puerto Barrios, Guatemala
+PBT,Puerto Leda, Paraguay
+PBU,Putao, Myanmar
+PBV,Porto dos Ga\u00fachos, Mato Grosso, Brazil
+PBX,Porto Alegre do Norte, Mato Grosso, Brazil
+PBZ,Plettenberg Bay, South Africa
+PCA, Portage Creek, Alaska, United States
+PCB,South Tangerang, Indonesia
+PCC, Puerto Rico, Colombia
+PCD, Prairie du Chien, Wisconsin, United States
+PCF,Potchefstroom, South Africa
+PCH, Palacios, Honduras
+PCJ, (La Victoria), Paraguay
+PCL,Pucallpa, Peru
+PCM,Playa del Carmen, Quintana Roo, Mexico
+PCN, Picton, New Zealand
+PCO, La Ribera, Baja California Sur, Mexico
+PCP,Pr\u00edncipe Island, S\u00e3o Tom\u00e9 and Pr\u00edncipe
+PCQ,Phongsaly, Laos
+PCR,Puerto Carre\u00f1o, Colombia
+PCS, Picos, Piau\u00ed, Brazil
+PCT, Rocky Hill, New Jersey, United States
+PCU, Poplarville, Mississippi, United States
+PCV,Punta Chivato, Baja California Sur, Mexico
+PDA, Puerto In\u00edrida, Colombia
+PDB, Pedro Bay, Alaska, United States
+PDC,Mueo, New Caledonia
+PDD,Ponta do Ouro, Mozambique
+PDE,Pandie Pandie Station, South Australia, Australia
+PDF, Prado, Bahia, Brazil
+PDG,Padang, Indonesia
+PDI,Pindiu, Papua New Guinea
+PDK,Atlanta, Georgia, United States
+PDL,Ponta Delgada, Azores, Portugal
+PDM, Pedas\u00ed, Panama
+PDN, Parndana, South Australia, Australia
+PDO, Pendopo, Indonesia
+PDP,Punta del Este, Uruguay
+PDR, Presidente Dutra, Maranh\u00e3o, Brazil
+PDS, Piedras Negras, Coahuila, Mexico
+PDT, Pendleton, Oregon, United States
+PDU,Paysand\u00fa, Uruguay
+PDV,Plovdiv, Bulgaria
+PDX, Portland, Oregon, United States
+PDZ, Pedernales, Venezuela
+PEA, Penneshaw, South Australia, Australia
+PEB,Pebane, Mozambique
+PEC, Pelican, Alaska, United States
+PED,Pardubice, Czech Republic
+PEE,Perm, Perm Krai, Russia
+PEF,Peenem\u00fcnde, Mecklenburg-Vorpommern, Germany
+PEG,Perugia, Umbria, Italy
+PEH,Pehuaj\u00f3, Buenos Aires, Argentina
+PEI, Pereira, Colombia
+PEK,Beijing, China
+PEL,Pelaneng, Lesotho
+PEM,Puerto Maldonado, Peru
+PEN,Penang, Malaysia
+PEP, Peppimenarti, Northern Territory, Australia
+PEQ, Pecos, Texas, United States
+PER,Perth, Western Australia, Australia
+PES,Petrozavodsk, Karelia, Russia
+PET,Pelotas, Rio Grande do Sul, Brazil
+PEU,Puerto Lempira, Honduras
+PEV,P\u00e9cs, Hungary
+PEW,Peshawar, Pakistan
+PEX,Pechora, Komi Republic, Russia
+PEY, Penong, South Australia, Australia
+PEZ,Penza, Penza Oblast, Russia
+PFB,Passo Fundo, Rio Grande do Sul, Brazil
+PFC, Pacific City, Oregon, United States
+PFJ,Patreksfj\u00f6r\u00f0ur, Iceland
+PFO,Paphos, Cyprus
+PFQ,Parsabad, Iran
+PFR,Ilebo, Democratic Republic of the Congo
+PGA, Page, Arizona, United States
+PGB,Pangoa, Papua New Guinea
+PGC, Petersburg, West Virginia, United States
+PGD, Punta Gorda, Florida, United States
+PGE,Yegepa, Papua New Guinea
+PGF,Perpignan, Languedoc-Roussillon, France
+PGH,Pantnagar, Uttarakhand, India
+PGI,Chitato, Angola
+PGK, (Pangkalpinang), Indonesia
+PGL, Pascagoula, Mississippi, United States
+PGM, Port Graham, Alaska, United States
+PGN, Pangia, Papua New Guinea
+PGO, Pagosa Springs, Colorado, United States
+PGR, Paragould, Arkansas, United States
+PGS, Peach Springs, Arizona, United States
+PGU, (Asaloyeh), Iran
+PGV, Greenville, North Carolina, United States
+PGX,P\u00e9rigueux, Aquitaine, France
+PGZ,Ponta Grossa, Paran\u00e1, Brazil
+PHA,Phan Rang\u2013Th\u00e1p Ch\u00e0m, Vietnam
+PHB,Parna\u00edba, Piau\u00ed, Brazil
+PHC,Port Harcourt, Nigeria
+PHD, New Philadelphia, Ohio, United States
+PHE, Port Hedland, Western Australia, Australia
+PHF, Williamsburg, Virginia, United States
+PHG,Port Harcourt, Nigeria
+PHI, Pinheiro, Maranh\u00e3o, Brazil
+PHK, Pahokee, Florida, United States
+PHL,Philadelphia, Pennsylvania, United States
+PHN, Port Huron, Michigan, United States
+PHO, Point Hope, Alaska, United States
+PHP, Philip, South Dakota, United States
+PHQ,Phosphate Hill, Queensland, Australia
+PHR,Pacific Harbour, Fiji
+PHS,Phitsanulok, Thailand
+PHT, Paris, Tennessee, United States
+PHW,Phalaborwa, South Africa
+PHX, Phoenix, Arizona, United States
+PHY,Phetchabun, Thailand
+PIA, Peoria, Illinois, United States
+PIB, Laurel, Mississippi, United States
+PIC,Pine Cay, Turks and Caicos Islands
+PIE, Clearwater, United States
+PIF,Pingtung City, Taiwan
+PIH, Pocatello, Idaho, United States
+PIK,Glasgow, Scotland, United Kingdom
+PIL, Pilar, Paraguay
+PIM, Pine Mountain, Georgia, United States
+PIN,Parintins, Amazonas, Brazil
+PIO, Pisco, Peru
+PIP, Pilot Point, Alaska, United States
+PIQ,Pipillipai, Guyana
+PIR, Pierre, South Dakota, United States
+PIS,Poitiers, Poitou-Charentes, France
+PIT,Pittsburgh, Pennsylvania, United States
+PIU,Piura, Peru
+PIV,Pirapora, Minas Gerais, Brazil
+PIW, Pikwitonei, Manitoba, Canada
+PIX,Pico Island, Azores, Portugal
+PIZ, Point Lay, Alaska, United States
+PJA,Pajala, Sweden
+PJB, Payson, Arizona, United States
+PJC, Pedro Juan Caballero, Paraguay
+PJG,Panjgur, Pakistan
+PJM,Puerto Jim\u00e9nez, Costa Rica
+PKA, Napaskiak, Alaska, United States
+PKB, Parkersburg, West Virginia, United States
+PKC,Petropavlovsk-Kamchatsky, Kamchatka Krai, Russia
+PKD, Park Rapids, Minnesota, United States
+PKE, Parkes, New South Wales, Australia
+PKF, Park Falls, Wisconsin, United States
+PKG,Pangkor Island, Perak, Malaysia
+PKH, (Portochelion), Greece
+PKJ, Playa Grande, Guatemala
+PKK,Pakokku, Myanmar
+PKM,Port Kaituma, Guyana
+PKN, (Pangkalanbuun), Indonesia
+PKO,Parakou, Benin
+PKP,Puka-Puka, Tuamotus, French Polynesia
+PKR,Pokhara, Nepal
+PKT,  (Port Keats), Northern Territory, Australia
+PKU,Pekanbaru, Indonesia
+PKV,Pskov, Pskov Oblast, Russia
+PKW,Selebi-Phikwe, Botswana
+PKX,Beijing, China
+PKY,Palangkaraya, Indonesia
+PKZ,Pakse, Laos
+PLA,Planadas, Colombia
+PLC,Planeta Rica, Colombia
+PLD,Puerto Carrillo, Costa Rica
+PLE, Paiela, Papua New Guinea
+PLF, Pala, Chad
+PLH,Plymouth, England, United Kingdom
+PLI, Palm Island, Saint Vincent and the Grenadines
+PLJ,Placencia, Belize
+PLK, Point Lookout, Missouri, United States
+PLL,Manaus, Amazonas, Brazil
+PLM,Palembang, Indonesia
+PLN, Pellston, Michigan, United States
+PLO,Port Lincoln, South Australia, Australia
+PLP, La Palma, Panama
+PLQ,Palanga, Lithuania
+PLR, Pell City, Alabama, United States
+PLS,Providenciales, Turks and Caicos Islands
+PLT, Plato, Colombia
+PLU,Belo Horizonte, Minas Gerais, Brazil
+PLV,Poltava, Ukraine
+PLW,Palu, Indonesia
+PLX,Semey, Kazakhstan
+PLY, Plymouth, Indiana, United States
+PLZ,Port Elizabeth, South Africa
+PMA,Pemba Island, Tanzania
+PMB, Pembina, North Dakota, United States
+PMC,Puerto Montt, Chile
+PMD, Palmdale, California, United States
+PMF,Parma, Emilia-Romagna, Italy
+PMG,Ponta Por\u00e3, Mato Grosso do Sul, Brazil
+PMH, Portsmouth, Ohio, United States
+PMI, Palma de Mallorca, Balearic Islands, Spain
+PMK, Palm Island, Queensland, Australia
+PML, Cold Bay, Alaska, United States
+PMM,Phanom Sarakham, Thailand
+PMN, Pumani, Papua New Guinea
+PMO,Palermo, Sicily, Italy
+PMP,Pimaga, Papua New Guinea
+PMQ, Santa Cruz, Argentina
+PMR,Palmerston North, New Zealand
+PMS, (Tadmur), Syria
+PMT,Paramakatoi, Guyana
+PMV,Porlamar, Venezuela
+PMW, Palmas, Tocantins, Brazil
+PMX, Palmer, Massachusetts, United States
+PMY,Puerto Madryn, Chubut, Argentina
+PMZ,Palmar Sur, Costa Rica
+PNA,Pamplona, Navarre, Spain
+PNB,Porto Nacional, Tocantins, Brazil
+PNC, Ponca City, Oklahoma, United States
+PND, Punta Gorda, Belize
+PNE,Philadelphia, Pennsylvania, United States
+PNG,Paranagu\u00e1, Paran\u00e1, Brazil
+PNH,Phnom Penh, Cambodia
+PNI,Pohnpei, Federated States of Micronesia
+PNJ, Penglai, Shandong, China
+PNK, Pontianak, Indonesia
+PNL,Pantelleria, Sicily, Italy
+PNN, Princeton, Maine, United States
+PNP,Popondetta, Papua New Guinea
+PNQ,Pune, Maharashtra, India
+PNR,Pointe-Noire, Republic of the Congo
+PNS, Pensacola, Florida, United States
+PNT,Puerto Natales, Chile
+PNU, Panguitch, Utah, United States
+PNV,Panev\u0117\u017eys, Lithuania
+PNX, Denison, Texas, United States
+PNY,Pondicherry, Puducherry, India
+PNZ,Petrolina, Pernambuco, Brazil
+POA,Porto Alegre, Rio Grande do Sul, Brazil
+POB,Fort Bragg, North Carolina, United States
+POC, La Verne, California, United States
+POD,Podor, Senegal
+POE,Fort Polk, Louisiana, United States
+POF, Poplar Bluff, Missouri, United States
+POG,Port-Gentil, Gabon
+POH, Pocahontas, Iowa, United States
+POI,Potos\u00ed, Bolivia
+POJ,Patos de Minas, Minas Gerais, Brazil
+POL, Pemba, Mozambique
+POM,Port Moresby, Papua New Guinea
+PON,Popt\u00fan, Guatemala
+POO,Po\u00e7os de Caldas, Minas Gerais, Brazil
+POP,San Felipe de Puerto Plata, Dominican Republic
+POR,Pori, Finland
+POS,Port of Spain, Trinidad and Tobago
+POT,Port Antonio, Jamaica
+POU, Poughkeepsie, New York, United States
+POV,Pre\u0161ov, Slovakia
+POW,Portoro\u017e, Slovenia
+POX,Paris, \u00cele-de-France, France
+POY, Lovell, Wyoming, United States
+POZ,Pozna\u0144, Poland
+PPA, Pampa, Texas, United States
+PPB, Presidente Prudente, S\u00e3o Paulo, Brazil
+PPC, Prospect Creek, Alaska, United States
+PPE,Puerto Pe\u00f1asco, Sonora, Mexico
+PPF, Parsons, Kansas, United States
+PPG,Pago Pago, American Samoa
+PPH, (Peraitepuy), Venezuela
+PPI,Port Pirie, South Australia, Australia
+PPJ, Panjang Island, Indonesia
+PPK, (Petropavlovsk), Kazakhstan
+PPL,Phaphlu, Nepal
+PPM, Pompano Beach, Florida, United States
+PPN,Popay\u00e1n, Colombia
+PPP, Proserpine, Queensland, Australia
+PPQ,Paraparaumu Beach, New Zealand
+PPR, (Pasir Pangarayan), Indonesia
+PPS,Puerto Princesa, Philippines
+PPT,Papeete, Tahiti, French Polynesia
+PPU,Papun, Myanmar
+PPV, Port Protection, Alaska, United States
+PPW,Papa Westray, Scotland, United Kingdom
+PPX, Param, Papua New Guinea
+PPY,Pouso Alegre, Minas Gerais, Brazil
+PPZ,Puerto P\u00e1ez, Venezuela
+PQC,Phu Quoc Island, Vietnam
+PQD,Batticaloa, Sri Lanka
+PQI, Presque Isle, Maine, United States
+PQM, Palenque, Chiapas, Mexico
+PQQ,Port Macquarie, New South Wales, Australia
+PQS, Pilot Station, Alaska, United States
+PRA, Paran\u00e1, Entre R\u00edos, Argentina
+PRB, Paso Robles, California, United States
+PRC, Prescott, Arizona, United States
+PRD,Pardoo Station, Western Australia, Australia
+PRE, Pore, Colombia
+PRG,Prague, Czech Republic
+PRH,Phrae, Thailand
+PRI,Praslin Island, Seychelles
+PRK,Prieska, South Africa
+PRM,Portim\u00e3o, Portugal
+PRN,Pristina, Kosovo
+PRO, Perry, Iowa, United States
+PRP,Propriano, Corsica, France
+PRQ,Presidencia Roque S\u00e1enz Pe\u00f1a, Chaco, Argentina
+PRR,Paruima, Guyana
+PRS, Parasi, Solomon Islands
+PRU, (Prome), Myanmar
+PRV,P\u0159erov, Czech Republic
+PRW, Prentice, Wisconsin, United States
+PRX, Paris, Texas, United States
+PRY,Pretoria, South Africa
+PRZ, Prineville, Oregon, United States
+PSA,Pisa, Tuscany, Italy
+PSB, Philipsburg, Pennsylvania, United States
+PSC, Pasco, Washington, United States
+PSD,Port Said, Egypt
+PSE, Ponce, Puerto Rico
+PSF, Pittsfield, Massachusetts, United States
+PSG, Petersburg, Alaska, United States
+PSH,Sankt Peter-Ording, Schleswig-Holstein, Germany
+PSI,Pasni, Pakistan
+PSJ,Poso, Indonesia
+PSK, Dublin, Virginia, United States
+PSL, Perth, Scotland, United Kingdom
+PSM, Portsmouth, New Hampshire, United States
+PSN, Palestine, Texas, United States
+PSO, Pasto, Colombia
+PSP, Palm Springs, California, United States
+PSQ,Philadelphia, Pennsylvania, United States
+PSR,Pescara, Abruzzo, Italy
+PSS, Posadas, Misiones, Argentina
+PSU,Putussibau, Indonesia
+PSV,Papa Stour, Scotland, United Kingdom
+PSW, Passos, Minas Gerais, Brazil
+PSX, Palacios, Texas, United States
+PSY, Stanley, Falkland Islands
+PSZ,Puerto Su\u00e1rez, Bolivia
+PTA, Port Alsworth, Alaska, United States
+PTB, Petersburg, Virginia, United States
+PTC, Port Alice, Alaska, United States
+PTD, Port Alexander, Alaska, United States
+PTF,Malolo Lailai, Fiji
+PTG,Polokwane, South Africa
+PTH, Port Heiden, Alaska, United States
+PTJ, Portland, Victoria, Australia
+PTK, Pontiac, Michigan, United States
+PTM,Palmarito, Venezuela
+PTN, Patterson, Louisiana, United States
+PTO,Pato Branco, Paran\u00e1, Brazil
+PTP,Pointe-\u00e0-Pitre, Guadeloupe
+PTQ,Porto de Moz, Par\u00e1, Brazil
+PTS, Pittsburg, Kansas, United States
+PTT, Pratt, Kansas, United States
+PTU, Platinum, Alaska, United States
+PTV, Porterville, California, United States
+PTW, Pottstown, Pennsylvania, United States
+PTX,Pitalito, Colombia
+PTY,Panama City, Panama
+PTZ,Shell Mera, Ecuador
+PUA, Puas, Papua New Guinea
+PUB, Pueblo, Colorado, United States
+PUC, Price, Utah, United States
+PUD,Puerto Deseado,   Santa Cruz, Argentina
+PUE,Puerto Obald\u00eda, Panama
+PUF, Pau, Aquitaine, France
+PUG,Port Augusta, South Australia, Australia
+PUI,Pureni, Papua New Guinea
+PUJ,Punta Cana, Dominican Republic
+PUK,Pukarua, Tuamotus, French Polynesia
+PUL, Poulsbo, Washington, United States
+PUM,Kolaka, Indonesia
+PUN, Punia, Democratic Republic of the Congo
+PUP,P\u00f4, Burkina Faso
+PUQ,Punta Arenas, Chile
+PUR,Puerto Rico, Bolivia
+PUS,Busan, South Korea
+PUT,Puttaparthi, Andhra Pradesh, India
+PUU,Puerto As\u00eds, Colombia
+PUV,Poum, New Caledonia
+PUW, Moscow (ID), Washington, United States
+PUX,Puerto Varas, Chile
+PUY,Pula, Croatia
+PUZ,Puerto Cabezas, Nicaragua
+PVA,Providencia Island, Colombia
+PVC, Provincetown, Massachusetts, United States
+PVD, Providence, Rhode Island, United States
+PVE, El Porvenir, Panama
+PVF, Placerville, California, United States
+PVG,Shanghai, China
+PVH,Porto Velho, Rond\u00f4nia, Brazil
+PVI,Paranava\u00ed, Paran\u00e1, Brazil
+PVK,Lefkada, Greece
+PVL, Pikeville, Kentucky, United States
+PVO,Portoviejo, Ecuador
+PVR,Puerto Vallarta, Jalisco, Mexico
+PVS,Provideniya, Chukotka, Russia
+PVU, Provo, Utah, United States
+PVW, Plainview, Texas, United States
+PWA,Oklahoma City, Oklahoma, United States
+PWD, Plentywood, Montana, United States
+PWE,Pevek, Chukotka, Russia
+PWI, Pawi, Ethiopia
+PWK,Chicago, Illinois, United States
+PWL,Purwokerto, Indonesia
+PWM, Portland, Maine, United States
+PWN,Pitts Town,   Crooked Island, Bahamas
+PWO,Pweto, Democratic Republic of the Congo
+PWQ,Pavlodar, Kazakhstan
+PWR,Port Walter, Alaska, United States
+PWT, Bremerton, Washington, United States
+PWY, Pinedale, Wyoming, United States
+PXH,Prominent Hill, South Australia, Australia
+PXL, Polacca, Arizona, United States
+PXM, Puerto Escondido, Oaxaca, Mexico
+PXO,Porto Santo Island, Madeira, Portugal
+PXR, Surin, Thailand
+PXU,Pleiku, Vietnam
+PYA,Puerto Boyac\u00e1, Colombia
+PYB,Jeypore, Odisha, India
+PYC, (Play\u00f3n Chico), Panama
+PYE,Penrhyn Atoll, Cook Islands
+PYH,Puerto Ayacucho, Venezuela
+PYJ, Polyarny, Yakutia, Russia
+PYK,Karaj, Iran
+PYL,Perry Island, Alaska, United States
+PYM, Plymouth, Massachusetts, United States
+PYN, Pay\u00e1n, Colombia
+PYO,Puerto El Carmen de Putumayo, Ecuador
+PYR, Pyrgos, Greece
+PYS, Paradise, California, United States
+PYV,Yaviza, Panama
+PYX,Pattaya, Thailand
+PYY, Pai, Thailand
+PZA,Paz de Ariporo, Colombia
+PZB,Pietermaritzburg, South Africa
+PZH,Zhob, Pakistan
+PZI,Panzhihua, Sichuan, China
+PZK,Pukapuka Island, Cook Islands
+PZL,Phinda, South Africa
+PZO,Puerto Ordaz, Venezuela
+PZS,Temuco, Chile
+PZU,Port Sudan, Sudan
+PZY,Pie\u0161\u0165any, Slovakia

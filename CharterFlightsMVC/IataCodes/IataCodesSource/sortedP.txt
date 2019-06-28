@@ -1,0 +1,2868 @@
+<tr>
+<td>PAA</td>
+<td>VYPA</td>
+<td><a href=\"/wiki/Hpa-An_Airport\" title=\"Hpa-An Airport\">Hpa-An Airport</a><sup id=\"cite_ref-IATA_1-0\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Hpa-An\" class=\"mw-redirect\" title=\"Hpa-An\">Hpa-An</a>, <a href=\"/wiki/Myanmar\" title=\"Myanmar\">Myanmar</a></td>
+</tr>
+<tr>
+<td>PAB</td>
+<td>VEBU</td>
+<td><a href=\"/wiki/Bilaspur_Airport\" title=\"Bilaspur Airport\">Bilaspur Airport</a></td>
+<td><a href=\"/wiki/Bilaspur,_Chhattisgarh\" title=\"Bilaspur, Chhattisgarh\">Bilaspur</a>, <a href=\"/wiki/Chhattisgarh\" title=\"Chhattisgarh\">Chhattisgarh</a>, India</td>
+</tr>
+<tr>
+<td>PAC</td>
+<td>MPMG</td>
+<td><a href=\"/wiki/Albrook_%22Marcos_A._Gelabert%22_International_Airport\" title=\"Albrook &quot;Marcos A. Gelabert&quot; International Airport\">Albrook \"Marcos A. Gelabert\" International Airport</a></td>
+<td><a href=\"/wiki/Panama_City\" title=\"Panama City\">Panama City</a>, <a href=\"/wiki/Panama\" title=\"Panama\">Panama</a></td>
+</tr>
+<tr>
+<td>PAD</td>
+<td>EDLP</td>
+<td><a href=\"/wiki/Paderborn_Lippstadt_Airport\" title=\"Paderborn Lippstadt Airport\">Paderborn Lippstadt Airport</a></td>
+<td><a href=\"/wiki/Paderborn\" title=\"Paderborn\">Paderborn</a> / <a href=\"/wiki/Lippstadt\" title=\"Lippstadt\">Lippstadt</a>, <a href=\"/wiki/North_Rhine-Westphalia\" title=\"North Rhine-Westphalia\">North Rhine-Westphalia</a>, Germany</td>
+</tr>
+<tr>
+<td>PAE</td>
+<td>KPAE</td>
+<td><a href=\"/wiki/Paine_Field\" title=\"Paine Field\">Paine Field</a> (Snohomish County Airport)</td>
+<td><a href=\"/wiki/Everett,_Washington\" title=\"Everett, Washington\">Everett</a>, <a href=\"/wiki/Washington_(state)\" title=\"Washington (state)\">Washington</a>, United States</td>
+</tr>
+<tr>
+<td>PAF</td>
+<td>HUPA</td>
+<td><a href=\"/wiki/Pakuba_Airfield\" title=\"Pakuba Airfield\">Pakuba Airfield</a></td>
+<td><a href=\"/wiki/Pakuba\" title=\"Pakuba\">Pakuba</a>, <a href=\"/wiki/Uganda\" title=\"Uganda\">Uganda</a></td>
+</tr>
+<tr>
+<td>PAG</td>
+<td>RPMP</td>
+<td><a href=\"/wiki/Pagadian_Airport\" title=\"Pagadian Airport\">Pagadian Airport</a></td>
+<td><a href=\"/wiki/Pagadian\" title=\"Pagadian\">Pagadian</a>, <a href=\"/wiki/Philippines\" title=\"Philippines\">Philippines</a></td>
+</tr>
+<tr>
+<td>PAH</td>
+<td>KPAH</td>
+<td><a href=\"/wiki/Barkley_Regional_Airport\" title=\"Barkley Regional Airport\">Barkley Regional Airport</a></td>
+<td><a href=\"/wiki/Paducah,_Kentucky\" title=\"Paducah, Kentucky\">Paducah</a>, <a href=\"/wiki/Kentucky\" title=\"Kentucky\">Kentucky</a>, United States</td>
+</tr>
+<tr>
+<td>PAJ</td>
+<td>OPPC</td>
+<td><a href=\"/wiki/Parachinar_Airport\" title=\"Parachinar Airport\">Parachinar Airport</a><sup id=\"cite_ref-IATA_1-1\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Parachinar\" title=\"Parachinar\">Parachinar</a>, <a href=\"/wiki/Pakistan\" title=\"Pakistan\">Pakistan</a></td>
+</tr>
+<tr>
+<td>PAK</td>
+<td>PHPA</td>
+<td><a href=\"/wiki/Port_Allen_Airport\" title=\"Port Allen Airport\">Port Allen Airport</a></td>
+<td><a href=\"/wiki/Hanapepe,_Hawaii\" title=\"Hanapepe, Hawaii\">Hanapepe</a>, <a href=\"/wiki/Hawaii\" title=\"Hawaii\">Hawaii</a>, United States</td>
+</tr>
+<tr>
+<td>PAL</td>
+<td>SKPQ</td>
+<td><a href=\"/wiki/Captain_Germ%C3%A1n_Olano_Moreno_Air_Base\" title=\"Captain Germ\u00e1n Olano Moreno Air Base\">Captain Germ\u00e1n Olano Moreno Air Base</a><sup id=\"cite_ref-IATA_1-2\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Palanquero&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Palanquero (page does not exist)\">Palanquero</a>, <a href=\"/wiki/Colombia\" title=\"Colombia\">Colombia</a></td>
+</tr>
+<tr>
+<td>PAM</td>
+<td>KPAM</td>
+<td><a href=\"/wiki/Tyndall_Air_Force_Base\" title=\"Tyndall Air Force Base\">Tyndall Air Force Base</a></td>
+<td><a href=\"/wiki/Panama_City,_Florida\" title=\"Panama City, Florida\">Panama City</a>, <a href=\"/wiki/Florida\" title=\"Florida\">Florida</a>, United States</td>
+</tr>
+<tr>
+<td>PAN</td>
+<td>VTSK</td>
+<td><a href=\"/wiki/Pattani_Airport\" title=\"Pattani Airport\">Pattani Airport</a></td>
+<td><a href=\"/wiki/Pattani,_Thailand\" title=\"Pattani, Thailand\">Pattani</a>, <a href=\"/wiki/Thailand\" title=\"Thailand\">Thailand</a></td>
+</tr>
+<tr>
+<td>PAO</td>
+<td>KPAO</td>
+<td><a href=\"/wiki/Palo_Alto_Airport\" title=\"Palo Alto Airport\">Palo Alto Airport</a> (Santa Clara County Airport)</td>
+<td><a href=\"/wiki/Palo_Alto,_California\" title=\"Palo Alto, California\">Palo Alto</a>, <a href=\"/wiki/California\" title=\"California\">California</a>, United States</td>
+</tr>
+<tr>
+<td>PAP</td>
+<td>MTPP</td>
+<td><a href=\"/wiki/Toussaint_Louverture_International_Airport\" title=\"Toussaint Louverture International Airport\">Toussaint L'Ouverture International Airport</a></td>
+<td><a href=\"/wiki/Port-au-Prince\" title=\"Port-au-Prince\">Port-au-Prince</a>, <a href=\"/wiki/Haiti\" title=\"Haiti\">Haiti</a></td>
+</tr>
+<tr>
+<td>PAQ</td>
+<td>PAAQ</td>
+<td><a href=\"/wiki/Palmer_Municipal_Airport\" title=\"Palmer Municipal Airport\">Palmer Municipal Airport</a></td>
+<td><a href=\"/wiki/Palmer,_Alaska\" title=\"Palmer, Alaska\">Palmer</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>PAR<sup id=\"cite_ref-IATA_1-3\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td></td>
+<td>metropolitan area<sup class=\"reference plainlinks nourlexpansion\" id=\"ref_1\"><a href=\"#endnote_1\">1</a></sup></td>
+<td><a href=\"/wiki/Paris\" title=\"Paris\">Paris</a>, <a href=\"/wiki/%C3%8Ele-de-France\" title=\"\u00cele-de-France\">\u00cele-de-France</a>, France</td>
+</tr>
+<tr>
+<td>PAS</td>
+<td>LGPA</td>
+<td><a href=\"/wiki/Paros_National_Airport\" class=\"mw-redirect\" title=\"Paros National Airport\">Paros National Airport</a></td>
+<td><a href=\"/wiki/Paros\" title=\"Paros\">Paros</a>, <a href=\"/wiki/Greece\" title=\"Greece\">Greece</a></td>
+</tr>
+<tr>
+<td>PAT</td>
+<td>VEPT</td>
+<td><a href=\"/wiki/Lok_Nayak_Jayaprakash_Airport\" class=\"mw-redirect\" title=\"Lok Nayak Jayaprakash Airport\">Lok Nayak Jayaprakash Airport</a></td>
+<td><a href=\"/wiki/Patna\" title=\"Patna\">Patna</a>, <a href=\"/wiki/Bihar\" title=\"Bihar\">Bihar</a>, India</td>
+</tr>
+<tr>
+<td>PAU</td>
+<td>VYPK</td>
+<td><a href=\"/wiki/Pauk_Airport\" title=\"Pauk Airport\">Pauk Airport</a><sup id=\"cite_ref-IATA_1-4\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Pauk\" title=\"Pauk\">Pauk</a>, <a href=\"/wiki/Myanmar\" title=\"Myanmar\">Myanmar</a></td>
+</tr>
+<tr>
+<td>PAV</td>
+<td>SBUF</td>
+<td><a href=\"/wiki/Paulo_Afonso_Airport\" title=\"Paulo Afonso Airport\">Paulo Afonso Airport</a><sup id=\"cite_ref-IATA_1-5\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Paulo_Afonso\" title=\"Paulo Afonso\">Paulo Afonso</a>, <a href=\"/wiki/Bahia\" title=\"Bahia\">Bahia</a>, Brazil</td>
+</tr>
+<tr>
+<td>PAW</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Pambwa_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Pambwa Airport (page does not exist)\">Pambwa Airport</a><sup id=\"cite_ref-IATA_1-6\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Pambwa&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Pambwa (page does not exist)\">Pambwa</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>PAX</td>
+<td>MTPX</td>
+<td><a href=\"/wiki/Port-de-Paix_Airport\" title=\"Port-de-Paix Airport\">Port-de-Paix Airport</a><sup id=\"cite_ref-IATA_1-7\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Port-de-Paix\" title=\"Port-de-Paix\">Port-de-Paix</a>, <a href=\"/wiki/Haiti\" title=\"Haiti\">Haiti</a></td>
+</tr>
+<tr>
+<td>PAY</td>
+<td>WBKP</td>
+<td><a href=\"/w/index.php?title=Pamol_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Pamol Airport (page does not exist)\">Pamol Airport</a><sup id=\"cite_ref-IATA_1-8\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Pamol\" title=\"Pamol\">Pamol</a>, <a href=\"/wiki/Sabah\" title=\"Sabah\">Sabah</a>, Malaysia</td>
+</tr>
+<tr>
+<td>PAZ</td>
+<td>MMPA</td>
+<td><a href=\"/wiki/El_Taj%C3%ADn_National_Airport\" title=\"El Taj\u00edn National Airport\">El Taj\u00edn National Airport</a></td>
+<td><a href=\"/wiki/Poza_Rica\" title=\"Poza Rica\">Poza Rica</a>, <a href=\"/wiki/Veracruz\" title=\"Veracruz\">Veracruz</a>, Mexico</td>
+</tr>
+<tr>
+<td>PBB</td>
+<td>SSPN</td>
+<td><a href=\"/w/index.php?title=Parana%C3%ADba_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Parana\u00edba Airport (page does not exist)\">Parana\u00edba Airport</a><sup id=\"cite_ref-IATA_1-9\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Parana%C3%ADba\" title=\"Parana\u00edba\">Parana\u00edba</a>, <a href=\"/wiki/Mato_Grosso_do_Sul\" title=\"Mato Grosso do Sul\">Mato Grosso do Sul</a>, Brazil</td>
+</tr>
+<tr>
+<td>PBC</td>
+<td>MMPB</td>
+<td><a href=\"/wiki/Puebla_International_Airport\" title=\"Puebla International Airport\">Hermanos Serd\u00e1n International Airport</a></td>
+<td><a href=\"/wiki/Puebla_City\" class=\"mw-redirect\" title=\"Puebla City\">Puebla City</a>, <a href=\"/wiki/Puebla\" title=\"Puebla\">Puebla</a>, Mexico</td>
+</tr>
+<tr>
+<td>PBD</td>
+<td>VAPR</td>
+<td><a href=\"/wiki/Porbandar_Airport\" title=\"Porbandar Airport\">Porbandar Airport</a><sup id=\"cite_ref-IATA_1-10\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Porbandar\" title=\"Porbandar\">Porbandar</a>, <a href=\"/wiki/Gujarat\" title=\"Gujarat\">Gujarat</a>, India</td>
+</tr>
+<tr>
+<td>PBE</td>
+<td>SKPR</td>
+<td><a href=\"/wiki/Morela_Airport\" title=\"Morela Airport\">Morela Airport</a><sup id=\"cite_ref-IATA_1-11\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (Puerto Berr\u00edo Airport)</td>
+<td><a href=\"/wiki/Puerto_Berr%C3%ADo\" title=\"Puerto Berr\u00edo\">Puerto Berr\u00edo</a>, <a href=\"/wiki/Colombia\" title=\"Colombia\">Colombia</a></td>
+</tr>
+<tr>
+<td>PBF</td>
+<td>KPBF</td>
+<td><a href=\"/wiki/Grider_Field\" title=\"Grider Field\">Grider Field</a></td>
+<td><a href=\"/wiki/Pine_Bluff,_Arkansas\" title=\"Pine Bluff, Arkansas\">Pine Bluff</a>, <a href=\"/wiki/Arkansas\" title=\"Arkansas\">Arkansas</a>, United States</td>
+</tr>
+<tr>
+<td>PBG</td>
+<td>KPBG</td>
+<td><a href=\"/wiki/Plattsburgh_International_Airport\" title=\"Plattsburgh International Airport\">Plattsburgh International Airport</a></td>
+<td><a href=\"/wiki/Plattsburgh_(city),_New_York\" title=\"Plattsburgh (city), New York\">Plattsburgh</a>, <a href=\"/wiki/New_York_(state)\" title=\"New York (state)\">New York</a>, United States</td>
+</tr>
+<tr>
+<td>PBH</td>
+<td>VQPR</td>
+<td><a href=\"/wiki/Paro_International_Airport\" class=\"mw-redirect\" title=\"Paro International Airport\">Paro International Airport</a></td>
+<td><a href=\"/wiki/Paro,_Bhutan\" title=\"Paro, Bhutan\">Paro</a>, <a href=\"/wiki/Bhutan\" title=\"Bhutan\">Bhutan</a></td>
+</tr>
+<tr>
+<td>PBI</td>
+<td>KPBI</td>
+<td><a href=\"/wiki/Palm_Beach_International_Airport\" title=\"Palm Beach International Airport\">Palm Beach International Airport</a></td>
+<td><a href=\"/wiki/West_Palm_Beach,_Florida\" title=\"West Palm Beach, Florida\">West Palm Beach</a>, <a href=\"/wiki/Florida\" title=\"Florida\">Florida</a>, United States</td>
+</tr>
+<tr>
+<td>PBJ</td>
+<td>NVSI</td>
+<td><a href=\"/wiki/Paama_Airport\" title=\"Paama Airport\">Paama Airport</a><sup id=\"cite_ref-IATA_1-12\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Paama\" title=\"Paama\">Paama</a>, <a href=\"/wiki/Vanuatu\" title=\"Vanuatu\">Vanuatu</a></td>
+</tr>
+<tr>
+<td>PBL</td>
+<td>SVPC</td>
+<td><a href=\"/wiki/Bartolom%C3%A9_Salom_Airport\" class=\"mw-redirect\" title=\"Bartolom\u00e9 Salom Airport\">Bartolom\u00e9 Salom Airport</a><sup id=\"cite_ref-IATA_1-13\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Puerto_Cabello\" title=\"Puerto Cabello\">Puerto Cabello</a>, <a href=\"/wiki/Venezuela\" title=\"Venezuela\">Venezuela</a></td>
+</tr>
+<tr>
+<td>PBM</td>
+<td>SMJP</td>
+<td><a href=\"/wiki/Johan_Adolf_Pengel_International_Airport\" title=\"Johan Adolf Pengel International Airport\">Johan Adolf Pengel International Airport</a></td>
+<td><a href=\"/wiki/Paramaribo\" title=\"Paramaribo\">Paramaribo</a>, <a href=\"/wiki/Suriname\" title=\"Suriname\">Suriname</a></td>
+</tr>
+<tr>
+<td>PBN</td>
+<td>FNPA</td>
+<td><a href=\"/wiki/Porto_Amboim_Airport\" title=\"Porto Amboim Airport\">Porto Amboim Airport</a><sup id=\"cite_ref-IATA_1-14\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Porto_Amboim\" title=\"Porto Amboim\">Porto Amboim</a>, <a href=\"/wiki/Angola\" title=\"Angola\">Angola</a></td>
+</tr>
+<tr>
+<td>PBO</td>
+<td>YPBO</td>
+<td><a href=\"/wiki/Paraburdoo_Airport\" title=\"Paraburdoo Airport\">Paraburdoo Airport</a></td>
+<td><a href=\"/wiki/Paraburdoo,_Western_Australia\" title=\"Paraburdoo, Western Australia\">Paraburdoo</a>, <a href=\"/wiki/Western_Australia\" title=\"Western Australia\">Western Australia</a>, Australia</td>
+</tr>
+<tr>
+<td>PBP</td>
+<td>MRIA</td>
+<td><a href=\"/wiki/Punta_Islita_Airport\" title=\"Punta Islita Airport\">Punta Islita Airport</a></td>
+<td><a href=\"/wiki/Punta_Islita\" title=\"Punta Islita\">Punta Islita</a>, <a href=\"/wiki/Costa_Rica\" title=\"Costa Rica\">Costa Rica</a></td>
+</tr>
+<tr>
+<td>PBQ</td>
+<td>SWPM</td>
+<td><a href=\"/w/index.php?title=Pimenta_Bueno_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Pimenta Bueno Airport (page does not exist)\">Pimenta Bueno Airport</a><sup id=\"cite_ref-IATA_1-15\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Pimenta_Bueno\" title=\"Pimenta Bueno\">Pimenta Bueno</a>, <a href=\"/wiki/Rond%C3%B4nia\" title=\"Rond\u00f4nia\">Rond\u00f4nia</a>, Brazil</td>
+</tr>
+<tr>
+<td>PBR</td>
+<td>MGPB</td>
+<td><a href=\"/wiki/Puerto_Barrios_Airport\" title=\"Puerto Barrios Airport\">Puerto Barrios Airport</a><sup id=\"cite_ref-IATA_1-16\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Puerto_Barrios\" title=\"Puerto Barrios\">Puerto Barrios</a>, <a href=\"/wiki/Guatemala\" title=\"Guatemala\">Guatemala</a></td>
+</tr>
+<tr>
+<td>PBT</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Puerto_Leda_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Puerto Leda Airport (page does not exist)\">Puerto Leda Airport</a><sup id=\"cite_ref-IATA_1-17\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Puerto_Leda&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Puerto Leda (page does not exist)\">Puerto Leda</a>, <a href=\"/wiki/Paraguay\" title=\"Paraguay\">Paraguay</a></td>
+</tr>
+<tr>
+<td>PBU</td>
+<td>VYPT</td>
+<td><a href=\"/wiki/Putao_Airport\" title=\"Putao Airport\">Putao Airport</a><sup id=\"cite_ref-IATA_1-18\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Putao\" title=\"Putao\">Putao</a>, <a href=\"/wiki/Myanmar\" title=\"Myanmar\">Myanmar</a></td>
+</tr>
+<tr>
+<td>PBV</td>
+<td>SWPG</td>
+<td><a href=\"/w/index.php?title=Porto_dos_Ga%C3%BAchos_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Porto dos Ga\u00fachos Airport (page does not exist)\">Porto dos Ga\u00fachos Airport</a></td>
+<td><a href=\"/wiki/Porto_dos_Ga%C3%BAchos\" title=\"Porto dos Ga\u00fachos\">Porto dos Ga\u00fachos</a>, <a href=\"/wiki/Mato_Grosso\" title=\"Mato Grosso\">Mato Grosso</a>, Brazil</td>
+</tr>
+<tr>
+<td>PBX</td>
+<td>SWPQ</td>
+<td><a href=\"/w/index.php?title=Fazenda_Piraguassu_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Fazenda Piraguassu Airport (page does not exist)\">Fazenda Piraguassu Airport</a></td>
+<td><a href=\"/wiki/Porto_Alegre_do_Norte\" title=\"Porto Alegre do Norte\">Porto Alegre do Norte</a>, <a href=\"/wiki/Mato_Grosso\" title=\"Mato Grosso\">Mato Grosso</a>, Brazil</td>
+</tr>
+<tr>
+<td>PBZ</td>
+<td>FAPG</td>
+<td><a href=\"/wiki/Plettenberg_Bay_Airport\" class=\"mw-redirect\" title=\"Plettenberg Bay Airport\">Plettenberg Bay Airport</a><sup id=\"cite_ref-IATA_1-19\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Plettenberg_Bay\" title=\"Plettenberg Bay\">Plettenberg Bay</a>, <a href=\"/wiki/South_Africa\" title=\"South Africa\">South Africa</a></td>
+</tr>
+<tr>
+<td>PCA</td>
+<td>PAOC</td>
+<td><a href=\"/wiki/Portage_Creek_Airport\" title=\"Portage Creek Airport\">Portage Creek Airport</a> (FAA: A14)</td>
+<td><a href=\"/wiki/Portage_Creek,_Alaska\" title=\"Portage Creek, Alaska\">Portage Creek</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>PCB</td>
+<td>WIHP</td>
+<td><a href=\"/wiki/Pondok_Cabe_Airport\" title=\"Pondok Cabe Airport\">Pondok Cabe Airport</a><sup id=\"cite_ref-IATA_1-20\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/South_Tangerang\" title=\"South Tangerang\">South Tangerang</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+</tr>
+<tr>
+<td>PCC</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Puerto_Rico_Airport_(Colombia)&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Puerto Rico Airport (Colombia) (page does not exist)\">Puerto Rico Airport</a><sup id=\"cite_ref-IATA_1-21\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Puerto_Rico,_Caquet%C3%A1\" title=\"Puerto Rico, Caquet\u00e1\">Puerto Rico</a>, <a href=\"/wiki/Colombia\" title=\"Colombia\">Colombia</a></td>
+</tr>
+<tr>
+<td>PCD</td>
+<td>KPDC</td>
+<td><a href=\"/wiki/Prairie_du_Chien_Municipal_Airport\" title=\"Prairie du Chien Municipal Airport\">Prairie du Chien Municipal Airport</a> (FAA: PDC)</td>
+<td><a href=\"/wiki/Prairie_du_Chien,_Wisconsin\" title=\"Prairie du Chien, Wisconsin\">Prairie du Chien</a>, <a href=\"/wiki/Wisconsin\" title=\"Wisconsin\">Wisconsin</a>, United States</td>
+</tr>
+<tr>
+<td>PCF</td>
+<td>FAPS</td>
+<td><a href=\"/w/index.php?title=Potchefstroom_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Potchefstroom Airport (page does not exist)\">Potchefstroom Airport</a><sup id=\"cite_ref-IATA_1-22\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Potchefstroom\" title=\"Potchefstroom\">Potchefstroom</a>, <a href=\"/wiki/South_Africa\" title=\"South Africa\">South Africa</a></td>
+</tr>
+<tr>
+<td>PCH</td>
+<td>MHPC</td>
+<td><a href=\"/wiki/Palacios_Airport,_Honduras\" class=\"mw-redirect\" title=\"Palacios Airport, Honduras\">Palacios Airport</a><sup id=\"cite_ref-IATA_1-23\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Palacios,_Honduras&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Palacios, Honduras (page does not exist)\">Palacios</a>, <a href=\"/wiki/Honduras\" title=\"Honduras\">Honduras</a></td>
+</tr>
+<tr>
+<td>PCJ</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Puerto_La_Victoria_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Puerto La Victoria Airport (page does not exist)\">Puerto La Victoria Airport</a><sup id=\"cite_ref-IATA_1-24\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Puerto_Casado\" title=\"Puerto Casado\">Puerto Casado</a> (La Victoria), <a href=\"/wiki/Paraguay\" title=\"Paraguay\">Paraguay</a></td>
+</tr>
+<tr>
+<td>PCL</td>
+<td>SPCL</td>
+<td><a href=\"/wiki/FAP_Captain_David_Abensur_Rengifo_International_Airport\" title=\"FAP Captain David Abensur Rengifo International Airport\">FAP Captain David Abensur Rengifo International Airport</a></td>
+<td><a href=\"/wiki/Pucallpa\" title=\"Pucallpa\">Pucallpa</a>, <a href=\"/wiki/Peru\" title=\"Peru\">Peru</a></td>
+</tr>
+<tr>
+<td>PCM</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Playa_del_Carmen_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Playa del Carmen Airport (page does not exist)\">Playa del Carmen Airport</a></td>
+<td><a href=\"/wiki/Playa_del_Carmen\" title=\"Playa del Carmen\">Playa del Carmen</a>, <a href=\"/wiki/Quintana_Roo\" title=\"Quintana Roo\">Quintana Roo</a>, Mexico</td>
+</tr>
+<tr>
+<td>PCN</td>
+<td>NZOK</td>
+<td><a href=\"/wiki/Picton_Aerodrome\" title=\"Picton Aerodrome\">Picton Aerodrome</a></td>
+<td><a href=\"/wiki/Picton,_New_Zealand\" title=\"Picton, New Zealand\">Picton</a>, <a href=\"/wiki/New_Zealand\" title=\"New Zealand\">New Zealand</a></td>
+</tr>
+<tr>
+<td>PCO</td>
+<td>MMPL</td>
+<td><a href=\"/wiki/Punta_Colorada_Airstrip\" title=\"Punta Colorada Airstrip\">Punta Colorada Airstrip</a><sup id=\"cite_ref-IATA_1-25\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=La_Ribera,_Baja_California_Sur&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"La Ribera, Baja California Sur (page does not exist)\">La Ribera</a>, <a href=\"/wiki/Baja_California_Sur\" title=\"Baja California Sur\">Baja California Sur</a>, Mexico</td>
+</tr>
+<tr>
+<td>PCP</td>
+<td>FPPR</td>
+<td><a href=\"/wiki/Pr%C3%ADncipe_Airport\" title=\"Pr\u00edncipe Airport\">Pr\u00edncipe Airport</a><sup id=\"cite_ref-IATA_1-26\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Pr%C3%ADncipe\" title=\"Pr\u00edncipe\">Pr\u00edncipe Island</a>, <a href=\"/wiki/S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe\" title=\"S\u00e3o Tom\u00e9 and Pr\u00edncipe\">S\u00e3o Tom\u00e9 and Pr\u00edncipe</a></td>
+</tr>
+<tr>
+<td>PCQ</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Boun_Neua_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Boun Neua Airport (page does not exist)\">Boun Neua Airport</a><sup id=\"cite_ref-IATA_1-27\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Phongsaly_Province\" title=\"Phongsaly Province\">Phongsaly</a>, <a href=\"/wiki/Laos\" title=\"Laos\">Laos</a></td>
+</tr>
+<tr>
+<td>PCR</td>
+<td>SKPC</td>
+<td><a href=\"/wiki/Germ%C3%A1n_Olano_Airport\" title=\"Germ\u00e1n Olano Airport\">Germ\u00e1n Olano Airport</a></td>
+<td><a href=\"/wiki/Puerto_Carre%C3%B1o\" title=\"Puerto Carre\u00f1o\">Puerto Carre\u00f1o</a>, <a href=\"/wiki/Colombia\" title=\"Colombia\">Colombia</a></td>
+</tr>
+<tr>
+<td>PCS</td>
+<td>SNPC</td>
+<td><a href=\"/wiki/Picos_Airport\" title=\"Picos Airport\">Picos Airport</a><sup id=\"cite_ref-IATA_1-28\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Picos,_Piau%C3%AD\" class=\"mw-redirect\" title=\"Picos, Piau\u00ed\">Picos</a>, <a href=\"/wiki/Piau%C3%AD\" title=\"Piau\u00ed\">Piau\u00ed</a>, Brazil</td>
+</tr>
+<tr>
+<td>PCT</td>
+<td></td>
+<td><a href=\"/wiki/Princeton_Airport_(New_Jersey)\" title=\"Princeton Airport (New Jersey)\">Princeton Airport</a> (FAA: 39N)</td>
+<td><a href=\"/wiki/Princeton,_New_Jersey\" title=\"Princeton, New Jersey\">Princeton</a> / <a href=\"/wiki/Rocky_Hill,_New_Jersey\" title=\"Rocky Hill, New Jersey\">Rocky Hill</a>, <a href=\"/wiki/New_Jersey\" title=\"New Jersey\">New Jersey</a>, United States</td>
+</tr>
+<tr>
+<td>PCU</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Poplarville-Pearl_River_County_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Poplarville-Pearl River County Airport (page does not exist)\">Poplarville-Pearl River County Airport</a><sup id=\"cite_ref-IATA_1-29\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (FAA: M13)</td>
+<td><a href=\"/wiki/Poplarville,_Mississippi\" title=\"Poplarville, Mississippi\">Poplarville</a>, <a href=\"/wiki/Mississippi\" title=\"Mississippi\">Mississippi</a>, United States</td>
+</tr>
+<tr>
+<td>PCV</td>
+<td></td>
+<td><a href=\"/wiki/Punta_Chivato_Airstrip\" title=\"Punta Chivato Airstrip\">Punta Chivato Airstrip</a><sup id=\"cite_ref-IATA_1-30\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Punta_Chivato&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Punta Chivato (page does not exist)\">Punta Chivato</a>, <a href=\"/wiki/Baja_California_Sur\" title=\"Baja California Sur\">Baja California Sur</a>, Mexico</td>
+</tr>
+<tr>
+<td>PDA</td>
+<td>SKPD</td>
+<td><a href=\"/wiki/Obando_Airport\" class=\"mw-redirect\" title=\"Obando Airport\">Obando Airport</a></td>
+<td><a href=\"/wiki/In%C3%ADrida,_Guain%C3%ADa\" title=\"In\u00edrida, Guain\u00eda\">Puerto In\u00edrida</a>, <a href=\"/wiki/Colombia\" title=\"Colombia\">Colombia</a></td>
+</tr>
+<tr>
+<td>PDB</td>
+<td></td>
+<td><a href=\"/wiki/Pedro_Bay_Airport\" title=\"Pedro Bay Airport\">Pedro Bay Airport</a> (FAA: 4K0)</td>
+<td><a href=\"/wiki/Pedro_Bay,_Alaska\" title=\"Pedro Bay, Alaska\">Pedro Bay</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>PDC</td>
+<td>NWWQ</td>
+<td><a href=\"/w/index.php?title=Mueo/Nickel_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Mueo/Nickel Airport (page does not exist)\">Mueo/Nickel Airport</a></td>
+<td><a href=\"/w/index.php?title=Mueo&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Mueo (page does not exist)\">Mueo</a>, <a href=\"/wiki/New_Caledonia\" title=\"New Caledonia\">New Caledonia</a></td>
+</tr>
+<tr>
+<td>PDD</td>
+<td>FQPO</td>
+<td><a href=\"/wiki/Ponta_do_Ouro_Airport\" title=\"Ponta do Ouro Airport\">Ponta do Ouro Airport</a><sup id=\"cite_ref-IATA_1-31\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Ponta_do_Ouro\" title=\"Ponta do Ouro\">Ponta do Ouro</a>, <a href=\"/wiki/Mozambique\" title=\"Mozambique\">Mozambique</a></td>
+</tr>
+<tr>
+<td>PDE</td>
+<td>YPDI</td>
+<td><a href=\"/w/index.php?title=Pandie_Pandie_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Pandie Pandie Airport (page does not exist)\">Pandie Pandie Airport</a><sup id=\"cite_ref-IATA_1-32\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Pandie_Pandie_Station\" title=\"Pandie Pandie Station\">Pandie Pandie Station</a>, <a href=\"/wiki/South_Australia\" title=\"South Australia\">South Australia</a>, Australia</td>
+</tr>
+<tr>
+<td>PDF</td>
+<td>SIAJ</td>
+<td><a href=\"/w/index.php?title=Faz_Taua_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Faz Taua Airport (page does not exist)\">Faz Taua Airport</a><sup id=\"cite_ref-IATA_1-33\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Prado,_Bahia\" title=\"Prado, Bahia\">Prado</a>, <a href=\"/wiki/Bahia\" title=\"Bahia\">Bahia</a>, Brazil</td>
+</tr>
+<tr>
+<td>PDG</td>
+<td>WIPT</td>
+<td><a href=\"/wiki/Minangkabau_International_Airport\" title=\"Minangkabau International Airport\">Minangkabau International Airport</a></td>
+<td><a href=\"/wiki/Padang\" title=\"Padang\">Padang</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+</tr>
+<tr>
+<td>PDI</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Pindiu_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Pindiu Airport (page does not exist)\">Pindiu Airport</a><sup id=\"cite_ref-IATA_1-34\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Pindiu&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Pindiu (page does not exist)\">Pindiu</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>PDK</td>
+<td>KPDK</td>
+<td><a href=\"/wiki/DeKalb%E2%80%93Peachtree_Airport\" title=\"DeKalb\u2013Peachtree Airport\">DeKalb\u2013Peachtree Airport</a></td>
+<td><a href=\"/wiki/Atlanta\" title=\"Atlanta\">Atlanta</a>, <a href=\"/wiki/Georgia_(U.S._state)\" title=\"Georgia (U.S. state)\">Georgia</a>, United States</td>
+</tr>
+<tr>
+<td>PDL</td>
+<td>LPPD</td>
+<td><a href=\"/wiki/Jo%C3%A3o_Paulo_II_Airport\" title=\"Jo\u00e3o Paulo II Airport\">Jo\u00e3o Paulo II Airport</a></td>
+<td><a href=\"/wiki/Ponta_Delgada\" title=\"Ponta Delgada\">Ponta Delgada</a>, <a href=\"/wiki/Azores\" title=\"Azores\">Azores</a>, <a href=\"/wiki/Portugal\" title=\"Portugal\">Portugal</a></td>
+</tr>
+<tr>
+<td>PDM</td>
+<td></td>
+<td><a href=\"/wiki/Pedas%C3%AD_Airport\" title=\"Pedas\u00ed Airport\">Pedas\u00ed Airport</a><sup id=\"cite_ref-IATA_1-35\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (Capt. J. Montenegro Airport)</td>
+<td><a href=\"/wiki/Pedas%C3%AD_township,_Los_Santos\" class=\"mw-redirect\" title=\"Pedas\u00ed township, Los Santos\">Pedas\u00ed</a>, <a href=\"/wiki/Panama\" title=\"Panama\">Panama</a></td>
+</tr>
+<tr>
+<td>PDN</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Parndana_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Parndana Airport (page does not exist)\">Parndana Airport</a><sup id=\"cite_ref-IATA_1-36\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Parndana,_South_Australia\" title=\"Parndana, South Australia\">Parndana</a>, <a href=\"/wiki/South_Australia\" title=\"South Australia\">South Australia</a>, Australia</td>
+</tr>
+<tr>
+<td>PDO</td>
+<td>WIPQ</td>
+<td><a href=\"/w/index.php?title=Pendopo_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Pendopo Airport (page does not exist)\">Pendopo Airport</a><sup id=\"cite_ref-IATA_1-37\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Pendopo,_Indonesia&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Pendopo, Indonesia (page does not exist)\">Pendopo</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+</tr>
+<tr>
+<td>PDP</td>
+<td>SULS</td>
+<td><a href=\"/wiki/Capit%C3%A1n_de_Corbeta_Carlos_A._Curbelo_International_Airport\" title=\"Capit\u00e1n de Corbeta Carlos A. Curbelo International Airport\">Capit\u00e1n de Corbeta Carlos A. Curbelo International Airport</a></td>
+<td><a href=\"/wiki/Punta_del_Este\" title=\"Punta del Este\">Punta del Este</a>, <a href=\"/wiki/Uruguay\" title=\"Uruguay\">Uruguay</a></td>
+</tr>
+<tr>
+<td>PDR</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Presidente_Dutra_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Presidente Dutra Airport (page does not exist)\">Presidente Dutra Airport</a><sup id=\"cite_ref-IATA_1-38\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Presidente_Dutra,_Maranh%C3%A3o\" title=\"Presidente Dutra, Maranh\u00e3o\">Presidente Dutra</a>, <a href=\"/wiki/Maranh%C3%A3o\" title=\"Maranh\u00e3o\">Maranh\u00e3o</a>, Brazil</td>
+</tr>
+<tr>
+<td>PDS</td>
+<td>MMPG</td>
+<td><a href=\"/wiki/Piedras_Negras_International_Airport\" title=\"Piedras Negras International Airport\">Piedras Negras International Airport</a></td>
+<td><a href=\"/wiki/Piedras_Negras,_Coahuila\" title=\"Piedras Negras, Coahuila\">Piedras Negras</a>, <a href=\"/wiki/Coahuila\" title=\"Coahuila\">Coahuila</a>, Mexico</td>
+</tr>
+<tr>
+<td>PDT</td>
+<td>KPDT</td>
+<td><a href=\"/wiki/Eastern_Oregon_Regional_Airport\" title=\"Eastern Oregon Regional Airport\">Eastern Oregon Regional Airport</a></td>
+<td><a href=\"/wiki/Pendleton,_Oregon\" title=\"Pendleton, Oregon\">Pendleton</a>, <a href=\"/wiki/Oregon\" title=\"Oregon\">Oregon</a>, United States</td>
+</tr>
+<tr>
+<td>PDU</td>
+<td>SUPU</td>
+<td><a href=\"/wiki/Paysand%C3%BA_Airport\" title=\"Paysand\u00fa Airport\">Tydeo Larre Borges International Airport</a></td>
+<td><a href=\"/wiki/Paysand%C3%BA\" title=\"Paysand\u00fa\">Paysand\u00fa</a>, <a href=\"/wiki/Uruguay\" title=\"Uruguay\">Uruguay</a></td>
+</tr>
+<tr>
+<td>PDV</td>
+<td>LBPD</td>
+<td><a href=\"/wiki/Plovdiv_Airport\" title=\"Plovdiv Airport\">Plovdiv Airport</a></td>
+<td><a href=\"/wiki/Plovdiv\" title=\"Plovdiv\">Plovdiv</a>, <a href=\"/wiki/Bulgaria\" title=\"Bulgaria\">Bulgaria</a></td>
+</tr>
+<tr>
+<td>PDX</td>
+<td>KPDX</td>
+<td><a href=\"/wiki/Portland_International_Airport\" title=\"Portland International Airport\">Portland International Airport</a></td>
+<td><a href=\"/wiki/Portland,_Oregon\" title=\"Portland, Oregon\">Portland</a>, <a href=\"/wiki/Oregon\" title=\"Oregon\">Oregon</a>, United States</td>
+</tr>
+<tr>
+<td>PDZ</td>
+<td>SVPE</td>
+<td><a href=\"/wiki/Pedernales_Airport\" title=\"Pedernales Airport\">Pedernales Airport</a><sup id=\"cite_ref-IATA_1-39\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Pedernales,_Delta_Amacuro\" title=\"Pedernales, Delta Amacuro\">Pedernales</a>, <a href=\"/wiki/Venezuela\" title=\"Venezuela\">Venezuela</a></td>
+</tr>
+<tr>
+<td>PEA</td>
+<td>YPSH</td>
+<td><a href=\"/w/index.php?title=Penneshaw_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Penneshaw Airport (page does not exist)\">Penneshaw Airport</a><sup id=\"cite_ref-IATA_1-40\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Penneshaw,_South_Australia\" title=\"Penneshaw, South Australia\">Penneshaw</a>, <a href=\"/wiki/South_Australia\" title=\"South Australia\">South Australia</a>, Australia</td>
+</tr>
+<tr>
+<td>PEB</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Pebane_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Pebane Airport (page does not exist)\">Pebane Airport</a><sup id=\"cite_ref-IATA_1-41\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Pebane_District\" title=\"Pebane District\">Pebane</a>, <a href=\"/wiki/Mozambique\" title=\"Mozambique\">Mozambique</a></td>
+</tr>
+<tr>
+<td>PEC</td>
+<td></td>
+<td><a href=\"/wiki/Pelican_Seaplane_Base\" title=\"Pelican Seaplane Base\">Pelican Seaplane Base</a><sup id=\"cite_ref-IATA_1-42\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Pelican,_Alaska\" title=\"Pelican, Alaska\">Pelican</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>PED</td>
+<td>LKPD</td>
+<td><a href=\"/wiki/Pardubice_Airport\" title=\"Pardubice Airport\">Pardubice Airport</a></td>
+<td><a href=\"/wiki/Pardubice\" title=\"Pardubice\">Pardubice</a>, <a href=\"/wiki/Czech_Republic\" title=\"Czech Republic\">Czech Republic</a></td>
+</tr>
+<tr>
+<td>PEE</td>
+<td>USPP</td>
+<td><a href=\"/wiki/Perm_International_Airport\" title=\"Perm International Airport\">Perm International Airport</a> (Bolshoye Savino Airport)</td>
+<td><a href=\"/wiki/Perm\" title=\"Perm\">Perm</a>, <a href=\"/wiki/Perm_Krai\" title=\"Perm Krai\">Perm Krai</a>, Russia</td>
+</tr>
+<tr>
+<td>PEF</td>
+<td>EDCP</td>
+<td><a href=\"/wiki/Peenem%C3%BCnde_Airfield\" title=\"Peenem\u00fcnde Airfield\">Peenem\u00fcnde Airfield</a><sup id=\"cite_ref-IATA_1-43\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Peenem%C3%BCnde\" title=\"Peenem\u00fcnde\">Peenem\u00fcnde</a>, <a href=\"/wiki/Mecklenburg-Vorpommern\" title=\"Mecklenburg-Vorpommern\">Mecklenburg-Vorpommern</a>, Germany</td>
+</tr>
+<tr>
+<td>PEG</td>
+<td>LIRZ</td>
+<td><a href=\"/wiki/Perugia_San_Francesco_d%27Assisi_%E2%80%93_Umbria_International_Airport\" title=\"Perugia San Francesco d&#39;Assisi \u2013 Umbria International Airport\">Perugia San Francesco d'Assisi \u2013 Umbria International Airport</a></td>
+<td><a href=\"/wiki/Perugia\" title=\"Perugia\">Perugia</a>, <a href=\"/wiki/Umbria\" title=\"Umbria\">Umbria</a>, Italy</td>
+</tr>
+<tr>
+<td>PEH</td>
+<td>SAZP</td>
+<td><a href=\"/wiki/Comodoro_P._Zanni_Airport\" title=\"Comodoro P. Zanni Airport\">Comodoro Pedro Zanni Airport</a></td>
+<td><a href=\"/wiki/Pehuaj%C3%B3\" title=\"Pehuaj\u00f3\">Pehuaj\u00f3</a>, <a href=\"/wiki/Buenos_Aires_Province\" title=\"Buenos Aires Province\">Buenos Aires</a>, Argentina</td>
+</tr>
+<tr>
+<td>PEI</td>
+<td>SKPE</td>
+<td><a href=\"/wiki/Mateca%C3%B1a_International_Airport\" title=\"Mateca\u00f1a International Airport\">Mateca\u00f1a International Airport</a></td>
+<td><a href=\"/wiki/Pereira,_Colombia\" title=\"Pereira, Colombia\">Pereira</a>, <a href=\"/wiki/Colombia\" title=\"Colombia\">Colombia</a></td>
+</tr>
+<tr>
+<td>PEK</td>
+<td>ZBAA</td>
+<td><a href=\"/wiki/Beijing_Capital_International_Airport\" title=\"Beijing Capital International Airport\">Beijing Capital International Airport</a></td>
+<td><a href=\"/wiki/Beijing\" title=\"Beijing\">Beijing</a>, China</td>
+</tr>
+<tr>
+<td>PEL</td>
+<td>FXPG</td>
+<td><a href=\"/wiki/Pelaneng_Airport\" title=\"Pelaneng Airport\">Pelaneng Airport</a><sup id=\"cite_ref-IATA_1-44\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Pelaneng&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Pelaneng (page does not exist)\">Pelaneng</a>, <a href=\"/wiki/Lesotho\" title=\"Lesotho\">Lesotho</a></td>
+</tr>
+<tr>
+<td>PEM</td>
+<td>SPTU</td>
+<td><a href=\"/wiki/Padre_Aldamiz_International_Airport\" title=\"Padre Aldamiz International Airport\">Padre Aldamiz International Airport</a></td>
+<td><a href=\"/wiki/Puerto_Maldonado\" title=\"Puerto Maldonado\">Puerto Maldonado</a>, <a href=\"/wiki/Peru\" title=\"Peru\">Peru</a></td>
+</tr>
+<tr>
+<td>PEN</td>
+<td>WMKP</td>
+<td><a href=\"/wiki/Penang_International_Airport\" title=\"Penang International Airport\">Penang International Airport</a></td>
+<td><a href=\"/wiki/Penang\" title=\"Penang\">Penang</a>, Malaysia</td>
+</tr>
+<tr>
+<td>PEP</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Peppimenarti_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Peppimenarti Airport (page does not exist)\">Peppimenarti Airport</a><sup id=\"cite_ref-IATA_1-45\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Peppimenarti,_Northern_Territory\" title=\"Peppimenarti, Northern Territory\">Peppimenarti</a>, <a href=\"/wiki/Northern_Territory\" title=\"Northern Territory\">Northern Territory</a>, Australia</td>
+</tr>
+<tr>
+<td>PEQ</td>
+<td>KPEQ</td>
+<td><a href=\"/wiki/Pecos_Municipal_Airport\" title=\"Pecos Municipal Airport\">Pecos Municipal Airport</a></td>
+<td><a href=\"/wiki/Pecos,_Texas\" title=\"Pecos, Texas\">Pecos</a>, <a href=\"/wiki/Texas\" title=\"Texas\">Texas</a>, United States</td>
+</tr>
+<tr>
+<td>PER</td>
+<td>YPPH</td>
+<td><a href=\"/wiki/Perth_Airport\" title=\"Perth Airport\">Perth Airport</a></td>
+<td><a href=\"/wiki/Perth\" title=\"Perth\">Perth</a>, <a href=\"/wiki/Western_Australia\" title=\"Western Australia\">Western Australia</a>, Australia</td>
+</tr>
+<tr>
+<td>PES</td>
+<td>ULPB</td>
+<td><a href=\"/wiki/Petrozavodsk_Airport\" title=\"Petrozavodsk Airport\">Petrozavodsk Airport</a> (Besovets Airport)</td>
+<td><a href=\"/wiki/Petrozavodsk\" title=\"Petrozavodsk\">Petrozavodsk</a>, <a href=\"/wiki/Republic_of_Karelia\" title=\"Republic of Karelia\">Karelia</a>, Russia</td>
+</tr>
+<tr>
+<td>PET</td>
+<td>SBPK</td>
+<td><a href=\"/wiki/Pelotas_International_Airport\" title=\"Pelotas International Airport\">Jo\u00e3o Sim\u00f5es Lopes Neto International Airport</a></td>
+<td><a href=\"/wiki/Pelotas\" title=\"Pelotas\">Pelotas</a>, <a href=\"/wiki/Rio_Grande_do_Sul\" title=\"Rio Grande do Sul\">Rio Grande do Sul</a>, Brazil</td>
+</tr>
+<tr>
+<td>PEU</td>
+<td>MHPL</td>
+<td><a href=\"/wiki/Puerto_Lempira_Airport\" title=\"Puerto Lempira Airport\">Puerto Lempira Airport</a><sup id=\"cite_ref-IATA_1-46\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Puerto_Lempira\" title=\"Puerto Lempira\">Puerto Lempira</a>, <a href=\"/wiki/Honduras\" title=\"Honduras\">Honduras</a></td>
+</tr>
+<tr>
+<td>PEV</td>
+<td>LHPP</td>
+<td><a href=\"/wiki/P%C3%A9cs-Pog%C3%A1ny_International_Airport\" title=\"P\u00e9cs-Pog\u00e1ny International Airport\">P\u00e9cs-Pog\u00e1ny International Airport</a><sup id=\"cite_ref-IATA_1-47\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/P%C3%A9cs\" title=\"P\u00e9cs\">P\u00e9cs</a>, <a href=\"/wiki/Hungary\" title=\"Hungary\">Hungary</a></td>
+</tr>
+<tr>
+<td>PEW</td>
+<td>OPPS</td>
+<td><a href=\"/wiki/Bacha_Khan_International_Airport\" title=\"Bacha Khan International Airport\">Bacha Khan International Airport</a></td>
+<td><a href=\"/wiki/Peshawar\" title=\"Peshawar\">Peshawar</a>, <a href=\"/wiki/Pakistan\" title=\"Pakistan\">Pakistan</a></td>
+</tr>
+<tr>
+<td>PEX</td>
+<td>UUYP</td>
+<td><a href=\"/wiki/Pechora_Airport\" title=\"Pechora Airport\">Pechora Airport</a></td>
+<td><a href=\"/wiki/Pechora\" title=\"Pechora\">Pechora</a>, <a href=\"/wiki/Komi_Republic\" title=\"Komi Republic\">Komi Republic</a>, Russia</td>
+</tr>
+<tr>
+<td>PEY</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Penong_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Penong Airport (page does not exist)\">Penong Airport</a><sup id=\"cite_ref-IATA_1-48\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Penong,_South_Australia\" title=\"Penong, South Australia\">Penong</a>, <a href=\"/wiki/South_Australia\" title=\"South Australia\">South Australia</a>, Australia</td>
+</tr>
+<tr>
+<td>PEZ</td>
+<td>UWPP</td>
+<td><a href=\"/wiki/Penza_Airport\" title=\"Penza Airport\">Penza Airport</a> (Ternovka Airport)</td>
+<td><a href=\"/wiki/Penza\" title=\"Penza\">Penza</a>, <a href=\"/wiki/Penza_Oblast\" title=\"Penza Oblast\">Penza Oblast</a>, Russia</td>
+</tr>
+<tr>
+<td>PFB</td>
+<td>SBPF</td>
+<td><a href=\"/wiki/Lauro_Kurtz_Airport\" title=\"Lauro Kurtz Airport\">Lauro Kurtz Airport</a></td>
+<td><a href=\"/wiki/Passo_Fundo\" title=\"Passo Fundo\">Passo Fundo</a>, <a href=\"/wiki/Rio_Grande_do_Sul\" title=\"Rio Grande do Sul\">Rio Grande do Sul</a>, Brazil</td>
+</tr>
+<tr>
+<td>PFC</td>
+<td>KPFC</td>
+<td><a href=\"/wiki/Pacific_City_State_Airport\" title=\"Pacific City State Airport\">Pacific City State Airport</a></td>
+<td><a href=\"/wiki/Pacific_City,_Oregon\" title=\"Pacific City, Oregon\">Pacific City</a>, <a href=\"/wiki/Oregon\" title=\"Oregon\">Oregon</a>, United States</td>
+</tr>
+<tr>
+<td>PFJ</td>
+<td>BIPA</td>
+<td><a href=\"/wiki/Patreksfj%C3%B6r%C3%B0ur_Airport\" title=\"Patreksfj\u00f6r\u00f0ur Airport\">Patreksfj\u00f6r\u00f0ur Airport</a></td>
+<td><a href=\"/wiki/Patreksfj%C3%B6r%C3%B0ur\" title=\"Patreksfj\u00f6r\u00f0ur\">Patreksfj\u00f6r\u00f0ur</a>, <a href=\"/wiki/Iceland\" title=\"Iceland\">Iceland</a></td>
+</tr>
+<tr>
+<td>PFO</td>
+<td>LCPH</td>
+<td><a href=\"/wiki/Paphos_International_Airport\" title=\"Paphos International Airport\">Paphos International Airport</a></td>
+<td><a href=\"/wiki/Paphos\" title=\"Paphos\">Paphos</a>, <a href=\"/wiki/Cyprus\" title=\"Cyprus\">Cyprus</a></td>
+</tr>
+<tr>
+<td>PFQ</td>
+<td>OITP</td>
+<td><a href=\"/wiki/Parsabad-Moghan_Airport\" title=\"Parsabad-Moghan Airport\">Parsabad-Moghan Airport</a><sup id=\"cite_ref-IATA_1-49\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Parsabad\" title=\"Parsabad\">Parsabad</a>, <a href=\"/wiki/Iran\" title=\"Iran\">Iran</a></td>
+</tr>
+<tr>
+<td>PFR</td>
+<td>FZVS</td>
+<td><a href=\"/wiki/Ilebo_Airport\" title=\"Ilebo Airport\">Ilebo Airport</a><sup id=\"cite_ref-IATA_1-50\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Ilebo\" title=\"Ilebo\">Ilebo</a>, <a href=\"/wiki/Democratic_Republic_of_the_Congo\" title=\"Democratic Republic of the Congo\">Democratic Republic of the Congo</a></td>
+</tr>
+<tr>
+<td>PGA</td>
+<td>KPGA</td>
+<td><a href=\"/wiki/Page_Municipal_Airport\" title=\"Page Municipal Airport\">Page Municipal Airport</a></td>
+<td><a href=\"/wiki/Page,_Arizona\" title=\"Page, Arizona\">Page</a>, <a href=\"/wiki/Arizona\" title=\"Arizona\">Arizona</a>, United States</td>
+</tr>
+<tr>
+<td>PGB</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Pangoa_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Pangoa Airport (page does not exist)\">Pangoa Airport</a><sup id=\"cite_ref-IATA_1-51\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Pangoa&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Pangoa (page does not exist)\">Pangoa</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>PGC</td>
+<td></td>
+<td><a href=\"/wiki/Grant_County_Airport_(West_Virginia)\" title=\"Grant County Airport (West Virginia)\">Grant County Airport</a> (FAA: W99)</td>
+<td><a href=\"/wiki/Petersburg,_West_Virginia\" title=\"Petersburg, West Virginia\">Petersburg</a>, <a href=\"/wiki/West_Virginia\" title=\"West Virginia\">West Virginia</a>, United States</td>
+</tr>
+<tr>
+<td>PGD</td>
+<td>KPGD</td>
+<td><a href=\"/wiki/Punta_Gorda_Airport_(Florida)\" title=\"Punta Gorda Airport (Florida)\">Punta Gorda Airport</a></td>
+<td><a href=\"/wiki/Punta_Gorda,_Florida\" title=\"Punta Gorda, Florida\">Punta Gorda</a>, <a href=\"/wiki/Florida\" title=\"Florida\">Florida</a>, United States</td>
+</tr>
+<tr>
+<td>PGE</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Yegepa_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Yegepa Airport (page does not exist)\">Yegepa Airport</a></td>
+<td><a href=\"/w/index.php?title=Yegepa&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Yegepa (page does not exist)\">Yegepa</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>PGF</td>
+<td>LFMP</td>
+<td><a href=\"/wiki/Perpignan%E2%80%93Rivesaltes_Airport\" title=\"Perpignan\u2013Rivesaltes Airport\">Perpignan\u2013Rivesaltes Airport</a></td>
+<td><a href=\"/wiki/Perpignan\" title=\"Perpignan\">Perpignan</a>, <a href=\"/wiki/Languedoc-Roussillon\" title=\"Languedoc-Roussillon\">Languedoc-Roussillon</a>, France</td>
+</tr>
+<tr>
+<td>PGH</td>
+<td>VIPT</td>
+<td><a href=\"/wiki/Pantnagar_Airport\" title=\"Pantnagar Airport\">Pantnagar Airport</a><sup id=\"cite_ref-IATA_1-52\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Pantnagar\" title=\"Pantnagar\">Pantnagar</a>, <a href=\"/wiki/Uttarakhand\" title=\"Uttarakhand\">Uttarakhand</a>, India</td>
+</tr>
+<tr>
+<td>PGI</td>
+<td>FNCH</td>
+<td><a href=\"/wiki/Chitato_Airport\" title=\"Chitato Airport\">Chitato Airport</a><sup id=\"cite_ref-IATA_1-53\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Chitato\" title=\"Chitato\">Chitato</a>, <a href=\"/wiki/Angola\" title=\"Angola\">Angola</a></td>
+</tr>
+<tr>
+<td>PGK</td>
+<td>WIPK</td>
+<td><a href=\"/wiki/Depati_Amir_Airport\" title=\"Depati Amir Airport\">Depati Amir Airport</a><sup id=\"cite_ref-IATA_1-54\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Pangkal_Pinang\" title=\"Pangkal Pinang\">Pangkal Pinang</a> (Pangkalpinang), <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+</tr>
+<tr>
+<td>PGL</td>
+<td>KPQL</td>
+<td><a href=\"/wiki/Trent_Lott_International_Airport\" title=\"Trent Lott International Airport\">Trent Lott International Airport</a> (FAA: PQL)</td>
+<td><a href=\"/wiki/Pascagoula,_Mississippi\" title=\"Pascagoula, Mississippi\">Pascagoula</a>, <a href=\"/wiki/Mississippi\" title=\"Mississippi\">Mississippi</a>, United States</td>
+</tr>
+<tr>
+<td>PGM</td>
+<td></td>
+<td><a href=\"/wiki/Port_Graham_Airport\" title=\"Port Graham Airport\">Port Graham Airport</a></td>
+<td><a href=\"/wiki/Port_Graham,_Alaska\" title=\"Port Graham, Alaska\">Port Graham</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>PGN</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Pangia_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Pangia Airport (page does not exist)\">Pangia Airport</a><sup id=\"cite_ref-IATA_1-55\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Pangia,_Papua_New_Guinea&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Pangia, Papua New Guinea (page does not exist)\">Pangia</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>PGO</td>
+<td>KPSO</td>
+<td><a href=\"/wiki/Stevens_Field\" title=\"Stevens Field\">Stevens Field</a> (FAA: PSO)</td>
+<td><a href=\"/wiki/Pagosa_Springs,_Colorado\" title=\"Pagosa Springs, Colorado\">Pagosa Springs</a>, <a href=\"/wiki/Colorado\" title=\"Colorado\">Colorado</a>, United States</td>
+</tr>
+<tr>
+<td>PGR</td>
+<td>KPGR</td>
+<td><a href=\"/wiki/Kirk_Field\" title=\"Kirk Field\">Kirk Field</a></td>
+<td><a href=\"/wiki/Paragould,_Arkansas\" title=\"Paragould, Arkansas\">Paragould</a>, <a href=\"/wiki/Arkansas\" title=\"Arkansas\">Arkansas</a>, United States</td>
+</tr>
+<tr>
+<td>PGS</td>
+<td></td>
+<td><a href=\"/wiki/Grand_Canyon_Caverns_Airport\" title=\"Grand Canyon Caverns Airport\">Grand Canyon Caverns Airport</a> (FAA: L37)</td>
+<td><a href=\"/wiki/Peach_Springs,_Arizona\" title=\"Peach Springs, Arizona\">Peach Springs</a>, <a href=\"/wiki/Arizona\" title=\"Arizona\">Arizona</a>, United States</td>
+</tr>
+<tr>
+<td>PGU</td>
+<td>OIBP</td>
+<td><a href=\"/wiki/Persian_Gulf_Airport\" title=\"Persian Gulf Airport\">Persian Gulf Airport</a><sup id=\"cite_ref-IATA_1-56\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Asaluyeh\" title=\"Asaluyeh\">Asaluyeh</a> (Asaloyeh), <a href=\"/wiki/Iran\" title=\"Iran\">Iran</a></td>
+</tr>
+<tr>
+<td>PGV</td>
+<td>KPGV</td>
+<td><a href=\"/wiki/Pitt%E2%80%93Greenville_Airport\" title=\"Pitt\u2013Greenville Airport\">Pitt\u2013Greenville Airport</a></td>
+<td><a href=\"/wiki/Greenville,_North_Carolina\" title=\"Greenville, North Carolina\">Greenville</a>, <a href=\"/wiki/North_Carolina\" title=\"North Carolina\">North Carolina</a>, United States</td>
+</tr>
+<tr>
+<td>PGX</td>
+<td>LFBX</td>
+<td><a href=\"/wiki/P%C3%A9rigueux_Bassillac_Airport\" title=\"P\u00e9rigueux Bassillac Airport\">P\u00e9rigueux Bassillac Airport</a></td>
+<td><a href=\"/wiki/P%C3%A9rigueux\" title=\"P\u00e9rigueux\">P\u00e9rigueux</a>, <a href=\"/wiki/Aquitaine\" title=\"Aquitaine\">Aquitaine</a>, France</td>
+</tr>
+<tr>
+<td>PGZ</td>
+<td>SSZW</td>
+<td><a href=\"/wiki/Ponta_Grossa_Airport\" title=\"Ponta Grossa Airport\">Comte. Antonio Amilton Beraldo Airport</a><sup id=\"cite_ref-IATA_1-57\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Ponta_Grossa\" title=\"Ponta Grossa\">Ponta Grossa</a>, <a href=\"/wiki/Paran%C3%A1_(state)\" title=\"Paran\u00e1 (state)\">Paran\u00e1</a>, Brazil</td>
+</tr>
+<tr>
+<td>PHA</td>
+<td>VVPR</td>
+<td><a href=\"/wiki/Phan_Rang_Air_Base\" title=\"Phan Rang Air Base\">Phan Rang Air Base</a><sup id=\"cite_ref-IATA_1-58\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Phan_Rang%E2%80%93Th%C3%A1p_Ch%C3%A0m\" title=\"Phan Rang\u2013Th\u00e1p Ch\u00e0m\">Phan Rang\u2013Th\u00e1p Ch\u00e0m</a>, <a href=\"/wiki/Vietnam\" title=\"Vietnam\">Vietnam</a></td>
+</tr>
+<tr>
+<td>PHB</td>
+<td>SBPB</td>
+<td><a href=\"/wiki/Parna%C3%ADba-Prefeito_Dr._Jo%C3%A3o_Silva_Filho_International_Airport\" title=\"Parna\u00edba-Prefeito Dr. Jo\u00e3o Silva Filho International Airport\">Parna\u00edba-Prefeito Dr. Jo\u00e3o Silva Filho International Airport</a></td>
+<td><a href=\"/wiki/Parna%C3%ADba\" title=\"Parna\u00edba\">Parna\u00edba</a>, <a href=\"/wiki/Piau%C3%AD\" title=\"Piau\u00ed\">Piau\u00ed</a>, Brazil</td>
+</tr>
+<tr>
+<td>PHC</td>
+<td>DNPO</td>
+<td><a href=\"/wiki/Port_Harcourt_International_Airport\" title=\"Port Harcourt International Airport\">Port Harcourt International Airport</a></td>
+<td><a href=\"/wiki/Port_Harcourt\" title=\"Port Harcourt\">Port Harcourt</a>, <a href=\"/wiki/Nigeria\" title=\"Nigeria\">Nigeria</a></td>
+</tr>
+<tr>
+<td>PHD</td>
+<td>KPHD</td>
+<td><a href=\"/wiki/Harry_Clever_Field\" title=\"Harry Clever Field\">Harry Clever Field</a></td>
+<td><a href=\"/wiki/New_Philadelphia,_Ohio\" title=\"New Philadelphia, Ohio\">New Philadelphia</a>, <a href=\"/wiki/Ohio\" title=\"Ohio\">Ohio</a>, United States</td>
+</tr>
+<tr>
+<td>PHE</td>
+<td>YPPD</td>
+<td><a href=\"/wiki/Port_Hedland_International_Airport\" title=\"Port Hedland International Airport\">Port Hedland International Airport</a></td>
+<td><a href=\"/wiki/Port_Hedland,_Western_Australia\" title=\"Port Hedland, Western Australia\">Port Hedland</a>, <a href=\"/wiki/Western_Australia\" title=\"Western Australia\">Western Australia</a>, Australia</td>
+</tr>
+<tr>
+<td>PHF</td>
+<td>KPHF</td>
+<td><a href=\"/wiki/Newport_News/Williamsburg_International_Airport\" title=\"Newport News/Williamsburg International Airport\">Newport News/Williamsburg International Airport</a></td>
+<td><a href=\"/wiki/Newport_News,_Virginia\" title=\"Newport News, Virginia\">Newport News</a> / <a href=\"/wiki/Williamsburg,_Virginia\" title=\"Williamsburg, Virginia\">Williamsburg</a>, <a href=\"/wiki/Virginia\" title=\"Virginia\">Virginia</a>, United States</td>
+</tr>
+<tr>
+<td>PHG</td>
+<td></td>
+<td><a href=\"/wiki/Port_Harcourt_City_Airport\" title=\"Port Harcourt City Airport\">Port Harcourt City Airport</a><sup id=\"cite_ref-IATA_1-59\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Port_Harcourt\" title=\"Port Harcourt\">Port Harcourt</a>, <a href=\"/wiki/Nigeria\" title=\"Nigeria\">Nigeria</a></td>
+</tr>
+<tr>
+<td>PHI</td>
+<td>SNYE</td>
+<td><a href=\"/w/index.php?title=Pinheiro_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Pinheiro Airport (page does not exist)\">Pinheiro Airport</a><sup id=\"cite_ref-IATA_1-60\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Pinheiro,_Maranh%C3%A3o\" title=\"Pinheiro, Maranh\u00e3o\">Pinheiro</a>, <a href=\"/wiki/Maranh%C3%A3o\" title=\"Maranh\u00e3o\">Maranh\u00e3o</a>, Brazil</td>
+</tr>
+<tr>
+<td>PHK</td>
+<td>KPHK</td>
+<td><a href=\"/wiki/Palm_Beach_County_Glades_Airport\" title=\"Palm Beach County Glades Airport\">Palm Beach County Glades Airport</a></td>
+<td><a href=\"/wiki/Pahokee,_Florida\" title=\"Pahokee, Florida\">Pahokee</a>, <a href=\"/wiki/Florida\" title=\"Florida\">Florida</a>, United States</td>
+</tr>
+<tr>
+<td>PHL</td>
+<td>KPHL</td>
+<td><a href=\"/wiki/Philadelphia_International_Airport\" title=\"Philadelphia International Airport\">Philadelphia International Airport</a></td>
+<td><a href=\"/wiki/Philadelphia\" title=\"Philadelphia\">Philadelphia</a>, <a href=\"/wiki/Pennsylvania\" title=\"Pennsylvania\">Pennsylvania</a>, United States</td>
+</tr>
+<tr>
+<td>PHN</td>
+<td>KPHN</td>
+<td><a href=\"/wiki/St._Clair_County_International_Airport\" title=\"St. Clair County International Airport\">St. Clair County International Airport</a></td>
+<td><a href=\"/wiki/Port_Huron,_Michigan\" title=\"Port Huron, Michigan\">Port Huron</a>, <a href=\"/wiki/Michigan\" title=\"Michigan\">Michigan</a>, United States</td>
+</tr>
+<tr>
+<td>PHO</td>
+<td>PAPO</td>
+<td><a href=\"/wiki/Point_Hope_Airport\" title=\"Point Hope Airport\">Point Hope Airport</a></td>
+<td><a href=\"/wiki/Point_Hope,_Alaska\" title=\"Point Hope, Alaska\">Point Hope</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>PHP</td>
+<td>KPHP</td>
+<td><a href=\"/w/index.php?title=Philip_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Philip Airport (page does not exist)\">Philip Airport</a></td>
+<td><a href=\"/wiki/Philip,_South_Dakota\" title=\"Philip, South Dakota\">Philip</a>, <a href=\"/wiki/South_Dakota\" title=\"South Dakota\">South Dakota</a>, United States</td>
+</tr>
+<tr>
+<td>PHQ</td>
+<td>YTMO</td>
+<td><a href=\"/wiki/The_Monument_Airport\" title=\"The Monument Airport\">The Monument Airport</a><sup id=\"cite_ref-IATA_1-61\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Phosphate_Hill_Power_Station\" title=\"Phosphate Hill Power Station\">Phosphate Hill</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+</tr>
+<tr>
+<td>PHR</td>
+<td>NFND</td>
+<td><a href=\"/w/index.php?title=Pacific_Harbour_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Pacific Harbour Airport (page does not exist)\">Pacific Harbour Airport</a><sup id=\"cite_ref-IATA_1-62\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Pacific_Harbour\" title=\"Pacific Harbour\">Pacific Harbour</a>, <a href=\"/wiki/Fiji\" title=\"Fiji\">Fiji</a></td>
+</tr>
+<tr>
+<td>PHS</td>
+<td>VTPP</td>
+<td><a href=\"/wiki/Phitsanulok_Airport\" title=\"Phitsanulok Airport\">Phitsanulok Airport</a></td>
+<td><a href=\"/wiki/Phitsanulok\" title=\"Phitsanulok\">Phitsanulok</a>, <a href=\"/wiki/Thailand\" title=\"Thailand\">Thailand</a></td>
+</tr>
+<tr>
+<td>PHT</td>
+<td>KPHT</td>
+<td><a href=\"/wiki/Henry_County_Airport_(Tennessee)\" title=\"Henry County Airport (Tennessee)\">Henry County Airport</a></td>
+<td><a href=\"/wiki/Paris,_Tennessee\" title=\"Paris, Tennessee\">Paris</a>, <a href=\"/wiki/Tennessee\" title=\"Tennessee\">Tennessee</a>, United States</td>
+</tr>
+<tr>
+<td>PHW</td>
+<td>FAPH</td>
+<td><a href=\"/wiki/Hendrik_Van_Eck_Airport\" title=\"Hendrik Van Eck Airport\">Hendrik Van Eck Airport</a></td>
+<td><a href=\"/wiki/Phalaborwa\" title=\"Phalaborwa\">Phalaborwa</a>, <a href=\"/wiki/South_Africa\" title=\"South Africa\">South Africa</a></td>
+</tr>
+<tr>
+<td>PHX</td>
+<td>KPHX</td>
+<td><a href=\"/wiki/Phoenix_Sky_Harbor_International_Airport\" title=\"Phoenix Sky Harbor International Airport\">Phoenix Sky Harbor International Airport</a></td>
+<td><a href=\"/wiki/Phoenix,_Arizona\" title=\"Phoenix, Arizona\">Phoenix</a>, <a href=\"/wiki/Arizona\" title=\"Arizona\">Arizona</a>, United States</td>
+</tr>
+<tr>
+<td>PHY</td>
+<td>VTPB</td>
+<td><a href=\"/wiki/Phetchabun_Airport\" title=\"Phetchabun Airport\">Phetchabun Airport</a></td>
+<td><a href=\"/wiki/Phetchabun\" title=\"Phetchabun\">Phetchabun</a>, <a href=\"/wiki/Thailand\" title=\"Thailand\">Thailand</a></td>
+</tr>
+<tr>
+<td>PIA</td>
+<td>KPIA</td>
+<td><a href=\"/wiki/General_Wayne_A._Downing_Peoria_International_Airport\" title=\"General Wayne A. Downing Peoria International Airport\">General Wayne A. Downing Peoria International Airport</a></td>
+<td><a href=\"/wiki/Peoria,_Illinois\" title=\"Peoria, Illinois\">Peoria</a>, <a href=\"/wiki/Illinois\" title=\"Illinois\">Illinois</a>, United States</td>
+</tr>
+<tr>
+<td>PIB</td>
+<td>KPIB</td>
+<td><a href=\"/wiki/Hattiesburg%E2%80%93Laurel_Regional_Airport\" title=\"Hattiesburg\u2013Laurel Regional Airport\">Hattiesburg\u2013Laurel Regional Airport</a></td>
+<td><a href=\"/wiki/Hattiesburg,_Mississippi\" title=\"Hattiesburg, Mississippi\">Hattiesburg</a> / <a href=\"/wiki/Laurel,_Mississippi\" title=\"Laurel, Mississippi\">Laurel</a>, <a href=\"/wiki/Mississippi\" title=\"Mississippi\">Mississippi</a>, United States</td>
+</tr>
+<tr>
+<td>PIC</td>
+<td>MBPI</td>
+<td><a href=\"/wiki/Pine_Cay_Airport\" class=\"mw-redirect\" title=\"Pine Cay Airport\">Pine Cay Airport</a><sup id=\"cite_ref-IATA_1-63\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Pine_Cay\" title=\"Pine Cay\">Pine Cay</a>, <a href=\"/wiki/British_Overseas_Territory\" class=\"mw-redirect\" title=\"British Overseas Territory\">British Overseas Territory</a> of <a href=\"/wiki/Turks_and_Caicos_Islands\" title=\"Turks and Caicos Islands\">Turks and Caicos Islands</a></td>
+</tr>
+<tr>
+<td>PIE</td>
+<td>KPIE</td>
+<td><a href=\"/wiki/St._Pete%E2%80%93Clearwater_International_Airport\" title=\"St. Pete\u2013Clearwater International Airport\">St. Pete\u2013Clearwater International Airport</a></td>
+<td><a href=\"/wiki/St._Petersburg,_Florida\" title=\"St. Petersburg, Florida\">St. Petersburg</a> / <a href=\"/wiki/Clearwater,_Florida\" title=\"Clearwater, Florida\">Clearwater</a>, United States</td>
+</tr>
+<tr>
+<td>PIF</td>
+<td>RCDC<sup id=\"cite_ref-2\" class=\"reference\"><a href=\"#cite_note-2\">&#91;2&#93;</a></sup></td>
+<td><a href=\"/wiki/Pingtung_Airport\" title=\"Pingtung Airport\">Pingtung South Airport</a><sup id=\"cite_ref-IATA_1-64\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Pingtung_City\" title=\"Pingtung City\">Pingtung City</a>, <a href=\"/wiki/Taiwan\" title=\"Taiwan\">Taiwan</a></td>
+</tr>
+<tr>
+<td>PIH</td>
+<td>KPIH</td>
+<td><a href=\"/wiki/Pocatello_Regional_Airport\" title=\"Pocatello Regional Airport\">Pocatello Regional Airport</a></td>
+<td><a href=\"/wiki/Pocatello,_Idaho\" title=\"Pocatello, Idaho\">Pocatello</a>, <a href=\"/wiki/Idaho\" title=\"Idaho\">Idaho</a>, United States</td>
+</tr>
+<tr>
+<td>PIK</td>
+<td>EGPK</td>
+<td><a href=\"/wiki/Glasgow_Prestwick_Airport\" title=\"Glasgow Prestwick Airport\">Glasgow Prestwick Airport</a></td>
+<td><a href=\"/wiki/Glasgow\" title=\"Glasgow\">Glasgow</a>, <a href=\"/wiki/Scotland\" title=\"Scotland\">Scotland</a>, United Kingdom</td>
+</tr>
+<tr>
+<td>PIL</td>
+<td>SGPI</td>
+<td><a href=\"/wiki/Carlos_Miguel_Jim%C3%A9nez_Airport\" title=\"Carlos Miguel Jim\u00e9nez Airport\">Carlos Miguel Jim\u00e9nez Airport</a></td>
+<td><a href=\"/wiki/Pilar,_Paraguay\" title=\"Pilar, Paraguay\">Pilar</a>, <a href=\"/wiki/Paraguay\" title=\"Paraguay\">Paraguay</a></td>
+</tr>
+<tr>
+<td>PIM</td>
+<td>KPIM</td>
+<td><a href=\"/wiki/Harris_County_Airport\" title=\"Harris County Airport\">Harris County Airport</a></td>
+<td><a href=\"/wiki/Pine_Mountain,_Harris_County,_Georgia\" title=\"Pine Mountain, Harris County, Georgia\">Pine Mountain</a>, <a href=\"/wiki/Georgia_(U.S._state)\" title=\"Georgia (U.S. state)\">Georgia</a>, United States</td>
+</tr>
+<tr>
+<td>PIN</td>
+<td>SWPI</td>
+<td><a href=\"/wiki/Parintins_Airport\" title=\"Parintins Airport\">J\u00falio Bel\u00e9m Airport</a></td>
+<td><a href=\"/wiki/Parintins\" title=\"Parintins\">Parintins</a>, <a href=\"/wiki/Amazonas_(Brazilian_state)\" title=\"Amazonas (Brazilian state)\">Amazonas</a>, Brazil</td>
+</tr>
+<tr>
+<td>PIO</td>
+<td>SPSO</td>
+<td><a href=\"/wiki/Capit%C3%A1n_FAP_Ren%C3%A1n_El%C3%ADas_Olivera_Airport\" title=\"Capit\u00e1n FAP Ren\u00e1n El\u00edas Olivera Airport\">Capit\u00e1n FAP Ren\u00e1n El\u00edas Olivera Airport</a></td>
+<td><a href=\"/wiki/Pisco,_Peru\" title=\"Pisco, Peru\">Pisco</a>, <a href=\"/wiki/Peru\" title=\"Peru\">Peru</a></td>
+</tr>
+<tr>
+<td>PIP</td>
+<td>PAPN</td>
+<td><a href=\"/wiki/Pilot_Point_Airport\" title=\"Pilot Point Airport\">Pilot Point Airport</a> (FAA: PNP)</td>
+<td><a href=\"/wiki/Pilot_Point,_Alaska\" title=\"Pilot Point, Alaska\">Pilot Point</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>PIQ</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Pipillipai_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Pipillipai Airport (page does not exist)\">Pipillipai Airport</a><sup id=\"cite_ref-IATA_1-65\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Pipillipai&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Pipillipai (page does not exist)\">Pipillipai</a>, <a href=\"/wiki/Guyana\" title=\"Guyana\">Guyana</a></td>
+</tr>
+<tr>
+<td>PIR</td>
+<td>KPIR</td>
+<td><a href=\"/wiki/Pierre_Regional_Airport\" title=\"Pierre Regional Airport\">Pierre Regional Airport</a></td>
+<td><a href=\"/wiki/Pierre,_South_Dakota\" title=\"Pierre, South Dakota\">Pierre</a>, <a href=\"/wiki/South_Dakota\" title=\"South Dakota\">South Dakota</a>, United States</td>
+</tr>
+<tr>
+<td>PIS</td>
+<td>LFBI</td>
+<td><a href=\"/wiki/Poitiers%E2%80%93Biard_Airport\" title=\"Poitiers\u2013Biard Airport\">Poitiers\u2013Biard Airport</a></td>
+<td><a href=\"/wiki/Poitiers\" title=\"Poitiers\">Poitiers</a>, <a href=\"/wiki/Poitou-Charentes\" title=\"Poitou-Charentes\">Poitou-Charentes</a>, France</td>
+</tr>
+<tr>
+<td>PIT</td>
+<td>KPIT</td>
+<td><a href=\"/wiki/Pittsburgh_International_Airport\" title=\"Pittsburgh International Airport\">Pittsburgh International Airport</a></td>
+<td><a href=\"/wiki/Pittsburgh\" title=\"Pittsburgh\">Pittsburgh</a>, <a href=\"/wiki/Pennsylvania\" title=\"Pennsylvania\">Pennsylvania</a>, United States</td>
+</tr>
+<tr>
+<td>PIU</td>
+<td>SPUR</td>
+<td><a href=\"/wiki/FAP_Captain_Guillermo_Concha_Iberico_International_Airport\" title=\"FAP Captain Guillermo Concha Iberico International Airport\">FAP Captain Guillermo Concha Iberico International Airport</a></td>
+<td><a href=\"/wiki/Piura\" title=\"Piura\">Piura</a>, <a href=\"/wiki/Peru\" title=\"Peru\">Peru</a></td>
+</tr>
+<tr>
+<td>PIV</td>
+<td>SNPX</td>
+<td><a href=\"/w/index.php?title=Pirapora_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Pirapora Airport (page does not exist)\">Pirapora Airport</a><sup id=\"cite_ref-IATA_1-66\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Pirapora\" title=\"Pirapora\">Pirapora</a>, <a href=\"/wiki/Minas_Gerais\" title=\"Minas Gerais\">Minas Gerais</a>, Brazil</td>
+</tr>
+<tr>
+<td>PIW</td>
+<td>CZMN</td>
+<td><a href=\"/wiki/Pikwitonei_Airport\" title=\"Pikwitonei Airport\">Pikwitonei Airport</a><sup id=\"cite_ref-IATA_1-67\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Pikwitonei,_Manitoba\" class=\"mw-redirect\" title=\"Pikwitonei, Manitoba\">Pikwitonei</a>, <a href=\"/wiki/Manitoba\" title=\"Manitoba\">Manitoba</a>, Canada</td>
+</tr>
+<tr>
+<td>PIX</td>
+<td>LPPI</td>
+<td><a href=\"/wiki/Pico_Airport\" title=\"Pico Airport\">Pico Airport</a></td>
+<td><a href=\"/wiki/Pico_Island\" title=\"Pico Island\">Pico Island</a>, <a href=\"/wiki/Azores\" title=\"Azores\">Azores</a>, <a href=\"/wiki/Portugal\" title=\"Portugal\">Portugal</a></td>
+</tr>
+<tr>
+<td>PIZ</td>
+<td>PPIZ</td>
+<td><a href=\"/wiki/Point_Lay_LRRS_Airport\" title=\"Point Lay LRRS Airport\">Point Lay LRRS Airport</a></td>
+<td><a href=\"/wiki/Point_Lay,_Alaska\" title=\"Point Lay, Alaska\">Point Lay</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>PJA</td>
+<td>ESUP</td>
+<td><a href=\"/wiki/Pajala_Airport\" title=\"Pajala Airport\">Pajala Airport</a></td>
+<td><a href=\"/wiki/Pajala\" title=\"Pajala\">Pajala</a>, <a href=\"/wiki/Sweden\" title=\"Sweden\">Sweden</a></td>
+</tr>
+<tr>
+<td>PJB</td>
+<td>KPAN</td>
+<td><a href=\"/wiki/Payson_Airport\" title=\"Payson Airport\">Payson Airport</a> (FAA: PAN)</td>
+<td><a href=\"/wiki/Payson,_Arizona\" title=\"Payson, Arizona\">Payson</a>, <a href=\"/wiki/Arizona\" title=\"Arizona\">Arizona</a>, United States</td>
+</tr>
+<tr>
+<td>PJC</td>
+<td>SGPJ</td>
+<td><a href=\"/wiki/Dr._Augusto_Roberto_Fuster_International_Airport\" class=\"mw-redirect\" title=\"Dr. Augusto Roberto Fuster International Airport\">Dr. Augusto Roberto Fuster International Airport</a></td>
+<td><a href=\"/wiki/Pedro_Juan_Caballero,_Paraguay\" title=\"Pedro Juan Caballero, Paraguay\">Pedro Juan Caballero</a>, <a href=\"/wiki/Paraguay\" title=\"Paraguay\">Paraguay</a></td>
+</tr>
+<tr>
+<td>PJG</td>
+<td>OPPG</td>
+<td><a href=\"/wiki/Panjgur_Airport\" title=\"Panjgur Airport\">Panjgur Airport</a></td>
+<td><a href=\"/wiki/Panjgur\" title=\"Panjgur\">Panjgur</a>, <a href=\"/wiki/Pakistan\" title=\"Pakistan\">Pakistan</a></td>
+</tr>
+<tr>
+<td>PJM</td>
+<td>MRPJ</td>
+<td><a href=\"/wiki/Puerto_Jim%C3%A9nez_Airport\" title=\"Puerto Jim\u00e9nez Airport\">Puerto Jim\u00e9nez Airport</a></td>
+<td><a href=\"/wiki/Puerto_Jim%C3%A9nez\" title=\"Puerto Jim\u00e9nez\">Puerto Jim\u00e9nez</a>, <a href=\"/wiki/Costa_Rica\" title=\"Costa Rica\">Costa Rica</a></td>
+</tr>
+<tr>
+<td>PKA</td>
+<td>PAPK</td>
+<td><a href=\"/wiki/Napaskiak_Airport\" title=\"Napaskiak Airport\">Napaskiak Airport</a></td>
+<td><a href=\"/wiki/Napaskiak,_Alaska\" title=\"Napaskiak, Alaska\">Napaskiak</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>PKB</td>
+<td>KPKB</td>
+<td><a href=\"/wiki/Mid-Ohio_Valley_Regional_Airport\" title=\"Mid-Ohio Valley Regional Airport\">Mid-Ohio Valley Regional Airport</a></td>
+<td><a href=\"/wiki/Parkersburg,_West_Virginia\" title=\"Parkersburg, West Virginia\">Parkersburg</a>, <a href=\"/wiki/West_Virginia\" title=\"West Virginia\">West Virginia</a>, United States</td>
+</tr>
+<tr>
+<td>PKC</td>
+<td>UHPP</td>
+<td><a href=\"/wiki/Petropavlovsk-Kamchatsky_Airport\" title=\"Petropavlovsk-Kamchatsky Airport\">Petropavlovsk-Kamchatsky Airport</a> (Yelizovo Airport)</td>
+<td><a href=\"/wiki/Petropavlovsk-Kamchatsky\" title=\"Petropavlovsk-Kamchatsky\">Petropavlovsk-Kamchatsky</a>, <a href=\"/wiki/Kamchatka_Krai\" title=\"Kamchatka Krai\">Kamchatka Krai</a>, Russia</td>
+</tr>
+<tr>
+<td>PKD</td>
+<td>KPKD</td>
+<td><a href=\"/w/index.php?title=Park_Rapids_Municipal_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Park Rapids Municipal Airport (page does not exist)\">Park Rapids Municipal Airport</a> (Konshok Field)</td>
+<td><a href=\"/wiki/Park_Rapids,_Minnesota\" title=\"Park Rapids, Minnesota\">Park Rapids</a>, <a href=\"/wiki/Minnesota\" title=\"Minnesota\">Minnesota</a>, United States</td>
+</tr>
+<tr>
+<td>PKE</td>
+<td>YPKS</td>
+<td><a href=\"/wiki/Parkes_Airport\" title=\"Parkes Airport\">Parkes Airport</a><sup id=\"cite_ref-IATA_1-68\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Parkes,_New_South_Wales\" title=\"Parkes, New South Wales\">Parkes</a>, <a href=\"/wiki/New_South_Wales\" title=\"New South Wales\">New South Wales</a>, Australia</td>
+</tr>
+<tr>
+<td>PKF</td>
+<td>KPKF</td>
+<td><a href=\"/wiki/Park_Falls_Municipal_Airport\" title=\"Park Falls Municipal Airport\">Park Falls Municipal Airport</a></td>
+<td><a href=\"/wiki/Park_Falls,_Wisconsin\" title=\"Park Falls, Wisconsin\">Park Falls</a>, <a href=\"/wiki/Wisconsin\" title=\"Wisconsin\">Wisconsin</a>, United States</td>
+</tr>
+<tr>
+<td>PKG</td>
+<td>WMPA</td>
+<td><a href=\"/wiki/Pangkor_Airport\" title=\"Pangkor Airport\">Pangkor Airport</a><sup id=\"cite_ref-IATA_1-69\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Pangkor_Island\" title=\"Pangkor Island\">Pangkor Island</a>, <a href=\"/wiki/Perak\" title=\"Perak\">Perak</a>, Malaysia</td>
+</tr>
+<tr>
+<td>PKH</td>
+<td>LGHL</td>
+<td><a href=\"/wiki/Porto_Cheli_Airport\" title=\"Porto Cheli Airport\">Porto Cheli Airport</a></td>
+<td><a href=\"/wiki/Porto_Cheli\" title=\"Porto Cheli\">Porto Cheli</a> (Portochelion), <a href=\"/wiki/Greece\" title=\"Greece\">Greece</a></td>
+</tr>
+<tr>
+<td>PKJ</td>
+<td>MGPG</td>
+<td><a href=\"/wiki/Playa_Grande_Airport\" title=\"Playa Grande Airport\">Playa Grande Airport</a><sup id=\"cite_ref-IATA_1-70\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Playa_Grande,_Guatemala\" title=\"Playa Grande, Guatemala\">Playa Grande</a>, <a href=\"/wiki/Guatemala\" title=\"Guatemala\">Guatemala</a></td>
+</tr>
+<tr>
+<td>PKK</td>
+<td>VYPU</td>
+<td><a href=\"/wiki/Pakokku_Airport\" title=\"Pakokku Airport\">Pakokku Airport</a><sup id=\"cite_ref-IATA_1-71\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Pakokku\" title=\"Pakokku\">Pakokku</a>, <a href=\"/wiki/Myanmar\" title=\"Myanmar\">Myanmar</a></td>
+</tr>
+<tr>
+<td>PKM</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Port_Kaituma_Airstrip&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Port Kaituma Airstrip (page does not exist)\">Port Kaituma Airstrip</a><sup id=\"cite_ref-IATA_1-72\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Port_Kaituma\" title=\"Port Kaituma\">Port Kaituma</a>, <a href=\"/wiki/Guyana\" title=\"Guyana\">Guyana</a></td>
+</tr>
+<tr>
+<td>PKN</td>
+<td>WAOI</td>
+<td><a href=\"/wiki/Iskandar_Airport\" title=\"Iskandar Airport\">Iskandar Airport</a><sup id=\"cite_ref-IATA_1-73\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Pangkalan_Bun\" title=\"Pangkalan Bun\">Pangkalan Bun</a> (Pangkalanbuun), <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+</tr>
+<tr>
+<td>PKO</td>
+<td>DBBP</td>
+<td><a href=\"/wiki/Parakou_Airport\" title=\"Parakou Airport\">Parakou Airport</a></td>
+<td><a href=\"/wiki/Parakou\" title=\"Parakou\">Parakou</a>, <a href=\"/wiki/Benin\" title=\"Benin\">Benin</a></td>
+</tr>
+<tr>
+<td>PKP</td>
+<td>NTGP</td>
+<td><a href=\"/wiki/Puka-Puka_Airport\" title=\"Puka-Puka Airport\">Puka-Puka Airport</a><sup id=\"cite_ref-IATA_1-74\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Puka-Puka\" title=\"Puka-Puka\">Puka-Puka</a>, <a href=\"/wiki/Tuamotus\" title=\"Tuamotus\">Tuamotus</a>, <a href=\"/wiki/French_Polynesia\" title=\"French Polynesia\">French Polynesia</a></td>
+</tr>
+<tr>
+<td>PKR</td>
+<td>VNPK</td>
+<td><a href=\"/wiki/Pokhara_Airport\" title=\"Pokhara Airport\">Pokhara Airport</a></td>
+<td><a href=\"/wiki/Pokhara\" title=\"Pokhara\">Pokhara</a>, <a href=\"/wiki/Nepal\" title=\"Nepal\">Nepal</a></td>
+</tr>
+<tr>
+<td>PKT</td>
+<td>YKPT</td>
+<td><a href=\"/wiki/Port_Keats_Airfield\" title=\"Port Keats Airfield\">Port Keats Airfield</a></td>
+<td><a href=\"/wiki/Wadeye,_Northern_Territory\" title=\"Wadeye, Northern Territory\">Wadeye</a> (Port Keats), <a href=\"/wiki/Northern_Territory\" title=\"Northern Territory\">Northern Territory</a>, Australia</td>
+</tr>
+<tr>
+<td>PKU</td>
+<td>WIBB</td>
+<td><a href=\"/wiki/Sultan_Syarif_Kasim_II_International_Airport\" title=\"Sultan Syarif Kasim II International Airport\">Sultan Syarif Kasim II International Airport</a></td>
+<td><a href=\"/wiki/Pekanbaru\" title=\"Pekanbaru\">Pekanbaru</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+</tr>
+<tr>
+<td>PKV</td>
+<td>ULOO</td>
+<td><a href=\"/wiki/Pskov_Airport\" title=\"Pskov Airport\">Pskov Airport</a></td>
+<td><a href=\"/wiki/Pskov\" title=\"Pskov\">Pskov</a>, <a href=\"/wiki/Pskov_Oblast\" title=\"Pskov Oblast\">Pskov Oblast</a>, Russia</td>
+</tr>
+<tr>
+<td>PKW</td>
+<td>FBSP</td>
+<td><a href=\"/wiki/Selebi-Phikwe_Airport\" title=\"Selebi-Phikwe Airport\">Selebi-Phikwe Airport</a></td>
+<td><a href=\"/wiki/Selebi-Phikwe\" title=\"Selebi-Phikwe\">Selebi-Phikwe</a>, <a href=\"/wiki/Botswana\" title=\"Botswana\">Botswana</a></td>
+</tr>
+<tr>
+<td>PKX</td>
+<td>ZBAD</td>
+<td><a href=\"/wiki/Beijing_Daxing_International_Airport\" title=\"Beijing Daxing International Airport\">Beijing Daxing International Airport</a></td>
+<td>Beijing, China</td>
+</tr>
+<tr>
+<td>PKY</td>
+<td>WAGG</td>
+<td><a href=\"/wiki/Tjilik_Riwut_Airport\" title=\"Tjilik Riwut Airport\">Tjilik Riwut Airport</a><sup id=\"cite_ref-IATA_1-75\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Palangkaraya\" class=\"mw-redirect\" title=\"Palangkaraya\">Palangkaraya</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+</tr>
+<tr>
+<td>PKZ</td>
+<td>VLPS</td>
+<td><a href=\"/wiki/Pakse_International_Airport\" title=\"Pakse International Airport\">Pakse International Airport</a></td>
+<td><a href=\"/wiki/Pakse\" title=\"Pakse\">Pakse</a>, <a href=\"/wiki/Laos\" title=\"Laos\">Laos</a></td>
+</tr>
+<tr>
+<td>PLA</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Planadas_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Planadas Airport (page does not exist)\">Planadas Airport</a><sup id=\"cite_ref-IATA_1-76\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Planadas\" title=\"Planadas\">Planadas</a>, <a href=\"/wiki/Colombia\" title=\"Colombia\">Colombia</a></td>
+</tr>
+<tr>
+<td>PLC</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Planeta_Rica_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Planeta Rica Airport (page does not exist)\">Planeta Rica Airport</a><sup id=\"cite_ref-IATA_1-77\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Planeta_Rica\" title=\"Planeta Rica\">Planeta Rica</a>, <a href=\"/wiki/Colombia\" title=\"Colombia\">Colombia</a></td>
+</tr>
+<tr>
+<td>PLD</td>
+<td>MRCR</td>
+<td><a href=\"/wiki/Carrillo_Airport\" title=\"Carrillo Airport\">Carrillo Airport</a><sup id=\"cite_ref-IATA_1-78\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (Playa Samara/Carrillo Airport)</td>
+<td><a href=\"/wiki/S%C3%A1mara\" title=\"S\u00e1mara\">S\u00e1mara</a> / <a href=\"/wiki/Puerto_Carrillo\" title=\"Puerto Carrillo\">Puerto Carrillo</a>, <a href=\"/wiki/Costa_Rica\" title=\"Costa Rica\">Costa Rica</a></td>
+</tr>
+<tr>
+<td>PLE</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Paiela_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Paiela Airport (page does not exist)\">Paiela Airport</a></td>
+<td><a href=\"/w/index.php?title=Paiela,_Papua_New_Guinea&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Paiela, Papua New Guinea (page does not exist)\">Paiela</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>PLF</td>
+<td>FTTP</td>
+<td><a href=\"/wiki/Pala_Airport\" title=\"Pala Airport\">Pala Airport</a><sup id=\"cite_ref-IATA_1-79\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Pala,_Chad\" title=\"Pala, Chad\">Pala</a>, <a href=\"/wiki/Chad\" title=\"Chad\">Chad</a></td>
+</tr>
+<tr>
+<td>PLH</td>
+<td>EGHD</td>
+<td><a href=\"/wiki/Plymouth_City_Airport\" title=\"Plymouth City Airport\">Plymouth City Airport</a></td>
+<td><a href=\"/wiki/Plymouth\" title=\"Plymouth\">Plymouth</a>, <a href=\"/wiki/England\" title=\"England\">England</a>, United Kingdom</td>
+</tr>
+<tr>
+<td>PLI</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Palm_Island_Airport_(Grenadines)&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Palm Island Airport (Grenadines) (page does not exist)\">Palm Island Airport</a><sup id=\"cite_ref-IATA_1-80\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Palm_Island,_Grenadines\" title=\"Palm Island, Grenadines\">Palm Island</a>, <a href=\"/wiki/Saint_Vincent_and_the_Grenadines\" title=\"Saint Vincent and the Grenadines\">Saint Vincent and the Grenadines</a></td>
+</tr>
+<tr>
+<td>PLJ</td>
+<td></td>
+<td><a href=\"/wiki/Placencia_Airport\" title=\"Placencia Airport\">Placencia Airport</a></td>
+<td><a href=\"/wiki/Placencia\" title=\"Placencia\">Placencia</a>, <a href=\"/wiki/Belize\" title=\"Belize\">Belize</a></td>
+</tr>
+<tr>
+<td>PLK</td>
+<td>KPLK</td>
+<td><a href=\"/wiki/M._Graham_Clark_Downtown_Airport\" title=\"M. Graham Clark Downtown Airport\">M. Graham Clark Downtown Airport</a></td>
+<td><a href=\"/wiki/Point_Lookout,_Missouri\" title=\"Point Lookout, Missouri\">Point Lookout</a>, <a href=\"/wiki/Missouri\" title=\"Missouri\">Missouri</a>, United States</td>
+</tr>
+<tr>
+<td>PLL</td>
+<td>SBMN</td>
+<td><a href=\"/wiki/Manaus_Air_Force_Base\" title=\"Manaus Air Force Base\">Manaus Air Force Base</a></td>
+<td><a href=\"/wiki/Manaus\" title=\"Manaus\">Manaus</a>, <a href=\"/wiki/Amazonas_(Brazilian_state)\" title=\"Amazonas (Brazilian state)\">Amazonas</a>, Brazil</td>
+</tr>
+<tr>
+<td>PLM</td>
+<td>WIPP</td>
+<td><a href=\"/wiki/Sultan_Mahmud_Badaruddin_II_International_Airport\" title=\"Sultan Mahmud Badaruddin II International Airport\">Sultan Mahmud Badaruddin II International Airport</a></td>
+<td><a href=\"/wiki/Palembang\" title=\"Palembang\">Palembang</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+</tr>
+<tr>
+<td>PLN</td>
+<td>KPLN</td>
+<td><a href=\"/wiki/Pellston_Regional_Airport\" title=\"Pellston Regional Airport\">Pellston Regional Airport</a> (Emmet County)</td>
+<td><a href=\"/wiki/Pellston,_Michigan\" title=\"Pellston, Michigan\">Pellston</a>, <a href=\"/wiki/Michigan\" title=\"Michigan\">Michigan</a>, United States</td>
+</tr>
+<tr>
+<td>PLO</td>
+<td>YPLC</td>
+<td><a href=\"/wiki/Port_Lincoln_Airport\" title=\"Port Lincoln Airport\">Port Lincoln Airport</a></td>
+<td><a href=\"/wiki/Port_Lincoln\" title=\"Port Lincoln\">Port Lincoln</a>, <a href=\"/wiki/South_Australia\" title=\"South Australia\">South Australia</a>, Australia</td>
+</tr>
+<tr>
+<td>PLP</td>
+<td>MPLP</td>
+<td><a href=\"/wiki/Captain_Ramon_Xatruch_Airport\" title=\"Captain Ramon Xatruch Airport\">Captain Ramon Xatruch Airport</a><sup id=\"cite_ref-IATA_1-81\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/La_Palma,_Dari%C3%A9n\" title=\"La Palma, Dari\u00e9n\">La Palma</a>, <a href=\"/wiki/Panama\" title=\"Panama\">Panama</a></td>
+</tr>
+<tr>
+<td>PLQ</td>
+<td>EYPA</td>
+<td><a href=\"/wiki/Palanga_International_Airport\" title=\"Palanga International Airport\">Palanga International Airport</a></td>
+<td><a href=\"/wiki/Palanga\" title=\"Palanga\">Palanga</a>, <a href=\"/wiki/Lithuania\" title=\"Lithuania\">Lithuania</a></td>
+</tr>
+<tr>
+<td>PLR</td>
+<td>KPLR</td>
+<td><a href=\"/wiki/St._Clair_County_Airport\" title=\"St. Clair County Airport\">St. Clair County Airport</a></td>
+<td><a href=\"/wiki/Pell_City,_Alabama\" title=\"Pell City, Alabama\">Pell City</a>, <a href=\"/wiki/Alabama\" title=\"Alabama\">Alabama</a>, United States</td>
+</tr>
+<tr>
+<td>PLS</td>
+<td>MBPV</td>
+<td><a href=\"/wiki/Providenciales_International_Airport\" title=\"Providenciales International Airport\">Providenciales International Airport</a></td>
+<td><a href=\"/wiki/Providenciales\" title=\"Providenciales\">Providenciales</a>, <a href=\"/wiki/British_Overseas_Territory\" class=\"mw-redirect\" title=\"British Overseas Territory\">British Overseas Territory</a><br />of <a href=\"/wiki/Turks_and_Caicos_Islands\" title=\"Turks and Caicos Islands\">Turks and Caicos Islands</a></td>
+</tr>
+<tr>
+<td>PLT</td>
+<td>SKPL</td>
+<td><a href=\"/wiki/Plato_Airport\" title=\"Plato Airport\">Plato Airport</a><sup id=\"cite_ref-IATA_1-82\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Plato,_Magdalena\" title=\"Plato, Magdalena\">Plato</a>, <a href=\"/wiki/Colombia\" title=\"Colombia\">Colombia</a></td>
+</tr>
+<tr>
+<td>PLU</td>
+<td>SBBH</td>
+<td><a href=\"/wiki/Belo_Horizonte/Pampulha_%E2%80%93_Carlos_Drummond_de_Andrade_Airport\" title=\"Belo Horizonte/Pampulha \u2013 Carlos Drummond de Andrade Airport\">Belo Horizonte/Pampulha \u2013 Carlos Drummond de Andrade Airport</a></td>
+<td><a href=\"/wiki/Belo_Horizonte\" title=\"Belo Horizonte\">Belo Horizonte</a>, <a href=\"/wiki/Minas_Gerais\" title=\"Minas Gerais\">Minas Gerais</a>, Brazil</td>
+</tr>
+<tr>
+<td>PLV</td>
+<td>UKHP</td>
+<td><a href=\"/wiki/Poltava_Airport\" class=\"mw-redirect\" title=\"Poltava Airport\">Poltava Airport</a><sup id=\"cite_ref-IATA_1-83\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Poltava\" title=\"Poltava\">Poltava</a>, <a href=\"/wiki/Ukraine\" title=\"Ukraine\">Ukraine</a></td>
+</tr>
+<tr>
+<td>PLW</td>
+<td>WAFF</td>
+<td><a href=\"/wiki/Mutiara_Airport\" class=\"mw-redirect\" title=\"Mutiara Airport\">Mutiara Airport</a><sup id=\"cite_ref-IATA_1-84\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Palu\" title=\"Palu\">Palu</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+</tr>
+<tr>
+<td>PLX</td>
+<td>UASS</td>
+<td><a href=\"/wiki/Semey_Airport\" title=\"Semey Airport\">Semey Airport</a></td>
+<td><a href=\"/wiki/Semey\" title=\"Semey\">Semey</a>, <a href=\"/wiki/Kazakhstan\" title=\"Kazakhstan\">Kazakhstan</a></td>
+</tr>
+<tr>
+<td>PLY</td>
+<td></td>
+<td><a href=\"/wiki/Plymouth_Municipal_Airport_(Indiana)\" title=\"Plymouth Municipal Airport (Indiana)\">Plymouth Municipal Airport</a> (FAA: C65)</td>
+<td><a href=\"/wiki/Plymouth,_Indiana\" title=\"Plymouth, Indiana\">Plymouth</a>, <a href=\"/wiki/Indiana\" title=\"Indiana\">Indiana</a>, United States</td>
+</tr>
+<tr>
+<td>PLZ</td>
+<td>FAPE</td>
+<td><a href=\"/wiki/Port_Elizabeth_Airport\" class=\"mw-redirect\" title=\"Port Elizabeth Airport\">Port Elizabeth Airport</a></td>
+<td><a href=\"/wiki/Port_Elizabeth\" title=\"Port Elizabeth\">Port Elizabeth</a>, <a href=\"/wiki/South_Africa\" title=\"South Africa\">South Africa</a></td>
+</tr>
+<tr>
+<td>PMA</td>
+<td>HTPE</td>
+<td><a href=\"/wiki/Pemba_Airport_(Tanzania)\" title=\"Pemba Airport (Tanzania)\">Pemba Airport</a><sup id=\"cite_ref-IATA_1-85\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Pemba_Island\" title=\"Pemba Island\">Pemba Island</a>, <a href=\"/wiki/Tanzania\" title=\"Tanzania\">Tanzania</a></td>
+</tr>
+<tr>
+<td>PMB</td>
+<td>KPMB</td>
+<td><a href=\"/wiki/Pembina_Municipal_Airport\" title=\"Pembina Municipal Airport\">Pembina Municipal Airport</a></td>
+<td><a href=\"/wiki/Pembina,_North_Dakota\" title=\"Pembina, North Dakota\">Pembina</a>, <a href=\"/wiki/North_Dakota\" title=\"North Dakota\">North Dakota</a>, United States</td>
+</tr>
+<tr>
+<td>PMC</td>
+<td>SCTE</td>
+<td><a href=\"/wiki/El_Tepual_Airport\" title=\"El Tepual Airport\">El Tepual Airport</a></td>
+<td><a href=\"/wiki/Puerto_Montt\" title=\"Puerto Montt\">Puerto Montt</a>, <a href=\"/wiki/Chile\" title=\"Chile\">Chile</a></td>
+</tr>
+<tr>
+<td>PMD</td>
+<td>KPMD</td>
+<td><a href=\"/wiki/Palmdale_Regional_Airport\" title=\"Palmdale Regional Airport\">Palmdale Regional Airport</a></td>
+<td><a href=\"/wiki/Palmdale,_California\" title=\"Palmdale, California\">Palmdale</a>, <a href=\"/wiki/California\" title=\"California\">California</a>, United States</td>
+</tr>
+<tr>
+<td>PMF</td>
+<td>LIMP</td>
+<td><a href=\"/wiki/Parma_Airport\" title=\"Parma Airport\">Parma Airport</a> (Giuseppe Verdi Airport)</td>
+<td><a href=\"/wiki/Parma\" title=\"Parma\">Parma</a>, <a href=\"/wiki/Emilia-Romagna\" title=\"Emilia-Romagna\">Emilia-Romagna</a>, Italy</td>
+</tr>
+<tr>
+<td>PMG</td>
+<td>SBPP</td>
+<td><a href=\"/wiki/Ponta_Por%C3%A3_International_Airport\" title=\"Ponta Por\u00e3 International Airport\">Ponta Por\u00e3 International Airport</a></td>
+<td><a href=\"/wiki/Ponta_Por%C3%A3\" title=\"Ponta Por\u00e3\">Ponta Por\u00e3</a>, <a href=\"/wiki/Mato_Grosso_do_Sul\" title=\"Mato Grosso do Sul\">Mato Grosso do Sul</a>, Brazil</td>
+</tr>
+<tr>
+<td>PMH</td>
+<td>KPMH</td>
+<td><a href=\"/wiki/Greater_Portsmouth_Regional_Airport\" title=\"Greater Portsmouth Regional Airport\">Greater Portsmouth Regional Airport</a></td>
+<td><a href=\"/wiki/Portsmouth,_Ohio\" title=\"Portsmouth, Ohio\">Portsmouth</a>, <a href=\"/wiki/Ohio\" title=\"Ohio\">Ohio</a>, United States</td>
+</tr>
+<tr>
+<td>PMI</td>
+<td>LEPA</td>
+<td><a href=\"/wiki/Palma_de_Mallorca_Airport\" title=\"Palma de Mallorca Airport\">Palma de Mallorca Airport</a></td>
+<td><a href=\"/wiki/Palma,_Majorca\" class=\"mw-redirect\" title=\"Palma, Majorca\">Palma de Mallorca</a>, <a href=\"/wiki/Balearic_Islands\" title=\"Balearic Islands\">Balearic Islands</a>, Spain</td>
+</tr>
+<tr>
+<td>PMK</td>
+<td>YPAM</td>
+<td><a href=\"/wiki/Palm_Island_Airport\" title=\"Palm Island Airport\">Palm Island Airport</a><sup id=\"cite_ref-IATA_1-86\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Palm_Island,_Queensland\" title=\"Palm Island, Queensland\">Palm Island</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+</tr>
+<tr>
+<td>PML</td>
+<td>PAAL</td>
+<td><a href=\"/wiki/Port_Moller_Airport\" title=\"Port Moller Airport\">Port Moller Airport</a> (FAA: 1AK3)</td>
+<td><a href=\"/wiki/Cold_Bay,_Alaska\" title=\"Cold Bay, Alaska\">Cold Bay</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>PMM</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Phanom_Sarakham_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Phanom Sarakham Airport (page does not exist)\">Phanom Sarakham Airport</a><sup id=\"cite_ref-IATA_1-87\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Phanom_Sarakham_District\" title=\"Phanom Sarakham District\">Phanom Sarakham</a>, <a href=\"/wiki/Thailand\" title=\"Thailand\">Thailand</a></td>
+</tr>
+<tr>
+<td>PMN</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Pumani_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Pumani Airport (page does not exist)\">Pumani Airport</a><sup id=\"cite_ref-IATA_1-88\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Pumani,_Papua_New_Guinea&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Pumani, Papua New Guinea (page does not exist)\">Pumani</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>PMO</td>
+<td>LICJ</td>
+<td><a href=\"/wiki/Falcone%E2%80%93Borsellino_Airport\" class=\"mw-redirect\" title=\"Falcone\u2013Borsellino Airport\">Falcone\u2013Borsellino Airport</a> (Punta Raisi Airport)</td>
+<td><a href=\"/wiki/Palermo\" title=\"Palermo\">Palermo</a>, <a href=\"/wiki/Sicily\" title=\"Sicily\">Sicily</a>, Italy</td>
+</tr>
+<tr>
+<td>PMP</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Pimaga_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Pimaga Airport (page does not exist)\">Pimaga Airport</a></td>
+<td><a href=\"/w/index.php?title=Pimaga&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Pimaga (page does not exist)\">Pimaga</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>PMQ</td>
+<td>SAWP</td>
+<td><a href=\"/wiki/Perito_Moreno_Airport\" title=\"Perito Moreno Airport\">Perito Moreno Airport</a></td>
+<td><a href=\"/wiki/Perito_Moreno,_Santa_Cruz\" title=\"Perito Moreno, Santa Cruz\">Perito Moreno</a>, <a href=\"/wiki/Santa_Cruz_Province,_Argentina\" title=\"Santa Cruz Province, Argentina\">Santa Cruz</a>, Argentina</td>
+</tr>
+<tr>
+<td>PMR</td>
+<td>NZPM</td>
+<td><a href=\"/wiki/Palmerston_North_Airport\" title=\"Palmerston North Airport\">Palmerston North Airport</a></td>
+<td><a href=\"/wiki/Palmerston_North\" title=\"Palmerston North\">Palmerston North</a>, <a href=\"/wiki/New_Zealand\" title=\"New Zealand\">New Zealand</a></td>
+</tr>
+<tr>
+<td>PMS</td>
+<td>OSPR</td>
+<td><a href=\"/wiki/Palmyra_Airport\" title=\"Palmyra Airport\">Palmyra Airport</a></td>
+<td><a href=\"/wiki/Palmyra\" title=\"Palmyra\">Palmyra</a> (Tadmur), <a href=\"/wiki/Syria\" title=\"Syria\">Syria</a></td>
+</tr>
+<tr>
+<td>PMT</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Paramakatoi_Airstrip&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Paramakatoi Airstrip (page does not exist)\">Paramakatoi Airstrip</a><sup id=\"cite_ref-IATA_1-89\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Paramakatoi\" title=\"Paramakatoi\">Paramakatoi</a>, <a href=\"/wiki/Guyana\" title=\"Guyana\">Guyana</a></td>
+</tr>
+<tr>
+<td>PMV</td>
+<td>SVMG</td>
+<td><a href=\"/wiki/Santiago_Mari%C3%B1o_Caribbean_International_Airport\" title=\"Santiago Mari\u00f1o Caribbean International Airport\">Santiago Mari\u00f1o Caribbean International Airport</a></td>
+<td><a href=\"/wiki/Porlamar\" title=\"Porlamar\">Porlamar</a>, <a href=\"/wiki/Venezuela\" title=\"Venezuela\">Venezuela</a></td>
+</tr>
+<tr>
+<td>PMW</td>
+<td>SBPJ</td>
+<td><a href=\"/wiki/Palmas_Airport\" title=\"Palmas Airport\">Palmas\u2013Brigadeiro Lysias Rodrigues Airport</a></td>
+<td><a href=\"/wiki/Palmas,_Tocantins\" title=\"Palmas, Tocantins\">Palmas</a>, <a href=\"/wiki/Tocantins\" title=\"Tocantins\">Tocantins</a>, Brazil</td>
+</tr>
+<tr>
+<td>PMX</td>
+<td></td>
+<td><a href=\"/wiki/Metropolitan_Airport\" title=\"Metropolitan Airport\">Metropolitan Airport</a><sup id=\"cite_ref-IATA_1-90\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (FAA: 13MA)</td>
+<td><a href=\"/wiki/Palmer,_Massachusetts\" title=\"Palmer, Massachusetts\">Palmer</a>, <a href=\"/wiki/Massachusetts\" title=\"Massachusetts\">Massachusetts</a>, United States</td>
+</tr>
+<tr>
+<td>PMY</td>
+<td>SAVY</td>
+<td><a href=\"/wiki/El_Tehuelche_Airport\" title=\"El Tehuelche Airport\">El Tehuelche Airport</a></td>
+<td><a href=\"/wiki/Puerto_Madryn\" title=\"Puerto Madryn\">Puerto Madryn</a>, <a href=\"/wiki/Chubut_Province\" title=\"Chubut Province\">Chubut</a>, Argentina</td>
+</tr>
+<tr>
+<td>PMZ</td>
+<td>MRPM</td>
+<td><a href=\"/wiki/Palmar_Sur_Airport\" title=\"Palmar Sur Airport\">Palmar Sur Airport</a></td>
+<td><a href=\"/wiki/Palmar_Sur\" title=\"Palmar Sur\">Palmar Sur</a>, <a href=\"/wiki/Costa_Rica\" title=\"Costa Rica\">Costa Rica</a></td>
+</tr>
+<tr>
+<td>PNA</td>
+<td>LEPP</td>
+<td><a href=\"/wiki/Pamplona_Airport\" title=\"Pamplona Airport\">Pamplona Airport</a></td>
+<td><a href=\"/wiki/Pamplona\" title=\"Pamplona\">Pamplona</a>, <a href=\"/wiki/Navarre\" title=\"Navarre\">Navarre</a>, Spain</td>
+</tr>
+<tr>
+<td>PNB</td>
+<td>SBPN</td>
+<td><a href=\"/w/index.php?title=Porto_Nacional_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Porto Nacional Airport (page does not exist)\">Porto Nacional Airport</a><sup id=\"cite_ref-IATA_1-91\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Porto_Nacional\" title=\"Porto Nacional\">Porto Nacional</a>, <a href=\"/wiki/Tocantins\" title=\"Tocantins\">Tocantins</a>, Brazil</td>
+</tr>
+<tr>
+<td>PNC</td>
+<td>KPNC</td>
+<td><a href=\"/wiki/Ponca_City_Regional_Airport\" title=\"Ponca City Regional Airport\">Ponca City Regional Airport</a></td>
+<td><a href=\"/wiki/Ponca_City,_Oklahoma\" title=\"Ponca City, Oklahoma\">Ponca City</a>, <a href=\"/wiki/Oklahoma\" title=\"Oklahoma\">Oklahoma</a>, United States</td>
+</tr>
+<tr>
+<td>PND</td>
+<td></td>
+<td><a href=\"/wiki/Punta_Gorda_Airport_(Belize)\" title=\"Punta Gorda Airport (Belize)\">Punta Gorda Airport</a><sup id=\"cite_ref-IATA_1-92\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Punta_Gorda,_Belize\" title=\"Punta Gorda, Belize\">Punta Gorda</a>, <a href=\"/wiki/Belize\" title=\"Belize\">Belize</a></td>
+</tr>
+<tr>
+<td>PNE</td>
+<td>KPNE</td>
+<td><a href=\"/wiki/Northeast_Philadelphia_Airport\" title=\"Northeast Philadelphia Airport\">Northeast Philadelphia Airport</a></td>
+<td><a href=\"/wiki/Philadelphia\" title=\"Philadelphia\">Philadelphia</a>, <a href=\"/wiki/Pennsylvania\" title=\"Pennsylvania\">Pennsylvania</a>, United States</td>
+</tr>
+<tr>
+<td>PNG</td>
+<td>SSPG</td>
+<td><a href=\"/wiki/Paranagu%C3%A1_Airport\" title=\"Paranagu\u00e1 Airport\">Santos Dumont Airport</a><sup id=\"cite_ref-IATA_1-93\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Paranagu%C3%A1\" title=\"Paranagu\u00e1\">Paranagu\u00e1</a>, <a href=\"/wiki/Paran%C3%A1_(state)\" title=\"Paran\u00e1 (state)\">Paran\u00e1</a>, Brazil</td>
+</tr>
+<tr>
+<td>PNH</td>
+<td>VDPP</td>
+<td><a href=\"/wiki/Phnom_Penh_International_Airport\" title=\"Phnom Penh International Airport\">Phnom Penh International Airport</a></td>
+<td><a href=\"/wiki/Phnom_Penh\" title=\"Phnom Penh\">Phnom Penh</a>, <a href=\"/wiki/Cambodia\" title=\"Cambodia\">Cambodia</a></td>
+</tr>
+<tr>
+<td>PNI</td>
+<td>PTPN</td>
+<td><a href=\"/wiki/Pohnpei_International_Airport\" title=\"Pohnpei International Airport\">Pohnpei International Airport</a></td>
+<td><a href=\"/wiki/Pohnpei\" title=\"Pohnpei\">Pohnpei</a>, <a href=\"/wiki/Federated_States_of_Micronesia\" title=\"Federated States of Micronesia\">Federated States of Micronesia</a></td>
+</tr>
+<tr>
+<td>PNJ</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Penglai_Shahekou_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Penglai Shahekou Airport (page does not exist)\">Penglai Shahekou Airport</a><sup id=\"cite_ref-IATA_1-94\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Penglai,_Shandong\" title=\"Penglai, Shandong\">Penglai</a>, <a href=\"/wiki/Shandong\" title=\"Shandong\">Shandong</a>, China</td>
+</tr>
+<tr>
+<td>PNK</td>
+<td>WIOO</td>
+<td><a href=\"/wiki/Supadio_Airport\" class=\"mw-redirect\" title=\"Supadio Airport\">Supadio Airport</a></td>
+<td><a href=\"/wiki/Pontianak,_Indonesia\" class=\"mw-redirect\" title=\"Pontianak, Indonesia\">Pontianak</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+</tr>
+<tr>
+<td>PNL</td>
+<td>LICG</td>
+<td><a href=\"/wiki/Pantelleria_Airport\" title=\"Pantelleria Airport\">Pantelleria Airport</a><sup id=\"cite_ref-IATA_1-95\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Pantelleria\" title=\"Pantelleria\">Pantelleria</a>, <a href=\"/wiki/Sicily\" title=\"Sicily\">Sicily</a>, Italy</td>
+</tr>
+<tr>
+<td>PNN</td>
+<td>KPNN</td>
+<td><a href=\"/wiki/Princeton_Municipal_Airport_(Maine)\" title=\"Princeton Municipal Airport (Maine)\">Princeton Municipal Airport</a></td>
+<td><a href=\"/wiki/Princeton,_Maine\" title=\"Princeton, Maine\">Princeton</a>, <a href=\"/wiki/Maine\" title=\"Maine\">Maine</a>, United States</td>
+</tr>
+<tr>
+<td>PNP</td>
+<td>AYGR</td>
+<td><a href=\"/wiki/Girua_Airport\" title=\"Girua Airport\">Girua Airport</a><sup id=\"cite_ref-IATA_1-96\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Popondetta\" title=\"Popondetta\">Popondetta</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>PNQ</td>
+<td>VAPO</td>
+<td><a href=\"/wiki/Pune_Airport\" title=\"Pune Airport\">Pune Airport</a></td>
+<td><a href=\"/wiki/Pune\" title=\"Pune\">Pune</a>, <a href=\"/wiki/Maharashtra\" title=\"Maharashtra\">Maharashtra</a>, India</td>
+</tr>
+<tr>
+<td>PNR</td>
+<td>FCPP</td>
+<td><a href=\"/wiki/Pointe_Noire_Airport\" class=\"mw-redirect\" title=\"Pointe Noire Airport\">Pointe Noire Airport</a></td>
+<td><a href=\"/wiki/Pointe-Noire\" title=\"Pointe-Noire\">Pointe-Noire</a>, <a href=\"/wiki/Republic_of_the_Congo\" title=\"Republic of the Congo\">Republic of the Congo</a></td>
+</tr>
+<tr>
+<td>PNS</td>
+<td>KPNS</td>
+<td><a href=\"/wiki/Pensacola_International_Airport\" title=\"Pensacola International Airport\">Pensacola International Airport</a></td>
+<td><a href=\"/wiki/Pensacola,_Florida\" title=\"Pensacola, Florida\">Pensacola</a>, <a href=\"/wiki/Florida\" title=\"Florida\">Florida</a>, United States</td>
+</tr>
+<tr>
+<td>PNT</td>
+<td>SCNT</td>
+<td><a href=\"/wiki/Teniente_Julio_Gallardo_Airport\" title=\"Teniente Julio Gallardo Airport\">Teniente Julio Gallardo Airport</a></td>
+<td><a href=\"/wiki/Puerto_Natales\" title=\"Puerto Natales\">Puerto Natales</a>, <a href=\"/wiki/Chile\" title=\"Chile\">Chile</a></td>
+</tr>
+<tr>
+<td>PNU</td>
+<td></td>
+<td><a href=\"/wiki/Panguitch_Municipal_Airport\" title=\"Panguitch Municipal Airport\">Panguitch Municipal Airport</a> (FAA: U55)</td>
+<td><a href=\"/wiki/Panguitch,_Utah\" title=\"Panguitch, Utah\">Panguitch</a>, <a href=\"/wiki/Utah\" title=\"Utah\">Utah</a>, United States</td>
+</tr>
+<tr>
+<td>PNV</td>
+<td>EYPP</td>
+<td><a href=\"/wiki/Panev%C4%97%C5%BEys_Air_Base\" title=\"Panev\u0117\u017eys Air Base\">Panev\u0117\u017eys Air Base</a><sup id=\"cite_ref-IATA_1-97\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (Pajuostis Airport)</td>
+<td><a href=\"/wiki/Panev%C4%97%C5%BEys\" title=\"Panev\u0117\u017eys\">Panev\u0117\u017eys</a>, <a href=\"/wiki/Lithuania\" title=\"Lithuania\">Lithuania</a></td>
+</tr>
+<tr>
+<td>PNX</td>
+<td>KGYI</td>
+<td><a href=\"/wiki/North_Texas_Regional_Airport\" title=\"North Texas Regional Airport\">North Texas Regional Airport</a> (FAA: GYI)</td>
+<td><a href=\"/wiki/Sherman,_Texas\" title=\"Sherman, Texas\">Sherman</a> / <a href=\"/wiki/Denison,_Texas\" title=\"Denison, Texas\">Denison</a>, <a href=\"/wiki/Texas\" title=\"Texas\">Texas</a>, United States</td>
+</tr>
+<tr>
+<td>PNY</td>
+<td>VOTY</td>
+<td><a href=\"/wiki/Puducherry_Airport\" title=\"Puducherry Airport\">Puducherry Airport</a></td>
+<td><a href=\"/wiki/Pondicherry\" title=\"Pondicherry\">Pondicherry</a>, <a href=\"/wiki/Puducherry\" title=\"Puducherry\">Puducherry</a>, India</td>
+</tr>
+<tr>
+<td>PNZ</td>
+<td>SBPL</td>
+<td><a href=\"/wiki/Petrolina_Airport\" title=\"Petrolina Airport\">Senador Nilo Coelho Airport</a></td>
+<td><a href=\"/wiki/Petrolina\" title=\"Petrolina\">Petrolina</a>, <a href=\"/wiki/Pernambuco\" title=\"Pernambuco\">Pernambuco</a>, Brazil</td>
+</tr>
+<tr>
+<td>POA</td>
+<td>SBPA</td>
+<td><a href=\"/wiki/Salgado_Filho_International_Airport\" title=\"Salgado Filho International Airport\">Salgado Filho International Airport</a></td>
+<td><a href=\"/wiki/Porto_Alegre\" title=\"Porto Alegre\">Porto Alegre</a>, <a href=\"/wiki/Rio_Grande_do_Sul\" title=\"Rio Grande do Sul\">Rio Grande do Sul</a>, Brazil</td>
+</tr>
+<tr>
+<td>POB</td>
+<td>KPOB</td>
+<td><a href=\"/wiki/Pope_Field\" title=\"Pope Field\">Pope Field</a> (Pope AFB)</td>
+<td><a href=\"/wiki/Fort_Bragg\" title=\"Fort Bragg\">Fort Bragg</a>, <a href=\"/wiki/North_Carolina\" title=\"North Carolina\">North Carolina</a>, United States</td>
+</tr>
+<tr>
+<td>POC</td>
+<td>KPOC</td>
+<td><a href=\"/wiki/Brackett_Field\" title=\"Brackett Field\">Brackett Field</a></td>
+<td><a href=\"/wiki/La_Verne,_California\" title=\"La Verne, California\">La Verne</a>, <a href=\"/wiki/California\" title=\"California\">California</a>, United States</td>
+</tr>
+<tr>
+<td>POD</td>
+<td>GOSP</td>
+<td><a href=\"/wiki/Podor_Airport\" title=\"Podor Airport\">Podor Airport</a></td>
+<td><a href=\"/wiki/Podor\" title=\"Podor\">Podor</a>, <a href=\"/wiki/Senegal\" title=\"Senegal\">Senegal</a></td>
+</tr>
+<tr>
+<td>POE</td>
+<td>KPOE</td>
+<td><a href=\"/w/index.php?title=Polk_Army_Airfield&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Polk Army Airfield (page does not exist)\">Polk Army Airfield</a></td>
+<td><a href=\"/wiki/Fort_Polk\" title=\"Fort Polk\">Fort Polk</a>, <a href=\"/wiki/Louisiana\" title=\"Louisiana\">Louisiana</a>, United States</td>
+</tr>
+<tr>
+<td>POF</td>
+<td>KPOF</td>
+<td><a href=\"/w/index.php?title=Poplar_Bluff_Municipal_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Poplar Bluff Municipal Airport (page does not exist)\">Poplar Bluff Municipal Airport</a></td>
+<td><a href=\"/wiki/Poplar_Bluff,_Missouri\" title=\"Poplar Bluff, Missouri\">Poplar Bluff</a>, <a href=\"/wiki/Missouri\" title=\"Missouri\">Missouri</a>, United States</td>
+</tr>
+<tr>
+<td>POG</td>
+<td>FOOG</td>
+<td><a href=\"/wiki/Port-Gentil_International_Airport\" title=\"Port-Gentil International Airport\">Port-Gentil International Airport</a></td>
+<td><a href=\"/wiki/Port-Gentil\" title=\"Port-Gentil\">Port-Gentil</a>, <a href=\"/wiki/Gabon\" title=\"Gabon\">Gabon</a></td>
+</tr>
+<tr>
+<td>POH</td>
+<td>KPOH</td>
+<td><a href=\"/w/index.php?title=Pocahontas_Municipal_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Pocahontas Municipal Airport (page does not exist)\">Pocahontas Municipal Airport</a></td>
+<td><a href=\"/wiki/Pocahontas,_Iowa\" title=\"Pocahontas, Iowa\">Pocahontas</a>, <a href=\"/wiki/Iowa\" title=\"Iowa\">Iowa</a>, United States</td>
+</tr>
+<tr>
+<td>POI</td>
+<td>SLPO</td>
+<td><a href=\"/wiki/Captain_Nicolas_Rojas_Airport\" title=\"Captain Nicolas Rojas Airport\">Captain Nicolas Rojas Airport</a><sup id=\"cite_ref-IATA_1-98\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Potos%C3%AD\" title=\"Potos\u00ed\">Potos\u00ed</a>, <a href=\"/wiki/Bolivia\" title=\"Bolivia\">Bolivia</a></td>
+</tr>
+<tr>
+<td>POJ</td>
+<td>SNPD</td>
+<td><a href=\"/wiki/Patos_de_Minas_Airport\" title=\"Patos de Minas Airport\">Pedro Pereira dos Santos Airport</a></td>
+<td><a href=\"/wiki/Patos_de_Minas\" title=\"Patos de Minas\">Patos de Minas</a>, <a href=\"/wiki/Minas_Gerais\" title=\"Minas Gerais\">Minas Gerais</a>, Brazil</td>
+</tr>
+<tr>
+<td>POL</td>
+<td>FQPB</td>
+<td><a href=\"/wiki/Pemba_Airport_(Mozambique)\" title=\"Pemba Airport (Mozambique)\">Pemba Airport</a></td>
+<td><a href=\"/wiki/Pemba,_Mozambique\" title=\"Pemba, Mozambique\">Pemba</a>, <a href=\"/wiki/Mozambique\" title=\"Mozambique\">Mozambique</a></td>
+</tr>
+<tr>
+<td>POM</td>
+<td>AYPY</td>
+<td><a href=\"/wiki/Jacksons_International_Airport\" title=\"Jacksons International Airport\">Jacksons International Airport</a></td>
+<td><a href=\"/wiki/Port_Moresby\" title=\"Port Moresby\">Port Moresby</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>PON</td>
+<td>MGPP</td>
+<td><a href=\"/wiki/Popt%C3%BAn_Airport\" title=\"Popt\u00fan Airport\">Popt\u00fan Airport</a><sup id=\"cite_ref-IATA_1-99\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Popt%C3%BAn\" title=\"Popt\u00fan\">Popt\u00fan</a>, <a href=\"/wiki/Guatemala\" title=\"Guatemala\">Guatemala</a></td>
+</tr>
+<tr>
+<td>POO</td>
+<td>SBPC</td>
+<td><a href=\"/wiki/Po%C3%A7os_de_Caldas_Airport\" title=\"Po\u00e7os de Caldas Airport\">Po\u00e7os de Caldas Airport</a><sup id=\"cite_ref-IATA_1-100\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Po%C3%A7os_de_Caldas\" title=\"Po\u00e7os de Caldas\">Po\u00e7os de Caldas</a>, <a href=\"/wiki/Minas_Gerais\" title=\"Minas Gerais\">Minas Gerais</a>, Brazil</td>
+</tr>
+<tr>
+<td>POP</td>
+<td>MDPP</td>
+<td><a href=\"/wiki/Gregorio_Luper%C3%B3n_International_Airport\" title=\"Gregorio Luper\u00f3n International Airport\">Gregorio Luper\u00f3n International Airport</a></td>
+<td><a href=\"/wiki/Puerto_Plata_(city)\" class=\"mw-redirect\" title=\"Puerto Plata (city)\">San Felipe de Puerto Plata</a>, <a href=\"/wiki/Dominican_Republic\" title=\"Dominican Republic\">Dominican Republic</a></td>
+</tr>
+<tr>
+<td>POR</td>
+<td>EFPO</td>
+<td><a href=\"/wiki/Pori_Airport\" title=\"Pori Airport\">Pori Airport</a></td>
+<td><a href=\"/wiki/Pori\" title=\"Pori\">Pori</a>, <a href=\"/wiki/Finland\" title=\"Finland\">Finland</a></td>
+</tr>
+<tr>
+<td>POS</td>
+<td>TTPP</td>
+<td><a href=\"/wiki/Piarco_International_Airport\" title=\"Piarco International Airport\">Piarco International Airport</a></td>
+<td><a href=\"/wiki/Port_of_Spain\" title=\"Port of Spain\">Port of Spain</a>, <a href=\"/wiki/Trinidad_and_Tobago\" title=\"Trinidad and Tobago\">Trinidad and Tobago</a></td>
+</tr>
+<tr>
+<td>POT</td>
+<td>MKKJ</td>
+<td><a href=\"/wiki/Ken_Jones_Aerodrome\" title=\"Ken Jones Aerodrome\">Ken Jones Aerodrome</a></td>
+<td><a href=\"/wiki/Port_Antonio\" title=\"Port Antonio\">Port Antonio</a>, <a href=\"/wiki/Jamaica\" title=\"Jamaica\">Jamaica</a></td>
+</tr>
+<tr>
+<td>POU</td>
+<td>KPOU</td>
+<td><a href=\"/wiki/Dutchess_County_Airport\" class=\"mw-redirect\" title=\"Dutchess County Airport\">Dutchess County Airport</a></td>
+<td><a href=\"/wiki/Poughkeepsie,_New_York\" title=\"Poughkeepsie, New York\">Poughkeepsie</a>, <a href=\"/wiki/New_York_(state)\" title=\"New York (state)\">New York</a>, United States</td>
+</tr>
+<tr>
+<td>POV</td>
+<td>LZPW</td>
+<td><a href=\"/wiki/Pre%C5%A1ov_Air_Base\" title=\"Pre\u0161ov Air Base\">Pre\u0161ov Air Base</a><sup id=\"cite_ref-IATA_1-101\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Pre%C5%A1ov\" title=\"Pre\u0161ov\">Pre\u0161ov</a>, <a href=\"/wiki/Slovakia\" title=\"Slovakia\">Slovakia</a></td>
+</tr>
+<tr>
+<td>POW</td>
+<td>LJPZ</td>
+<td><a href=\"/wiki/Portoro%C5%BE_Airport\" title=\"Portoro\u017e Airport\">Portoro\u017e Airport</a></td>
+<td><a href=\"/wiki/Portoro%C5%BE\" title=\"Portoro\u017e\">Portoro\u017e</a>, <a href=\"/wiki/Slovenia\" title=\"Slovenia\">Slovenia</a></td>
+</tr>
+<tr>
+<td>POX</td>
+<td>LFPT</td>
+<td><a href=\"/wiki/Pontoise_%E2%80%93_Cormeilles_Aerodrome\" title=\"Pontoise \u2013 Cormeilles Aerodrome\">Pontoise \u2013 Cormeilles Aerodrome</a></td>
+<td><a href=\"/wiki/Paris\" title=\"Paris\">Paris</a>, <a href=\"/wiki/%C3%8Ele-de-France\" title=\"\u00cele-de-France\">\u00cele-de-France</a>, France</td>
+</tr>
+<tr>
+<td>POY</td>
+<td>KPOY</td>
+<td><a href=\"/w/index.php?title=Powell_Municipal_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Powell Municipal Airport (page does not exist)\">Powell Municipal Airport</a></td>
+<td><a href=\"/wiki/Powell,_Wyoming\" title=\"Powell, Wyoming\">Powell</a> / <a href=\"/wiki/Lovell,_Wyoming\" title=\"Lovell, Wyoming\">Lovell</a>, <a href=\"/wiki/Wyoming\" title=\"Wyoming\">Wyoming</a>, United States</td>
+</tr>
+<tr>
+<td>POZ</td>
+<td>EPPO</td>
+<td><a href=\"/wiki/Pozna%C5%84%E2%80%93%C5%81awica_Airport\" title=\"Pozna\u0144\u2013\u0141awica Airport\">Pozna\u0144\u2013\u0141awica Airport</a></td>
+<td><a href=\"/wiki/Pozna%C5%84\" title=\"Pozna\u0144\">Pozna\u0144</a>, <a href=\"/wiki/Poland\" title=\"Poland\">Poland</a></td>
+</tr>
+<tr>
+<td>PPA</td>
+<td>KPPA</td>
+<td><a href=\"/w/index.php?title=Perry_Lefors_Field&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Perry Lefors Field (page does not exist)\">Perry Lefors Field</a></td>
+<td><a href=\"/wiki/Pampa,_Texas\" title=\"Pampa, Texas\">Pampa</a>, <a href=\"/wiki/Texas\" title=\"Texas\">Texas</a>, United States</td>
+</tr>
+<tr>
+<td>PPB</td>
+<td>SBDN</td>
+<td><a href=\"/wiki/Presidente_Prudente_Airport\" title=\"Presidente Prudente Airport\">Presidente Prudente Airport</a></td>
+<td><a href=\"/wiki/Presidente_Prudente,_S%C3%A3o_Paulo\" title=\"Presidente Prudente, S\u00e3o Paulo\">Presidente Prudente</a>, <a href=\"/wiki/S%C3%A3o_Paulo_(state)\" title=\"S\u00e3o Paulo (state)\">S\u00e3o Paulo</a>, Brazil</td>
+</tr>
+<tr>
+<td>PPC</td>
+<td>PAPR</td>
+<td><a href=\"/wiki/Prospect_Creek_Airport\" title=\"Prospect Creek Airport\">Prospect Creek Airport</a></td>
+<td><a href=\"/wiki/Prospect_Creek,_Alaska\" title=\"Prospect Creek, Alaska\">Prospect Creek</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>PPE</td>
+<td>MMPE</td>
+<td><a href=\"/wiki/Puerto_Pe%C3%B1asco_International_Airport\" class=\"mw-redirect\" title=\"Puerto Pe\u00f1asco International Airport\">Puerto Pe\u00f1asco International Airport</a></td>
+<td><a href=\"/wiki/Puerto_Pe%C3%B1asco\" title=\"Puerto Pe\u00f1asco\">Puerto Pe\u00f1asco</a>, <a href=\"/wiki/Sonora\" title=\"Sonora\">Sonora</a>, Mexico</td>
+</tr>
+<tr>
+<td>PPF</td>
+<td>KPPF</td>
+<td><a href=\"/wiki/Tri-City_Airport_(Kansas)\" title=\"Tri-City Airport (Kansas)\">Tri-City Airport</a></td>
+<td><a href=\"/wiki/Parsons,_Kansas\" title=\"Parsons, Kansas\">Parsons</a>, <a href=\"/wiki/Kansas\" title=\"Kansas\">Kansas</a>, United States</td>
+</tr>
+<tr>
+<td>PPG</td>
+<td>NSTU</td>
+<td><a href=\"/wiki/Pago_Pago_International_Airport\" title=\"Pago Pago International Airport\">Pago Pago International Airport</a></td>
+<td><a href=\"/wiki/Pago_Pago\" title=\"Pago Pago\">Pago Pago</a>, <a href=\"/wiki/American_Samoa\" title=\"American Samoa\">American Samoa</a></td>
+</tr>
+<tr>
+<td>PPH</td>
+<td></td>
+<td><a href=\"/wiki/Parai-tepu%C3%AD_Airport\" title=\"Parai-tepu\u00ed Airport\">Parai-tepu\u00ed Airport</a><sup id=\"cite_ref-IATA_1-102\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Parai-tepu%C3%AD&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Parai-tepu\u00ed (page does not exist)\">Parai-tepu\u00ed</a> (Peraitepuy), <a href=\"/wiki/Venezuela\" title=\"Venezuela\">Venezuela</a></td>
+</tr>
+<tr>
+<td>PPI</td>
+<td>YPIR</td>
+<td><a href=\"/wiki/Port_Pirie_Airport\" title=\"Port Pirie Airport\">Port Pirie Airport</a></td>
+<td><a href=\"/wiki/Port_Pirie\" title=\"Port Pirie\">Port Pirie</a>, <a href=\"/wiki/South_Australia\" title=\"South Australia\">South Australia</a>, Australia</td>
+</tr>
+<tr>
+<td>PPJ</td>
+<td>WIIG</td>
+<td><a href=\"/w/index.php?title=Panjang_Island_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Panjang Island Airport (page does not exist)\">Panjang Island Airport</a><sup id=\"cite_ref-IATA_1-103\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Panjang_Island,_Pulau_Kelapa&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Panjang Island, Pulau Kelapa (page does not exist)\">Panjang Island</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+</tr>
+<tr>
+<td>PPK</td>
+<td>UACP</td>
+<td><a href=\"/wiki/Petropavl_Airport\" title=\"Petropavl Airport\">Petropavl Airport</a></td>
+<td><a href=\"/wiki/Petropavl\" title=\"Petropavl\">Petropavl</a> (Petropavlovsk), <a href=\"/wiki/Kazakhstan\" title=\"Kazakhstan\">Kazakhstan</a></td>
+</tr>
+<tr>
+<td>PPL</td>
+<td>VNPL</td>
+<td><a href=\"/wiki/Phaplu_Airport\" title=\"Phaplu Airport\">Phaplu Airport</a></td>
+<td><a href=\"/wiki/Phaphlu\" title=\"Phaphlu\">Phaphlu</a>, <a href=\"/wiki/Nepal\" title=\"Nepal\">Nepal</a></td>
+</tr>
+<tr>
+<td>PPM</td>
+<td>KPMP</td>
+<td><a href=\"/wiki/Pompano_Beach_Airpark\" title=\"Pompano Beach Airpark\">Pompano Beach Airpark</a> (FAA: PMP)</td>
+<td><a href=\"/wiki/Pompano_Beach,_Florida\" title=\"Pompano Beach, Florida\">Pompano Beach</a>, <a href=\"/wiki/Florida\" title=\"Florida\">Florida</a>, United States</td>
+</tr>
+<tr>
+<td>PPN</td>
+<td>SKPP</td>
+<td><a href=\"/wiki/Guillermo_Le%C3%B3n_Valencia_Airport\" title=\"Guillermo Le\u00f3n Valencia Airport\">Guillermo Le\u00f3n Valencia Airport</a></td>
+<td><a href=\"/wiki/Popay%C3%A1n\" title=\"Popay\u00e1n\">Popay\u00e1n</a>, <a href=\"/wiki/Colombia\" title=\"Colombia\">Colombia</a></td>
+</tr>
+<tr>
+<td>PPP</td>
+<td>YBPN</td>
+<td><a href=\"/wiki/Whitsunday_Coast_Airport\" title=\"Whitsunday Coast Airport\">Whitsunday Coast Airport</a></td>
+<td><a href=\"/wiki/Proserpine,_Queensland\" title=\"Proserpine, Queensland\">Proserpine</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+</tr>
+<tr>
+<td>PPQ</td>
+<td>NZPP</td>
+<td><a href=\"/wiki/Kapiti_Coast_Airport\" title=\"Kapiti Coast Airport\">Kapiti Coast Airport</a></td>
+<td><a href=\"/wiki/Paraparaumu_Beach\" title=\"Paraparaumu Beach\">Paraparaumu Beach</a>, <a href=\"/wiki/New_Zealand\" title=\"New Zealand\">New Zealand</a></td>
+</tr>
+<tr>
+<td>PPR</td>
+<td>WIDE</td>
+<td><a href=\"/wiki/Tuanku_Tambusai_Airport\" title=\"Tuanku Tambusai Airport\">Tuanku Tambusai Airport</a><sup id=\"cite_ref-IATA_1-104\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Pasir_Pangaraian&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Pasir Pangaraian (page does not exist)\">Pasir Pangaraian</a> (Pasir Pangarayan), <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+</tr>
+<tr>
+<td>PPS</td>
+<td>RPVP</td>
+<td><a href=\"/wiki/Puerto_Princesa_International_Airport\" title=\"Puerto Princesa International Airport\">Puerto Princesa International Airport</a></td>
+<td><a href=\"/wiki/Puerto_Princesa\" title=\"Puerto Princesa\">Puerto Princesa</a>, <a href=\"/wiki/Philippines\" title=\"Philippines\">Philippines</a></td>
+</tr>
+<tr>
+<td>PPT</td>
+<td>NTAA</td>
+<td><a href=\"/wiki/Fa%27a%27%C4%81_International_Airport\" class=\"mw-redirect\" title=\"Fa&#39;a&#39;\u0101 International Airport\">Fa'a'\u0101 International Airport</a></td>
+<td><a href=\"/wiki/Papeete\" title=\"Papeete\">Papeete</a>, <a href=\"/wiki/Tahiti\" title=\"Tahiti\">Tahiti</a>, <a href=\"/wiki/French_Polynesia\" title=\"French Polynesia\">French Polynesia</a></td>
+</tr>
+<tr>
+<td>PPU</td>
+<td>VYPP</td>
+<td><a href=\"/w/index.php?title=Papun_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Papun Airport (page does not exist)\">Papun Airport</a><sup id=\"cite_ref-IATA_1-105\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Papun\" title=\"Papun\">Papun</a>, <a href=\"/wiki/Myanmar\" title=\"Myanmar\">Myanmar</a></td>
+</tr>
+<tr>
+<td>PPV</td>
+<td></td>
+<td><a href=\"/wiki/Port_Protection_Seaplane_Base\" title=\"Port Protection Seaplane Base\">Port Protection Seaplane Base</a> (FAA: 19P)</td>
+<td><a href=\"/wiki/Port_Protection,_Alaska\" title=\"Port Protection, Alaska\">Port Protection</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>PPW</td>
+<td>EGEP</td>
+<td><a href=\"/wiki/Papa_Westray_Airport\" title=\"Papa Westray Airport\">Papa Westray Airport</a></td>
+<td><a href=\"/wiki/Papa_Westray\" title=\"Papa Westray\">Papa Westray</a>, <a href=\"/wiki/Scotland\" title=\"Scotland\">Scotland</a>, United Kingdom</td>
+</tr>
+<tr>
+<td>PPX</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Param_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Param Airport (page does not exist)\">Param Airport</a><sup id=\"cite_ref-IATA_1-106\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Param,_Papua_New_Guinea&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Param, Papua New Guinea (page does not exist)\">Param</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>PPY</td>
+<td>SNZA</td>
+<td><a href=\"/w/index.php?title=Pouso_Alegre_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Pouso Alegre Airport (page does not exist)\">Pouso Alegre Airport</a><sup id=\"cite_ref-IATA_1-107\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Pouso_Alegre\" title=\"Pouso Alegre\">Pouso Alegre</a>, <a href=\"/wiki/Minas_Gerais\" title=\"Minas Gerais\">Minas Gerais</a>, Brazil</td>
+</tr>
+<tr>
+<td>PPZ</td>
+<td></td>
+<td><a href=\"/wiki/Puerto_P%C3%A1ez_Airport\" title=\"Puerto P\u00e1ez Airport\">Puerto P\u00e1ez Airport</a><sup id=\"cite_ref-IATA_1-108\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Puerto_P%C3%A1ez&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Puerto P\u00e1ez (page does not exist)\">Puerto P\u00e1ez</a>, <a href=\"/wiki/Venezuela\" title=\"Venezuela\">Venezuela</a></td>
+</tr>
+<tr>
+<td>PQC</td>
+<td>VVPQ</td>
+<td><a href=\"/wiki/Phu_Quoc_International_Airport\" title=\"Phu Quoc International Airport\">Phu Quoc International Airport</a></td>
+<td><a href=\"/wiki/Ph%C3%BA_Qu%E1%BB%91c\" title=\"Ph\u00fa Qu\u1ed1c\">Phu Quoc Island</a>, <a href=\"/wiki/Vietnam\" title=\"Vietnam\">Vietnam</a></td>
+</tr>
+<tr>
+<td>PQD</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Batticaloa_Seaplane_Base&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Batticaloa Seaplane Base (page does not exist)\">Batticaloa Seaplane Base</a><sup id=\"cite_ref-IATA_1-109\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Batticaloa\" title=\"Batticaloa\">Batticaloa</a>, <a href=\"/wiki/Sri_Lanka\" title=\"Sri Lanka\">Sri Lanka</a></td>
+</tr>
+<tr>
+<td>PQI</td>
+<td>KPQI</td>
+<td><a href=\"/wiki/Northern_Maine_Regional_Airport_at_Presque_Isle\" class=\"mw-redirect\" title=\"Northern Maine Regional Airport at Presque Isle\">Northern Maine Regional Airport at Presque Isle</a></td>
+<td><a href=\"/wiki/Presque_Isle,_Maine\" title=\"Presque Isle, Maine\">Presque Isle</a>, <a href=\"/wiki/Maine\" title=\"Maine\">Maine</a>, United States</td>
+</tr>
+<tr>
+<td>PQM</td>
+<td>MMPQ</td>
+<td><a href=\"/wiki/Palenque_International_Airport\" title=\"Palenque International Airport\">Palenque International Airport</a><sup id=\"cite_ref-IATA_1-110\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Palenque,_Chiapas\" title=\"Palenque, Chiapas\">Palenque</a>, <a href=\"/wiki/Chiapas\" title=\"Chiapas\">Chiapas</a>, Mexico</td>
+</tr>
+<tr>
+<td>PQQ</td>
+<td>YPMQ</td>
+<td><a href=\"/wiki/Port_Macquarie_Airport\" title=\"Port Macquarie Airport\">Port Macquarie Airport</a></td>
+<td><a href=\"/wiki/Port_Macquarie\" title=\"Port Macquarie\">Port Macquarie</a>, <a href=\"/wiki/New_South_Wales\" title=\"New South Wales\">New South Wales</a>, Australia</td>
+</tr>
+<tr>
+<td>PQS</td>
+<td></td>
+<td><a href=\"/wiki/Pilot_Station_Airport\" title=\"Pilot Station Airport\">Pilot Station Airport</a> (FAA: 0AK)</td>
+<td><a href=\"/wiki/Pilot_Station,_Alaska\" title=\"Pilot Station, Alaska\">Pilot Station</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>PRA</td>
+<td>SAAP</td>
+<td><a href=\"/wiki/General_Justo_Jos%C3%A9_de_Urquiza_Airport\" title=\"General Justo Jos\u00e9 de Urquiza Airport\">General Justo Jos\u00e9 de Urquiza Airport</a></td>
+<td><a href=\"/wiki/Paran%C3%A1,_Entre_R%C3%ADos\" title=\"Paran\u00e1, Entre R\u00edos\">Paran\u00e1</a>, <a href=\"/wiki/Entre_R%C3%ADos_Province\" title=\"Entre R\u00edos Province\">Entre R\u00edos</a>, Argentina</td>
+</tr>
+<tr>
+<td>PRB</td>
+<td>KPRB</td>
+<td><a href=\"/wiki/Paso_Robles_Municipal_Airport\" title=\"Paso Robles Municipal Airport\">Paso Robles Municipal Airport</a></td>
+<td><a href=\"/wiki/Paso_Robles,_California\" title=\"Paso Robles, California\">Paso Robles</a>, <a href=\"/wiki/California\" title=\"California\">California</a>, United States</td>
+</tr>
+<tr>
+<td>PRC</td>
+<td>KPRC</td>
+<td><a href=\"/wiki/Ernest_A._Love_Field\" title=\"Ernest A. Love Field\">Ernest A. Love Field</a></td>
+<td><a href=\"/wiki/Prescott,_Arizona\" title=\"Prescott, Arizona\">Prescott</a>, <a href=\"/wiki/Arizona\" title=\"Arizona\">Arizona</a>, United States</td>
+</tr>
+<tr>
+<td>PRD</td>
+<td>YPDO</td>
+<td><a href=\"/w/index.php?title=Pardoo_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Pardoo Airport (page does not exist)\">Pardoo Airport</a><sup id=\"cite_ref-IATA_1-111\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Pardoo_Station\" title=\"Pardoo Station\">Pardoo Station</a>, <a href=\"/wiki/Western_Australia\" title=\"Western Australia\">Western Australia</a>, Australia</td>
+</tr>
+<tr>
+<td>PRE</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Pore_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Pore Airport (page does not exist)\">Pore Airport</a><sup id=\"cite_ref-IATA_1-112\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Pore,_Casanare\" title=\"Pore, Casanare\">Pore</a>, <a href=\"/wiki/Colombia\" title=\"Colombia\">Colombia</a></td>
+</tr>
+<tr>
+<td>PRG</td>
+<td>LKPR</td>
+<td><a href=\"/wiki/V%C3%A1clav_Havel_Airport_Prague\" title=\"V\u00e1clav Havel Airport Prague\">V\u00e1clav Havel Airport Prague</a></td>
+<td><a href=\"/wiki/Prague\" title=\"Prague\">Prague</a>, <a href=\"/wiki/Czech_Republic\" title=\"Czech Republic\">Czech Republic</a></td>
+</tr>
+<tr>
+<td>PRH</td>
+<td>VTCP</td>
+<td><a href=\"/wiki/Phrae_Airport\" title=\"Phrae Airport\">Phrae Airport</a></td>
+<td><a href=\"/wiki/Phrae\" title=\"Phrae\">Phrae</a>, <a href=\"/wiki/Thailand\" title=\"Thailand\">Thailand</a></td>
+</tr>
+<tr>
+<td>PRI</td>
+<td>FSPP</td>
+<td><a href=\"/wiki/Praslin_Island_Airport\" title=\"Praslin Island Airport\">Praslin Island Airport</a></td>
+<td><a href=\"/wiki/Praslin\" title=\"Praslin\">Praslin Island</a>, <a href=\"/wiki/Seychelles\" title=\"Seychelles\">Seychelles</a></td>
+</tr>
+<tr>
+<td>PRK</td>
+<td>FAPK</td>
+<td><a href=\"/w/index.php?title=Prieska_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Prieska Airport (page does not exist)\">Prieska Airport</a><sup id=\"cite_ref-IATA_1-113\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Prieska\" title=\"Prieska\">Prieska</a>, <a href=\"/wiki/South_Africa\" title=\"South Africa\">South Africa</a></td>
+</tr>
+<tr>
+<td>PRM</td>
+<td>LPPM</td>
+<td><a href=\"/wiki/Portim%C3%A3o_Airport\" title=\"Portim\u00e3o Airport\">Portim\u00e3o Airport</a></td>
+<td><a href=\"/wiki/Portim%C3%A3o\" title=\"Portim\u00e3o\">Portim\u00e3o</a>, <a href=\"/wiki/Portugal\" title=\"Portugal\">Portugal</a></td>
+</tr>
+<tr>
+<td>PRN</td>
+<td>BKPR</td>
+<td><a href=\"/wiki/Pristina_International_Airport\" title=\"Pristina International Airport\">Pristina International Airport</a></td>
+<td><a href=\"/wiki/Pristina\" title=\"Pristina\">Pristina</a>, <a href=\"/wiki/Kosovo\" title=\"Kosovo\">Kosovo</a></td>
+</tr>
+<tr>
+<td>PRO</td>
+<td>KPRO</td>
+<td><a href=\"/wiki/Perry_Municipal_Airport_(Iowa)\" title=\"Perry Municipal Airport (Iowa)\">Perry Municipal Airport</a></td>
+<td><a href=\"/wiki/Perry,_Iowa\" title=\"Perry, Iowa\">Perry</a>, <a href=\"/wiki/Iowa\" title=\"Iowa\">Iowa</a>, United States</td>
+</tr>
+<tr>
+<td>PRP</td>
+<td>LFKO</td>
+<td><a href=\"/w/index.php?title=Propriano_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Propriano Airport (page does not exist)\">Propriano Airport</a></td>
+<td><a href=\"/wiki/Propriano\" title=\"Propriano\">Propriano</a>, <a href=\"/wiki/Corsica\" title=\"Corsica\">Corsica</a>, France</td>
+</tr>
+<tr>
+<td>PRQ</td>
+<td>SARS</td>
+<td><a href=\"/wiki/Presidencia_Roque_S%C3%A1enz_Pe%C3%B1a_Airport\" class=\"mw-redirect\" title=\"Presidencia Roque S\u00e1enz Pe\u00f1a Airport\">Presidencia Roque S\u00e1enz Pe\u00f1a Airport</a></td>
+<td><a href=\"/wiki/Presidencia_Roque_S%C3%A1enz_Pe%C3%B1a\" title=\"Presidencia Roque S\u00e1enz Pe\u00f1a\">Presidencia Roque S\u00e1enz Pe\u00f1a</a>, <a href=\"/wiki/Chaco_Province\" title=\"Chaco Province\">Chaco</a>, Argentina</td>
+</tr>
+<tr>
+<td>PRR</td>
+<td>SYPR</td>
+<td><a href=\"/wiki/Paruima_Airport\" title=\"Paruima Airport\">Paruima Airport</a></td>
+<td><a href=\"/w/index.php?title=Paruima&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Paruima (page does not exist)\">Paruima</a>, <a href=\"/wiki/Guyana\" title=\"Guyana\">Guyana</a></td>
+</tr>
+<tr>
+<td>PRS</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Parasi_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Parasi Airport (page does not exist)\">Parasi Airport</a><sup id=\"cite_ref-IATA_1-114\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Parasi,_Solomon_Islands&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Parasi, Solomon Islands (page does not exist)\">Parasi</a>, <a href=\"/wiki/Solomon_Islands\" title=\"Solomon Islands\">Solomon Islands</a></td>
+</tr>
+<tr>
+<td>PRU</td>
+<td>VYPY</td>
+<td><a href=\"/w/index.php?title=Pyay_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Pyay Airport (page does not exist)\">Pyay Airport</a><sup id=\"cite_ref-IATA_1-115\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Pyay\" title=\"Pyay\">Pyay</a> (Prome), <a href=\"/wiki/Myanmar\" title=\"Myanmar\">Myanmar</a></td>
+</tr>
+<tr>
+<td>PRV</td>
+<td>LKPO</td>
+<td><a href=\"/w/index.php?title=P%C5%99erov_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"P\u0159erov Airport (page does not exist)\">P\u0159erov Airport</a><sup id=\"cite_ref-IATA_1-116\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/P%C5%99erov\" title=\"P\u0159erov\">P\u0159erov</a>, <a href=\"/wiki/Czech_Republic\" title=\"Czech Republic\">Czech Republic</a></td>
+</tr>
+<tr>
+<td>PRW</td>
+<td></td>
+<td><a href=\"/wiki/Prentice_Airport\" title=\"Prentice Airport\">Prentice Airport</a> (FAA: 5N2)</td>
+<td><a href=\"/wiki/Prentice,_Wisconsin\" title=\"Prentice, Wisconsin\">Prentice</a>, <a href=\"/wiki/Wisconsin\" title=\"Wisconsin\">Wisconsin</a>, United States</td>
+</tr>
+<tr>
+<td>PRX</td>
+<td>KPRX</td>
+<td><a href=\"/wiki/Cox_Field\" title=\"Cox Field\">Cox Field</a></td>
+<td><a href=\"/wiki/Paris,_Texas\" title=\"Paris, Texas\">Paris</a>, <a href=\"/wiki/Texas\" title=\"Texas\">Texas</a>, United States</td>
+</tr>
+<tr>
+<td>PRY</td>
+<td>FAWB</td>
+<td><a href=\"/wiki/Wonderboom_Airport\" title=\"Wonderboom Airport\">Wonderboom Airport</a></td>
+<td><a href=\"/wiki/Pretoria\" title=\"Pretoria\">Pretoria</a>, <a href=\"/wiki/South_Africa\" title=\"South Africa\">South Africa</a></td>
+</tr>
+<tr>
+<td>PRZ</td>
+<td></td>
+<td><a href=\"/wiki/Prineville_Airport\" title=\"Prineville Airport\">Prineville Airport</a> (FAA: S39)</td>
+<td><a href=\"/wiki/Prineville,_Oregon\" title=\"Prineville, Oregon\">Prineville</a>, <a href=\"/wiki/Oregon\" title=\"Oregon\">Oregon</a>, United States</td>
+</tr>
+<tr>
+<td>PSA</td>
+<td>LIRP</td>
+<td><a href=\"/wiki/Pisa_International_Airport\" title=\"Pisa International Airport\">Pisa International Airport</a> (Galileo Galilei Airport)</td>
+<td><a href=\"/wiki/Pisa\" title=\"Pisa\">Pisa</a>, <a href=\"/wiki/Tuscany\" title=\"Tuscany\">Tuscany</a>, Italy</td>
+</tr>
+<tr>
+<td>PSB</td>
+<td></td>
+<td><a href=\"/wiki/Bellefonte_Airport\" title=\"Bellefonte Airport\">Bellefonte Airport</a><sup id=\"cite_ref-IATA_1-117\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (FAA: N96)</td>
+<td><a href=\"/wiki/Philipsburg,_Centre_County,_Pennsylvania\" title=\"Philipsburg, Centre County, Pennsylvania\">Philipsburg</a>, <a href=\"/wiki/Pennsylvania\" title=\"Pennsylvania\">Pennsylvania</a>, United States</td>
+</tr>
+<tr>
+<td>PSC</td>
+<td>KPSC</td>
+<td><a href=\"/wiki/Tri-Cities_Airport_(Washington)\" title=\"Tri-Cities Airport (Washington)\">Tri-Cities Airport</a></td>
+<td><a href=\"/wiki/Pasco,_Washington\" title=\"Pasco, Washington\">Pasco</a>, <a href=\"/wiki/Washington_(state)\" title=\"Washington (state)\">Washington</a>, United States</td>
+</tr>
+<tr>
+<td>PSD</td>
+<td>HEPS</td>
+<td><a href=\"/wiki/Port_Said_Airport\" title=\"Port Said Airport\">Port Said Airport</a><sup id=\"cite_ref-IATA_1-118\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Port_Said\" title=\"Port Said\">Port Said</a>, <a href=\"/wiki/Egypt\" title=\"Egypt\">Egypt</a></td>
+</tr>
+<tr>
+<td>PSE</td>
+<td>TJPS</td>
+<td><a href=\"/wiki/Mercedita_Airport\" title=\"Mercedita Airport\">Mercedita Airport</a></td>
+<td><a href=\"/wiki/Ponce,_Puerto_Rico\" title=\"Ponce, Puerto Rico\">Ponce</a>, <a href=\"/wiki/Puerto_Rico\" title=\"Puerto Rico\">Puerto Rico</a></td>
+</tr>
+<tr>
+<td>PSF</td>
+<td>KPSF</td>
+<td><a href=\"/wiki/Pittsfield_Municipal_Airport_(Massachusetts)\" title=\"Pittsfield Municipal Airport (Massachusetts)\">Pittsfield Municipal Airport</a></td>
+<td><a href=\"/wiki/Pittsfield,_Massachusetts\" title=\"Pittsfield, Massachusetts\">Pittsfield</a>, <a href=\"/wiki/Massachusetts\" title=\"Massachusetts\">Massachusetts</a>, United States</td>
+</tr>
+<tr>
+<td>PSG</td>
+<td>PAPG</td>
+<td><a href=\"/wiki/Petersburg_James_A._Johnson_Airport\" title=\"Petersburg James A. Johnson Airport\">Petersburg James A. Johnson Airport</a></td>
+<td><a href=\"/wiki/Petersburg,_Alaska\" title=\"Petersburg, Alaska\">Petersburg</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>PSH</td>
+<td>EDXO</td>
+<td><a href=\"/wiki/Sankt_Peter-Ording_Airport\" title=\"Sankt Peter-Ording Airport\">Sankt Peter-Ording Airport</a><sup id=\"cite_ref-IATA_1-119\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Sankt_Peter-Ording\" title=\"Sankt Peter-Ording\">Sankt Peter-Ording</a>, <a href=\"/wiki/Schleswig-Holstein\" title=\"Schleswig-Holstein\">Schleswig-Holstein</a>, Germany</td>
+</tr>
+<tr>
+<td>PSI</td>
+<td>OPPI</td>
+<td><a href=\"/wiki/Pasni_Airport\" title=\"Pasni Airport\">Pasni Airport</a><sup id=\"cite_ref-IATA_1-120\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Pasni_(city)\" title=\"Pasni (city)\">Pasni</a>, <a href=\"/wiki/Pakistan\" title=\"Pakistan\">Pakistan</a></td>
+</tr>
+<tr>
+<td>PSJ</td>
+<td>WAMP</td>
+<td><a href=\"/wiki/Kasiguncu_Airport\" title=\"Kasiguncu Airport\">Kasiguncu Airport</a><sup id=\"cite_ref-IATA_1-121\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Poso\" title=\"Poso\">Poso</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+</tr>
+<tr>
+<td>PSK</td>
+<td>KPSK</td>
+<td><a href=\"/wiki/New_River_Valley_Airport\" title=\"New River Valley Airport\">New River Valley Airport</a></td>
+<td><a href=\"/wiki/Dublin,_Virginia\" title=\"Dublin, Virginia\">Dublin</a>, <a href=\"/wiki/Virginia\" title=\"Virginia\">Virginia</a>, United States</td>
+</tr>
+<tr>
+<td>PSL</td>
+<td>EGPT</td>
+<td><a href=\"/wiki/Perth_Airport_(Scotland)\" class=\"mw-redirect\" title=\"Perth Airport (Scotland)\">Perth Airport</a> (Scone Airport)</td>
+<td><a href=\"/wiki/Perth,_Scotland\" title=\"Perth, Scotland\">Perth</a>, <a href=\"/wiki/Scotland\" title=\"Scotland\">Scotland</a>, United Kingdom</td>
+</tr>
+<tr>
+<td>PSM</td>
+<td>KPSM</td>
+<td><a href=\"/wiki/Portsmouth_International_Airport_at_Pease\" title=\"Portsmouth International Airport at Pease\">Portsmouth International Airport at Pease</a></td>
+<td><a href=\"/wiki/Portsmouth,_New_Hampshire\" title=\"Portsmouth, New Hampshire\">Portsmouth</a>, <a href=\"/wiki/New_Hampshire\" title=\"New Hampshire\">New Hampshire</a>, United States</td>
+</tr>
+<tr>
+<td>PSN</td>
+<td>KPSN</td>
+<td><a href=\"/w/index.php?title=Palestine_Municipal_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Palestine Municipal Airport (page does not exist)\">Palestine Municipal Airport</a></td>
+<td><a href=\"/wiki/Palestine,_Texas\" title=\"Palestine, Texas\">Palestine</a>, <a href=\"/wiki/Texas\" title=\"Texas\">Texas</a>, United States</td>
+</tr>
+<tr>
+<td>PSO</td>
+<td>SKPS</td>
+<td><a href=\"/wiki/Antonio_Nari%C3%B1o_Airport\" title=\"Antonio Nari\u00f1o Airport\">Antonio Nari\u00f1o Airport</a></td>
+<td><a href=\"/wiki/Pasto,_Colombia\" title=\"Pasto, Colombia\">Pasto</a>, <a href=\"/wiki/Colombia\" title=\"Colombia\">Colombia</a></td>
+</tr>
+<tr>
+<td>PSP</td>
+<td>KPSP</td>
+<td><a href=\"/wiki/Palm_Springs_International_Airport\" title=\"Palm Springs International Airport\">Palm Springs International Airport</a></td>
+<td><a href=\"/wiki/Palm_Springs,_California\" title=\"Palm Springs, California\">Palm Springs</a>, <a href=\"/wiki/California\" title=\"California\">California</a>, United States</td>
+</tr>
+<tr>
+<td>PSQ</td>
+<td></td>
+<td><a href=\"/wiki/Philadelphia_Seaplane_Base\" title=\"Philadelphia Seaplane Base\">Philadelphia Seaplane Base</a> (FAA: 9N2)</td>
+<td><a href=\"/wiki/Philadelphia\" title=\"Philadelphia\">Philadelphia</a>, <a href=\"/wiki/Pennsylvania\" title=\"Pennsylvania\">Pennsylvania</a>, United States</td>
+</tr>
+<tr>
+<td>PSR</td>
+<td>LIBP</td>
+<td><a href=\"/wiki/Abruzzo_Airport\" title=\"Abruzzo Airport\">Abruzzo Airport</a></td>
+<td><a href=\"/wiki/Pescara\" title=\"Pescara\">Pescara</a>, <a href=\"/wiki/Abruzzo\" title=\"Abruzzo\">Abruzzo</a>, Italy</td>
+</tr>
+<tr>
+<td>PSS</td>
+<td>SARP</td>
+<td><a href=\"/wiki/Libertador_General_Jos%C3%A9_de_San_Mart%C3%ADn_Airport\" title=\"Libertador General Jos\u00e9 de San Mart\u00edn Airport\">Libertador General Jos\u00e9 de San Mart\u00edn Airport</a></td>
+<td><a href=\"/wiki/Posadas,_Misiones\" title=\"Posadas, Misiones\">Posadas</a>, <a href=\"/wiki/Misiones_Province\" title=\"Misiones Province\">Misiones</a>, Argentina</td>
+</tr>
+<tr>
+<td>PSU</td>
+<td>WIOP</td>
+<td><a href=\"/wiki/Pangsuma_Airport\" title=\"Pangsuma Airport\">Pangsuma Airport</a><sup id=\"cite_ref-IATA_1-122\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Putussibau\" title=\"Putussibau\">Putussibau</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+</tr>
+<tr>
+<td>PSV</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Papa_Stour_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Papa Stour Airport (page does not exist)\">Papa Stour Airport</a><sup id=\"cite_ref-IATA_1-123\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Papa_Stour\" title=\"Papa Stour\">Papa Stour</a>, <a href=\"/wiki/Scotland\" title=\"Scotland\">Scotland</a>, United Kingdom</td>
+</tr>
+<tr>
+<td>PSW</td>
+<td>SNOS</td>
+<td><a href=\"/w/index.php?title=Passos_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Passos Airport (page does not exist)\">Passos Airport</a><sup id=\"cite_ref-IATA_1-124\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Passos,_Minas_Gerais\" title=\"Passos, Minas Gerais\">Passos</a>, <a href=\"/wiki/Minas_Gerais\" title=\"Minas Gerais\">Minas Gerais</a>, Brazil</td>
+</tr>
+<tr>
+<td>PSX</td>
+<td>KPSX</td>
+<td><a href=\"/wiki/Palacios_Municipal_Airport\" title=\"Palacios Municipal Airport\">Palacios Municipal Airport</a></td>
+<td><a href=\"/wiki/Palacios,_Texas\" title=\"Palacios, Texas\">Palacios</a>, <a href=\"/wiki/Texas\" title=\"Texas\">Texas</a>, United States</td>
+</tr>
+<tr>
+<td>PSY</td>
+<td>SFAL</td>
+<td><a href=\"/wiki/Port_Stanley_Airport\" title=\"Port Stanley Airport\">Port Stanley Airport</a></td>
+<td><a href=\"/wiki/Stanley,_Falkland_Islands\" title=\"Stanley, Falkland Islands\">Stanley</a>, <a href=\"/wiki/British_Overseas_Territory\" class=\"mw-redirect\" title=\"British Overseas Territory\">British Overseas Territory</a> of <a href=\"/wiki/Falkland_Islands\" title=\"Falkland Islands\">Falkland Islands</a></td>
+</tr>
+<tr>
+<td>PSZ</td>
+<td>SLPS</td>
+<td><a href=\"/wiki/Puerto_Su%C3%A1rez_International_Airport\" title=\"Puerto Su\u00e1rez International Airport\">Puerto Su\u00e1rez International Airport</a></td>
+<td><a href=\"/wiki/Puerto_Su%C3%A1rez\" title=\"Puerto Su\u00e1rez\">Puerto Su\u00e1rez</a>, <a href=\"/wiki/Bolivia\" title=\"Bolivia\">Bolivia</a></td>
+</tr>
+<tr>
+<td>PTA</td>
+<td>PALJ</td>
+<td><a href=\"/wiki/Port_Alsworth_Airport\" title=\"Port Alsworth Airport\">Port Alsworth Airport</a> (FAA: TPO)</td>
+<td><a href=\"/wiki/Port_Alsworth,_Alaska\" title=\"Port Alsworth, Alaska\">Port Alsworth</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>PTB</td>
+<td>KPTB</td>
+<td><a href=\"/w/index.php?title=Dinwiddie_County_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Dinwiddie County Airport (page does not exist)\">Dinwiddie County Airport</a></td>
+<td><a href=\"/wiki/Petersburg,_Virginia\" title=\"Petersburg, Virginia\">Petersburg</a>, <a href=\"/wiki/Virginia\" title=\"Virginia\">Virginia</a>, United States</td>
+</tr>
+<tr>
+<td>PTC</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Port_Alice_Seaplane_Base&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Port Alice Seaplane Base (page does not exist)\">Port Alice Seaplane Base</a> (FAA: 16K)</td>
+<td><a href=\"/w/index.php?title=Port_Alice,_Alaska&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Port Alice, Alaska (page does not exist)\">Port Alice</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>PTD</td>
+<td>PAAP</td>
+<td><a href=\"/wiki/Port_Alexander_Seaplane_Base\" title=\"Port Alexander Seaplane Base\">Port Alexander Seaplane Base</a> (FAA: AHP)</td>
+<td><a href=\"/wiki/Port_Alexander,_Alaska\" title=\"Port Alexander, Alaska\">Port Alexander</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>PTF</td>
+<td>NFFO</td>
+<td><a href=\"/wiki/Malolo_Lailai_Airport\" title=\"Malolo Lailai Airport\">Malolo Lailai Airport</a><sup id=\"cite_ref-IATA_1-125\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Malolo_Lailai\" title=\"Malolo Lailai\">Malolo Lailai</a>, <a href=\"/wiki/Fiji\" title=\"Fiji\">Fiji</a></td>
+</tr>
+<tr>
+<td>PTG</td>
+<td>FAPP</td>
+<td><a href=\"/wiki/Polokwane_International_Airport\" title=\"Polokwane International Airport\">Polokwane International Airport</a></td>
+<td><a href=\"/wiki/Polokwane\" title=\"Polokwane\">Polokwane</a>, <a href=\"/wiki/South_Africa\" title=\"South Africa\">South Africa</a></td>
+</tr>
+<tr>
+<td>PTH</td>
+<td>PAPH</td>
+<td><a href=\"/wiki/Port_Heiden_Airport\" title=\"Port Heiden Airport\">Port Heiden Airport</a></td>
+<td><a href=\"/wiki/Port_Heiden,_Alaska\" title=\"Port Heiden, Alaska\">Port Heiden</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>PTJ</td>
+<td>YPOD</td>
+<td><a href=\"/wiki/Portland_Airport_(Victoria)\" title=\"Portland Airport (Victoria)\">Portland Airport</a></td>
+<td><a href=\"/wiki/Portland,_Victoria\" title=\"Portland, Victoria\">Portland</a>, <a href=\"/wiki/Victoria_(Australia)\" title=\"Victoria (Australia)\">Victoria</a>, Australia</td>
+</tr>
+<tr>
+<td>PTK</td>
+<td>KPTK</td>
+<td><a href=\"/wiki/Oakland_County_International_Airport\" title=\"Oakland County International Airport\">Oakland County International Airport</a></td>
+<td><a href=\"/wiki/Pontiac,_Michigan\" title=\"Pontiac, Michigan\">Pontiac</a>, <a href=\"/wiki/Michigan\" title=\"Michigan\">Michigan</a>, United States</td>
+</tr>
+<tr>
+<td>PTM</td>
+<td>SVPT</td>
+<td><a href=\"/wiki/Palmarito_Airport\" title=\"Palmarito Airport\">Palmarito Airport</a><sup id=\"cite_ref-IATA_1-126\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Palmarito\" title=\"Palmarito\">Palmarito</a>, <a href=\"/wiki/Venezuela\" title=\"Venezuela\">Venezuela</a></td>
+</tr>
+<tr>
+<td>PTN</td>
+<td>KPTN</td>
+<td><a href=\"/wiki/Harry_P._Williams_Memorial_Airport\" title=\"Harry P. Williams Memorial Airport\">Harry P. Williams Memorial Airport</a></td>
+<td><a href=\"/wiki/Patterson,_Louisiana\" title=\"Patterson, Louisiana\">Patterson</a>, <a href=\"/wiki/Louisiana\" title=\"Louisiana\">Louisiana</a>, United States</td>
+</tr>
+<tr>
+<td>PTO</td>
+<td>SSPB</td>
+<td><a href=\"/wiki/Pato_Branco_Airport\" title=\"Pato Branco Airport\">Juvenal Loureiro Cardoso Airport</a><sup id=\"cite_ref-IATA_1-127\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Pato_Branco\" title=\"Pato Branco\">Pato Branco</a>, <a href=\"/wiki/Paran%C3%A1_(state)\" title=\"Paran\u00e1 (state)\">Paran\u00e1</a>, Brazil</td>
+</tr>
+<tr>
+<td>PTP</td>
+<td>TFFR</td>
+<td><a href=\"/wiki/Pointe-%C3%A0-Pitre_International_Airport\" title=\"Pointe-\u00e0-Pitre International Airport\">Pointe-\u00e0-Pitre International Airport</a> (Le Raizet Airport)</td>
+<td><a href=\"/wiki/Pointe-%C3%A0-Pitre\" title=\"Pointe-\u00e0-Pitre\">Pointe-\u00e0-Pitre</a>, <a href=\"/wiki/Guadeloupe\" title=\"Guadeloupe\">Guadeloupe</a></td>
+</tr>
+<tr>
+<td>PTQ</td>
+<td>SNMZ</td>
+<td><a href=\"/w/index.php?title=Porto_de_Moz_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Porto de Moz Airport (page does not exist)\">Porto de Moz Airport</a><sup id=\"cite_ref-IATA_1-128\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Porto_de_Moz\" title=\"Porto de Moz\">Porto de Moz</a>, <a href=\"/wiki/Par%C3%A1\" title=\"Par\u00e1\">Par\u00e1</a>, Brazil</td>
+</tr>
+<tr>
+<td>PTS</td>
+<td>KPTS</td>
+<td><a href=\"/wiki/Atkinson_Municipal_Airport\" title=\"Atkinson Municipal Airport\">Atkinson Municipal Airport</a></td>
+<td><a href=\"/wiki/Pittsburg,_Kansas\" title=\"Pittsburg, Kansas\">Pittsburg</a>, <a href=\"/wiki/Kansas\" title=\"Kansas\">Kansas</a>, United States</td>
+</tr>
+<tr>
+<td>PTT</td>
+<td>KPTT</td>
+<td><a href=\"/wiki/Pratt_Regional_Airport\" title=\"Pratt Regional Airport\">Pratt Regional Airport</a></td>
+<td><a href=\"/wiki/Pratt,_Kansas\" title=\"Pratt, Kansas\">Pratt</a>, <a href=\"/wiki/Kansas\" title=\"Kansas\">Kansas</a>, United States</td>
+</tr>
+<tr>
+<td>PTU</td>
+<td>PAPM</td>
+<td><a href=\"/wiki/Platinum_Airport\" title=\"Platinum Airport\">Platinum Airport</a></td>
+<td><a href=\"/wiki/Platinum,_Alaska\" title=\"Platinum, Alaska\">Platinum</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>PTV</td>
+<td>KPTV</td>
+<td><a href=\"/wiki/Porterville_Municipal_Airport\" title=\"Porterville Municipal Airport\">Porterville Municipal Airport</a></td>
+<td><a href=\"/wiki/Porterville,_California\" title=\"Porterville, California\">Porterville</a>, <a href=\"/wiki/California\" title=\"California\">California</a>, United States</td>
+</tr>
+<tr>
+<td>PTW</td>
+<td>KPTW</td>
+<td><a href=\"/wiki/Heritage_Field_Airport\" title=\"Heritage Field Airport\">Heritage Field</a></td>
+<td><a href=\"/wiki/Pottstown,_Pennsylvania\" title=\"Pottstown, Pennsylvania\">Pottstown</a>, <a href=\"/wiki/Pennsylvania\" title=\"Pennsylvania\">Pennsylvania</a>, United States</td>
+</tr>
+<tr>
+<td>PTX</td>
+<td>SKPI</td>
+<td><a href=\"/wiki/Contador_Airport\" title=\"Contador Airport\">Contador Airport</a><sup id=\"cite_ref-IATA_1-129\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Pitalito\" title=\"Pitalito\">Pitalito</a>, <a href=\"/wiki/Colombia\" title=\"Colombia\">Colombia</a></td>
+</tr>
+<tr>
+<td>PTY</td>
+<td>MPTO</td>
+<td><a href=\"/wiki/Tocumen_International_Airport\" title=\"Tocumen International Airport\">Tocumen International Airport</a></td>
+<td><a href=\"/wiki/Panama_City\" title=\"Panama City\">Panama City</a>, <a href=\"/wiki/Panama\" title=\"Panama\">Panama</a></td>
+</tr>
+<tr>
+<td>PTZ</td>
+<td>SEPA</td>
+<td><a href=\"/wiki/R%C3%ADo_Amazonas_Airport\" title=\"R\u00edo Amazonas Airport\">R\u00edo Amazonas Airport</a></td>
+<td><a href=\"/wiki/Shell_Mera\" title=\"Shell Mera\">Shell Mera</a>, <a href=\"/wiki/Ecuador\" title=\"Ecuador\">Ecuador</a></td>
+</tr>
+<tr>
+<td>PUA</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Puas_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Puas Airport (page does not exist)\">Puas Airport</a><sup id=\"cite_ref-IATA_1-130\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Puas,_Papua_New_Guinea&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Puas, Papua New Guinea (page does not exist)\">Puas</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>PUB</td>
+<td>KPUB</td>
+<td><a href=\"/wiki/Pueblo_Memorial_Airport\" title=\"Pueblo Memorial Airport\">Pueblo Memorial Airport</a></td>
+<td><a href=\"/wiki/Pueblo,_Colorado\" title=\"Pueblo, Colorado\">Pueblo</a>, <a href=\"/wiki/Colorado\" title=\"Colorado\">Colorado</a>, United States</td>
+</tr>
+<tr>
+<td>PUC</td>
+<td>KPUC</td>
+<td><a href=\"/w/index.php?title=Carbon_County_Regional_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Carbon County Regional Airport (page does not exist)\">Carbon County Regional Airport</a></td>
+<td><a href=\"/wiki/Price,_Utah\" title=\"Price, Utah\">Price</a>, <a href=\"/wiki/Utah\" title=\"Utah\">Utah</a>, United States</td>
+</tr>
+<tr>
+<td>PUD</td>
+<td>SAWD</td>
+<td><a href=\"/wiki/Puerto_Deseado_Airport\" title=\"Puerto Deseado Airport\">Puerto Deseado Airport</a></td>
+<td><a href=\"/wiki/Puerto_Deseado\" title=\"Puerto Deseado\">Puerto Deseado</a>, <a href=\"/wiki/Santa_Cruz_Province,_Argentina\" title=\"Santa Cruz Province, Argentina\">Santa Cruz</a>, Argentina</td>
+</tr>
+<tr>
+<td>PUE</td>
+<td>MPOA</td>
+<td><a href=\"/wiki/Puerto_Obaldia_Airport\" title=\"Puerto Obaldia Airport\">Puerto Obaldia Airport</a><sup id=\"cite_ref-IATA_1-131\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Puerto_Obald%C3%ADa\" title=\"Puerto Obald\u00eda\">Puerto Obald\u00eda</a>, <a href=\"/wiki/Panama\" title=\"Panama\">Panama</a></td>
+</tr>
+<tr>
+<td>PUF</td>
+<td>LFBP</td>
+<td><a href=\"/wiki/Pau_Pyr%C3%A9n%C3%A9es_Airport\" title=\"Pau Pyr\u00e9n\u00e9es Airport\">Pau Pyr\u00e9n\u00e9es Airport</a></td>
+<td><a href=\"/wiki/Pau,_Pyr%C3%A9n%C3%A9es-Atlantiques\" title=\"Pau, Pyr\u00e9n\u00e9es-Atlantiques\">Pau</a>, <a href=\"/wiki/Aquitaine\" title=\"Aquitaine\">Aquitaine</a>, France</td>
+</tr>
+<tr>
+<td>PUG</td>
+<td>YPAG</td>
+<td><a href=\"/wiki/Port_Augusta_Airport\" title=\"Port Augusta Airport\">Port Augusta Airport</a><sup id=\"cite_ref-IATA_1-132\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Port_Augusta\" title=\"Port Augusta\">Port Augusta</a>, <a href=\"/wiki/South_Australia\" title=\"South Australia\">South Australia</a>, Australia</td>
+</tr>
+<tr>
+<td>PUI</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Pureni_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Pureni Airport (page does not exist)\">Pureni Airport</a></td>
+<td><a href=\"/w/index.php?title=Pureni&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Pureni (page does not exist)\">Pureni</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>PUJ</td>
+<td>MDPC</td>
+<td><a href=\"/wiki/Punta_Cana_International_Airport\" title=\"Punta Cana International Airport\">Punta Cana International Airport</a></td>
+<td><a href=\"/wiki/Punta_Cana\" title=\"Punta Cana\">Punta Cana</a>, <a href=\"/wiki/Dominican_Republic\" title=\"Dominican Republic\">Dominican Republic</a></td>
+</tr>
+<tr>
+<td>PUK</td>
+<td>NTGQ</td>
+<td><a href=\"/wiki/Pukarua_Airport\" title=\"Pukarua Airport\">Pukarua Airport</a></td>
+<td><a href=\"/wiki/Pukarua\" title=\"Pukarua\">Pukarua</a>, <a href=\"/wiki/Tuamotus\" title=\"Tuamotus\">Tuamotus</a>, <a href=\"/wiki/French_Polynesia\" title=\"French Polynesia\">French Polynesia</a></td>
+</tr>
+<tr>
+<td>PUL</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Port_of_Poulsbo_Marina_Moorage_Seaplane_Base&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Port of Poulsbo Marina Moorage Seaplane Base (page does not exist)\">Port of Poulsbo Marina Moorage Seaplane Base</a> (FAA: 83Q)</td>
+<td><a href=\"/wiki/Poulsbo,_Washington\" title=\"Poulsbo, Washington\">Poulsbo</a>, <a href=\"/wiki/Washington_(state)\" title=\"Washington (state)\">Washington</a>, United States</td>
+</tr>
+<tr>
+<td>PUM</td>
+<td>WAWP</td>
+<td><a href=\"/w/index.php?title=Kolaka_Pomala_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Kolaka Pomala Airport (page does not exist)\">Kolaka Pomala Airport</a><sup id=\"cite_ref-IATA_1-133\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Kolaka_Regency\" title=\"Kolaka Regency\">Kolaka</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+</tr>
+<tr>
+<td>PUN</td>
+<td>FZOP</td>
+<td><a href=\"/wiki/Punia_Airport\" title=\"Punia Airport\">Punia Airport</a><sup id=\"cite_ref-IATA_1-134\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Punia,_Democratic_Republic_of_the_Congo&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Punia, Democratic Republic of the Congo (page does not exist)\">Punia</a>, <a href=\"/wiki/Democratic_Republic_of_the_Congo\" title=\"Democratic Republic of the Congo\">Democratic Republic of the Congo</a></td>
+</tr>
+<tr>
+<td>PUP</td>
+<td>DFCP</td>
+<td><a href=\"/wiki/P%C3%B4_Airport\" title=\"P\u00f4 Airport\">P\u00f4 Airport</a></td>
+<td><a href=\"/wiki/P%C3%B4\" title=\"P\u00f4\">P\u00f4</a>, <a href=\"/wiki/Burkina_Faso\" title=\"Burkina Faso\">Burkina Faso</a></td>
+</tr>
+<tr>
+<td>PUQ</td>
+<td>SCCI</td>
+<td><a href=\"/wiki/Presidente_Carlos_Ib%C3%A1%C3%B1ez_del_Campo_International_Airport\" title=\"Presidente Carlos Ib\u00e1\u00f1ez del Campo International Airport\">Presidente Carlos Ib\u00e1\u00f1ez del Campo International Airport</a></td>
+<td><a href=\"/wiki/Punta_Arenas\" title=\"Punta Arenas\">Punta Arenas</a>, <a href=\"/wiki/Chile\" title=\"Chile\">Chile</a></td>
+</tr>
+<tr>
+<td>PUR</td>
+<td>SLPR</td>
+<td><a href=\"/wiki/Puerto_Rico_Airport\" title=\"Puerto Rico Airport\">Puerto Rico Airport</a><sup id=\"cite_ref-IATA_1-135\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Puerto_Rico_(Pando)\" class=\"mw-redirect\" title=\"Puerto Rico (Pando)\">Puerto Rico</a>, <a href=\"/wiki/Bolivia\" title=\"Bolivia\">Bolivia</a></td>
+</tr>
+<tr>
+<td>PUS</td>
+<td>RKPK</td>
+<td><a href=\"/wiki/Gimhae_International_Airport\" title=\"Gimhae International Airport\">Gimhae International Airport</a></td>
+<td><a href=\"/wiki/Busan\" title=\"Busan\">Busan</a>, <a href=\"/wiki/South_Korea\" title=\"South Korea\">South Korea</a></td>
+</tr>
+<tr>
+<td>PUT</td>
+<td>VOPN</td>
+<td><a href=\"/wiki/Sri_Sathya_Sai_Airport\" title=\"Sri Sathya Sai Airport\">Sri Sathya Sai Airport</a><sup id=\"cite_ref-IATA_1-136\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Puttaparthi\" title=\"Puttaparthi\">Puttaparthi</a>, <a href=\"/wiki/Andhra_Pradesh\" title=\"Andhra Pradesh\">Andhra Pradesh</a>, India</td>
+</tr>
+<tr>
+<td>PUU</td>
+<td>SKAS</td>
+<td><a href=\"/wiki/Tres_de_Mayo_Airport\" title=\"Tres de Mayo Airport\">Tres de Mayo Airport</a></td>
+<td><a href=\"/wiki/Puerto_As%C3%ADs\" title=\"Puerto As\u00eds\">Puerto As\u00eds</a>, <a href=\"/wiki/Colombia\" title=\"Colombia\">Colombia</a></td>
+</tr>
+<tr>
+<td>PUV</td>
+<td>NWWP</td>
+<td><a href=\"/w/index.php?title=Malabou_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Malabou Airport (page does not exist)\">Malabou Airport</a><sup id=\"cite_ref-IATA_1-137\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Poum\" title=\"Poum\">Poum</a>, <a href=\"/wiki/New_Caledonia\" title=\"New Caledonia\">New Caledonia</a></td>
+</tr>
+<tr>
+<td>PUW</td>
+<td>KPUW</td>
+<td><a href=\"/wiki/Pullman%E2%80%93Moscow_Regional_Airport\" title=\"Pullman\u2013Moscow Regional Airport\">Pullman\u2013Moscow Regional Airport</a></td>
+<td><a href=\"/wiki/Pullman,_Washington\" title=\"Pullman, Washington\">Pullman</a> / <a href=\"/wiki/Moscow,_Idaho\" title=\"Moscow, Idaho\">Moscow (ID)</a>, <a href=\"/wiki/Washington_(state)\" title=\"Washington (state)\">Washington</a>, United States</td>
+</tr>
+<tr>
+<td>PUX</td>
+<td>SCPV</td>
+<td><a href=\"/wiki/El_Mirador_Airport\" title=\"El Mirador Airport\">El Mirador Airport</a><sup id=\"cite_ref-IATA_1-138\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Puerto_Varas\" title=\"Puerto Varas\">Puerto Varas</a>, <a href=\"/wiki/Chile\" title=\"Chile\">Chile</a></td>
+</tr>
+<tr>
+<td>PUY</td>
+<td>LDPL</td>
+<td><a href=\"/wiki/Pula_Airport\" title=\"Pula Airport\">Pula Airport</a></td>
+<td><a href=\"/wiki/Pula\" title=\"Pula\">Pula</a>, <a href=\"/wiki/Croatia\" title=\"Croatia\">Croatia</a></td>
+</tr>
+<tr>
+<td>PUZ</td>
+<td>MNPC</td>
+<td><a href=\"/wiki/Puerto_Cabezas_Airport\" title=\"Puerto Cabezas Airport\">Puerto Cabezas Airport</a></td>
+<td><a href=\"/wiki/Puerto_Cabezas\" title=\"Puerto Cabezas\">Puerto Cabezas</a>, <a href=\"/wiki/Nicaragua\" title=\"Nicaragua\">Nicaragua</a></td>
+</tr>
+<tr>
+<td>PVA</td>
+<td>SKPV</td>
+<td><a href=\"/wiki/El_Embrujo_Airport\" title=\"El Embrujo Airport\">El Embrujo Airport</a></td>
+<td><a href=\"/wiki/Isla_de_Providencia\" title=\"Isla de Providencia\">Providencia Island</a>, <a href=\"/wiki/Colombia\" title=\"Colombia\">Colombia</a></td>
+</tr>
+<tr>
+<td>PVC</td>
+<td>KPVC</td>
+<td><a href=\"/wiki/Provincetown_Municipal_Airport\" title=\"Provincetown Municipal Airport\">Provincetown Municipal Airport</a></td>
+<td><a href=\"/wiki/Provincetown,_Massachusetts\" title=\"Provincetown, Massachusetts\">Provincetown</a>, <a href=\"/wiki/Massachusetts\" title=\"Massachusetts\">Massachusetts</a>, United States</td>
+</tr>
+<tr>
+<td>PVD</td>
+<td>KPVD</td>
+<td><a href=\"/wiki/T._F._Green_Airport\" title=\"T. F. Green Airport\">Theodore Francis Green State Airport</a></td>
+<td><a href=\"/wiki/Providence,_Rhode_Island\" title=\"Providence, Rhode Island\">Providence</a>, <a href=\"/wiki/Rhode_Island\" title=\"Rhode Island\">Rhode Island</a>, United States</td>
+</tr>
+<tr>
+<td>PVE</td>
+<td>MPVR</td>
+<td><a href=\"/wiki/El_Porvenir_Airport\" title=\"El Porvenir Airport\">El Porvenir Airport</a><sup id=\"cite_ref-IATA_1-139\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/El_Porvenir,_Guna_Yala\" title=\"El Porvenir, Guna Yala\">El Porvenir</a>, <a href=\"/wiki/Panama\" title=\"Panama\">Panama</a></td>
+</tr>
+<tr>
+<td>PVF</td>
+<td>KPVF</td>
+<td><a href=\"/wiki/Placerville_Airport\" title=\"Placerville Airport\">Placerville Airport</a></td>
+<td><a href=\"/wiki/Placerville,_California\" title=\"Placerville, California\">Placerville</a>, <a href=\"/wiki/California\" title=\"California\">California</a>, United States</td>
+</tr>
+<tr>
+<td>PVG</td>
+<td>ZSPD</td>
+<td><a href=\"/wiki/Shanghai_Pudong_International_Airport\" title=\"Shanghai Pudong International Airport\">Shanghai Pudong International Airport</a></td>
+<td><a href=\"/wiki/Shanghai\" title=\"Shanghai\">Shanghai</a>, China</td>
+</tr>
+<tr>
+<td>PVH</td>
+<td>SBPV</td>
+<td><a href=\"/wiki/Governador_Jorge_Teixeira_de_Oliveira_International_Airport\" title=\"Governador Jorge Teixeira de Oliveira International Airport\">Governador Jorge Teixeira de Oliveira International Airport</a></td>
+<td><a href=\"/wiki/Porto_Velho\" title=\"Porto Velho\">Porto Velho</a>, <a href=\"/wiki/Rond%C3%B4nia\" title=\"Rond\u00f4nia\">Rond\u00f4nia</a>, Brazil</td>
+</tr>
+<tr>
+<td>PVI</td>
+<td>SSPI</td>
+<td><a href=\"/wiki/Paranava%C3%AD_Airport\" title=\"Paranava\u00ed Airport\">Edu Chaves Airport</a><sup id=\"cite_ref-IATA_1-140\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Paranava%C3%AD\" title=\"Paranava\u00ed\">Paranava\u00ed</a>, <a href=\"/wiki/Paran%C3%A1_(state)\" title=\"Paran\u00e1 (state)\">Paran\u00e1</a>, Brazil</td>
+</tr>
+<tr>
+<td>PVK</td>
+<td>LGPZ</td>
+<td><a href=\"/wiki/Aktion_National_Airport\" title=\"Aktion National Airport\">Aktion National Airport</a></td>
+<td><a href=\"/wiki/Preveza\" title=\"Preveza\">Preveza</a> / <a href=\"/wiki/Lefkada\" title=\"Lefkada\">Lefkada</a>, <a href=\"/wiki/Greece\" title=\"Greece\">Greece</a></td>
+</tr>
+<tr>
+<td>PVL</td>
+<td>KPBX</td>
+<td><a href=\"/wiki/Pike_County_Airport_(Kentucky)\" title=\"Pike County Airport (Kentucky)\">Pike County Airport</a><sup id=\"cite_ref-IATA_1-141\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (FAA: PBX)</td>
+<td><a href=\"/wiki/Pikeville,_Kentucky\" title=\"Pikeville, Kentucky\">Pikeville</a>, <a href=\"/wiki/Kentucky\" title=\"Kentucky\">Kentucky</a>, United States</td>
+</tr>
+<tr>
+<td>PVO</td>
+<td>SEPV</td>
+<td><a href=\"/wiki/Reales_Tamarindos_Airport\" title=\"Reales Tamarindos Airport\">Reales Tamarindos Airport</a></td>
+<td><a href=\"/wiki/Portoviejo\" title=\"Portoviejo\">Portoviejo</a>, <a href=\"/wiki/Ecuador\" title=\"Ecuador\">Ecuador</a></td>
+</tr>
+<tr>
+<td>PVR</td>
+<td>MMPR</td>
+<td><a href=\"/wiki/Licenciado_Gustavo_D%C3%ADaz_Ordaz_International_Airport\" title=\"Licenciado Gustavo D\u00edaz Ordaz International Airport\">Licenciado Gustavo D\u00edaz Ordaz International Airport</a></td>
+<td><a href=\"/wiki/Puerto_Vallarta\" title=\"Puerto Vallarta\">Puerto Vallarta</a>, <a href=\"/wiki/Jalisco\" title=\"Jalisco\">Jalisco</a>, Mexico</td>
+</tr>
+<tr>
+<td>PVS</td>
+<td>UHMD</td>
+<td><a href=\"/wiki/Provideniya_Bay_Airport\" title=\"Provideniya Bay Airport\">Provideniya Bay Airport</a></td>
+<td><a href=\"/wiki/Provideniya\" title=\"Provideniya\">Provideniya</a>, <a href=\"/wiki/Chukotka_Autonomous_Okrug\" title=\"Chukotka Autonomous Okrug\">Chukotka</a>, Russia</td>
+</tr>
+<tr>
+<td>PVU</td>
+<td>KPVU</td>
+<td><a href=\"/wiki/Provo_Municipal_Airport\" title=\"Provo Municipal Airport\">Provo Municipal Airport</a></td>
+<td><a href=\"/wiki/Provo,_Utah\" title=\"Provo, Utah\">Provo</a>, <a href=\"/wiki/Utah\" title=\"Utah\">Utah</a>, United States</td>
+</tr>
+<tr>
+<td>PVW</td>
+<td>KPVW</td>
+<td><a href=\"/wiki/Hale_County_Airport\" title=\"Hale County Airport\">Hale County Airport</a></td>
+<td><a href=\"/wiki/Plainview,_Texas\" title=\"Plainview, Texas\">Plainview</a>, <a href=\"/wiki/Texas\" title=\"Texas\">Texas</a>, United States</td>
+</tr>
+<tr>
+<td>PWA</td>
+<td>KPWA</td>
+<td><a href=\"/wiki/Wiley_Post_Airport\" title=\"Wiley Post Airport\">Wiley Post Airport</a></td>
+<td><a href=\"/wiki/Oklahoma_City\" title=\"Oklahoma City\">Oklahoma City</a>, <a href=\"/wiki/Oklahoma\" title=\"Oklahoma\">Oklahoma</a>, United States</td>
+</tr>
+<tr>
+<td>PWD</td>
+<td>KPWD</td>
+<td><a href=\"/wiki/Sher-Wood_Airport\" title=\"Sher-Wood Airport\">Sher-Wood Airport</a></td>
+<td><a href=\"/wiki/Plentywood,_Montana\" title=\"Plentywood, Montana\">Plentywood</a>, <a href=\"/wiki/Montana\" title=\"Montana\">Montana</a>, United States</td>
+</tr>
+<tr>
+<td>PWE</td>
+<td>UHMP</td>
+<td><a href=\"/wiki/Pevek_Airport\" title=\"Pevek Airport\">Pevek Airport</a></td>
+<td><a href=\"/wiki/Pevek\" title=\"Pevek\">Pevek</a>, <a href=\"/wiki/Chukotka_Autonomous_Okrug\" title=\"Chukotka Autonomous Okrug\">Chukotka</a>, Russia</td>
+</tr>
+<tr>
+<td>PWI</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Beles_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Beles Airport (page does not exist)\">Beles Airport</a><sup id=\"cite_ref-IATA_1-142\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Pawi,_Ethiopia&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Pawi, Ethiopia (page does not exist)\">Pawi</a>, <a href=\"/wiki/Ethiopia\" title=\"Ethiopia\">Ethiopia</a></td>
+</tr>
+<tr>
+<td>PWK</td>
+<td>KPWK</td>
+<td><a href=\"/wiki/Chicago_Executive_Airport\" title=\"Chicago Executive Airport\">Chicago Executive Airport</a></td>
+<td><a href=\"/wiki/Chicago\" title=\"Chicago\">Chicago</a>, <a href=\"/wiki/Illinois\" title=\"Illinois\">Illinois</a>, United States</td>
+</tr>
+<tr>
+<td>PWL</td>
+<td>WICP</td>
+<td><a href=\"/wiki/Wirasaba_Airport\" class=\"mw-redirect\" title=\"Wirasaba Airport\">Wirasaba Airport</a></td>
+<td><a href=\"/wiki/Purwokerto\" title=\"Purwokerto\">Purwokerto</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+</tr>
+<tr>
+<td>PWM</td>
+<td>KPWM</td>
+<td><a href=\"/wiki/Portland_International_Jetport\" title=\"Portland International Jetport\">Portland International Jetport</a></td>
+<td><a href=\"/wiki/Portland,_Maine\" title=\"Portland, Maine\">Portland</a>, <a href=\"/wiki/Maine\" title=\"Maine\">Maine</a>, United States</td>
+</tr>
+<tr>
+<td>PWN</td>
+<td>MYCP</td>
+<td><a href=\"/wiki/Pitts_Town_Airport\" title=\"Pitts Town Airport\">Pitts Town Airport</a><sup id=\"cite_ref-IATA_1-143\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Pitts_Town&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Pitts Town (page does not exist)\">Pitts Town</a>, <a href=\"/wiki/Crooked_Island,_Bahamas\" title=\"Crooked Island, Bahamas\">Crooked Island</a>, <a href=\"/wiki/The_Bahamas\" title=\"The Bahamas\">Bahamas</a></td>
+</tr>
+<tr>
+<td>PWO</td>
+<td>FZQC</td>
+<td><a href=\"/wiki/Pweto_Airport\" title=\"Pweto Airport\">Pweto Airport</a><sup id=\"cite_ref-IATA_1-144\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Pweto\" title=\"Pweto\">Pweto</a>, <a href=\"/wiki/Democratic_Republic_of_the_Congo\" title=\"Democratic Republic of the Congo\">Democratic Republic of the Congo</a></td>
+</tr>
+<tr>
+<td>PWQ</td>
+<td>UASP</td>
+<td><a href=\"/wiki/Pavlodar_Airport\" title=\"Pavlodar Airport\">Pavlodar Airport</a></td>
+<td><a href=\"/wiki/Pavlodar\" title=\"Pavlodar\">Pavlodar</a>, <a href=\"/wiki/Kazakhstan\" title=\"Kazakhstan\">Kazakhstan</a></td>
+</tr>
+<tr>
+<td>PWR</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Port_Walter_Seaplane_Base&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Port Walter Seaplane Base (page does not exist)\">Port Walter Seaplane Base</a><sup id=\"cite_ref-IATA_1-145\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Port_Walter\" title=\"Port Walter\">Port Walter</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>PWT</td>
+<td>KPWT</td>
+<td><a href=\"/wiki/Bremerton_National_Airport\" title=\"Bremerton National Airport\">Bremerton National Airport</a></td>
+<td><a href=\"/wiki/Bremerton,_Washington\" title=\"Bremerton, Washington\">Bremerton</a>, <a href=\"/wiki/Washington_(state)\" title=\"Washington (state)\">Washington</a>, United States</td>
+</tr>
+<tr>
+<td>PWY</td>
+<td>KPNA</td>
+<td><a href=\"/wiki/Ralph_Wenz_Field\" title=\"Ralph Wenz Field\">Ralph Wenz Field</a> (FAA: PNA)</td>
+<td><a href=\"/wiki/Pinedale,_Wyoming\" title=\"Pinedale, Wyoming\">Pinedale</a>, <a href=\"/wiki/Wyoming\" title=\"Wyoming\">Wyoming</a>, United States</td>
+</tr>
+<tr>
+<td>PXH</td>
+<td>YPMH</td>
+<td><a href=\"/wiki/Prominent_Hill_Airport\" title=\"Prominent Hill Airport\">Prominent Hill Airport</a><sup id=\"cite_ref-IATA_1-146\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Prominent_Hill_Mine\" title=\"Prominent Hill Mine\">Prominent Hill</a>, <a href=\"/wiki/South_Australia\" title=\"South Australia\">South Australia</a>, Australia</td>
+</tr>
+<tr>
+<td>PXL</td>
+<td></td>
+<td><a href=\"/wiki/Polacca_Airport\" title=\"Polacca Airport\">Polacca Airport</a> (FAA: P10)</td>
+<td><a href=\"/wiki/Polacca,_Arizona\" title=\"Polacca, Arizona\">Polacca</a>, <a href=\"/wiki/Arizona\" title=\"Arizona\">Arizona</a>, United States</td>
+</tr>
+<tr>
+<td>PXM</td>
+<td>MMPS</td>
+<td><a href=\"/wiki/Puerto_Escondido_International_Airport\" title=\"Puerto Escondido International Airport\">Puerto Escondido International Airport</a></td>
+<td><a href=\"/wiki/Puerto_Escondido,_Oaxaca\" title=\"Puerto Escondido, Oaxaca\">Puerto Escondido</a>, <a href=\"/wiki/Oaxaca\" title=\"Oaxaca\">Oaxaca</a>, Mexico</td>
+</tr>
+<tr>
+<td>PXO</td>
+<td>LPPS</td>
+<td><a href=\"/wiki/Porto_Santo_Airport\" title=\"Porto Santo Airport\">Porto Santo Airport</a></td>
+<td><a href=\"/wiki/Porto_Santo_Island\" title=\"Porto Santo Island\">Porto Santo Island</a>, <a href=\"/wiki/Madeira\" title=\"Madeira\">Madeira</a>, <a href=\"/wiki/Portugal\" title=\"Portugal\">Portugal</a></td>
+</tr>
+<tr>
+<td>PXR</td>
+<td>VTUJ</td>
+<td><a href=\"/wiki/Surin_Airport\" title=\"Surin Airport\">Surin Airport</a><sup id=\"cite_ref-IATA_1-147\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Surin,_Thailand\" title=\"Surin, Thailand\">Surin</a>, <a href=\"/wiki/Thailand\" title=\"Thailand\">Thailand</a></td>
+</tr>
+<tr>
+<td>PXU</td>
+<td>VVPK</td>
+<td><a href=\"/wiki/Pleiku_Airport\" title=\"Pleiku Airport\">Pleiku Airport</a></td>
+<td><a href=\"/wiki/Pleiku\" title=\"Pleiku\">Pleiku</a>, <a href=\"/wiki/Vietnam\" title=\"Vietnam\">Vietnam</a></td>
+</tr>
+<tr>
+<td>PYA</td>
+<td>SKVL</td>
+<td><a href=\"/wiki/Velasquez_Airport\" title=\"Velasquez Airport\">Velasquez Airport</a><sup id=\"cite_ref-IATA_1-148\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Puerto_Boyac%C3%A1\" title=\"Puerto Boyac\u00e1\">Puerto Boyac\u00e1</a>, <a href=\"/wiki/Colombia\" title=\"Colombia\">Colombia</a></td>
+</tr>
+<tr>
+<td>PYB</td>
+<td>VEJP</td>
+<td><a href=\"/wiki/Jeypore_Airport\" title=\"Jeypore Airport\">Jeypore Airport</a><sup id=\"cite_ref-IATA_1-149\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Jeypore\" title=\"Jeypore\">Jeypore</a>, <a href=\"/wiki/Odisha\" title=\"Odisha\">Odisha</a>, India</td>
+</tr>
+<tr>
+<td>PYC</td>
+<td></td>
+<td><a href=\"/wiki/Play%C3%B3n_Chico_Airport\" title=\"Play\u00f3n Chico Airport\">Play\u00f3n Chico Airport</a></td>
+<td><a href=\"/wiki/Ukupseni\" title=\"Ukupseni\">Ukupseni</a> (Play\u00f3n Chico), <a href=\"/wiki/Panama\" title=\"Panama\">Panama</a></td>
+</tr>
+<tr>
+<td>PYE</td>
+<td>NCPY</td>
+<td><a href=\"/wiki/Tongareva_Airport\" title=\"Tongareva Airport\">Tongareva Airport</a><sup id=\"cite_ref-IATA_1-150\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Penrhyn_(atoll)\" class=\"mw-redirect\" title=\"Penrhyn (atoll)\">Penrhyn Atoll</a>, <a href=\"/wiki/Cook_Islands\" title=\"Cook Islands\">Cook Islands</a></td>
+</tr>
+<tr>
+<td>PYH</td>
+<td>SVPA</td>
+<td><a href=\"/wiki/Cacique_Aramare_Airport\" title=\"Cacique Aramare Airport\">Cacique Aramare Airport</a></td>
+<td><a href=\"/wiki/Puerto_Ayacucho\" title=\"Puerto Ayacucho\">Puerto Ayacucho</a>, <a href=\"/wiki/Venezuela\" title=\"Venezuela\">Venezuela</a></td>
+</tr>
+<tr>
+<td>PYJ</td>
+<td>UERP</td>
+<td><a href=\"/wiki/Polyarny_Airport\" title=\"Polyarny Airport\">Polyarny Airport</a></td>
+<td><a href=\"/wiki/Polyarny,_Sakha_Republic\" title=\"Polyarny, Sakha Republic\">Polyarny</a>, <a href=\"/wiki/Sakha_Republic\" title=\"Sakha Republic\">Yakutia</a>, Russia</td>
+</tr>
+<tr>
+<td>PYK</td>
+<td>OIIP</td>
+<td><a href=\"/wiki/Payam_International_Airport\" title=\"Payam International Airport\">Payam International Airport</a><sup id=\"cite_ref-IATA_1-151\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Karaj\" title=\"Karaj\">Karaj</a>, <a href=\"/wiki/Iran\" title=\"Iran\">Iran</a></td>
+</tr>
+<tr>
+<td>PYL</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Perry_Island_Seaplane_Base&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Perry Island Seaplane Base (page does not exist)\">Perry Island Seaplane Base</a><sup id=\"cite_ref-IATA_1-152\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Perry_Island_(Alaska)\" title=\"Perry Island (Alaska)\">Perry Island</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>PYM</td>
+<td>KPYM</td>
+<td><a href=\"/wiki/Plymouth_Municipal_Airport_(Massachusetts)\" title=\"Plymouth Municipal Airport (Massachusetts)\">Plymouth Municipal Airport</a></td>
+<td><a href=\"/wiki/Plymouth,_Massachusetts\" title=\"Plymouth, Massachusetts\">Plymouth</a>, <a href=\"/wiki/Massachusetts\" title=\"Massachusetts\">Massachusetts</a>, United States</td>
+</tr>
+<tr>
+<td>PYN</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Pay%C3%A1n_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Pay\u00e1n Airport (page does not exist)\">Pay\u00e1n Airport</a><sup id=\"cite_ref-IATA_1-153\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Pay%C3%A1n,_Nari%C3%B1o&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Pay\u00e1n, Nari\u00f1o (page does not exist)\">Pay\u00e1n</a>, <a href=\"/wiki/Colombia\" title=\"Colombia\">Colombia</a></td>
+</tr>
+<tr>
+<td>PYO</td>
+<td>SEPT</td>
+<td><a href=\"/wiki/Putumayo_Airport\" title=\"Putumayo Airport\">Putumayo Airport</a><sup id=\"cite_ref-IATA_1-154\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Puerto_El_Carmen_de_Putumayo\" title=\"Puerto El Carmen de Putumayo\">Puerto El Carmen de Putumayo</a>, <a href=\"/wiki/Ecuador\" title=\"Ecuador\">Ecuador</a></td>
+</tr>
+<tr>
+<td>PYR</td>
+<td>LGAD</td>
+<td><a href=\"/wiki/Andravida_Air_Base\" title=\"Andravida Air Base\">Andravida Air Base</a><sup id=\"cite_ref-IATA_1-155\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Pyrgos,_Elis\" title=\"Pyrgos, Elis\">Pyrgos</a>, <a href=\"/wiki/Greece\" title=\"Greece\">Greece</a></td>
+</tr>
+<tr>
+<td>PYS</td>
+<td></td>
+<td><a href=\"/wiki/Paradise_Skypark\" title=\"Paradise Skypark\">Paradise Skypark</a><sup id=\"cite_ref-IATA_1-156\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (FAA: CA92)</td>
+<td><a href=\"/wiki/Paradise,_California\" title=\"Paradise, California\">Paradise</a>, <a href=\"/wiki/California\" title=\"California\">California</a>, United States</td>
+</tr>
+<tr>
+<td>PYV</td>
+<td></td>
+<td><a href=\"/wiki/Yaviza_Airport\" title=\"Yaviza Airport\">Yaviza Airport</a><sup id=\"cite_ref-IATA_1-157\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Yaviza\" title=\"Yaviza\">Yaviza</a>, <a href=\"/wiki/Panama\" title=\"Panama\">Panama</a></td>
+</tr>
+<tr>
+<td>PYX</td>
+<td>VTBF</td>
+<td><a href=\"/wiki/Pattaya_Airpark\" title=\"Pattaya Airpark\">Pattaya Airpark</a><sup id=\"cite_ref-IATA_1-158\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Pattaya\" title=\"Pattaya\">Pattaya</a>, <a href=\"/wiki/Thailand\" title=\"Thailand\">Thailand</a></td>
+</tr>
+<tr>
+<td>PYY</td>
+<td></td>
+<td><a href=\"/wiki/Pai_Airport\" title=\"Pai Airport\">Pai Airport</a></td>
+<td><a href=\"/wiki/Pai,_Thailand\" title=\"Pai, Thailand\">Pai</a>, <a href=\"/wiki/Thailand\" title=\"Thailand\">Thailand</a></td>
+</tr>
+<tr>
+<td>PZA</td>
+<td>SKPZ</td>
+<td><a href=\"/wiki/Paz_de_Ariporo_Airport\" title=\"Paz de Ariporo Airport\">Paz de Ariporo Airport</a><sup id=\"cite_ref-IATA_1-159\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Paz_de_Ariporo\" title=\"Paz de Ariporo\">Paz de Ariporo</a>, <a href=\"/wiki/Colombia\" title=\"Colombia\">Colombia</a></td>
+</tr>
+<tr>
+<td>PZB</td>
+<td>FAPM</td>
+<td><a href=\"/wiki/Pietermaritzburg_Airport\" title=\"Pietermaritzburg Airport\">Pietermaritzburg Airport</a></td>
+<td><a href=\"/wiki/Pietermaritzburg\" title=\"Pietermaritzburg\">Pietermaritzburg</a>, <a href=\"/wiki/South_Africa\" title=\"South Africa\">South Africa</a></td>
+</tr>
+<tr>
+<td>PZH</td>
+<td>OPZB</td>
+<td><a href=\"/wiki/Zhob_Airport\" title=\"Zhob Airport\">Zhob Airport</a></td>
+<td><a href=\"/wiki/Zhob\" title=\"Zhob\">Zhob</a>, <a href=\"/wiki/Pakistan\" title=\"Pakistan\">Pakistan</a></td>
+</tr>
+<tr>
+<td>PZI</td>
+<td>ZUZH</td>
+<td><a href=\"/wiki/Panzhihua_Bao%27anying_Airport\" title=\"Panzhihua Bao&#39;anying Airport\">Panzhihua Bao'anying Airport</a><sup id=\"cite_ref-IATA_1-160\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Panzhihua\" title=\"Panzhihua\">Panzhihua</a>, <a href=\"/wiki/Sichuan\" title=\"Sichuan\">Sichuan</a>, China</td>
+</tr>
+<tr>
+<td>PZK</td>
+<td>NCPK</td>
+<td><a href=\"/w/index.php?title=Pukapuka_Island_Airfield&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Pukapuka Island Airfield (page does not exist)\">Pukapuka Island Airfield</a><sup id=\"cite_ref-IATA_1-161\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Pukapuka\" title=\"Pukapuka\">Pukapuka Island</a>, <a href=\"/wiki/Cook_Islands\" title=\"Cook Islands\">Cook Islands</a></td>
+</tr>
+<tr>
+<td>PZL</td>
+<td>FADQ</td>
+<td><a href=\"/w/index.php?title=Zulu_Inyala_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Zulu Inyala Airport (page does not exist)\">Zulu Inyala Airport</a><sup id=\"cite_ref-IATA_1-162\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Phinda_Private_Game_Reserve\" title=\"Phinda Private Game Reserve\">Phinda</a>, <a href=\"/wiki/South_Africa\" title=\"South Africa\">South Africa</a></td>
+</tr>
+<tr>
+<td>PZO</td>
+<td>SVPR</td>
+<td><a href=\"/wiki/Manuel_Carlos_Piar_Guayana_Airport\" title=\"Manuel Carlos Piar Guayana Airport\">Manuel Carlos Piar Guayana Airport</a></td>
+<td><a href=\"/wiki/Ciudad_Guayana\" title=\"Ciudad Guayana\">Ciudad Guayana</a> / <a href=\"/wiki/Puerto_Ordaz_and_San_Felix\" class=\"mw-redirect\" title=\"Puerto Ordaz and San Felix\">Puerto Ordaz</a>, <a href=\"/wiki/Venezuela\" title=\"Venezuela\">Venezuela</a></td>
+</tr>
+<tr>
+<td>PZS</td>
+<td>SCTC</td>
+<td><a href=\"/wiki/Maquehue_Airport\" class=\"mw-redirect\" title=\"Maquehue Airport\">Maquehue Airport</a><sup id=\"cite_ref-IATA_1-163\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Temuco\" title=\"Temuco\">Temuco</a>, <a href=\"/wiki/Chile\" title=\"Chile\">Chile</a></td>
+</tr>
+<tr>
+<td>PZU</td>
+<td>HSPN</td>
+<td><a href=\"/wiki/Port_Sudan_New_International_Airport\" title=\"Port Sudan New International Airport\">Port Sudan New International Airport</a></td>
+<td><a href=\"/wiki/Port_Sudan\" title=\"Port Sudan\">Port Sudan</a>, <a href=\"/wiki/Sudan\" title=\"Sudan\">Sudan</a></td>
+</tr>
+<tr>
+<td>PZY</td>
+<td>LZPP</td>
+<td><a href=\"/wiki/Pie%C5%A1%C5%A5any_Airport\" title=\"Pie\u0161\u0165any Airport\">Pie\u0161\u0165any Airport</a></td>
+<td><a href=\"/wiki/Pie%C5%A1%C5%A5any\" title=\"Pie\u0161\u0165any\">Pie\u0161\u0165any</a>, <a href=\"/wiki/Slovakia\" title=\"Slovakia\">Slovakia</a></td>
+</tr>

@@ -1,0 +1,614 @@
+BAA, Bialla, Papua New Guinea
+BAB, Marysville, California, United States
+BAC,Barranca de Up\u00eda, Colombia
+BAD, Bossier City, Louisiana, United States
+BAE,Barcelonnette, Alpes-de-Haute-Provence, France
+BAF, Springfield, Massachusetts, United States
+BAG,Baguio, Philippines
+BAH,Manama, Bahrain
+BAI,Buenos Aires, Costa Rica
+BAJ, Bali, Papua New Guinea
+BAK,Baku, Azerbaijan
+BAL, Batman, Turkey
+BAM, Battle Mountain, Nevada, United States
+BAN, Basongo, Democratic Republic of the Congo
+BAP,Baibara, Papua New Guinea
+BAQ,Barranquilla, Colombia
+BAR,Qionghai, Hainan, China
+BAS,Balalae Island, Western, Solomon Islands
+BAT,Barretos, S\u00e3o Paulo, Brazil
+BAV,Baotou, Inner Mongolia, China
+BAW,Biawonque, Gabon
+BAX,Barnaul, Altai Krai, Russia
+BAY,Baia Mare, Romania
+BAZ, Barcelos, Amazonas, Brazil
+BBA, Balmaceda, Chile
+BBB, Benson, Minnesota, United States
+BBC, Bay City, Texas, United States
+BBD, Brady, Texas, United States
+BBG,Butaritari Atoll, Kiribati
+BBH,Barth, Mecklenburg-Vorpommern, Germany
+BBI,Bhubaneswar, Odisha, India
+BBJ,Bitburg, Rhineland-Palatinate, Germany
+BBK,Kasane, Botswana
+BBL,Ballera gas plant, Queensland, Australia
+BBM,Battambang, Cambodia
+BBN,Bario, Sarawak, Malaysia
+BBO,Berbera, Somalia
+BBP,Bembridge, England, United Kingdom
+BBQ,Barbuda, Antigua and Barbuda
+BBR,Basse-Terre, Guadeloupe
+BBS,Yateley, England, United Kingdom
+BBT,Berb\u00e9rati, Central African Republic
+BBU,Bucharest, Romania
+BBV,Grand-B\u00e9r\u00e9by, Ivory Coast
+BBW, Broken Bow, Nebraska, United States
+BBX,Philadelphia, Pennsylvania, United States
+BBY,Bambari, Central African Republic
+BBZ, Zambezi, Zambia
+BCA,Baracoa, Cuba
+BCB, Blacksburg, Virginia, United States
+BCC, Bear Creek, Alaska, United States
+BCD,Bacolod, Philippines
+BCE,Bryce Canyon, Utah, United States
+BCF,Bouca, Central African Republic
+BCG, Kumaka, Guyana
+BCH,Baucau, East Timor
+BCI, Barcaldine, Queensland, Australia
+BCK, Bolwarra, Queensland, Australia
+BCL,Barra del Colorado, Costa Rica
+BCM,Bac\u0103u, Romania
+BCN,Barcelona, Catalonia, Spain
+BCO,Jinka, Ethiopia
+BCP, Bambu, Papua New Guinea
+BCQ, Brak, Libya
+BCR,Boca do Acre, Amazonas, Brazil
+BCS, Belle Chasse, Louisiana, United States
+BCT, Boca Raton, Florida, United States
+BCU,Bauchi, Nigeria
+BCV,Belmopan, Belize
+BCW,Benguerra Island, Mozambique
+BCX,Beloretsk, Republic of Bashkortostan, Russia
+BCY,Bulchi, Ethiopia
+BCZ,Bickerton Island, Northern Territory, Australia
+BDA, Hamilton, Bermuda
+BDB,Bundaberg, Queensland, Australia
+BDC,Barra do Corda, Maranh\u00e3o, Brazil
+BDD,Badu Island, Queensland, Australia
+BDE, Baudette, Minnesota, United States
+BDF, Bradford, Illinois, United States
+BDG, Blanding, Utah, United States
+BDH,Bandar Lengeh, Iran
+BDI, Bird Island, Seychelles
+BDJ,Banjarmasin, Indonesia
+BDK,Bondoukou, Ivory Coast
+BDL, Hartford, Connecticut, United States
+BDM,Band\u0131rma, Turkey
+BDN,Badin, Pakistan
+BDO,Bandung, Indonesia
+BDP, Chandragadhi, Nepal
+BDQ,Vadodara, Gujarat, India
+BDR, Bridgeport, Connecticut, United States
+BDS,Brindisi, Apulia, Italy
+BDT,Gbadolite, Democratic Republic of the Congo
+BDU,Bardufoss, Norway
+BDV, Moba, Democratic Republic of the Congo
+BDW,Bedford Downs, Western Australia, Australia
+BDX, Broadus, Montana, United States
+BDY, Bandon, Oregon, United States
+BDZ,Baindoung, Papua New Guinea
+BEA,Bereina, Papua New Guinea
+BEB,Benbecula, Scotland, United Kingdom
+BEC, Wichita, Kansas, United States
+BED, Bedford, Massachusetts, United States
+BEE, Beagle Bay, Western Australia, Australia
+BEF,Bluefields, Nicaragua
+BEG,Belgrade, Serbia
+BEH, Benton Harbor, Michigan, United States
+BEI,Beica, Ethiopia
+BEJ,Tanjung Redeb, Indonesia
+BEK,Bareilly, Uttar Pradesh, India
+BEL,Bel\u00e9m, Par\u00e1, Brazil
+BEM,Beni Mellal, Morocco
+BEN,Benghazi, Libya
+BEO, Newcastle, New South Wales, Australia
+BEP,Bellary, Karnataka, India
+BEQ,Bury St Edmunds, England, United Kingdom
+BER,Berlin, Germany
+BES, Brest, Brittany, France
+BET, Bethel, Alaska, United States
+BEU, Bedourie, Queensland, Australia
+BEV,Beersheba, Israel
+BEW, Beira, Mozambique
+BEX, Benson, England, United Kingdom
+BEY,Beirut, Lebanon
+BEZ,Beru Island, Kiribati
+BFA,Bah\u00eda Negra, Paraguay
+BFC, Bloomfield, Queensland, Australia
+BFD, Bradford, Pennsylvania, United States
+BFE,Bielefeld, North Rhine-Westphalia, Germany
+BFF, Scottsbluff, Nebraska, United States
+BFG,Glen Canyon, Utah, United States
+BFH,Curitiba, Paran\u00e1, Brazil
+BFI,Seattle, Washington, United States
+BFJ,Bijie, Guizhou, China
+BFK, Aurora, Colorado, United States
+BFL, Bakersfield, California, United States
+BFM, Mobile, Alabama, United States
+BFN,Bloemfontein, South Africa
+BFO,Chiredzi, Zimbabwe
+BFP, Beaver Falls, Pennsylvania, United States
+BFQ,Puerto Pi\u00f1a, Panama
+BFR, Bedford, Indiana, United States
+BFS,Belfast, Northern Ireland, United Kingdom
+BFT, Beaufort County, South Carolina, United States
+BFU,Bengbu, Anhui, China
+BFV,Buriram, Thailand
+BFW,Sidi Bel Abb\u00e8s, Algeria
+BFX,Bafoussam, Cameroon
+BGA,Bucaramanga, Colombia
+BGB,Boou\u00e9, Gabon
+BGC, Bragan\u00e7a, Portugal
+BGD, Borger, Texas, United States
+BGE, Bainbridge, Georgia, United States
+BGF,Bangui, Central African Republic
+BGG,Bing\u00f6l, Turkey
+BGH,Bogu\u00e9, Mauritania
+BGI,Bridgetown, Barbados
+BGJ,Borgarfj\u00f6r\u00f0ur Eystri, Iceland
+BGK, Big Creek, Belize
+BGL,Baglung, Nepal
+BGM, Binghamton, New York, United States
+BGN, Belaya Gora, Yakutia, Russia
+BGO,Bergen, Norway
+BGP, Bongo, Bongo, Gabon
+BGQ, Big Lake, Alaska, United States
+BGR, Bangor, Maine, United States
+BGT, Bagdad, Arizona, United States
+BGU,Bangassou, Central African Republic
+BGV, Bento Gon\u00e7alves, Rio Grande do Sul, Brazil
+BGW,Baghdad, Iraq
+BGX,Bag\u00e9, Rio Grande do Sul, Brazil
+BGY,Bergamo, Lombardy, Italy
+BGZ,Braga, Portugal
+BHA,Bah\u00eda de Car\u00e1quez, Ecuador
+BHB, Bar Harbor, Maine, United States
+BHD,Belfast, Northern Ireland, United Kingdom
+BHE, Blenheim, New Zealand
+BHF,Bah\u00eda Cupica, Colombia
+BHG,Brus Laguna, Honduras
+BHH,Bisha, Saudi Arabia
+BHI,Bah\u00eda Blanca, Buenos Aires, Argentina
+BHJ,Bhuj, Gujarat, India
+BHK,Bukhara, Uzbekistan
+BHL,Bah\u00eda de los \u00c1ngeles, Baja California, Mexico
+BHM, Birmingham, Alabama, United States
+BHN,Beihan, Yemen
+BHO,Bhopal, Madhya Pradesh, India
+BHP, Bhojpur, Nepal
+BHQ, Broken Hill, New South Wales, Australia
+BHR, Bharatpur, Nepal
+BHS, Bathurst, New South Wales, Australia
+BHT, Brighton Downs, Queensland, Australia
+BHU,Bhavnagar, Gujarat, India
+BHV,Bahawalpur, Pakistan
+BHW,Sargodha, Pakistan
+BHX,Birmingham, England, United Kingdom
+BHY,Beihai, Guangxi, China
+BHZ,Belo Horizonte, Minas Gerais, Brazil
+BIA,Bastia, Corsica, France
+BIB,Baidoa, Somalia
+BID,Block Island, Rhode Island, United States
+BIE, Beatrice, Nebraska, United States
+BIF, El Paso, Texas, United States
+BIG, Delta Junction, Alaska, United States
+BIH, Bishop, California, United States
+BII,Bikini Atoll, Marshall Islands
+BIJ,Biliau, Papua New Guinea
+BIK,Biak, Indonesia
+BIL, Billings, Montana, United States
+BIM,Bimini, Bahamas
+BIN,Bamyan, Afghanistan
+BIO,Bilbao, Basque Country, Spain
+BIP, Bulimba, Queensland, Australia
+BIQ,Biarritz, Aquitaine, France
+BIR,Biratnagar, Nepal
+BIS, Bismarck, North Dakota, United States
+BIT,Baitadi, Nepal
+BIU,B\u00edldudalur, Iceland
+BIV, Bria, Bria, Central African Republic
+BIW, Billiluna, Western Australia, Australia
+BIX, Biloxi, Mississippi, United States
+BIY,Bhisho, South Africa
+BIZ,Bimin, Papua New Guinea
+BJA,B\u00e9ja\u00efa, Algeria
+BJB,Bojnord, Iran
+BJC,Denver, Colorado, United States
+BJD,Bakkafj\u00f6r\u00f0ur, Iceland
+BJE,Baleela, Sudan
+BJF,B\u00e5tsfjord, Norway
+BJG,Kotamobagu, Indonesia
+BJH,Bajhang, Nepal
+BJI, Bemidji, Minnesota, United States
+BJJ, Wooster, Ohio, United States
+BJK,Benjina, Indonesia
+BJL,Banjul, Gambia
+BJM,Bujumbura, Burundi
+BJN, Bajone, Mozambique
+BJO, Bermejo, Bolivia
+BJP,Bragan\u00e7a Paulista, S\u00e3o Paulo, Brazil
+BJQ, Bahja, Oman
+BJR,Bahir Dar, Ethiopia
+BJS,Beijing, China
+BJT,Bentota, Sri Lanka
+BJU,Bajura, Nepal
+BJV,Bodrum, Turkey
+BJW,Bajawa, Indonesia
+BJX, Le\u00f3n, Guanajuato, Mexico
+BJY,Batajnica, Serbia
+BJZ,Badajoz, Extremadura, Spain
+BKA,Moscow, Russia
+BKB,Bikaner, Rajasthan, India
+BKC, Buckland, Alaska, United States
+BKD, Breckenridge, Texas, United States
+BKE, Baker City, Oregon, United States
+BKF,Brooks Camp, Alaska, United States
+BKG, Branson, Missouri, United States
+BKH, Kekaha, Hawaii, United States
+BKI,Kota Kinabalu, Sabah, Malaysia
+BKJ,Bok\u00e9, Guinea
+BKK,Bangkok, Thailand
+BKL,Cleveland, Ohio, United States
+BKM,Bakelalan, Sarawak, Malaysia
+BKN,Balkanabat, Turkmenistan
+BKO,Bamako, Mali
+BKP, Barkly Downs, Queensland, Australia
+BKQ, Blackall, Queensland, Australia
+BKR,Bokoro, Chad
+BKS,Bengkulu, Indonesia
+BKT, Blackstone, Virginia, United States
+BKU,Betioky, Madagascar
+BKW, Beckley, West Virginia, United States
+BKX, Brookings, South Dakota, United States
+BKY,Bukavu, Democratic Republic of the Congo
+BKZ,Bukoba, Tanzania
+BLA, Barcelona, Venezuela
+BLB,Panama Pacifico, Panama
+BLC, Bali, Cameroon
+BLD, Boulder City, Nevada, United States
+BLE,Borl\u00e4nge, Sweden
+BLF, Bluefield, West Virginia, United States
+BLG, Belaga, Sarawak, Malaysia
+BLH, Blythe, California, United States
+BLI, Bellingham, Washington, United States
+BLJ, Batna, Algeria
+BLK,Blackpool, England, United Kingdom
+BLL, Billund, Denmark
+BLM, Farmingdale, New Jersey, United States
+BLN,Benalla, Victoria, Australia
+BLO,Bl\u00f6ndu\u00f3s, Iceland
+BLP, Bellavista, Peru
+BLQ,Bologna, Emilia-Romagna, Italy
+BLR,Bangalore, Karnataka, India
+BLS, Bollon, Queensland, Australia
+BLT, Blackwater, Queensland, Australia
+BLU, Emigrant Gap, California, United States
+BLV, Belleville, Illinois, United States
+BLX,Belluno, Veneto, Italy
+BLY,Belmullet, Ireland
+BLZ,Blantyre, Malawi
+BMA,Stockholm, Sweden
+BMB, Bumba, Democratic Republic of the Congo
+BMC, Brigham City, Utah, United States
+BMD,Belo sur Tsiribihina, Madagascar
+BME, Broome, Western Australia, Australia
+BMF,Bakouma, Central African Republic
+BMG, Bloomington, Indiana, United States
+BMH, Bomai, Papua New Guinea
+BMI, Bloomington, Illinois, United States
+BMJ,Baramita, Guyana
+BMK,Borkum, Lower Saxony, Germany
+BML, Berlin, New Hampshire, United States
+BMM,Bitam, Gabon
+BMN,Bamarni, Iraq
+BMO,Bhamo, Myanmar
+BMP,Brampton Island, Queensland, Australia
+BMQ,Bamburi, Kenya
+BMR,Baltrum, Lower Saxony, Germany
+BMS,Brumado, Bahia, Brazil
+BMT, Beaumont, Texas, United States
+BMU,Bima, Indonesia
+BMV,Buon Ma Thuot, Vietnam
+BMW,Bordj Badji Mokhtar, Algeria
+BMX, Big Mountain, Alaska, United States
+BMY,Waala, Belep Islands, New Caledonia
+BMZ, Bamu, Papua New Guinea
+BNA, Nashville, Tennessee, United States
+BNB,Boende, Democratic Republic of the Congo
+BNC, Beni, Democratic Republic of the Congo
+BND,Bandar Abbas, Iran
+BNE,Brisbane, Queensland, Australia
+BNF, Baranof Warm Springs, Alaska, United States
+BNG, Banning, California, United States
+BNI,Benin City, Nigeria
+BNK, Ballina, New South Wales, Australia
+BNL, Barnwell, South Carolina, United States
+BNM,Bodinumu, Papua New Guinea
+BNN,Br\u00f8nn\u00f8ysund, Norway
+BNO, Burns, Oregon, United States
+BNP,Bannu, Pakistan
+BNQ, Baganga, Philippines
+BNR,Banfora, Burkina Faso
+BNS, Barinas, Venezuela
+BNT, Bundi, Papua New Guinea
+BNU,Blumenau, Santa Catarina, Brazil
+BNV,Boana, Papua New Guinea
+BNW, Boone, Iowa, United States
+BNX,Banja Luka, Bosnia and Herzegovina
+BNY,Bellona Island, Rennell and Bellona, Solomon Islands
+BNZ,Banz, Papua New Guinea
+BOA, Boma, Democratic Republic of the Congo
+BOB,Bora Bora, French Polynesia
+BOC, Bocas Town, Panama
+BOD,Bordeaux, Aquitaine, France
+BOE,Boundji, Republic of the Congo
+BOG,Bogot\u00e1, Colombia
+BOH,Bournemouth, England, United Kingdom
+BOI, Boise, Idaho, United States
+BOJ,Burgas, Bulgaria
+BOK, Brookings, Oregon, United States
+BOL, Ballykelly, Northern Ireland, United Kingdom
+BOM,Mumbai, Maharashtra, India
+BON,Kralendijk, Bonaire, Caribbean Netherlands
+BOO,Bod\u00f8, Norway
+BOP,Bouar, Central African Republic
+BOQ, Boku, Papua New Guinea
+BOS,Boston, Massachusetts, United States
+BOT, Bosset, Papua New Guinea
+BOU,Bourges, Centre-Val de Loire, France
+BOV,Boang Island, Papua New Guinea
+BOW, Bartow, Florida, United States
+BOX,Borroloola, Northern Territory, Australia
+BOY,Bobo-Dioulasso, Burkina Faso
+BOZ,Bozoum, Central African Republic
+BPB,Boridi, Papua New Guinea
+BPC,Bamenda, Cameroon
+BPD, Bapi, Papua New Guinea
+BPE,Qinhuangdao, Hebei, China
+BPF,Batuna, Solomon Islands
+BPG,Barra do Gar\u00e7as, Mato Grosso, Brazil
+BPH,Bislig, Philippines
+BPI, Big Piney, Wyoming, United States
+BPK,Biangabip, Papua New Guinea
+BPL, Bole, Xinjiang, China
+BPM,Hyderabad, Telangana, India
+BPN,Balikpapan, Indonesia
+BPS,Porto Seguro, Bahia, Brazil
+BPT, Port Arthur, Texas, United States
+BPX,Qamdo, Tibet Autonomous Region, China
+BPY,Besalampy, Madagascar
+BQA, Baler, Philippines
+BQB,Busselton, Western Australia, Australia
+BQE,Bubaque, Guinea-Bissau
+BQG, Bogorodskoye, Khabarovsk Krai, Russia
+BQH,Biggin Hill, England, United Kingdom
+BQI, Bagani, Namibia
+BQJ,Batagay, Yakutia, Russia
+BQK, Brunswick, Georgia, United States
+BQL, Boulia, Queensland, Australia
+BQN, Aguadilla, Puerto Rico, United States
+BQO, Bouna, Ivory Coast
+BQQ, Barra, Bahia, Brazil
+BQS,Blagoveshchensk, Amur Oblast, Russia
+BQT, Brest, Belarus
+BQU,Bequia, Saint Vincent and the Grenadines
+BQV, Bartlett Cove, Alaska, United States
+BQW, Balgo Hill, Western Australia, Australia
+BRA,Barreiras, Bahia, Brazil
+BRB,Barreirinhas, Maranh\u00e3o, Brazil
+BRC,San Carlos de Bariloche, R\u00edo Negro, Argentina
+BRD, Brainerd, Minnesota, United States
+BRE,Bremen, Bremen, Germany
+BRH, Brahman, Papua New Guinea
+BRI,Bari, Apulia, Italy
+BRJ, Bright, Victoria, Australia
+BRK, Bourke, New South Wales, Australia
+BRL, Burlington, Iowa, United States
+BRM,Barquisimeto, Venezuela
+BRN,Bern, Switzerland
+BRO, Brownsville, Texas, United States
+BRP,Biaru, Papua New Guinea
+BRQ,Brno, Czech Republic
+BRR,Barra, Scotland, United Kingdom
+BRS,Bristol, England, United Kingdom
+BRT,Bathurst Island, Northern Territory, Australia
+BRU,Brussels, Belgium
+BRV,Bremerhaven, Bremen, Germany
+BRW, Barrow, Alaska, United States
+BRX,Barahona, Dominican Republic
+BRY, Bardstown, Kentucky, United States
+BSA,Bosaso, Somalia
+BSB,Bras\u00edlia, Distrito Federal, Brazil
+BSC,Bah\u00eda Solano, Colombia
+BSD, Baoshan, Yunnan, China
+BSE,Sematan, Sarawak, Malaysia
+BSF,Camp Pohakuloa, Hawaii, United States
+BSG, Bata, Equatorial Guinea
+BSI,Balesin Island, Quezon, Philippines
+BSJ,Bairnsdale, Victoria, Australia
+BSK,Biskra, Algeria
+BSL,Basel, Switzerland
+BSM,Amol, Iran
+BSN,Bossangoa, Central African Republic
+BSO, Basco, Philippines
+BSP,Bensbach, Papua New Guinea
+BSQ, Bisbee, Arizona, United States
+BSR,Basra, Iraq
+BSS, Balsas, Maranh\u00e3o, Brazil
+BST, (Bost), Afghanistan
+BSU,Basankusu, Democratic Republic of the Congo
+BSV,Besakoa, Madagascar
+BSW, Boswell Bay, Alaska, United States
+BSX,Pathein, Myanmar
+BSY,Bardera, Somalia
+BTA,Bertoua, Cameroon
+BTB,B\u00e9tou, Republic of the Congo
+BTC,Batticaloa, Sri Lanka
+BTD,Brunette Downs, Northern Territory, Australia
+BTE,Bonthe, Sierra Leone
+BTF, Bountiful, Utah, United States
+BTG,Batangafo, Central African Republic
+BTH,Batam, Indonesia
+BTI,Barter Island, Alaska, United States
+BTJ,Banda Aceh, Indonesia
+BTK,Bratsk, Irkutsk Oblast, Russia
+BTL, Battle Creek, Michigan, United States
+BTM, Butte, Montana, United States
+BTN, Bennettsville, South Carolina, United States
+BTO,Botopasi, Suriname
+BTP, Butler, Pennsylvania, United States
+BTQ,Butare, Rwanda
+BTR, Baton Rouge, Louisiana, United States
+BTS,Bratislava, Slovakia
+BTT, Bettles, Alaska, United States
+BTU,Bintulu, Sarawak, Malaysia
+BTV, Burlington, Vermont, United States
+BTW,Batu Licin, Indonesia
+BTX, Betoota, Queensland, Australia
+BTY, Beatty, Nevada, United States
+BUA,Buka Island, Papua New Guinea
+BUB, Burwell, Nebraska, United States
+BUC, Burketown, Queensland, Australia
+BUD,Budapest, Hungary
+BUE,Buenos Aires, Argentina
+BUF, Buffalo, New York, United States
+BUG,Benguela, Angola
+BUH,Bucharest, Romania
+BUI,Bokondini, Indonesia
+BUJ,Bou Sa\u00e2da, Algeria
+BUK,Albuq, Yemen
+BUL,Bulolo, Papua New Guinea
+BUM, Butler, Missouri, United States
+BUN, Buenaventura, Colombia
+BUO,Burao, Somalia
+BUP,Bathinda,   Punjab, India
+BUQ,Bulawayo, Zimbabwe
+BUR, Burbank, California, United States
+BUS,Batumi, Georgia
+BUT,Jakar, Bhutan
+BUU,Bungo Regency, Jambi, Indonesia
+BUV,Bella Uni\u00f3n, Uruguay
+BUW,Baubau, Indonesia
+BUX,Bunia, Democratic Republic of the Congo
+BUY, Bunbury, Western Australia, Australia
+BUZ,Bushehr, Iran
+BVA,Beauvais, Picardy, France
+BVB, Boa Vista, Roraima, Brazil
+BVC, Boa Vista, Cape Verde
+BVE,Brive-la-Gaillarde, Limousin, France
+BVF,Bua, Fiji
+BVG,Berlev\u00e5g, Norway
+BVH,Vilhena, Rond\u00f4nia, Brazil
+BVI,Birdsville, Queensland, Australia
+BVK,Huacaraje, Bolivia
+BVL,Baures, Bolivia
+BVM, Belmonte, Bahia, Brazil
+BVO, Bartlesville, Oklahoma, United States
+BVP,Bolovip, Papua New Guinea
+BVR, Brava, Cape Verde
+BVS, Breves, Par\u00e1, Brazil
+BVU, Beluga, Alaska, United States
+BVV, Burevestnik, Sakhalin Oblast, Russia
+BVW, Batavia Downs, Queensland, Australia
+BVX, Batesville, Arkansas, United States
+BVY, Beverly, Massachusetts, United States
+BVZ, Beverley Springs, Western Australia, Australia
+BWA, (Bhairawa), Nepal
+BWB, Barrow Island, Western Australia, Australia
+BWC, Brawley, California, United States
+BWD, Brownwood, Texas, United States
+BWE,Braunschweig, Lower Saxony, Germany
+BWF,Barrow-in-Furness, England, United Kingdom
+BWG, Bowling Green, Kentucky, United States
+BWH, Butterworth, Penang, Malaysia
+BWI,Baltimore\u2013Washington metropolitan area, United States
+BWJ,Bawan, Papua New Guinea
+BWK, Bol, Croatia
+BWL, Blackwell, Oklahoma, United States
+BWM, Bowman, North Dakota, United States
+BWN,Bandar Seri Begawan, Brunei
+BWO,Balakovo, Saratov Oblast, Russia
+BWP,Bewani, Papua New Guinea
+BWQ, Brewarrina, New South Wales, Australia
+BWT, Burnie, Tasmania, Australia
+BWU,Bankstown, New South Wales, Australia
+BWW,Cayo Santa Mar\u00eda, Cuba
+BWX,Banyuwangi, Indonesia
+BXA, Bogalusa, Louisiana, United States
+BXB, Babo, Indonesia
+BXD, Bade, Indonesia
+BXE, Bakel, Senegal
+BXF, Bellburn Camps, Western Australia, Australia
+BXG,Bendigo, Victoria, Australia
+BXH,Balkhash, Kazakhstan
+BXI,Boundiali, Ivory Coast
+BXJ,Almaty, Kazakhstan
+BXK, Buckeye, Arizona, United States
+BXL,Nanuya Lailai, Fiji
+BXM,Batom, Indonesia
+BXN,Bodrum, Turkey
+BXO,Buochs, Switzerland
+BXP,Bia\u0142a Podlaska, Poland
+BXR, Bam, Iran
+BXS, Borrego Springs, California, United States
+BXT,Bontang, Indonesia
+BXU,Butuan, Philippines
+BXV,Brei\u00f0dalsv\u00edk, Iceland
+BXX,Borama, Somalia
+BXY,Baikonur, Kazakhstan
+BXZ,Bunsil, Papua New Guinea
+BYA, Boundary, Alaska, United States
+BYB,Dibba Al-Baya, Oman
+BYC,Yacu\u00edba, Bolivia
+BYD, Al Bayda, Yemen
+BYF, Albert, Picardy, France
+BYG, Buffalo, Wyoming, United States
+BYH, Blytheville, Arkansas, United States
+BYI, Burley, Idaho, United States
+BYJ, Beja, Portugal
+BYK,Bouak\u00e9, Ivory Coast
+BYL,Bella Yella, Liberia
+BYM,Bayamo, Cuba
+BYN,Bayankhongor, Mongolia
+BYO, Bonito, Mato Grosso do Sul, Brazil
+BYP,Barimunya, Western Australia, Australia
+BYQ,Bunyu, Indonesia
+BYR,L\u00e6s\u00f8, Denmark
+BYS, Barstow, California, United States
+BYT,Bantry, Ireland
+BYU,Bayreuth, Bavaria, Germany
+BYV,Colombo, Sri Lanka
+BYW, Blakely Island, Washington, United States
+BYX, Baniyala, Northern Territory, Australia
+BZA, Bonanza, Nicaragua
+BZB,Bazaruto Island, Mozambique
+BZC,Arma\u00e7\u00e3o dos B\u00fazios, Rio de Janeiro, Brazil
+BZD,Balranald, New South Wales, Australia
+BZE,Belize City, Belize
+BZF, Redding, California, United States
+BZG,Bydgoszcz, Poland
+BZH,Bumi Hills, Zimbabwe
+BZI,Bal\u0131kesir, Turkey
+BZK,Bryansk, Bryansk Oblast, Russia
+BZL,Barisal, Bangladesh
+BZM,Bemolanga, Madagascar
+BZN, Bozeman, Montana, United States
+BZO,Bolzano, Trentino-Alto Adige/S\u00fcdtirol, Italy
+BZP, Bizant, Queensland, Australia
+BZR,B\u00e9ziers, Languedoc-Roussillon, France
+BZT, Brazoria, Texas, United States
+BZU, Buta, Democratic Republic of the Congo
+BZV,Brazzaville, Republic of the Congo
+BZX,Bazhong, Sichuan, China
+BZY,B\u0103l\u021bi, Moldova
+BZZ, Carterton, England, United Kingdom

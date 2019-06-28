@@ -1,0 +1,2718 @@
+<tr>
+<td>YAA</td>
+<td></td>
+<td><a href=\"/wiki/Anahim_Lake_Airport\" title=\"Anahim Lake Airport\">Anahim Lake Airport</a> (TC: CAJ4)</td>
+<td><a href=\"/wiki/Anahim_Lake\" title=\"Anahim Lake\">Anahim Lake</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YAB</td>
+<td>CYAB</td>
+<td><a href=\"/wiki/Arctic_Bay_Airport\" title=\"Arctic Bay Airport\">Arctic Bay Airport</a> (TC: CJX7)</td>
+<td><a href=\"/wiki/Arctic_Bay\" title=\"Arctic Bay\">Arctic Bay</a>, <a href=\"/wiki/Nunavut\" title=\"Nunavut\">Nunavut</a>, Canada</td>
+</tr>
+<tr>
+<td>YAC</td>
+<td>CYAC</td>
+<td><a href=\"/wiki/Cat_Lake_Airport\" title=\"Cat Lake Airport\">Cat Lake Airport</a></td>
+<td><a href=\"/wiki/Cat_Lake_First_Nation\" title=\"Cat Lake First Nation\">Cat Lake</a>, <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YAD</td>
+<td></td>
+<td><a href=\"/wiki/Moose_Lake_Airport\" class=\"mw-redirect\" title=\"Moose Lake Airport\">Moose Lake Airport</a> (TC: CJB4)</td>
+<td><a href=\"/wiki/Moose_Lake,_Manitoba\" title=\"Moose Lake, Manitoba\">Moose Lake</a>, <a href=\"/wiki/Manitoba\" title=\"Manitoba\">Manitoba</a>, Canada</td>
+</tr>
+<tr>
+<td>YAG</td>
+<td>CYAG</td>
+<td><a href=\"/wiki/Fort_Frances_Municipal_Airport\" title=\"Fort Frances Municipal Airport\">Fort Frances Municipal Airport</a></td>
+<td><a href=\"/wiki/Fort_Frances\" title=\"Fort Frances\">Fort Frances</a>, <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YAH</td>
+<td>CYAH</td>
+<td><a href=\"/wiki/La_Grande-4_Airport\" title=\"La Grande-4 Airport\">La Grande-4 Airport</a></td>
+<td><a href=\"/wiki/La_Grande-4_generating_station\" title=\"La Grande-4 generating station\">La Grande-4</a>, <a href=\"/wiki/Quebec\" title=\"Quebec\">Quebec</a>, Canada</td>
+</tr>
+<tr>
+<td>YAI</td>
+<td>SCCH</td>
+<td><a href=\"/wiki/General_Bernardo_O%27Higgins_Airport\" title=\"General Bernardo O&#39;Higgins Airport\">General Bernardo O'Higgins Airport</a></td>
+<td><a href=\"/wiki/Chill%C3%A1n\" title=\"Chill\u00e1n\">Chill\u00e1n</a>, <a href=\"/wiki/Chile\" title=\"Chile\">Chile</a></td>
+</tr>
+<tr>
+<td>YAJ</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Lyall_Harbour_Seaplane_Base&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Lyall Harbour Seaplane Base (page does not exist)\">Lyall Harbour Seaplane Base</a></td>
+<td><a href=\"/wiki/Saturna_Island\" title=\"Saturna Island\">Saturna Island</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YAK</td>
+<td>PAYA</td>
+<td><a href=\"/wiki/Yakutat_Airport\" title=\"Yakutat Airport\">Yakutat Airport</a></td>
+<td><a href=\"/wiki/Yakutat,_Alaska\" title=\"Yakutat, Alaska\">Yakutat</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>YAL</td>
+<td>CYAL</td>
+<td><a href=\"/wiki/Alert_Bay_Airport\" title=\"Alert Bay Airport\">Alert Bay Airport</a></td>
+<td><a href=\"/wiki/Alert_Bay\" title=\"Alert Bay\">Alert Bay</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YAM</td>
+<td>CYAM</td>
+<td><a href=\"/wiki/Sault_Ste._Marie_Airport\" title=\"Sault Ste. Marie Airport\">Sault Ste. Marie Airport</a></td>
+<td><a href=\"/wiki/Sault_Ste._Marie,_Ontario\" title=\"Sault Ste. Marie, Ontario\">Sault Ste. Marie</a>, <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YAN</td>
+<td>FZIR</td>
+<td><a href=\"/wiki/Yangambi_Airport\" title=\"Yangambi Airport\">Yangambi Airport</a></td>
+<td><a href=\"/wiki/Yangambi\" title=\"Yangambi\">Yangambi</a>, <a href=\"/wiki/Democratic_Republic_of_the_Congo\" title=\"Democratic Republic of the Congo\">Democratic Republic of the Congo</a></td>
+</tr>
+<tr>
+<td>YAO</td>
+<td>FKKY</td>
+<td><a href=\"/wiki/Yaound%C3%A9_Airport\" title=\"Yaound\u00e9 Airport\">Yaound\u00e9 Airport</a></td>
+<td><a href=\"/wiki/Yaound%C3%A9\" title=\"Yaound\u00e9\">Yaound\u00e9</a>, <a href=\"/wiki/Cameroon\" title=\"Cameroon\">Cameroon</a></td>
+</tr>
+<tr>
+<td>YAP</td>
+<td>PTYA</td>
+<td><a href=\"/wiki/Yap_International_Airport\" title=\"Yap International Airport\">Yap International Airport</a> (FAA: T11)</td>
+<td><a href=\"/wiki/Yap\" title=\"Yap\">Yap</a>, <a href=\"/wiki/Federated_States_of_Micronesia\" title=\"Federated States of Micronesia\">Federated States of Micronesia</a></td>
+</tr>
+<tr>
+<td>YAQ</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Maple_Bay_Seaplane_Base&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Maple Bay Seaplane Base (page does not exist)\">Maple Bay Seaplane Base</a></td>
+<td><a href=\"/wiki/Maple_Bay,_British_Columbia\" title=\"Maple Bay, British Columbia\">Maple Bay</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YAR</td>
+<td>CYAD</td>
+<td><a href=\"/wiki/La_Grande-3_Airport\" title=\"La Grande-3 Airport\">La Grande-3 Airport</a></td>
+<td><a href=\"/wiki/La_Grande-3_generating_station\" title=\"La Grande-3 generating station\">La Grande-3</a>, <a href=\"/wiki/Quebec\" title=\"Quebec\">Quebec</a>, Canada</td>
+</tr>
+<tr>
+<td>YAS</td>
+<td>NFSW</td>
+<td><a href=\"/wiki/Yasawa_Island_Airport\" title=\"Yasawa Island Airport\">Yasawa Island Airport</a></td>
+<td><a href=\"/wiki/Yasawa\" title=\"Yasawa\">Yasawa</a>, <a href=\"/wiki/Fiji\" title=\"Fiji\">Fiji</a></td>
+</tr>
+<tr>
+<td>YAT</td>
+<td>CYAT</td>
+<td><a href=\"/wiki/Attawapiskat_Airport\" title=\"Attawapiskat Airport\">Attawapiskat Airport</a></td>
+<td><a href=\"/wiki/Attawapiskat_First_Nation\" title=\"Attawapiskat First Nation\">Attawapiskat</a>, <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YAU</td>
+<td></td>
+<td><a href=\"/wiki/Kattiniq/Donaldson_Airport\" title=\"Kattiniq/Donaldson Airport\">Kattiniq/Donaldson Airport</a> (TC: CTP9)</td>
+<td><a href=\"/wiki/Raglan_Mine\" title=\"Raglan Mine\">Raglan Mine</a>, <a href=\"/wiki/Quebec\" title=\"Quebec\">Quebec</a>, Canada</td>
+</tr>
+<tr>
+<td>YAV</td>
+<td></td>
+<td><a href=\"/wiki/Mayne_Island_Water_Aerodrome\" title=\"Mayne Island Water Aerodrome\">Mayne Island Water Aerodrome</a> (Miner's Bay Seaplane Base) (TC: CAW7)</td>
+<td><a href=\"/wiki/Mayne_Island\" title=\"Mayne Island\">Mayne Island</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YAX</td>
+<td></td>
+<td><a href=\"/wiki/Angling_Lake/Wapekeka_Airport\" title=\"Angling Lake/Wapekeka Airport\">Angling Lake/Wapekeka Airport</a><sup id=\"cite_ref-IATA_1-0\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (TC: CKB6)</td>
+<td><a href=\"/wiki/Wapekeka_First_Nation\" title=\"Wapekeka First Nation\">Wapekeka</a>, <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YAY</td>
+<td>CYAY</td>
+<td><a href=\"/wiki/St._Anthony_Airport\" title=\"St. Anthony Airport\">St. Anthony Airport</a></td>
+<td><a href=\"/wiki/St._Anthony,_Newfoundland_and_Labrador\" title=\"St. Anthony, Newfoundland and Labrador\">St. Anthony</a>, <a href=\"/wiki/Newfoundland_and_Labrador\" title=\"Newfoundland and Labrador\">Newfoundland and Labrador</a>, Canada</td>
+</tr>
+<tr>
+<td>YAZ</td>
+<td>CYAZ</td>
+<td><a href=\"/wiki/Tofino/Long_Beach_Airport\" title=\"Tofino/Long Beach Airport\">Tofino/Long Beach Airport</a></td>
+<td><a href=\"/wiki/Tofino\" title=\"Tofino\">Tofino</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YBA</td>
+<td>CYBA</td>
+<td><a href=\"/wiki/Banff_Airport\" title=\"Banff Airport\">Banff Airport</a></td>
+<td><a href=\"/wiki/Banff,_Alberta\" title=\"Banff, Alberta\">Banff</a>, <a href=\"/wiki/Alberta\" title=\"Alberta\">Alberta</a>, Canada</td>
+</tr>
+<tr>
+<td>YBB</td>
+<td>CYBB</td>
+<td><a href=\"/wiki/Kugaaruk_Airport\" title=\"Kugaaruk Airport\">Kugaaruk Airport</a></td>
+<td><a href=\"/wiki/Kugaaruk\" title=\"Kugaaruk\">Kugaaruk</a>, <a href=\"/wiki/Nunavut\" title=\"Nunavut\">Nunavut</a>, Canada</td>
+</tr>
+<tr>
+<td>YBC</td>
+<td>CYBC</td>
+<td><a href=\"/wiki/Baie-Comeau_Airport\" title=\"Baie-Comeau Airport\">Baie-Comeau Airport</a></td>
+<td><a href=\"/wiki/Baie-Comeau\" title=\"Baie-Comeau\">Baie-Comeau</a>, <a href=\"/wiki/Quebec\" title=\"Quebec\">Quebec</a>, Canada</td>
+</tr>
+<tr>
+<td>YBE</td>
+<td>CYBE</td>
+<td><a href=\"/wiki/Uranium_City_Airport\" title=\"Uranium City Airport\">Uranium City Airport</a></td>
+<td><a href=\"/wiki/Uranium_City\" title=\"Uranium City\">Uranium City</a>, <a href=\"/wiki/Saskatchewan\" title=\"Saskatchewan\">Saskatchewan</a>, Canada</td>
+</tr>
+<tr>
+<td>YBF</td>
+<td></td>
+<td><a href=\"/wiki/Bamfield_Water_Aerodrome\" title=\"Bamfield Water Aerodrome\">Bamfield Water Aerodrome</a> (TC: CAE9)</td>
+<td><a href=\"/wiki/Bamfield\" title=\"Bamfield\">Bamfield</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YBG</td>
+<td>CYBG</td>
+<td><a href=\"/wiki/CFB_Bagotville\" title=\"CFB Bagotville\">Canadian Forces Base Bagotville</a></td>
+<td><a href=\"/wiki/La_Baie,_Quebec\" class=\"mw-redirect\" title=\"La Baie, Quebec\">La Baie</a> (Bagotville), <a href=\"/wiki/Quebec\" title=\"Quebec\">Quebec</a>, Canada</td>
+</tr>
+<tr>
+<td>YBH</td>
+<td>CYBH</td>
+<td><a href=\"/w/index.php?title=Bull_Harbour_Waterdrome&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Bull Harbour Waterdrome (page does not exist)\">Bull Harbour Waterdrome</a></td>
+<td><a href=\"/wiki/Bull_Harbour\" title=\"Bull Harbour\">Bull Harbour</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YBI</td>
+<td></td>
+<td><a href=\"/wiki/Black_Tickle_Airport\" title=\"Black Tickle Airport\">Black Tickle Airport</a> (TC: CCE4)</td>
+<td><a href=\"/wiki/Black_Tickle\" title=\"Black Tickle\">Black Tickle</a>, <a href=\"/wiki/Newfoundland_and_Labrador\" title=\"Newfoundland and Labrador\">Newfoundland and Labrador</a>, Canada</td>
+</tr>
+<tr>
+<td>YBJ</td>
+<td></td>
+<td><a href=\"/wiki/Baie-Johan-Beetz_Seaplane_Base\" title=\"Baie-Johan-Beetz Seaplane Base\">Baie-Johan-Beetz Seaplane Base</a></td>
+<td><a href=\"/wiki/Baie-Johan-Beetz,_Quebec\" title=\"Baie-Johan-Beetz, Quebec\">Baie-Johan-Beetz</a>, <a href=\"/wiki/Quebec\" title=\"Quebec\">Quebec</a>, Canada</td>
+</tr>
+<tr>
+<td>YBK</td>
+<td>CYBK</td>
+<td><a href=\"/wiki/Baker_Lake_Airport\" title=\"Baker Lake Airport\">Baker Lake Airport</a></td>
+<td><a href=\"/wiki/Baker_Lake,_Nunavut\" title=\"Baker Lake, Nunavut\">Baker Lake</a>, <a href=\"/wiki/Nunavut\" title=\"Nunavut\">Nunavut</a>, Canada</td>
+</tr>
+<tr>
+<td>YBL</td>
+<td>CYBL</td>
+<td><a href=\"/wiki/Campbell_River_Airport\" title=\"Campbell River Airport\">Campbell River Airport</a></td>
+<td><a href=\"/wiki/Campbell_River,_British_Columbia\" title=\"Campbell River, British Columbia\">Campbell River</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YBO</td>
+<td></td>
+<td><a href=\"/wiki/Bob_Quinn_Lake_Airport\" title=\"Bob Quinn Lake Airport\">Bob Quinn Lake Airport</a> (TC: CBW4)</td>
+<td><a href=\"/w/index.php?title=Bob_Quinn_Lake,_British_Columbia&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Bob Quinn Lake, British Columbia (page does not exist)\">Bob Quinn Lake</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YBP</td>
+<td>ZUYB</td>
+<td><a href=\"/wiki/Yibin_Caiba_Airport\" title=\"Yibin Caiba Airport\">Yibin Caiba Airport</a></td>
+<td><a href=\"/wiki/Yibin\" title=\"Yibin\">Yibin</a>, <a href=\"/wiki/Sichuan\" title=\"Sichuan\">Sichuan</a>, China</td>
+</tr>
+<tr>
+<td>YBQ</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Telegraph_Harbour_Seaplane_Base&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Telegraph Harbour Seaplane Base (page does not exist)\">Telegraph Harbour Seaplane Base</a></td>
+<td><a href=\"/wiki/Thetis_Island\" title=\"Thetis Island\">Thetis Island</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YBR</td>
+<td>CYBR</td>
+<td><a href=\"/wiki/Brandon_Municipal_Airport\" title=\"Brandon Municipal Airport\">Brandon Municipal Airport</a> (McGill Field)</td>
+<td><a href=\"/wiki/Brandon,_Manitoba\" title=\"Brandon, Manitoba\">Brandon</a>, <a href=\"/wiki/Manitoba\" title=\"Manitoba\">Manitoba</a>, Canada</td>
+</tr>
+<tr>
+<td>YBS</td>
+<td></td>
+<td><a href=\"/wiki/Opapimiskan_Lake_Airport\" title=\"Opapimiskan Lake Airport\">Opapimiskan Lake Airport</a><sup id=\"cite_ref-IATA_1-1\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (TC: CKM8)</td>
+<td><a href=\"/w/index.php?title=Opapimiskan_Lake&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Opapimiskan Lake (page does not exist)\">Opapimiskan Lake</a>, <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YBT</td>
+<td>CYBT</td>
+<td><a href=\"/wiki/Brochet_Airport\" title=\"Brochet Airport\">Brochet Airport</a></td>
+<td><a href=\"/wiki/Brochet,_Manitoba\" title=\"Brochet, Manitoba\">Brochet</a>, <a href=\"/wiki/Manitoba\" title=\"Manitoba\">Manitoba</a>, Canada</td>
+</tr>
+<tr>
+<td>YBV</td>
+<td>CYBV</td>
+<td><a href=\"/wiki/Berens_River_Airport\" title=\"Berens River Airport\">Berens River Airport</a></td>
+<td><a href=\"/wiki/Berens_River,_Manitoba\" title=\"Berens River, Manitoba\">Berens River</a>, <a href=\"/wiki/Manitoba\" title=\"Manitoba\">Manitoba</a>, Canada</td>
+</tr>
+<tr>
+<td>YBW</td>
+<td></td>
+<td><a href=\"/wiki/Bedwell_Harbour_Water_Aerodrome\" title=\"Bedwell Harbour Water Aerodrome\">Bedwell Harbour Water Aerodrome</a> (TC: CAB3)</td>
+<td><a href=\"/wiki/Bedwell_Harbour\" title=\"Bedwell Harbour\">Bedwell Harbour</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YBX</td>
+<td>CYBX</td>
+<td><a href=\"/wiki/Lourdes-de-Blanc-Sablon_Airport\" title=\"Lourdes-de-Blanc-Sablon Airport\">Lourdes-de-Blanc-Sablon Airport</a></td>
+<td><a href=\"/wiki/Blanc-Sablon,_Quebec\" title=\"Blanc-Sablon, Quebec\">Blanc-Sablon</a>, <a href=\"/wiki/Quebec\" title=\"Quebec\">Quebec</a>, Canada</td>
+</tr>
+<tr>
+<td>YBY</td>
+<td>CYBF</td>
+<td><a href=\"/wiki/Bonnyville_Airport\" title=\"Bonnyville Airport\">Bonnyville Airport</a></td>
+<td><a href=\"/wiki/Bonnyville\" title=\"Bonnyville\">Bonnyville</a>, <a href=\"/wiki/Alberta\" title=\"Alberta\">Alberta</a>, Canada</td>
+</tr>
+<tr>
+<td>YCA</td>
+<td></td>
+<td><a href=\"/wiki/Courtenay_Airpark\" title=\"Courtenay Airpark\">Courtenay Airpark</a> (TC: CAH3)</td>
+<td><a href=\"/wiki/Courtenay,_British_Columbia\" title=\"Courtenay, British Columbia\">Courtenay</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YCB</td>
+<td>CYCB</td>
+<td><a href=\"/wiki/Cambridge_Bay_Airport\" title=\"Cambridge Bay Airport\">Cambridge Bay Airport</a></td>
+<td><a href=\"/wiki/Cambridge_Bay\" title=\"Cambridge Bay\">Cambridge Bay</a>, <a href=\"/wiki/Nunavut\" title=\"Nunavut\">Nunavut</a>, Canada</td>
+</tr>
+<tr>
+<td>YCC</td>
+<td>CYCC</td>
+<td><a href=\"/wiki/Cornwall_Regional_Airport\" title=\"Cornwall Regional Airport\">Cornwall Regional Airport</a></td>
+<td><a href=\"/wiki/Cornwall,_Ontario\" title=\"Cornwall, Ontario\">Cornwall</a>, <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YCD</td>
+<td>CYCD</td>
+<td><a href=\"/wiki/Nanaimo_Airport\" title=\"Nanaimo Airport\">Nanaimo Airport</a></td>
+<td><a href=\"/wiki/Nanaimo\" title=\"Nanaimo\">Nanaimo</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YCE</td>
+<td>CYCE</td>
+<td><a href=\"/wiki/Centralia/James_T._Field_Memorial_Aerodrome\" title=\"Centralia/James T. Field Memorial Aerodrome\">Centralia/James T. Field Memorial Aerodrome</a></td>
+<td><a href=\"/wiki/South_Huron\" title=\"South Huron\">Centralia</a>, <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YCF</td>
+<td></td>
+<td><a href=\"/wiki/Cortes_Island_Aerodrome\" title=\"Cortes Island Aerodrome\">Cortes Island Aerodrome</a> (TC: CCI9)</td>
+<td><a href=\"/wiki/Cortes_Island\" title=\"Cortes Island\">Cortes Island</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YCG</td>
+<td>CYCG</td>
+<td><a href=\"/wiki/West_Kootenay_Regional_Airport\" title=\"West Kootenay Regional Airport\">West Kootenay Regional Airport</a> (Castlegar Airport)</td>
+<td><a href=\"/wiki/Castlegar,_British_Columbia\" title=\"Castlegar, British Columbia\">Castlegar</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YCH</td>
+<td>CYCH</td>
+<td><a href=\"/wiki/Miramichi_Airport\" title=\"Miramichi Airport\">Miramichi Airport</a></td>
+<td><a href=\"/wiki/Miramichi,_New_Brunswick\" title=\"Miramichi, New Brunswick\">Miramichi</a>, <a href=\"/wiki/New_Brunswick\" title=\"New Brunswick\">New Brunswick</a>, Canada</td>
+</tr>
+<tr>
+<td>YCK</td>
+<td>CYVL</td>
+<td><a href=\"/wiki/Colville_Lake/Tommy_Kochon_Aerodrome\" title=\"Colville Lake/Tommy Kochon Aerodrome\">Colville Lake/Tommy Kochon Aerodrome</a></td>
+<td><a href=\"/wiki/Colville_Lake,_Northwest_Territories\" title=\"Colville Lake, Northwest Territories\">Colville Lake</a>, <a href=\"/wiki/Northwest_Territories\" title=\"Northwest Territories\">Northwest Territories</a>, Canada</td>
+</tr>
+<tr>
+<td>YCL</td>
+<td>CYCL</td>
+<td><a href=\"/wiki/Charlo_Airport\" title=\"Charlo Airport\">Charlo Airport</a></td>
+<td><a href=\"/wiki/Charlo,_New_Brunswick\" title=\"Charlo, New Brunswick\">Charlo</a>, <a href=\"/wiki/New_Brunswick\" title=\"New Brunswick\">New Brunswick</a>, Canada</td>
+</tr>
+<tr>
+<td>YCM</td>
+<td>CYSN</td>
+<td><a href=\"/wiki/St._Catharines/Niagara_District_Airport\" title=\"St. Catharines/Niagara District Airport\">St. Catharines/Niagara District Airport</a></td>
+<td><a href=\"/wiki/St._Catharines\" title=\"St. Catharines\">St. Catharines</a>, <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YCN</td>
+<td>CYCN</td>
+<td><a href=\"/wiki/Cochrane_Aerodrome\" title=\"Cochrane Aerodrome\">Cochrane Aerodrome</a></td>
+<td><a href=\"/wiki/Cochrane,_Ontario\" title=\"Cochrane, Ontario\">Cochrane</a>, <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YCO</td>
+<td>CYCO</td>
+<td><a href=\"/wiki/Kugluktuk_Airport\" title=\"Kugluktuk Airport\">Kugluktuk Airport</a></td>
+<td><a href=\"/wiki/Kugluktuk\" title=\"Kugluktuk\">Kugluktuk</a>, <a href=\"/wiki/Nunavut\" title=\"Nunavut\">Nunavut</a>, Canada</td>
+</tr>
+<tr>
+<td>YCQ</td>
+<td>CYCQ</td>
+<td><a href=\"/wiki/Chetwynd_Airport\" title=\"Chetwynd Airport\">Chetwynd Airport</a></td>
+<td><a href=\"/wiki/Chetwynd,_British_Columbia\" title=\"Chetwynd, British Columbia\">Chetwynd</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YCR</td>
+<td>CYCR</td>
+<td><a href=\"/wiki/Cross_Lake_(Charlie_Sinclair_Memorial)_Airport\" title=\"Cross Lake (Charlie Sinclair Memorial) Airport\">Cross Lake (Charlie Sinclair Memorial) Airport</a></td>
+<td><a href=\"/wiki/Cross_Lake,_Manitoba\" title=\"Cross Lake, Manitoba\">Cross Lake</a>, <a href=\"/wiki/Manitoba\" title=\"Manitoba\">Manitoba</a>, Canada</td>
+</tr>
+<tr>
+<td>YCS</td>
+<td>CYCS</td>
+<td><a href=\"/wiki/Chesterfield_Inlet_Airport\" title=\"Chesterfield Inlet Airport\">Chesterfield Inlet Airport</a></td>
+<td><a href=\"/wiki/Chesterfield_Inlet,_Nunavut\" title=\"Chesterfield Inlet, Nunavut\">Chesterfield Inlet</a>, <a href=\"/wiki/Nunavut\" title=\"Nunavut\">Nunavut</a>, Canada</td>
+</tr>
+<tr>
+<td>YCT</td>
+<td>CYCT</td>
+<td><a href=\"/wiki/Coronation_Airport\" title=\"Coronation Airport\">Coronation Airport</a></td>
+<td><a href=\"/wiki/Coronation,_Alberta\" title=\"Coronation, Alberta\">Coronation</a>, <a href=\"/wiki/Alberta\" title=\"Alberta\">Alberta</a>, Canada</td>
+</tr>
+<tr>
+<td>YCU</td>
+<td>ZBYC</td>
+<td><a href=\"/wiki/Yuncheng_Guangong_Airport\" title=\"Yuncheng Guangong Airport\">Yuncheng Guangong Airport</a></td>
+<td><a href=\"/wiki/Yuncheng\" title=\"Yuncheng\">Yuncheng</a>, <a href=\"/wiki/Shanxi\" title=\"Shanxi\">Shanxi</a>, China</td>
+</tr>
+<tr>
+<td>YCW</td>
+<td>CYCW</td>
+<td><a href=\"/wiki/Chilliwack_Airport\" title=\"Chilliwack Airport\">Chilliwack Airport</a></td>
+<td><a href=\"/wiki/Chilliwack\" title=\"Chilliwack\">Chilliwack</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YCY</td>
+<td>CYCY</td>
+<td><a href=\"/wiki/Clyde_River_Airport\" title=\"Clyde River Airport\">Clyde River Airport</a></td>
+<td><a href=\"/wiki/Clyde_River,_Nunavut\" title=\"Clyde River, Nunavut\">Clyde River</a>, <a href=\"/wiki/Nunavut\" title=\"Nunavut\">Nunavut</a>, Canada</td>
+</tr>
+<tr>
+<td>YCZ</td>
+<td>CYCZ</td>
+<td><a href=\"/wiki/Fairmont_Hot_Springs_Airport\" title=\"Fairmont Hot Springs Airport\">Fairmont Hot Springs Airport</a></td>
+<td><a href=\"/wiki/Fairmont_Hot_Springs,_British_Columbia\" title=\"Fairmont Hot Springs, British Columbia\">Fairmont Hot Springs</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YDA</td>
+<td>CYDA</td>
+<td><a href=\"/wiki/Dawson_City_Airport\" title=\"Dawson City Airport\">Dawson City Airport</a></td>
+<td><a href=\"/wiki/Dawson_City\" title=\"Dawson City\">Dawson City</a>, <a href=\"/wiki/Yukon\" title=\"Yukon\">Yukon</a>, Canada</td>
+</tr>
+<tr>
+<td>YDB</td>
+<td>CYDB</td>
+<td><a href=\"/wiki/Burwash_Airport\" title=\"Burwash Airport\">Burwash Airport</a></td>
+<td><a href=\"/wiki/Burwash_Landing\" title=\"Burwash Landing\">Burwash Landing</a>, <a href=\"/wiki/Yukon\" title=\"Yukon\">Yukon</a>, Canada</td>
+</tr>
+<tr>
+<td>YDC</td>
+<td></td>
+<td><a href=\"/wiki/Drayton_Valley_Industrial_Airport\" title=\"Drayton Valley Industrial Airport\">Drayton Valley Industrial Airport</a> (TC: CER3)</td>
+<td><a href=\"/wiki/Drayton_Valley\" title=\"Drayton Valley\">Drayton Valley</a>, <a href=\"/wiki/Alberta\" title=\"Alberta\">Alberta</a>, Canada</td>
+</tr>
+<tr>
+<td>YDE</td>
+<td></td>
+<td><a href=\"/wiki/Paradise_River_Airport\" title=\"Paradise River Airport\">Paradise River Airport</a> (TC: CDF4)</td>
+<td><a href=\"/w/index.php?title=Paradise_River,_Newfoundland_and_Labrador&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Paradise River, Newfoundland and Labrador (page does not exist)\">Paradise River</a>, <a href=\"/wiki/Newfoundland_and_Labrador\" title=\"Newfoundland and Labrador\">Newfoundland and Labrador</a>, Canada</td>
+</tr>
+<tr>
+<td>YDF</td>
+<td>CYDF</td>
+<td><a href=\"/wiki/Deer_Lake_Regional_Airport\" title=\"Deer Lake Regional Airport\">Deer Lake Regional Airport</a></td>
+<td><a href=\"/wiki/Deer_Lake,_Newfoundland_and_Labrador\" title=\"Deer Lake, Newfoundland and Labrador\">Deer Lake</a>, <a href=\"/wiki/Newfoundland_and_Labrador\" title=\"Newfoundland and Labrador\">Newfoundland and Labrador</a>, Canada</td>
+</tr>
+<tr>
+<td>YDG</td>
+<td>CYID</td>
+<td><a href=\"/wiki/Digby/Annapolis_Regional_Airport\" title=\"Digby/Annapolis Regional Airport\">Digby/Annapolis Regional Airport</a></td>
+<td><a href=\"/wiki/Digby,_Nova_Scotia\" title=\"Digby, Nova Scotia\">Digby</a>, <a href=\"/wiki/Nova_Scotia\" title=\"Nova Scotia\">Nova Scotia</a>, Canada</td>
+</tr>
+<tr>
+<td>YDJ</td>
+<td></td>
+<td><a href=\"/wiki/Hatchet_Lake_Airport\" title=\"Hatchet Lake Airport\">Hatchet Lake Airport</a><sup id=\"cite_ref-IATA_1-2\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (TC: CJL2)</td>
+<td><a href=\"/wiki/Hatchet_Lake_(Saskatchewan)\" title=\"Hatchet Lake (Saskatchewan)\">Hatchet Lake</a>, <a href=\"/wiki/Saskatchewan\" title=\"Saskatchewan\">Saskatchewan</a>, Canada</td>
+</tr>
+<tr>
+<td>YDL</td>
+<td>CYDL</td>
+<td><a href=\"/wiki/Dease_Lake_Airport\" title=\"Dease Lake Airport\">Dease Lake Airport</a></td>
+<td><a href=\"/wiki/Dease_Lake\" title=\"Dease Lake\">Dease Lake</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YDN</td>
+<td>CYDN</td>
+<td><a href=\"/wiki/Lt._Col_W.G._(Billy)_Barker_VC_Airport\" title=\"Lt. Col W.G. (Billy) Barker VC Airport\">Lt. Col W.G. (Billy) Barker VC Airport</a></td>
+<td><a href=\"/wiki/Dauphin,_Manitoba\" title=\"Dauphin, Manitoba\">Dauphin</a>, <a href=\"/wiki/Manitoba\" title=\"Manitoba\">Manitoba</a>, Canada</td>
+</tr>
+<tr>
+<td>YDO</td>
+<td>CYDO</td>
+<td><a href=\"/wiki/Dolbeau-Saint-F%C3%A9licien_Airport\" title=\"Dolbeau-Saint-F\u00e9licien Airport\">Dolbeau-Saint-F\u00e9licien Airport</a></td>
+<td><a href=\"/wiki/Dolbeau-Mistassini\" title=\"Dolbeau-Mistassini\">Dolbeau-Mistassini</a>, <a href=\"/wiki/Quebec\" title=\"Quebec\">Quebec</a>, Canada</td>
+</tr>
+<tr>
+<td>YDP</td>
+<td>CYDP</td>
+<td><a href=\"/wiki/Nain_Airport\" title=\"Nain Airport\">Nain Airport</a></td>
+<td><a href=\"/wiki/Nain,_Newfoundland_and_Labrador\" title=\"Nain, Newfoundland and Labrador\">Nain</a>, <a href=\"/wiki/Newfoundland_and_Labrador\" title=\"Newfoundland and Labrador\">Newfoundland and Labrador</a>, Canada</td>
+</tr>
+<tr>
+<td>YDQ</td>
+<td>CYDQ</td>
+<td><a href=\"/wiki/Dawson_Creek_Airport\" title=\"Dawson Creek Airport\">Dawson Creek Airport</a></td>
+<td><a href=\"/wiki/Dawson_Creek\" title=\"Dawson Creek\">Dawson Creek</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YDT</td>
+<td>CZBB</td>
+<td><a href=\"/wiki/Boundary_Bay_Airport\" title=\"Boundary Bay Airport\">Boundary Bay Airport</a></td>
+<td><a href=\"/wiki/Vancouver\" title=\"Vancouver\">Vancouver</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YDU</td>
+<td></td>
+<td><a href=\"/wiki/Kasba_Lake_Airport\" title=\"Kasba Lake Airport\">Kasba Lake Airport</a><sup id=\"cite_ref-IATA_1-3\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (TC: CJL8)</td>
+<td><a href=\"/wiki/Kasba_Lake\" title=\"Kasba Lake\">Kasba Lake</a>, <a href=\"/wiki/Northwest_Territories\" title=\"Northwest Territories\">Northwest Territories</a>, Canada</td>
+</tr>
+<tr>
+<td>YDV</td>
+<td>CZTA</td>
+<td><a href=\"/wiki/Bloodvein_River_Airport\" title=\"Bloodvein River Airport\">Bloodvein River Airport</a></td>
+<td><a href=\"/wiki/Bloodvein_First_Nation\" title=\"Bloodvein First Nation\">Bloodvein</a>, <a href=\"/wiki/Manitoba\" title=\"Manitoba\">Manitoba</a>, Canada</td>
+</tr>
+<tr>
+<td>YDW</td>
+<td></td>
+<td><a href=\"/wiki/Obre_Lake/North_of_Sixty_Airport\" title=\"Obre Lake/North of Sixty Airport\">Obre Lake/North of Sixty Airport</a> (TC: CKV4)</td>
+<td><a href=\"/w/index.php?title=Obre_Lake&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Obre Lake (page does not exist)\">Obre Lake</a>, <a href=\"/wiki/Northwest_Territories\" title=\"Northwest Territories\">Northwest Territories</a>, Canada</td>
+</tr>
+<tr>
+<td>YEA<sup id=\"cite_ref-IATA_1-4\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td></td>
+<td>metropolitan area<sup class=\"reference plainlinks nourlexpansion\" id=\"ref_1\"><a href=\"#endnote_1\">1</a></sup></td>
+<td><a href=\"/wiki/Edmonton\" title=\"Edmonton\">Edmonton</a>, <a href=\"/wiki/Alberta\" title=\"Alberta\">Alberta</a>, Canada</td>
+</tr>
+<tr>
+<td>YEB</td>
+<td></td>
+<td><a href=\"/wiki/Bar_River_Airport\" title=\"Bar River Airport\">Bar River Airport</a><sup id=\"cite_ref-IATA_1-5\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (TC: CPF2)</td>
+<td><a href=\"/wiki/Macdonald,_Meredith_and_Aberdeen_Additional\" title=\"Macdonald, Meredith and Aberdeen Additional\">Bar River</a>, <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YEC</td>
+<td>RKTY</td>
+<td><a href=\"/wiki/Yecheon_Air_Base\" title=\"Yecheon Air Base\">Yecheon Air Base</a></td>
+<td><a href=\"/wiki/Yecheon_County\" title=\"Yecheon County\">Yecheon</a>, <a href=\"/wiki/South_Korea\" title=\"South Korea\">South Korea</a></td>
+</tr>
+<tr>
+<td>YEG</td>
+<td>CYEG</td>
+<td><a href=\"/wiki/Edmonton_International_Airport\" title=\"Edmonton International Airport\">Edmonton International Airport</a></td>
+<td><a href=\"/wiki/Edmonton\" title=\"Edmonton\">Edmonton</a>, <a href=\"/wiki/Alberta\" title=\"Alberta\">Alberta</a>, Canada</td>
+</tr>
+<tr>
+<td>YEI</td>
+<td>LTBR</td>
+<td><a href=\"/wiki/Yeni%C5%9Fehir_Airport\" title=\"Yeni\u015fehir Airport\">Yeni\u015fehir Airport</a></td>
+<td><a href=\"/wiki/Bursa\" title=\"Bursa\">Bursa</a>, <a href=\"/wiki/Turkey\" title=\"Turkey\">Turkey</a></td>
+</tr>
+<tr>
+<td>YEK</td>
+<td>CYEK</td>
+<td><a href=\"/wiki/Arviat_Airport\" title=\"Arviat Airport\">Arviat Airport</a></td>
+<td><a href=\"/wiki/Arviat\" title=\"Arviat\">Arviat</a>, <a href=\"/wiki/Nunavut\" title=\"Nunavut\">Nunavut</a>, Canada</td>
+</tr>
+<tr>
+<td>YEL</td>
+<td>CYEL</td>
+<td><a href=\"/wiki/Elliot_Lake_Municipal_Airport\" title=\"Elliot Lake Municipal Airport\">Elliot Lake Municipal Airport</a></td>
+<td><a href=\"/wiki/Elliot_Lake\" title=\"Elliot Lake\">Elliot Lake</a>, <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YEM</td>
+<td>CYEM</td>
+<td><a href=\"/wiki/Manitowaning/Manitoulin_East_Municipal_Airport\" title=\"Manitowaning/Manitoulin East Municipal Airport\">Manitowaning/Manitoulin East Municipal Airport</a></td>
+<td><a href=\"/wiki/Assiginack\" title=\"Assiginack\">Manitowaning</a>, <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YEN</td>
+<td>CYEN</td>
+<td><a href=\"/wiki/Estevan_Regional_Aerodrome\" title=\"Estevan Regional Aerodrome\">Estevan Regional Aerodrome</a></td>
+<td><a href=\"/wiki/Estevan\" title=\"Estevan\">Estevan</a>, <a href=\"/wiki/Saskatchewan\" title=\"Saskatchewan\">Saskatchewan</a>, Canada</td>
+</tr>
+<tr>
+<td>YEO</td>
+<td>EGDY</td>
+<td><a href=\"/wiki/RNAS_Yeovilton_(HMS_Heron)\" title=\"RNAS Yeovilton (HMS Heron)\">Royal Naval Air Station Yeovilton</a></td>
+<td><a href=\"/wiki/Yeovilton\" title=\"Yeovilton\">Yeovilton</a>, <a href=\"/wiki/England\" title=\"England\">England</a>, United Kingdom</td>
+</tr>
+<tr>
+<td>YEQ</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Yankisa_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Yankisa Airport (page does not exist)\">Yankisa Airport</a></td>
+<td><a href=\"/w/index.php?title=Yankisa&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Yankisa (page does not exist)\">Yankisa</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>YER</td>
+<td>CYER</td>
+<td><a href=\"/wiki/Fort_Severn_Airport\" title=\"Fort Severn Airport\">Fort Severn Airport</a></td>
+<td><a href=\"/wiki/Fort_Severn_First_Nation\" title=\"Fort Severn First Nation\">Fort Severn</a>, <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YES</td>
+<td>OISY</td>
+<td><a href=\"/wiki/Yasuj_Airport\" title=\"Yasuj Airport\">Yasuj Airport</a><sup id=\"cite_ref-IATA_1-6\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Yasuj\" title=\"Yasuj\">Yasuj</a> (Yasouj), <a href=\"/wiki/Iran\" title=\"Iran\">Iran</a></td>
+</tr>
+<tr>
+<td>YET</td>
+<td>CYET</td>
+<td><a href=\"/wiki/Edson_Airport\" title=\"Edson Airport\">Edson Airport</a></td>
+<td><a href=\"/wiki/Edson,_Alberta\" title=\"Edson, Alberta\">Edson</a>, <a href=\"/wiki/Alberta\" title=\"Alberta\">Alberta</a>, Canada</td>
+</tr>
+<tr>
+<td>YEU</td>
+<td>CYEU</td>
+<td><a href=\"/wiki/Eureka_Aerodrome\" title=\"Eureka Aerodrome\">Eureka Aerodrome</a></td>
+<td><a href=\"/wiki/Eureka,_Nunavut\" title=\"Eureka, Nunavut\">Eureka</a>, <a href=\"/wiki/Nunavut\" title=\"Nunavut\">Nunavut</a>, Canada</td>
+</tr>
+<tr>
+<td>YEV</td>
+<td>CYEV</td>
+<td><a href=\"/wiki/Inuvik_(Mike_Zubko)_Airport\" title=\"Inuvik (Mike Zubko) Airport\">Inuvik (Mike Zubko) Airport</a></td>
+<td><a href=\"/wiki/Inuvik\" title=\"Inuvik\">Inuvik</a>, <a href=\"/wiki/Northwest_Territories\" title=\"Northwest Territories\">Northwest Territories</a>, Canada</td>
+</tr>
+<tr>
+<td>YEY</td>
+<td>CYEY</td>
+<td><a href=\"/wiki/Amos/Magny_Airport\" title=\"Amos/Magny Airport\">Amos/Magny Airport</a></td>
+<td><a href=\"/wiki/Amos,_Quebec\" title=\"Amos, Quebec\">Amos</a>, <a href=\"/wiki/Quebec\" title=\"Quebec\">Quebec</a>, Canada</td>
+</tr>
+<tr>
+<td>YFA</td>
+<td>CYFA</td>
+<td><a href=\"/wiki/Fort_Albany_Airport\" title=\"Fort Albany Airport\">Fort Albany Airport</a></td>
+<td><a href=\"/wiki/Fort_Albany_First_Nation\" title=\"Fort Albany First Nation\">Fort Albany</a>, <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YFB</td>
+<td>CYFB</td>
+<td><a href=\"/wiki/Iqaluit_Airport\" title=\"Iqaluit Airport\">Iqaluit Airport</a></td>
+<td><a href=\"/wiki/Iqaluit\" title=\"Iqaluit\">Iqaluit</a>, <a href=\"/wiki/Nunavut\" title=\"Nunavut\">Nunavut</a>, Canada</td>
+</tr>
+<tr>
+<td>YFC</td>
+<td>CYFC</td>
+<td><a href=\"/wiki/Fredericton_International_Airport\" title=\"Fredericton International Airport\">Fredericton International Airport</a></td>
+<td><a href=\"/wiki/Fredericton\" title=\"Fredericton\">Fredericton</a>, <a href=\"/wiki/New_Brunswick\" title=\"New Brunswick\">New Brunswick</a>, Canada</td>
+</tr>
+<tr>
+<td>YFE</td>
+<td>CYFE</td>
+<td><a href=\"/wiki/Forestville_Airport\" title=\"Forestville Airport\">Forestville Airport</a></td>
+<td><a href=\"/wiki/Forestville,_Quebec\" title=\"Forestville, Quebec\">Forestville</a>, <a href=\"/wiki/Quebec\" title=\"Quebec\">Quebec</a>, Canada</td>
+</tr>
+<tr>
+<td>YFG</td>
+<td></td>
+<td><a href=\"/wiki/Fontages_Airport\" title=\"Fontages Airport\">Fontanges Airport</a> (TC: CTU2)</td>
+<td><a href=\"/w/index.php?title=Fontanges,_Quebec&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Fontanges, Quebec (page does not exist)\">Fontanges</a>, <a href=\"/wiki/Quebec\" title=\"Quebec\">Quebec</a>, Canada</td>
+</tr>
+<tr>
+<td>YFH</td>
+<td>CYFH</td>
+<td><a href=\"/wiki/Fort_Hope_Airport\" title=\"Fort Hope Airport\">Fort Hope Airport</a></td>
+<td><a href=\"/wiki/Eabametoong_First_Nation\" title=\"Eabametoong First Nation\">Eabametoong</a> (Fort Hope), <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YFI</td>
+<td></td>
+<td><a href=\"/wiki/Fort_MacKay/Firebag_Aerodrome\" title=\"Fort MacKay/Firebag Aerodrome\">Fort MacKay/Firebag Aerodrome</a><sup id=\"cite_ref-IATA_1-7\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (TC: CFG6)</td>
+<td><a href=\"/wiki/Fort_McKay\" title=\"Fort McKay\">Fort McKay</a>, <a href=\"/wiki/Alberta\" title=\"Alberta\">Alberta</a>, Canada</td>
+</tr>
+<tr>
+<td>YFJ</td>
+<td>CYWE</td>
+<td><a href=\"/wiki/Wekwe%C3%A8t%C3%AC_Airport\" title=\"Wekwe\u00e8t\u00ec Airport\">Wekwe\u00e8t\u00ec Airport</a><sup id=\"cite_ref-IATA_1-8\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (Snare Lake Airport) (TC: CFJ7)</td>
+<td><a href=\"/wiki/Wekweeti\" title=\"Wekweeti\">Wekweeti</a>, <a href=\"/wiki/Northwest_Territories\" title=\"Northwest Territories\">Northwest Territories</a>, Canada</td>
+</tr>
+<tr>
+<td>YFL</td>
+<td></td>
+<td><a href=\"/wiki/Fort_Reliance_Water_Aerodrome\" title=\"Fort Reliance Water Aerodrome\">Fort Reliance Water Aerodrome</a> (CJN8)</td>
+<td><a href=\"/wiki/Fort_Reliance,_Northwest_Territories\" title=\"Fort Reliance, Northwest Territories\">Fort Reliance</a>, <a href=\"/wiki/Northwest_Territories\" title=\"Northwest Territories\">Northwest Territories</a>, Canada</td>
+</tr>
+<tr>
+<td>YFO</td>
+<td>CYFO</td>
+<td><a href=\"/wiki/Flin_Flon_Airport\" title=\"Flin Flon Airport\">Flin Flon Airport</a></td>
+<td><a href=\"/wiki/Flin_Flon\" title=\"Flin Flon\">Flin Flon</a>, <a href=\"/wiki/Manitoba\" title=\"Manitoba\">Manitoba</a>, Canada</td>
+</tr>
+<tr>
+<td>YFR</td>
+<td>CYFR</td>
+<td><a href=\"/wiki/Fort_Resolution_Airport\" title=\"Fort Resolution Airport\">Fort Resolution Airport</a></td>
+<td><a href=\"/wiki/Fort_Resolution\" title=\"Fort Resolution\">Fort Resolution</a>, <a href=\"/wiki/Northwest_Territories\" title=\"Northwest Territories\">Northwest Territories</a>, Canada</td>
+</tr>
+<tr>
+<td>YFS</td>
+<td>CYFS</td>
+<td><a href=\"/wiki/Fort_Simpson_Airport\" title=\"Fort Simpson Airport\">Fort Simpson Airport</a></td>
+<td><a href=\"/wiki/Fort_Simpson\" title=\"Fort Simpson\">Fort Simpson</a>, <a href=\"/wiki/Northwest_Territories\" title=\"Northwest Territories\">Northwest Territories</a>, Canada</td>
+</tr>
+<tr>
+<td>YFX</td>
+<td></td>
+<td><a href=\"/wiki/St._Lewis_(Fox_Harbour)_Airport\" title=\"St. Lewis (Fox Harbour) Airport\">St. Lewis (Fox Harbour) Airport</a> (TC: CCK4)</td>
+<td><a href=\"/wiki/St._Lewis,_Newfoundland_and_Labrador\" title=\"St. Lewis, Newfoundland and Labrador\">St. Lewis</a>, <a href=\"/wiki/Newfoundland_and_Labrador\" title=\"Newfoundland and Labrador\">Newfoundland and Labrador</a>, Canada</td>
+</tr>
+<tr>
+<td>YGB</td>
+<td>CYGB</td>
+<td><a href=\"/wiki/Texada/Gillies_Bay_Airport\" title=\"Texada/Gillies Bay Airport\">Texada/Gillies Bay Airport</a></td>
+<td><a href=\"/w/index.php?title=Gillies_Bay&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Gillies Bay (page does not exist)\">Gillies Bay</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YGC</td>
+<td></td>
+<td><a href=\"/wiki/Grande_Cache_Airport\" title=\"Grande Cache Airport\">Grande Cache Airport</a> (TC: CEQ5)</td>
+<td><a href=\"/wiki/Grande_Cache\" title=\"Grande Cache\">Grande Cache</a>, <a href=\"/wiki/Alberta\" title=\"Alberta\">Alberta</a>, Canada</td>
+</tr>
+<tr>
+<td>YGE</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Gorge_Harbour_Water_Aerodrome&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Gorge Harbour Water Aerodrome (page does not exist)\">Gorge Harbour Water Aerodrome</a></td>
+<td><a href=\"/w/index.php?title=Gorge_Harbour&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Gorge Harbour (page does not exist)\">Gorge Harbour</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YGG</td>
+<td></td>
+<td><a href=\"/wiki/Ganges_Water_Aerodrome\" title=\"Ganges Water Aerodrome\">Ganges Water Aerodrome</a> (TC: CAX6)</td>
+<td><a href=\"/wiki/Ganges,_British_Columbia\" title=\"Ganges, British Columbia\">Ganges</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YGH</td>
+<td>CYGH</td>
+<td><a href=\"/wiki/Fort_Good_Hope_Airport\" title=\"Fort Good Hope Airport\">Fort Good Hope Airport</a></td>
+<td><a href=\"/wiki/Fort_Good_Hope\" title=\"Fort Good Hope\">Fort Good Hope</a>, <a href=\"/wiki/Northwest_Territories\" title=\"Northwest Territories\">Northwest Territories</a>, Canada</td>
+</tr>
+<tr>
+<td>YGJ</td>
+<td>RJOH</td>
+<td><a href=\"/wiki/Miho%E2%80%93Yonago_Airport\" class=\"mw-redirect\" title=\"Miho\u2013Yonago Airport\">Miho\u2013Yonago Airport</a></td>
+<td><a href=\"/wiki/Yonago,_Tottori\" title=\"Yonago, Tottori\">Yonago</a>, <a href=\"/wiki/Honshu\" title=\"Honshu\">Honshu</a>, Japan</td>
+</tr>
+<tr>
+<td>YGK</td>
+<td>CYGK</td>
+<td><a href=\"/wiki/Kingston/Norman_Rogers_Airport\" class=\"mw-redirect\" title=\"Kingston/Norman Rogers Airport\">Kingston/Norman Rogers Airport</a></td>
+<td><a href=\"/wiki/Kingston,_Ontario\" title=\"Kingston, Ontario\">Kingston</a>, <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YGL</td>
+<td>CYGL</td>
+<td><a href=\"/wiki/La_Grande_Rivi%C3%A8re_Airport\" title=\"La Grande Rivi\u00e8re Airport\">La Grande Rivi\u00e8re Airport</a></td>
+<td><a href=\"/wiki/Radisson,_Quebec\" title=\"Radisson, Quebec\">Radisson</a>, <a href=\"/wiki/Quebec\" title=\"Quebec\">Quebec</a>, Canada</td>
+</tr>
+<tr>
+<td>YGM</td>
+<td>CYGM</td>
+<td><a href=\"/wiki/Gimli_Industrial_Park_Airport\" title=\"Gimli Industrial Park Airport\">Gimli Industrial Park Airport</a></td>
+<td><a href=\"/wiki/Gimli,_Manitoba\" title=\"Gimli, Manitoba\">Gimli</a>, <a href=\"/wiki/Manitoba\" title=\"Manitoba\">Manitoba</a>, Canada</td>
+</tr>
+<tr>
+<td>YGN</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Greenway_Sound_Water_Aerodrome&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Greenway Sound Water Aerodrome (page does not exist)\">Greenway Sound Water Aerodrome</a></td>
+<td><a href=\"/wiki/Greenway_Sound\" title=\"Greenway Sound\">Greenway Sound</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YGO</td>
+<td>CYGO</td>
+<td><a href=\"/wiki/Gods_Lake_Narrows_Airport\" title=\"Gods Lake Narrows Airport\">Gods Lake Narrows Airport</a></td>
+<td><a href=\"/wiki/Gods_Lake_Narrows,_Manitoba\" title=\"Gods Lake Narrows, Manitoba\">Gods Lake Narrows</a>, <a href=\"/wiki/Manitoba\" title=\"Manitoba\">Manitoba</a>, Canada</td>
+</tr>
+<tr>
+<td>YGP</td>
+<td>CYGP</td>
+<td><a href=\"/wiki/Michel-Pouliot_Gasp%C3%A9_Airport\" title=\"Michel-Pouliot Gasp\u00e9 Airport\">Michel-Pouliot Gasp\u00e9 Airport</a></td>
+<td><a href=\"/wiki/Gasp%C3%A9,_Quebec\" title=\"Gasp\u00e9, Quebec\">Gasp\u00e9</a>, <a href=\"/wiki/Quebec\" title=\"Quebec\">Quebec</a>, Canada</td>
+</tr>
+<tr>
+<td>YGQ</td>
+<td>CYGQ</td>
+<td><a href=\"/wiki/Geraldton_(Greenstone_Regional)_Airport\" title=\"Geraldton (Greenstone Regional) Airport\">Geraldton (Greenstone Regional) Airport</a></td>
+<td><a href=\"/wiki/Greenstone,_Ontario\" title=\"Greenstone, Ontario\">Greenstone</a> (Geraldton), <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YGR</td>
+<td>CYGR</td>
+<td><a href=\"/wiki/%C3%8Eles-de-la-Madeleine_Airport\" title=\"\u00celes-de-la-Madeleine Airport\">\u00celes-de-la-Madeleine Airport</a></td>
+<td><a href=\"/wiki/Les_%C3%8Eles-de-la-Madeleine,_Quebec\" title=\"Les \u00celes-de-la-Madeleine, Quebec\">Les \u00celes-de-la-Madeleine</a>, <a href=\"/wiki/Quebec\" title=\"Quebec\">Quebec</a>, Canada</td>
+</tr>
+<tr>
+<td>YGT</td>
+<td>CYGT</td>
+<td><a href=\"/wiki/Igloolik_Airport\" title=\"Igloolik Airport\">Igloolik Airport</a></td>
+<td><a href=\"/wiki/Igloolik\" title=\"Igloolik\">Igloolik</a>, <a href=\"/wiki/Nunavut\" title=\"Nunavut\">Nunavut</a>, Canada</td>
+</tr>
+<tr>
+<td>YGV</td>
+<td>CYGV</td>
+<td><a href=\"/wiki/Havre_Saint-Pierre_Airport\" title=\"Havre Saint-Pierre Airport\">Havre Saint-Pierre Airport</a></td>
+<td><a href=\"/wiki/Havre-Saint-Pierre\" title=\"Havre-Saint-Pierre\">Havre-Saint-Pierre</a>, <a href=\"/wiki/Quebec\" title=\"Quebec\">Quebec</a>, Canada</td>
+</tr>
+<tr>
+<td>YGW</td>
+<td>CYGW</td>
+<td><a href=\"/wiki/Kuujjuarapik_Airport\" title=\"Kuujjuarapik Airport\">Kuujjuarapik Airport</a></td>
+<td><a href=\"/wiki/Kuujjuarapik\" title=\"Kuujjuarapik\">Kuujjuarapik</a>, <a href=\"/wiki/Quebec\" title=\"Quebec\">Quebec</a>, Canada</td>
+</tr>
+<tr>
+<td>YGX</td>
+<td>CYGX</td>
+<td><a href=\"/wiki/Gillam_Airport\" title=\"Gillam Airport\">Gillam Airport</a></td>
+<td><a href=\"/wiki/Gillam,_Manitoba\" title=\"Gillam, Manitoba\">Gillam</a>, <a href=\"/wiki/Manitoba\" title=\"Manitoba\">Manitoba</a>, Canada</td>
+</tr>
+<tr>
+<td>YGZ</td>
+<td>CYGZ</td>
+<td><a href=\"/wiki/Grise_Fiord_Airport\" title=\"Grise Fiord Airport\">Grise Fiord Airport</a></td>
+<td><a href=\"/wiki/Grise_Fiord\" title=\"Grise Fiord\">Grise Fiord</a>, <a href=\"/wiki/Nunavut\" title=\"Nunavut\">Nunavut</a>, Canada</td>
+</tr>
+<tr>
+<td>YHA</td>
+<td></td>
+<td><a href=\"/wiki/Port_Hope_Simpson_Airport\" title=\"Port Hope Simpson Airport\">Port Hope Simpson Airport</a> (TC: CCP4)</td>
+<td><a href=\"/wiki/Port_Hope_Simpson\" title=\"Port Hope Simpson\">Port Hope Simpson</a>, <a href=\"/wiki/Newfoundland_and_Labrador\" title=\"Newfoundland and Labrador\">Newfoundland and Labrador</a>, Canada</td>
+</tr>
+<tr>
+<td>YHB</td>
+<td>CYHB</td>
+<td><a href=\"/wiki/Hudson_Bay_Airport\" title=\"Hudson Bay Airport\">Hudson Bay Airport</a></td>
+<td><a href=\"/wiki/Hudson_Bay,_Saskatchewan\" title=\"Hudson Bay, Saskatchewan\">Hudson Bay</a>, <a href=\"/wiki/Saskatchewan\" title=\"Saskatchewan\">Saskatchewan</a>, Canada</td>
+</tr>
+<tr>
+<td>YHC</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Hakai_Passage_Water_Aerodrome&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Hakai Passage Water Aerodrome (page does not exist)\">Hakai Passage Water Aerodrome</a></td>
+<td><a href=\"/w/index.php?title=Hakai_Passage&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Hakai Passage (page does not exist)\">Hakai Passage</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YHD</td>
+<td>CYHD</td>
+<td><a href=\"/wiki/Dryden_Regional_Airport\" title=\"Dryden Regional Airport\">Dryden Regional Airport</a></td>
+<td><a href=\"/wiki/Dryden,_Ontario\" title=\"Dryden, Ontario\">Dryden</a>, <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YHE</td>
+<td>CYHE</td>
+<td><a href=\"/wiki/Hope_Aerodrome\" title=\"Hope Aerodrome\">Hope Aerodrome</a></td>
+<td><a href=\"/wiki/Hope,_British_Columbia\" title=\"Hope, British Columbia\">Hope</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YHF</td>
+<td>CYHF</td>
+<td><a href=\"/wiki/Hearst_(Ren%C3%A9_Fontaine)_Municipal_Airport\" title=\"Hearst (Ren\u00e9 Fontaine) Municipal Airport\">Hearst (Ren\u00e9 Fontaine) Municipal Airport</a></td>
+<td><a href=\"/wiki/Hearst,_Ontario\" title=\"Hearst, Ontario\">Hearst</a>, <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YHG</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Charlottetown_Airport_(Prince_Edward_Island)&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Charlottetown Airport (Prince Edward Island) (page does not exist)\">Charlottetown Airport</a> (TC: CCH4)</td>
+<td><a href=\"/wiki/Charlottetown,_Prince_Edward_Island\" class=\"mw-redirect\" title=\"Charlottetown, Prince Edward Island\">Charlottetown</a>, <a href=\"/wiki/Prince_Edward_Island\" title=\"Prince Edward Island\">Prince Edward Island</a>, Canada</td>
+</tr>
+<tr>
+<td>YHH</td>
+<td></td>
+<td><a href=\"/wiki/Campbell_River_Water_Aerodrome\" title=\"Campbell River Water Aerodrome\">Campbell River Water Aerodrome</a> (TC: CAE3)</td>
+<td><a href=\"/wiki/Campbell_River,_British_Columbia\" title=\"Campbell River, British Columbia\">Campbell River</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YHI</td>
+<td>CYHI</td>
+<td><a href=\"/wiki/Ulukhaktok/Holman_Airport\" title=\"Ulukhaktok/Holman Airport\">Ulukhaktok/Holman Airport</a></td>
+<td><a href=\"/wiki/Ulukhaktok\" title=\"Ulukhaktok\">Ulukhaktok</a>, <a href=\"/wiki/Northwest_Territories\" title=\"Northwest Territories\">Northwest Territories</a>, Canada</td>
+</tr>
+<tr>
+<td>YHK</td>
+<td>CYHK</td>
+<td><a href=\"/wiki/Gjoa_Haven_Airport\" title=\"Gjoa Haven Airport\">Gjoa Haven Airport</a></td>
+<td><a href=\"/wiki/Gjoa_Haven\" title=\"Gjoa Haven\">Gjoa Haven</a>, <a href=\"/wiki/Nunavut\" title=\"Nunavut\">Nunavut</a>, Canada</td>
+</tr>
+<tr>
+<td>YHM</td>
+<td>CYHM</td>
+<td><a href=\"/wiki/John_C._Munro_Hamilton_International_Airport\" title=\"John C. Munro Hamilton International Airport\">John C. Munro Hamilton International Airport</a></td>
+<td><a href=\"/wiki/Hamilton,_Ontario\" title=\"Hamilton, Ontario\">Hamilton</a>, <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YHN</td>
+<td>CYHN</td>
+<td><a href=\"/wiki/Hornepayne_Municipal_Airport\" title=\"Hornepayne Municipal Airport\">Hornepayne Municipal Airport</a></td>
+<td><a href=\"/wiki/Hornepayne\" title=\"Hornepayne\">Hornepayne</a>, <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YHO</td>
+<td>CYHO</td>
+<td><a href=\"/wiki/Hopedale_Airport\" title=\"Hopedale Airport\">Hopedale Airport</a></td>
+<td><a href=\"/wiki/Hopedale,_Newfoundland_and_Labrador\" title=\"Hopedale, Newfoundland and Labrador\">Hopedale</a>, <a href=\"/wiki/Newfoundland_and_Labrador\" title=\"Newfoundland and Labrador\">Newfoundland and Labrador</a>, Canada</td>
+</tr>
+<tr>
+<td>YHP</td>
+<td>CYHP</td>
+<td><a href=\"/wiki/Poplar_Hill_Airport\" title=\"Poplar Hill Airport\">Poplar Hill Airport</a></td>
+<td><a href=\"/wiki/Poplar_Hill_First_Nation\" title=\"Poplar Hill First Nation\">Poplar Hill</a>, <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YHR</td>
+<td>CYHR</td>
+<td><a href=\"/wiki/Chevery_Airport\" title=\"Chevery Airport\">Chevery Airport</a></td>
+<td><a href=\"/wiki/Chevery,_Quebec\" title=\"Chevery, Quebec\">Chevery</a>, <a href=\"/wiki/Quebec\" title=\"Quebec\">Quebec</a>, Canada</td>
+</tr>
+<tr>
+<td>YHS</td>
+<td></td>
+<td><a href=\"/wiki/Sechelt_Aerodrome\" title=\"Sechelt Aerodrome\">Sechelt Aerodrome</a> (TC: CAP3)</td>
+<td><a href=\"/wiki/Sechelt\" title=\"Sechelt\">Sechelt</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YHT</td>
+<td>CYHT</td>
+<td><a href=\"/wiki/Haines_Junction_Airport\" title=\"Haines Junction Airport\">Haines Junction Airport</a></td>
+<td><a href=\"/wiki/Haines_Junction\" title=\"Haines Junction\">Haines Junction</a>, <a href=\"/wiki/Yukon\" title=\"Yukon\">Yukon</a>, Canada</td>
+</tr>
+<tr>
+<td>YHU</td>
+<td>CYHU</td>
+<td><a href=\"/wiki/Montreal_Saint-Hubert_Longueuil_Airport\" title=\"Montreal Saint-Hubert Longueuil Airport\">Montr\u00e9al/Saint-Hubert Airport</a></td>
+<td><a href=\"/wiki/Montreal\" title=\"Montreal\">Montreal</a>, <a href=\"/wiki/Quebec\" title=\"Quebec\">Quebec</a>, Canada</td>
+</tr>
+<tr>
+<td>YHY</td>
+<td>CYHY</td>
+<td><a href=\"/wiki/Hay_River/Merlyn_Carter_Airport\" title=\"Hay River/Merlyn Carter Airport\">Hay River/Merlyn Carter Airport</a></td>
+<td><a href=\"/wiki/Hay_River,_Northwest_Territories\" title=\"Hay River, Northwest Territories\">Hay River</a>, <a href=\"/wiki/Northwest_Territories\" title=\"Northwest Territories\">Northwest Territories</a>, Canada</td>
+</tr>
+<tr>
+<td>YHZ</td>
+<td>CYHZ</td>
+<td><a href=\"/wiki/Halifax_Stanfield_International_Airport\" title=\"Halifax Stanfield International Airport\">Halifax Stanfield International Airport</a></td>
+<td><a href=\"/wiki/Halifax,_Nova_Scotia\" title=\"Halifax, Nova Scotia\">Halifax</a>, <a href=\"/wiki/Nova_Scotia\" title=\"Nova Scotia\">Nova Scotia</a>, Canada</td>
+</tr>
+<tr>
+<td>YIA</td>
+<td>WAHI</td>
+<td><a href=\"/wiki/Yogyakarta_International_Airport\" title=\"Yogyakarta International Airport\">Yogyakarta International Airport</a></td>
+<td><a href=\"/wiki/Kulon_Progo_Regency\" title=\"Kulon Progo Regency\">Kulon Progo Regency</a>, <a href=\"/wiki/Special_Region_of_Yogyakarta\" title=\"Special Region of Yogyakarta\">Special Region of Yogyakarta</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+</tr>
+<tr>
+<td>YIB</td>
+<td>CYIB</td>
+<td><a href=\"/wiki/Atikokan_Municipal_Airport\" title=\"Atikokan Municipal Airport\">Atikokan Municipal Airport</a></td>
+<td><a href=\"/wiki/Atikokan\" title=\"Atikokan\">Atikokan</a>, <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YIC</td>
+<td>ZSYC</td>
+<td><a href=\"/wiki/Yichun_Mingyueshan_Airport\" title=\"Yichun Mingyueshan Airport\">Yichun Mingyueshan Airport</a></td>
+<td><a href=\"/wiki/Yichun,_Jiangxi\" title=\"Yichun, Jiangxi\">Yichun</a>, <a href=\"/wiki/Jiangxi\" title=\"Jiangxi\">Jiangxi</a>, China</td>
+</tr>
+<tr>
+<td>YIE</td>
+<td>ZBES</td>
+<td><a href=\"/wiki/Arxan_Yi%27ershi_Airport\" title=\"Arxan Yi&#39;ershi Airport\">Arxan Yi'ershi Airport</a></td>
+<td><a href=\"/wiki/Arxan\" title=\"Arxan\">Arxan</a> (Aershan), <a href=\"/wiki/Inner_Mongolia\" title=\"Inner Mongolia\">Inner Mongolia</a>, China</td>
+</tr>
+<tr>
+<td>YIF</td>
+<td>CYIF</td>
+<td><a href=\"/wiki/Saint-Augustin_Airport\" title=\"Saint-Augustin Airport\">Saint-Augustin Airport</a></td>
+<td><a href=\"/wiki/Saint-Augustin,_C%C3%B4te-Nord,_Quebec\" title=\"Saint-Augustin, C\u00f4te-Nord, Quebec\">Saint-Augustin</a> / <a href=\"/wiki/Pakuashipi,_Quebec\" class=\"mw-redirect\" title=\"Pakuashipi, Quebec\">Pakuashipi</a>, <a href=\"/wiki/Quebec\" title=\"Quebec\">Quebec</a>, Canada</td>
+</tr>
+<tr>
+<td>YIG</td>
+<td></td>
+<td><a href=\"/wiki/Big_Bay_Water_Aerodrome\" title=\"Big Bay Water Aerodrome\">Big Bay Water Aerodrome</a> (TC: CAF6)</td>
+<td><a href=\"/wiki/Stuart_Island_(British_Columbia)\" title=\"Stuart Island (British Columbia)\">Stuart Island</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YIH</td>
+<td>ZHYC</td>
+<td><a href=\"/wiki/Yichang_Sanxia_Airport\" title=\"Yichang Sanxia Airport\">Yichang Sanxia Airport</a></td>
+<td><a href=\"/wiki/Yichang\" title=\"Yichang\">Yichang</a>, <a href=\"/wiki/Hubei\" title=\"Hubei\">Hubei</a>, China</td>
+</tr>
+<tr>
+<td>YIK</td>
+<td>CYIK</td>
+<td><a href=\"/wiki/Ivujivik_Airport\" title=\"Ivujivik Airport\">Ivujivik Airport</a></td>
+<td><a href=\"/wiki/Ivujivik\" title=\"Ivujivik\">Ivujivik</a>, <a href=\"/wiki/Quebec\" title=\"Quebec\">Quebec</a>, Canada</td>
+</tr>
+<tr>
+<td>YIN</td>
+<td>ZWYN</td>
+<td><a href=\"/wiki/Yining_Airport\" title=\"Yining Airport\">Yining Airport</a></td>
+<td><a href=\"/wiki/Yining_City\" class=\"mw-redirect\" title=\"Yining City\">Yining</a> (Ghulja), <a href=\"/wiki/Xinjiang\" title=\"Xinjiang\">Xinjiang</a>, China</td>
+</tr>
+<tr>
+<td>YIO</td>
+<td>CYIO</td>
+<td><a href=\"/wiki/Pond_Inlet_Airport\" title=\"Pond Inlet Airport\">Pond Inlet Airport</a></td>
+<td><a href=\"/wiki/Pond_Inlet\" title=\"Pond Inlet\">Pond Inlet</a>, <a href=\"/wiki/Nunavut\" title=\"Nunavut\">Nunavut</a>, Canada</td>
+</tr>
+<tr>
+<td>YIP</td>
+<td>KYIP</td>
+<td><a href=\"/wiki/Willow_Run_Airport\" title=\"Willow Run Airport\">Willow Run Airport</a></td>
+<td><a href=\"/wiki/Detroit\" title=\"Detroit\">Detroit</a>, <a href=\"/wiki/Michigan\" title=\"Michigan\">Michigan</a>, United States</td>
+</tr>
+<tr>
+<td>YIV</td>
+<td>CYIV</td>
+<td><a href=\"/wiki/Island_Lake_Airport\" title=\"Island Lake Airport\">Island Lake Airport</a> (Garden Hill Airport)</td>
+<td><a href=\"/wiki/Island_Lake,_Manitoba\" title=\"Island Lake, Manitoba\">Island Lake</a> / <a href=\"/wiki/Garden_Hill,_Manitoba\" class=\"mw-redirect\" title=\"Garden Hill, Manitoba\">Garden Hill</a>, <a href=\"/wiki/Manitoba\" title=\"Manitoba\">Manitoba</a>, Canada</td>
+</tr>
+<tr>
+<td>YIW</td>
+<td>ZSYW</td>
+<td><a href=\"/wiki/Yiwu_Airport\" title=\"Yiwu Airport\">Yiwu Airport</a></td>
+<td><a href=\"/wiki/Yiwu\" title=\"Yiwu\">Yiwu</a>, <a href=\"/wiki/Zhejiang\" title=\"Zhejiang\">Zhejiang</a>, China</td>
+</tr>
+<tr>
+<td>YJA</td>
+<td>CYJA</td>
+<td><a href=\"/wiki/Jasper_Airport\" title=\"Jasper Airport\">Jasper Airport</a></td>
+<td><a href=\"/wiki/Jasper,_Alberta\" title=\"Jasper, Alberta\">Jasper</a>, <a href=\"/wiki/Alberta\" title=\"Alberta\">Alberta</a>, Canada</td>
+</tr>
+<tr>
+<td>YJF</td>
+<td>CYJF</td>
+<td><a href=\"/wiki/Fort_Liard_Airport\" title=\"Fort Liard Airport\">Fort Liard Airport</a></td>
+<td><a href=\"/wiki/Fort_Liard\" title=\"Fort Liard\">Fort Liard</a>, <a href=\"/wiki/Northwest_Territories\" title=\"Northwest Territories\">Northwest Territories</a>, Canada</td>
+</tr>
+<tr>
+<td>YJN</td>
+<td>CYJN</td>
+<td><a href=\"/wiki/Saint-Jean_Airport\" title=\"Saint-Jean Airport\">Saint-Jean Airport</a></td>
+<td><a href=\"/wiki/Saint-Jean-sur-Richelieu\" title=\"Saint-Jean-sur-Richelieu\">Saint-Jean-sur-Richelieu</a>, <a href=\"/wiki/Quebec\" title=\"Quebec\">Quebec</a>, Canada</td>
+</tr>
+<tr>
+<td>YJP</td>
+<td></td>
+<td><a href=\"/wiki/Hinton/Jasper-Hinton_Airport\" title=\"Hinton/Jasper-Hinton Airport\">Hinton/Jasper-Hinton Airport</a> (TC: CEC4)</td>
+<td><a href=\"/wiki/Hinton,_Alberta\" title=\"Hinton, Alberta\">Hinton</a>, <a href=\"/wiki/Alberta\" title=\"Alberta\">Alberta</a>, Canada</td>
+</tr>
+<tr>
+<td>YJS</td>
+<td>ZKSE</td>
+<td><a href=\"/wiki/Samjiyon_Airport\" title=\"Samjiyon Airport\">Samjiyon Airport</a><sup id=\"cite_ref-IATA_1-9\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Samjiyon_County\" title=\"Samjiyon County\">Samjiyon</a>, <a href=\"/wiki/North_Korea\" title=\"North Korea\">North Korea</a></td>
+</tr>
+<tr>
+<td>YJT</td>
+<td>CYJT</td>
+<td><a href=\"/wiki/Stephenville_International_Airport\" title=\"Stephenville International Airport\">Stephenville International Airport</a></td>
+<td><a href=\"/wiki/Stephenville,_Newfoundland_and_Labrador\" title=\"Stephenville, Newfoundland and Labrador\">Stephenville</a>, <a href=\"/wiki/Newfoundland_and_Labrador\" title=\"Newfoundland and Labrador\">Newfoundland and Labrador</a>, Canada</td>
+</tr>
+<tr>
+<td>YKA</td>
+<td>CYKA</td>
+<td><a href=\"/wiki/Kamloops_Airport\" title=\"Kamloops Airport\">Kamloops Airport</a></td>
+<td><a href=\"/wiki/Kamloops\" title=\"Kamloops\">Kamloops</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YKC</td>
+<td>CYKC</td>
+<td><a href=\"/wiki/Collins_Bay_Airport\" title=\"Collins Bay Airport\">Collins Bay Airport</a></td>
+<td><a href=\"/w/index.php?title=Collins_Bay,_Saskatchewan&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Collins Bay, Saskatchewan (page does not exist)\">Collins Bay</a>, <a href=\"/wiki/Saskatchewan\" title=\"Saskatchewan\">Saskatchewan</a>, Canada</td>
+</tr>
+<tr>
+<td>YKD</td>
+<td>CYKM</td>
+<td><a href=\"/wiki/Kincardine_Municipal_Airport\" title=\"Kincardine Municipal Airport\">Kincardine Municipal Airport</a></td>
+<td><a href=\"/wiki/Kincardine,_Ontario\" title=\"Kincardine, Ontario\">Kincardine</a>, <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YKE</td>
+<td></td>
+<td><a href=\"/wiki/Knee_Lake_Airport\" title=\"Knee Lake Airport\">Knee Lake Airport</a> (TC: CJT3)</td>
+<td><a href=\"/wiki/Knee_Lake\" title=\"Knee Lake\">Knee Lake</a>, <a href=\"/wiki/Manitoba\" title=\"Manitoba\">Manitoba</a>, Canada</td>
+</tr>
+<tr>
+<td>YKF</td>
+<td>CYKF</td>
+<td><a href=\"/wiki/Region_of_Waterloo_International_Airport\" title=\"Region of Waterloo International Airport\">Region of Waterloo International Airport</a></td>
+<td><a href=\"/wiki/Kitchener,_Ontario\" title=\"Kitchener, Ontario\">Kitchener</a> / <a href=\"/wiki/Cambridge,_Ontario\" title=\"Cambridge, Ontario\">Cambridge</a> / <a href=\"/wiki/Waterloo,_Ontario\" title=\"Waterloo, Ontario\">Waterloo</a>, <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YKG</td>
+<td>CYAS</td>
+<td><a href=\"/wiki/Kangirsuk_Airport\" title=\"Kangirsuk Airport\">Kangirsuk Airport</a></td>
+<td><a href=\"/wiki/Kangirsuk\" title=\"Kangirsuk\">Kangirsuk</a>, <a href=\"/wiki/Quebec\" title=\"Quebec\">Quebec</a>, Canada</td>
+</tr>
+<tr>
+<td>YKH</td>
+<td>ZYYK</td>
+<td><a href=\"/wiki/Yingkou_Lanqi_Airport\" title=\"Yingkou Lanqi Airport\">Yingkou Lanqi Airport</a></td>
+<td><a href=\"/wiki/Yingkou\" title=\"Yingkou\">Yingkou</a>, <a href=\"/wiki/Liaoning\" title=\"Liaoning\">Liaoning</a>, China</td>
+</tr>
+<tr>
+<td>YKJ</td>
+<td>CYKJ</td>
+<td><a href=\"/wiki/Key_Lake_Airport\" title=\"Key Lake Airport\">Key Lake Airport</a><sup id=\"cite_ref-IATA_1-10\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Key_Lake_mine\" title=\"Key Lake mine\">Key Lake</a>, <a href=\"/wiki/Saskatchewan\" title=\"Saskatchewan\">Saskatchewan</a>, Canada</td>
+</tr>
+<tr>
+<td>YKK</td>
+<td></td>
+<td><a href=\"/wiki/Kitkatla_Water_Aerodrome\" title=\"Kitkatla Water Aerodrome\">Kitkatla Water Aerodrome</a> (TC: CAP7)</td>
+<td><a href=\"/wiki/Kitkatla\" title=\"Kitkatla\">Kitkatla</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YKL</td>
+<td>CYKL</td>
+<td><a href=\"/wiki/Schefferville_Airport\" title=\"Schefferville Airport\">Schefferville Airport</a></td>
+<td><a href=\"/wiki/Schefferville\" title=\"Schefferville\">Schefferville</a>, <a href=\"/wiki/Quebec\" title=\"Quebec\">Quebec</a>, Canada</td>
+</tr>
+<tr>
+<td>YKM</td>
+<td>KYKM</td>
+<td><a href=\"/wiki/Yakima_Air_Terminal\" title=\"Yakima Air Terminal\">Yakima Air Terminal</a> (McAllister Field)</td>
+<td><a href=\"/wiki/Yakima,_Washington\" title=\"Yakima, Washington\">Yakima</a>, <a href=\"/wiki/Washington_(state)\" title=\"Washington (state)\">Washington</a>, United States</td>
+</tr>
+<tr>
+<td>YKN</td>
+<td>KYKN</td>
+<td><a href=\"/wiki/Chan_Gurney_Municipal_Airport\" title=\"Chan Gurney Municipal Airport\">Chan Gurney Municipal Airport</a></td>
+<td><a href=\"/wiki/Yankton,_South_Dakota\" title=\"Yankton, South Dakota\">Yankton</a>, <a href=\"/wiki/South_Dakota\" title=\"South Dakota\">South Dakota</a>, United States</td>
+</tr>
+<tr>
+<td>YKO</td>
+<td>LTCW</td>
+<td><a href=\"/wiki/Hakkari_Y%C3%BCksekova_Airport\" class=\"mw-redirect\" title=\"Hakkari Y\u00fcksekova Airport\">Hakkari Y\u00fcksekova Airport</a><sup id=\"cite_ref-IATA_1-11\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Hakk%C3%A2ri\" title=\"Hakk\u00e2ri\">Hakk\u00e2ri</a> / <a href=\"/wiki/Y%C3%BCksekova\" title=\"Y\u00fcksekova\">Y\u00fcksekova</a>, <a href=\"/wiki/Turkey\" title=\"Turkey\">Turkey</a></td>
+</tr>
+<tr>
+<td>YKQ</td>
+<td>CYKQ</td>
+<td><a href=\"/wiki/Waskaganish_Airport\" title=\"Waskaganish Airport\">Waskaganish Airport</a></td>
+<td><a href=\"/wiki/Waskaganish\" title=\"Waskaganish\">Waskaganish</a>, <a href=\"/wiki/Quebec\" title=\"Quebec\">Quebec</a>, Canada</td>
+</tr>
+<tr>
+<td>YKS</td>
+<td>UEEE</td>
+<td><a href=\"/wiki/Yakutsk_Airport\" title=\"Yakutsk Airport\">Yakutsk Airport</a></td>
+<td><a href=\"/wiki/Yakutsk\" title=\"Yakutsk\">Yakutsk</a>, <a href=\"/wiki/Sakha_Republic\" title=\"Sakha Republic\">Yakutia</a>, Russia</td>
+</tr>
+<tr>
+<td>YKT</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Klemtu_Water_Aerodrome&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Klemtu Water Aerodrome (page does not exist)\">Klemtu Water Aerodrome</a></td>
+<td><a href=\"/wiki/Klemtu\" title=\"Klemtu\">Klemtu</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YKU</td>
+<td></td>
+<td><a href=\"/wiki/Chisasibi_Airport\" title=\"Chisasibi Airport\">Chisasibi Airport</a> (TC: CSU2)</td>
+<td><a href=\"/wiki/Chisasibi\" title=\"Chisasibi\">Chisasibi</a>, <a href=\"/wiki/Quebec\" title=\"Quebec\">Quebec</a>, Canada</td>
+</tr>
+<tr>
+<td>YKX</td>
+<td>CYKX</td>
+<td><a href=\"/wiki/Kirkland_Lake_Airport\" title=\"Kirkland Lake Airport\">Kirkland Lake Airport</a></td>
+<td><a href=\"/wiki/Kirkland_Lake\" title=\"Kirkland Lake\">Kirkland Lake</a>, <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YKY</td>
+<td>CYKY</td>
+<td><a href=\"/wiki/Kindersley_Regional_Airport\" title=\"Kindersley Regional Airport\">Kindersley Regional Airport</a></td>
+<td><a href=\"/wiki/Kindersley\" title=\"Kindersley\">Kindersley</a>, <a href=\"/wiki/Saskatchewan\" title=\"Saskatchewan\">Saskatchewan</a>, Canada</td>
+</tr>
+<tr>
+<td>YKZ</td>
+<td>CYKZ</td>
+<td><a href=\"/wiki/Buttonville_Municipal_Airport\" title=\"Buttonville Municipal Airport\">Buttonville Municipal Airport</a></td>
+<td><a href=\"/wiki/Toronto\" title=\"Toronto\">Toronto</a>, <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YLB</td>
+<td>CYLB</td>
+<td><a href=\"/wiki/Lac_La_Biche_Airport\" title=\"Lac La Biche Airport\">Lac La Biche Airport</a></td>
+<td><a href=\"/wiki/Lac_La_Biche,_Alberta\" title=\"Lac La Biche, Alberta\">Lac La Biche</a>, <a href=\"/wiki/Alberta\" title=\"Alberta\">Alberta</a>, Canada</td>
+</tr>
+<tr>
+<td>YLC</td>
+<td>CYLC</td>
+<td><a href=\"/wiki/Kimmirut_Airport\" title=\"Kimmirut Airport\">Kimmirut Airport</a></td>
+<td><a href=\"/wiki/Kimmirut\" title=\"Kimmirut\">Kimmirut</a>, <a href=\"/wiki/Nunavut\" title=\"Nunavut\">Nunavut</a>, Canada</td>
+</tr>
+<tr>
+<td>YLD</td>
+<td>CYLD</td>
+<td><a href=\"/wiki/Chapleau_Airport\" title=\"Chapleau Airport\">Chapleau Airport</a></td>
+<td><a href=\"/wiki/Chapleau,_Ontario\" title=\"Chapleau, Ontario\">Chapleau</a>, <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YLE</td>
+<td></td>
+<td><a href=\"/wiki/What%C3%AC_Airport\" title=\"What\u00ec Airport\">What\u00ec Airport</a> (TC: CEM3)</td>
+<td><a href=\"/wiki/What%C3%AC\" title=\"What\u00ec\">What\u00ec</a>, <a href=\"/wiki/Northwest_Territories\" title=\"Northwest Territories\">Northwest Territories</a>, Canada</td>
+</tr>
+<tr>
+<td>YLG</td>
+<td>YYAL</td>
+<td><a href=\"/w/index.php?title=Yalgoo_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Yalgoo Airport (page does not exist)\">Yalgoo Airport</a></td>
+<td><a href=\"/wiki/Yalgoo,_Western_Australia\" title=\"Yalgoo, Western Australia\">Yalgoo</a>, <a href=\"/wiki/Western_Australia\" title=\"Western Australia\">Western Australia</a>, Australia</td>
+</tr>
+<tr>
+<td>YLH</td>
+<td>CYLH</td>
+<td><a href=\"/wiki/Lansdowne_House_Airport\" title=\"Lansdowne House Airport\">Lansdowne House Airport</a></td>
+<td><a href=\"/wiki/Neskantaga_First_Nation\" title=\"Neskantaga First Nation\">Neskantaga</a> (Lansdowne House Indian Band), <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YLI</td>
+<td>EFYL</td>
+<td><a href=\"/wiki/Ylivieska_Airfield\" title=\"Ylivieska Airfield\">Ylivieska Airfield</a></td>
+<td><a href=\"/wiki/Ylivieska\" title=\"Ylivieska\">Ylivieska</a>, <a href=\"/wiki/Finland\" title=\"Finland\">Finland</a></td>
+</tr>
+<tr>
+<td>YLJ</td>
+<td>CYLJ</td>
+<td><a href=\"/wiki/Meadow_Lake_Airport_(Saskatchewan)\" title=\"Meadow Lake Airport (Saskatchewan)\">Meadow Lake Airport</a></td>
+<td><a href=\"/wiki/Meadow_Lake,_Saskatchewan\" title=\"Meadow Lake, Saskatchewan\">Meadow Lake</a>, <a href=\"/wiki/Saskatchewan\" title=\"Saskatchewan\">Saskatchewan</a>, Canada</td>
+</tr>
+<tr>
+<td>YLK</td>
+<td>CYLS</td>
+<td><a href=\"/wiki/Lake_Simcoe_Regional_Airport\" title=\"Lake Simcoe Regional Airport\">Lake Simcoe Regional Airport</a><sup id=\"cite_ref-IATA_1-12\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Barrie\" title=\"Barrie\">Barrie</a> / <a href=\"/wiki/Orillia\" title=\"Orillia\">Orillia</a>, <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YLL</td>
+<td>CYLL</td>
+<td><a href=\"/wiki/Lloydminster_Airport\" title=\"Lloydminster Airport\">Lloydminster Airport</a></td>
+<td><a href=\"/wiki/Lloydminster\" title=\"Lloydminster\">Lloydminster</a>, <a href=\"/wiki/Alberta\" title=\"Alberta\">Alberta</a>/<a href=\"/wiki/Saskatchewan\" title=\"Saskatchewan\">Saskatchewan</a>,<sup class=\"reference plainlinks nourlexpansion\" id=\"ref_2\"><a href=\"#endnote_2\">2</a></sup> Canada</td>
+</tr>
+<tr>
+<td>YLM</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Clinton_Creek_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Clinton Creek Airport (page does not exist)\">Clinton Creek Airport</a><sup id=\"cite_ref-IATA_1-13\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Clinton_Creek\" title=\"Clinton Creek\">Clinton Creek</a>, <a href=\"/wiki/Yukon\" title=\"Yukon\">Yukon</a>, Canada</td>
+</tr>
+<tr>
+<td>YLN</td>
+<td>ZYYL</td>
+<td><a href=\"/w/index.php?title=Yilan_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Yilan Airport (page does not exist)\">Yilan Airport</a></td>
+<td><a href=\"/wiki/Yilan,_Heilongjiang\" class=\"mw-redirect\" title=\"Yilan, Heilongjiang\">Yilan</a>, <a href=\"/wiki/Heilongjiang\" title=\"Heilongjiang\">Heilongjiang</a>, China</td>
+</tr>
+<tr>
+<td>YLP</td>
+<td>CYLP</td>
+<td><a href=\"/w/index.php?title=Mingan_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Mingan Airport (page does not exist)\">Mingan Airport</a></td>
+<td><a href=\"/wiki/Mingan,_Quebec\" title=\"Mingan, Quebec\">Mingan</a>, <a href=\"/wiki/Quebec\" title=\"Quebec\">Quebec</a>, Canada</td>
+</tr>
+<tr>
+<td>YLQ</td>
+<td>CYLQ</td>
+<td><a href=\"/wiki/La_Tuque_Airport\" title=\"La Tuque Airport\">La Tuque Airport</a></td>
+<td><a href=\"/wiki/La_Tuque,_Quebec\" title=\"La Tuque, Quebec\">La Tuque</a>, <a href=\"/wiki/Quebec\" title=\"Quebec\">Quebec</a>, Canada</td>
+</tr>
+<tr>
+<td>YLR</td>
+<td>CYLR</td>
+<td><a href=\"/wiki/Leaf_Rapids_Airport\" title=\"Leaf Rapids Airport\">Leaf Rapids Airport</a></td>
+<td><a href=\"/wiki/Leaf_Rapids\" title=\"Leaf Rapids\">Leaf Rapids</a>, <a href=\"/wiki/Manitoba\" title=\"Manitoba\">Manitoba</a>, Canada</td>
+</tr>
+<tr>
+<td>YLS</td>
+<td></td>
+<td><a href=\"/wiki/Lebel-sur-Qu%C3%A9villon_Airport\" title=\"Lebel-sur-Qu\u00e9villon Airport\">Lebel-sur-Qu\u00e9villon Airport</a> (TC: CSH4)</td>
+<td><a href=\"/wiki/Lebel-sur-Qu%C3%A9villon\" title=\"Lebel-sur-Qu\u00e9villon\">Lebel-sur-Qu\u00e9villon</a>, <a href=\"/wiki/Quebec\" title=\"Quebec\">Quebec</a>, Canada</td>
+</tr>
+<tr>
+<td>YLT</td>
+<td>CYLT</td>
+<td><a href=\"/wiki/Alert_Airport\" title=\"Alert Airport\">Alert Airport</a></td>
+<td><a href=\"/wiki/Alert,_Nunavut\" title=\"Alert, Nunavut\">Alert</a>, <a href=\"/wiki/Nunavut\" title=\"Nunavut\">Nunavut</a>, Canada</td>
+</tr>
+<tr>
+<td>YLV</td>
+<td>UBEE</td>
+<td><a href=\"/wiki/Yevlakh_Airport\" title=\"Yevlakh Airport\">Yevlakh Airport</a><sup id=\"cite_ref-IATA_1-14\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Yevlakh\" title=\"Yevlakh\">Yevlakh</a>, <a href=\"/wiki/Azerbaijan\" title=\"Azerbaijan\">Azerbaijan</a></td>
+</tr>
+<tr>
+<td>YLW</td>
+<td>CYLW</td>
+<td><a href=\"/wiki/Kelowna_International_Airport\" title=\"Kelowna International Airport\">Kelowna International Airport</a></td>
+<td><a href=\"/wiki/Kelowna\" title=\"Kelowna\">Kelowna</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YLY</td>
+<td>CYNJ</td>
+<td><a href=\"/wiki/Langley_Regional_Airport\" title=\"Langley Regional Airport\">Langley Regional Airport</a><sup id=\"cite_ref-IATA_1-15\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Langley,_British_Columbia_(city)\" title=\"Langley, British Columbia (city)\">Langley</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YMA</td>
+<td>CYMA</td>
+<td><a href=\"/wiki/Mayo_Airport\" title=\"Mayo Airport\">Mayo Airport</a></td>
+<td><a href=\"/wiki/Mayo,_Yukon\" title=\"Mayo, Yukon\">Mayo</a>, <a href=\"/wiki/Yukon\" title=\"Yukon\">Yukon</a>, Canada</td>
+</tr>
+<tr>
+<td>YMB</td>
+<td></td>
+<td><a href=\"/wiki/Merritt_Airport\" title=\"Merritt Airport\">Merritt Airport</a> (TC: CAD5)</td>
+<td><a href=\"/wiki/Merritt,_British_Columbia\" title=\"Merritt, British Columbia\">Merritt</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YMD</td>
+<td>CYMD</td>
+<td><a href=\"/wiki/Mould_Bay_Airport\" title=\"Mould Bay Airport\">Mould Bay Airport</a></td>
+<td><a href=\"/wiki/Prince_Patrick_Island\" title=\"Prince Patrick Island\">Prince Patrick Island</a>, <a href=\"/wiki/Northwest_Territories\" title=\"Northwest Territories\">Northwest Territories</a>, Canada</td>
+</tr>
+<tr>
+<td>YME</td>
+<td>CYME</td>
+<td><a href=\"/wiki/Matane_Airport\" title=\"Matane Airport\">Matane Airport</a></td>
+<td><a href=\"/wiki/Matane\" title=\"Matane\">Matane</a>, <a href=\"/wiki/Quebec\" title=\"Quebec\">Quebec</a>, Canada</td>
+</tr>
+<tr>
+<td>YMF</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Montague_Harbour_Water_Aerodrome&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Montague Harbour Water Aerodrome (page does not exist)\">Montague Harbour Water Aerodrome</a></td>
+<td><a href=\"/wiki/Galiano_Island\" title=\"Galiano Island\">Galiano Island</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YMG</td>
+<td>CYMG</td>
+<td><a href=\"/wiki/Manitouwadge_Airport\" title=\"Manitouwadge Airport\">Manitouwadge Airport</a></td>
+<td><a href=\"/wiki/Manitouwadge\" title=\"Manitouwadge\">Manitouwadge</a>, <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YMH</td>
+<td>CYMH</td>
+<td><a href=\"/wiki/Mary%27s_Harbour_Airport\" title=\"Mary&#39;s Harbour Airport\">Mary's Harbour Airport</a></td>
+<td><a href=\"/wiki/Mary%27s_Harbour\" title=\"Mary&#39;s Harbour\">Mary's Harbour</a>, <a href=\"/wiki/Newfoundland_and_Labrador\" title=\"Newfoundland and Labrador\">Newfoundland and Labrador</a>, Canada</td>
+</tr>
+<tr>
+<td>YMJ</td>
+<td>CYMJ</td>
+<td><a href=\"/wiki/CFB_Moose_Jaw\" title=\"CFB Moose Jaw\">CFB Moose Jaw</a> (C.M. McEwen Airport)</td>
+<td><a href=\"/wiki/Moose_Jaw\" title=\"Moose Jaw\">Moose Jaw</a>, <a href=\"/wiki/Saskatchewan\" title=\"Saskatchewan\">Saskatchewan</a>, Canada</td>
+</tr>
+<tr>
+<td>YMK</td>
+<td>USDK</td>
+<td><a href=\"/w/index.php?title=Mys-Kamenny_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Mys-Kamenny Airport (page does not exist)\">Mys-Kamenny Airport</a><sup id=\"cite_ref-IATA_1-16\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Mys-Kamenny&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Mys-Kamenny (page does not exist)\">Mys-Kamenny</a>, <a href=\"/wiki/Yamalo-Nenets_Autonomous_Okrug\" title=\"Yamalo-Nenets Autonomous Okrug\">Yamalo-Nenets Autonomous Okrug</a>, Russia</td>
+</tr>
+<tr>
+<td>YML</td>
+<td>CYML</td>
+<td><a href=\"/wiki/Charlevoix_Airport\" title=\"Charlevoix Airport\">Charlevoix Airport</a></td>
+<td><a href=\"/wiki/La_Malbaie\" title=\"La Malbaie\">La Malbaie</a>, <a href=\"/wiki/Quebec\" title=\"Quebec\">Quebec</a>, Canada</td>
+</tr>
+<tr>
+<td>YMM</td>
+<td>CYMM</td>
+<td><a href=\"/wiki/Fort_McMurray_International_Airport\" title=\"Fort McMurray International Airport\">Fort McMurray International Airport</a></td>
+<td><a href=\"/wiki/Fort_McMurray\" title=\"Fort McMurray\">Fort McMurray</a>, <a href=\"/wiki/Alberta\" title=\"Alberta\">Alberta</a>, Canada</td>
+</tr>
+<tr>
+<td>YMN</td>
+<td>CYFT</td>
+<td><a href=\"/wiki/Makkovik_Airport\" title=\"Makkovik Airport\">Makkovik Airport</a></td>
+<td><a href=\"/wiki/Makkovik\" title=\"Makkovik\">Makkovik</a>, <a href=\"/wiki/Newfoundland_and_Labrador\" title=\"Newfoundland and Labrador\">Newfoundland and Labrador</a>, Canada</td>
+</tr>
+<tr>
+<td>YMO</td>
+<td>CYMO</td>
+<td><a href=\"/wiki/Moosonee_Airport\" title=\"Moosonee Airport\">Moosonee Airport</a></td>
+<td><a href=\"/wiki/Moosonee\" title=\"Moosonee\">Moosonee</a>, <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YMP</td>
+<td></td>
+<td><a href=\"/wiki/Port_McNeill_Airport\" title=\"Port McNeill Airport\">Port McNeill Airport</a> (TC: CAT5)</td>
+<td><a href=\"/wiki/Port_McNeill\" title=\"Port McNeill\">Port McNeill</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YMQ<sup id=\"cite_ref-IATA_1-17\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td></td>
+<td>metropolitan area<sup class=\"reference plainlinks nourlexpansion\" id=\"ref_3\"><a href=\"#endnote_3\">3</a></sup></td>
+<td><a href=\"/wiki/Montreal\" title=\"Montreal\">Montreal</a>, <a href=\"/wiki/Quebec\" title=\"Quebec\">Quebec</a>, Canada</td>
+</tr>
+<tr>
+<td>YMS</td>
+<td>SPMS</td>
+<td><a href=\"/wiki/Mois%C3%A9s_Benzaqu%C3%A9n_Rengifo_Airport\" title=\"Mois\u00e9s Benzaqu\u00e9n Rengifo Airport\">Mois\u00e9s Benzaqu\u00e9n Rengifo Airport</a></td>
+<td><a href=\"/wiki/Yurimaguas\" title=\"Yurimaguas\">Yurimaguas</a>, <a href=\"/wiki/Peru\" title=\"Peru\">Peru</a></td>
+</tr>
+<tr>
+<td>YMT</td>
+<td>CYMT</td>
+<td><a href=\"/wiki/Chibougamau/Chapais_Airport\" title=\"Chibougamau/Chapais Airport\">Chibougamau/Chapais Airport</a></td>
+<td><a href=\"/wiki/Chibougamau\" title=\"Chibougamau\">Chibougamau</a>, <a href=\"/wiki/Quebec\" title=\"Quebec\">Quebec</a>, Canada</td>
+</tr>
+<tr>
+<td>YMU</td>
+<td></td>
+<td><a href=\"/wiki/Mansons_Landing_Water_Aerodrome\" title=\"Mansons Landing Water Aerodrome\">Mansons Landing Water Aerodrome</a><sup id=\"cite_ref-IATA_1-18\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (TC: CAV7)</td>
+<td><a href=\"/wiki/Mansons_Landing\" title=\"Mansons Landing\">Mansons Landing</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YMV</td>
+<td></td>
+<td><a href=\"/wiki/Mary_River_Aerodrome\" title=\"Mary River Aerodrome\">Mary River Aerodrome</a><sup id=\"cite_ref-IATA_1-19\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (TC: CMR2)</td>
+<td><a href=\"/wiki/Mary_River_(Nunavut)\" title=\"Mary River (Nunavut)\">Mary River</a>, <a href=\"/wiki/Nunavut\" title=\"Nunavut\">Nunavut</a>, Canada</td>
+</tr>
+<tr>
+<td>YMW</td>
+<td>CYMW</td>
+<td><a href=\"/wiki/Maniwaki_Airport\" title=\"Maniwaki Airport\">Maniwaki Airport</a></td>
+<td><a href=\"/wiki/Maniwaki\" title=\"Maniwaki\">Maniwaki</a>, <a href=\"/wiki/Quebec\" title=\"Quebec\">Quebec</a>, Canada</td>
+</tr>
+<tr>
+<td>YMX</td>
+<td>CYMX</td>
+<td><a href=\"/wiki/Montr%C3%A9al%E2%80%93Mirabel_International_Airport\" title=\"Montr\u00e9al\u2013Mirabel International Airport\">Montr\u00e9al\u2013Mirabel International Airport</a></td>
+<td><a href=\"/wiki/Montreal\" title=\"Montreal\">Montreal</a>, <a href=\"/wiki/Quebec\" title=\"Quebec\">Quebec</a>, Canada</td>
+</tr>
+<tr>
+<td>YNA</td>
+<td>CYNA</td>
+<td><a href=\"/wiki/Natashquan_Airport\" title=\"Natashquan Airport\">Natashquan Airport</a></td>
+<td><a href=\"/wiki/Natashquan,_Quebec_(township)\" class=\"mw-redirect\" title=\"Natashquan, Quebec (township)\">Natashquan</a>, <a href=\"/wiki/Quebec\" title=\"Quebec\">Quebec</a>, Canada</td>
+</tr>
+<tr>
+<td>YNB</td>
+<td>OEYN</td>
+<td><a href=\"/wiki/Yanbu_Airport\" title=\"Yanbu Airport\">Yanbu Airport</a> (Yenbo Airport)</td>
+<td><a href=\"/wiki/Yanbu\" title=\"Yanbu\">Yanbu al Bahr</a> (Yenbo), <a href=\"/wiki/Saudi_Arabia\" title=\"Saudi Arabia\">Saudi Arabia</a></td>
+</tr>
+<tr>
+<td>YNC</td>
+<td>CYNC</td>
+<td><a href=\"/wiki/Wemindji_Airport\" title=\"Wemindji Airport\">Wemindji Airport</a></td>
+<td><a href=\"/wiki/Wemindji,_Quebec\" title=\"Wemindji, Quebec\">Wemindji</a>, <a href=\"/wiki/Quebec\" title=\"Quebec\">Quebec</a>, Canada</td>
+</tr>
+<tr>
+<td>YND</td>
+<td>CYND</td>
+<td><a href=\"/wiki/Gatineau-Ottawa_Executive_Airport\" title=\"Gatineau-Ottawa Executive Airport\">Gatineau-Ottawa Executive Airport</a></td>
+<td><a href=\"/wiki/Gatineau\" title=\"Gatineau\">Gatineau</a> / <a href=\"/wiki/Ottawa\" title=\"Ottawa\">Ottawa (ON)</a>, <a href=\"/wiki/Quebec\" title=\"Quebec\">Quebec</a>, Canada</td>
+</tr>
+<tr>
+<td>YNE</td>
+<td>CYNE</td>
+<td><a href=\"/wiki/Norway_House_Airport\" title=\"Norway House Airport\">Norway House Airport</a></td>
+<td><a href=\"/wiki/Norway_House\" title=\"Norway House\">Norway House</a>, <a href=\"/wiki/Manitoba\" title=\"Manitoba\">Manitoba</a>, Canada</td>
+</tr>
+<tr>
+<td>YNG</td>
+<td>KYNG</td>
+<td><a href=\"/wiki/Youngstown%E2%80%93Warren_Regional_Airport\" title=\"Youngstown\u2013Warren Regional Airport\">Youngstown\u2013Warren Regional Airport</a></td>
+<td><a href=\"/wiki/Youngstown,_Ohio\" title=\"Youngstown, Ohio\">Youngstown</a> / <a href=\"/wiki/Warren,_Ohio\" title=\"Warren, Ohio\">Warren</a>, <a href=\"/wiki/Ohio\" title=\"Ohio\">Ohio</a>, United States</td>
+</tr>
+<tr>
+<td>YNH</td>
+<td>CYNH</td>
+<td><a href=\"/wiki/Hudson%27s_Hope_Airport\" title=\"Hudson&#39;s Hope Airport\">Hudson's Hope Airport</a></td>
+<td><a href=\"/wiki/Hudson%27s_Hope\" title=\"Hudson&#39;s Hope\">Hudson's Hope</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YNJ</td>
+<td>ZYYJ</td>
+<td><a href=\"/wiki/Yanji_Chaoyangchuan_Airport\" class=\"mw-redirect\" title=\"Yanji Chaoyangchuan Airport\">Yanji Chaoyangchuan Airport</a></td>
+<td><a href=\"/wiki/Yanji\" title=\"Yanji\">Yanji</a>, <a href=\"/wiki/Jilin\" title=\"Jilin\">Jilin</a>, China</td>
+</tr>
+<tr>
+<td>YNL</td>
+<td>CYNL</td>
+<td><a href=\"/wiki/Points_North_Landing_Airport\" title=\"Points North Landing Airport\">Points North Landing Airport</a></td>
+<td><a href=\"/wiki/Points_North_Landing,_Saskatchewan\" class=\"mw-redirect\" title=\"Points North Landing, Saskatchewan\">Points North Landing</a>, <a href=\"/wiki/Saskatchewan\" title=\"Saskatchewan\">Saskatchewan</a>, Canada</td>
+</tr>
+<tr>
+<td>YNM</td>
+<td>CYNM</td>
+<td><a href=\"/wiki/Matagami_Airport\" title=\"Matagami Airport\">Matagami Airport</a></td>
+<td><a href=\"/wiki/Matagami\" title=\"Matagami\">Matagami</a>, <a href=\"/wiki/Quebec\" title=\"Quebec\">Quebec</a>, Canada</td>
+</tr>
+<tr>
+<td>YNN</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Yandicoogina_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Yandicoogina Airport (page does not exist)\">Yandicoogina Airport</a><sup id=\"cite_ref-IATA_1-20\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Yandicoogina_mine\" title=\"Yandicoogina mine\">Yandicoogina</a>, <a href=\"/wiki/Western_Australia\" title=\"Western Australia\">Western Australia</a>, Australia</td>
+</tr>
+<tr>
+<td>YNO</td>
+<td></td>
+<td><a href=\"/wiki/North_Spirit_Lake_Airport\" title=\"North Spirit Lake Airport\">North Spirit Lake Airport</a> (TC: CKQ3)</td>
+<td><a href=\"/wiki/North_Spirit_Lake_First_Nation\" title=\"North Spirit Lake First Nation\">North Spirit Lake</a>, <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YNP</td>
+<td></td>
+<td><a href=\"/wiki/Natuashish_Airport\" title=\"Natuashish Airport\">Natuashish Airport</a><sup id=\"cite_ref-IATA_1-21\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (TC: CNH2)</td>
+<td><a href=\"/wiki/Natuashish\" title=\"Natuashish\">Natuashish</a>, <a href=\"/wiki/Newfoundland_and_Labrador\" title=\"Newfoundland and Labrador\">Newfoundland and Labrador</a>, Canada</td>
+</tr>
+<tr>
+<td>YNS</td>
+<td>CYHH</td>
+<td><a href=\"/wiki/Nemiscau_Airport\" title=\"Nemiscau Airport\">Nemiscau Airport</a></td>
+<td><a href=\"/wiki/Nemiscau\" title=\"Nemiscau\">Nemiscau</a>, <a href=\"/wiki/Quebec\" title=\"Quebec\">Quebec</a>, Canada</td>
+</tr>
+<tr>
+<td>YNT</td>
+<td>ZSYT</td>
+<td><a href=\"/wiki/Yantai_Penglai_International_Airport\" title=\"Yantai Penglai International Airport\">Yantai Penglai International Airport</a></td>
+<td><a href=\"/wiki/Yantai\" title=\"Yantai\">Yantai</a>, <a href=\"/wiki/Shandong\" title=\"Shandong\">Shandong</a>, China</td>
+</tr>
+<tr>
+<td>YNX</td>
+<td></td>
+<td><a href=\"/wiki/Snap_Lake_Airport\" title=\"Snap Lake Airport\">Snap Lake Airport</a><sup id=\"cite_ref-IATA_1-22\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (TC: CSK6)</td>
+<td><a href=\"/wiki/Snap_Lake_Diamond_Mine\" title=\"Snap Lake Diamond Mine\">Snap Lake</a>, <a href=\"/wiki/Northwest_Territories\" title=\"Northwest Territories\">Northwest Territories</a>, Canada</td>
+</tr>
+<tr>
+<td>YNY</td>
+<td>RKNY</td>
+<td><a href=\"/wiki/Yangyang_International_Airport\" title=\"Yangyang International Airport\">Yangyang International Airport</a><sup id=\"cite_ref-IATA_1-23\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Yangyang_County\" title=\"Yangyang County\">Yangyang</a>, <a href=\"/wiki/South_Korea\" title=\"South Korea\">South Korea</a></td>
+</tr>
+<tr>
+<td>YNZ</td>
+<td>ZSYN</td>
+<td><a href=\"/wiki/Yancheng_Nanyang_International_Airport\" title=\"Yancheng Nanyang International Airport\">Yancheng Nanyang International Airport</a></td>
+<td><a href=\"/wiki/Yancheng\" title=\"Yancheng\">Yancheng</a>, <a href=\"/wiki/Jiangsu\" title=\"Jiangsu\">Jiangsu</a>, China</td>
+</tr>
+<tr>
+<td>YOA</td>
+<td>CYOA</td>
+<td><a href=\"/wiki/Ekati_Airport\" title=\"Ekati Airport\">Ekati Airport</a><sup id=\"cite_ref-IATA_1-24\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Ekati_Diamond_Mine\" title=\"Ekati Diamond Mine\">Ekati</a>, <a href=\"/wiki/Northwest_Territories\" title=\"Northwest Territories\">Northwest Territories</a>, Canada</td>
+</tr>
+<tr>
+<td>YOC</td>
+<td>CYOC</td>
+<td><a href=\"/wiki/Old_Crow_Airport\" title=\"Old Crow Airport\">Old Crow Airport</a></td>
+<td><a href=\"/wiki/Old_Crow,_Yukon\" title=\"Old Crow, Yukon\">Old Crow</a>, <a href=\"/wiki/Yukon\" title=\"Yukon\">Yukon</a>, Canada</td>
+</tr>
+<tr>
+<td>YOD</td>
+<td>CYOD</td>
+<td><a href=\"/wiki/CFB_Cold_Lake\" title=\"CFB Cold Lake\">CFB Cold Lake</a> (R.W. McNair Airport)</td>
+<td><a href=\"/wiki/Cold_Lake,_Alberta\" title=\"Cold Lake, Alberta\">Cold Lake</a>, <a href=\"/wiki/Alberta\" title=\"Alberta\">Alberta</a>, Canada</td>
+</tr>
+<tr>
+<td>YOE</td>
+<td></td>
+<td><a href=\"/wiki/Donnelly_Airport\" title=\"Donnelly Airport\">Donnelly Airport</a> (TC: CFM4)</td>
+<td><a href=\"/wiki/Donnelly,_Alberta\" title=\"Donnelly, Alberta\">Donnelly</a>, <a href=\"/wiki/Alberta\" title=\"Alberta\">Alberta</a>, Canada</td>
+</tr>
+<tr>
+<td>YOG</td>
+<td>CYKP</td>
+<td><a href=\"/wiki/Ogoki_Post_Airport\" title=\"Ogoki Post Airport\">Ogoki Post Airport</a></td>
+<td><a href=\"/wiki/Marten_Falls_First_Nation\" title=\"Marten Falls First Nation\">Marten Falls</a> (Ogoki), <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YOH</td>
+<td>CYOH</td>
+<td><a href=\"/wiki/Oxford_House_Airport\" title=\"Oxford House Airport\">Oxford House Airport</a></td>
+<td><a href=\"/wiki/Oxford_House,_Manitoba\" title=\"Oxford House, Manitoba\">Oxford House</a>, <a href=\"/wiki/Manitoba\" title=\"Manitoba\">Manitoba</a>, Canada</td>
+</tr>
+<tr>
+<td>YOI</td>
+<td></td>
+<td><a href=\"/wiki/Opinaca_Aerodrome\" title=\"Opinaca Aerodrome\">Opinaca Aerodrome</a><sup id=\"cite_ref-IATA_1-25\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (TC: CPN8)</td>
+<td><a href=\"/wiki/Opinaca_Reservoir\" title=\"Opinaca Reservoir\">Opinaca</a>, <a href=\"/wiki/Quebec\" title=\"Quebec\">Quebec</a>, Canada</td>
+</tr>
+<tr>
+<td>YOJ</td>
+<td>CYOJ</td>
+<td><a href=\"/wiki/High_Level_Airport\" title=\"High Level Airport\">High Level Airport</a></td>
+<td><a href=\"/wiki/High_Level\" title=\"High Level\">High Level</a>, <a href=\"/wiki/Alberta\" title=\"Alberta\">Alberta</a>, Canada</td>
+</tr>
+<tr>
+<td>YOL</td>
+<td>DNYO</td>
+<td><a href=\"/wiki/Yola_Airport\" title=\"Yola Airport\">Yola Airport</a></td>
+<td><a href=\"/wiki/Yola,_Nigeria\" class=\"mw-redirect\" title=\"Yola, Nigeria\">Yola</a>, <a href=\"/wiki/Nigeria\" title=\"Nigeria\">Nigeria</a></td>
+</tr>
+<tr>
+<td>YON</td>
+<td>VQTY</td>
+<td><a href=\"/wiki/Yongphulla_Airport\" title=\"Yongphulla Airport\">Yongphulla Airport</a><sup id=\"cite_ref-IATA_1-26\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (Yonphula Airport)</td>
+<td><a href=\"/wiki/Trashigang\" title=\"Trashigang\">Trashigang</a>, <a href=\"/wiki/Bhutan\" title=\"Bhutan\">Bhutan</a></td>
+</tr>
+<tr>
+<td>YOO</td>
+<td>CYOO</td>
+<td><a href=\"/wiki/Oshawa_Airport\" class=\"mw-redirect\" title=\"Oshawa Airport\">Oshawa Airport</a></td>
+<td><a href=\"/wiki/Oshawa\" title=\"Oshawa\">Oshawa</a>, <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YOP</td>
+<td>CYOP</td>
+<td><a href=\"/wiki/Rainbow_Lake_Airport\" title=\"Rainbow Lake Airport\">Rainbow Lake Airport</a></td>
+<td><a href=\"/wiki/Rainbow_Lake,_Alberta\" title=\"Rainbow Lake, Alberta\">Rainbow Lake</a>, <a href=\"/wiki/Alberta\" title=\"Alberta\">Alberta</a>, Canada</td>
+</tr>
+<tr>
+<td>YOS</td>
+<td>CYOS</td>
+<td><a href=\"/wiki/Owen_Sound_Billy_Bishop_Regional_Airport\" title=\"Owen Sound Billy Bishop Regional Airport\">Billy Bishop Regional Airport</a></td>
+<td><a href=\"/wiki/Owen_Sound\" title=\"Owen Sound\">Owen Sound</a>, <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YOT</td>
+<td>LLYT</td>
+<td><a href=\"/wiki/Yotvata_Airfield\" title=\"Yotvata Airfield\">Yotvata Airfield</a></td>
+<td><a href=\"/wiki/Yotvata\" title=\"Yotvata\">Yotvata</a>, <a href=\"/wiki/Israel\" title=\"Israel\">Israel</a></td>
+</tr>
+<tr>
+<td>YOW</td>
+<td>CYOW</td>
+<td><a href=\"/wiki/Ottawa_Macdonald%E2%80%93Cartier_International_Airport\" title=\"Ottawa Macdonald\u2013Cartier International Airport\">Ottawa Macdonald\u2013Cartier International Airport</a></td>
+<td><a href=\"/wiki/Ottawa\" title=\"Ottawa\">Ottawa</a>, <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YPA</td>
+<td>CYPA</td>
+<td><a href=\"/wiki/Prince_Albert_(Glass_Field)_Airport\" title=\"Prince Albert (Glass Field) Airport\">Prince Albert (Glass Field) Airport</a></td>
+<td><a href=\"/wiki/Prince_Albert,_Saskatchewan\" title=\"Prince Albert, Saskatchewan\">Prince Albert</a>, <a href=\"/wiki/Saskatchewan\" title=\"Saskatchewan\">Saskatchewan</a>, Canada</td>
+</tr>
+<tr>
+<td>YPB</td>
+<td></td>
+<td><a href=\"/wiki/Port_Alberni_(Alberni_Valley_Regional)_Airport\" title=\"Port Alberni (Alberni Valley Regional) Airport\">Alberni Valley Regional Airport</a> (TC: CBS8)</td>
+<td><a href=\"/wiki/Port_Alberni\" title=\"Port Alberni\">Port Alberni</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YPC</td>
+<td>CYPC</td>
+<td><a href=\"/wiki/Paulatuk_(Nora_Aliqatchialuk_Ruben)_Airport\" title=\"Paulatuk (Nora Aliqatchialuk Ruben) Airport\">Nora Aliqatchialuk Ruben Airport</a></td>
+<td><a href=\"/wiki/Paulatuk\" title=\"Paulatuk\">Paulatuk</a>, <a href=\"/wiki/Northwest_Territories\" title=\"Northwest Territories\">Northwest Territories</a>, Canada</td>
+</tr>
+<tr>
+<td>YPD</td>
+<td></td>
+<td><a href=\"/wiki/Parry_Sound_Area_Municipal_Airport\" title=\"Parry Sound Area Municipal Airport\">Parry Sound Area Municipal Airport</a> (TC: CNK4)</td>
+<td><a href=\"/wiki/Parry_Sound,_Ontario\" title=\"Parry Sound, Ontario\">Parry Sound</a>, <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YPE</td>
+<td>CYPE</td>
+<td><a href=\"/wiki/Peace_River_Airport\" title=\"Peace River Airport\">Peace River Airport</a></td>
+<td><a href=\"/wiki/Peace_River,_Alberta\" title=\"Peace River, Alberta\">Peace River</a>, <a href=\"/wiki/Alberta\" title=\"Alberta\">Alberta</a>, Canada</td>
+</tr>
+<tr>
+<td>YPG</td>
+<td>CYPG</td>
+<td><a href=\"/wiki/Portage_la_Prairie/Southport_Airport\" title=\"Portage la Prairie/Southport Airport\">Portage la Prairie/Southport Airport</a></td>
+<td><a href=\"/wiki/Portage_la_Prairie\" title=\"Portage la Prairie\">Portage la Prairie</a>, <a href=\"/wiki/Manitoba\" title=\"Manitoba\">Manitoba</a>, Canada</td>
+</tr>
+<tr>
+<td>YPH</td>
+<td>CYPH</td>
+<td><a href=\"/wiki/Inukjuak_Airport\" title=\"Inukjuak Airport\">Inukjuak Airport</a></td>
+<td><a href=\"/wiki/Inukjuak\" title=\"Inukjuak\">Inukjuak</a>, <a href=\"/wiki/Quebec\" title=\"Quebec\">Quebec</a>, Canada</td>
+</tr>
+<tr>
+<td>YPI</td>
+<td></td>
+<td><a href=\"/wiki/Port_Simpson_Water_Aerodrome\" title=\"Port Simpson Water Aerodrome\">Port Simpson Water Aerodrome</a> (TC: CAN8)</td>
+<td><a href=\"/wiki/Lax_Kw%27alaams\" title=\"Lax Kw&#39;alaams\">Lax Kw'alaams</a> (Port Simpson), <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YPJ</td>
+<td>CYLA</td>
+<td><a href=\"/wiki/Aupaluk_Airport\" title=\"Aupaluk Airport\">Aupaluk Airport</a></td>
+<td><a href=\"/wiki/Aupaluk\" title=\"Aupaluk\">Aupaluk</a>, <a href=\"/wiki/Quebec\" title=\"Quebec\">Quebec</a>, Canada</td>
+</tr>
+<tr>
+<td>YPL</td>
+<td>CYPL</td>
+<td><a href=\"/wiki/Pickle_Lake_Airport\" title=\"Pickle Lake Airport\">Pickle Lake Airport</a></td>
+<td><a href=\"/wiki/Pickle_Lake\" title=\"Pickle Lake\">Pickle Lake</a>, <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YPM</td>
+<td>CYPM</td>
+<td><a href=\"/wiki/Pikangikum_Airport\" title=\"Pikangikum Airport\">Pikangikum Airport</a></td>
+<td><a href=\"/wiki/Pikangikum_First_Nation\" title=\"Pikangikum First Nation\">Pikangikum</a>, <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YPN</td>
+<td>CYPN</td>
+<td><a href=\"/wiki/Port-Menier_Airport\" title=\"Port-Menier Airport\">Port-Menier Airport</a></td>
+<td><a href=\"/wiki/Port-Menier,_Quebec\" title=\"Port-Menier, Quebec\">Port-Menier</a>, <a href=\"/wiki/Quebec\" title=\"Quebec\">Quebec</a>, Canada</td>
+</tr>
+<tr>
+<td>YPO</td>
+<td>CYPO</td>
+<td><a href=\"/wiki/Peawanuck_Airport\" title=\"Peawanuck Airport\">Peawanuck Airport</a></td>
+<td><a href=\"/wiki/Peawanuck\" title=\"Peawanuck\">Peawanuck</a>, <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YPQ</td>
+<td>CYPQ</td>
+<td><a href=\"/wiki/Peterborough_Airport\" title=\"Peterborough Airport\">Peterborough Airport</a></td>
+<td><a href=\"/wiki/Peterborough,_Ontario\" title=\"Peterborough, Ontario\">Peterborough</a>, <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YPR</td>
+<td>CYPR</td>
+<td><a href=\"/wiki/Prince_Rupert_Airport\" title=\"Prince Rupert Airport\">Prince Rupert Airport</a></td>
+<td><a href=\"/wiki/Prince_Rupert,_British_Columbia\" title=\"Prince Rupert, British Columbia\">Prince Rupert</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YPS</td>
+<td>CYPD</td>
+<td><a href=\"/wiki/Port_Hawkesbury_Airport\" class=\"mw-redirect\" title=\"Port Hawkesbury Airport\">Port Hawkesbury Airport</a></td>
+<td><a href=\"/wiki/Port_Hawkesbury\" title=\"Port Hawkesbury\">Port Hawkesbury</a>, <a href=\"/wiki/Nova_Scotia\" title=\"Nova Scotia\">Nova Scotia</a>, Canada</td>
+</tr>
+<tr>
+<td>YPT</td>
+<td></td>
+<td><a href=\"/wiki/Pender_Harbour_Water_Aerodrome\" title=\"Pender Harbour Water Aerodrome\">Pender Harbour Water Aerodrome</a> (TC: CAG8)</td>
+<td><a href=\"/wiki/Pender_Harbour,_British_Columbia\" title=\"Pender Harbour, British Columbia\">Pender Harbour</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YPW</td>
+<td>CYPW</td>
+<td><a href=\"/wiki/Powell_River_Airport\" title=\"Powell River Airport\">Powell River Airport</a></td>
+<td><a href=\"/wiki/Powell_River,_British_Columbia\" title=\"Powell River, British Columbia\">Powell River</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YPX</td>
+<td>CYPX</td>
+<td><a href=\"/wiki/Puvirnituq_Airport\" title=\"Puvirnituq Airport\">Puvirnituq Airport</a></td>
+<td><a href=\"/wiki/Puvirnituq\" title=\"Puvirnituq\">Puvirnituq</a>, <a href=\"/wiki/Quebec\" title=\"Quebec\">Quebec</a>, Canada</td>
+</tr>
+<tr>
+<td>YPY</td>
+<td>CYPY</td>
+<td><a href=\"/wiki/Fort_Chipewyan_Airport\" title=\"Fort Chipewyan Airport\">Fort Chipewyan Airport</a></td>
+<td><a href=\"/wiki/Fort_Chipewyan\" title=\"Fort Chipewyan\">Fort Chipewyan</a>, <a href=\"/wiki/Alberta\" title=\"Alberta\">Alberta</a>, Canada</td>
+</tr>
+<tr>
+<td>YPZ</td>
+<td>CYPZ</td>
+<td><a href=\"/wiki/Burns_Lake_Airport\" title=\"Burns Lake Airport\">Burns Lake Airport</a></td>
+<td><a href=\"/wiki/Burns_Lake\" title=\"Burns Lake\">Burns Lake</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YQA</td>
+<td>CYQA</td>
+<td><a href=\"/wiki/Muskoka_Airport\" title=\"Muskoka Airport\">Muskoka Airport</a></td>
+<td><a href=\"/wiki/District_Municipality_of_Muskoka\" title=\"District Municipality of Muskoka\">Muskoka</a>, <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YQB</td>
+<td>CYQB</td>
+<td><a href=\"/wiki/Qu%C3%A9bec_City_Jean_Lesage_International_Airport\" title=\"Qu\u00e9bec City Jean Lesage International Airport\">Qu\u00e9bec City Jean Lesage International Airport</a></td>
+<td><a href=\"/wiki/Quebec_City\" title=\"Quebec City\">Quebec City</a>, <a href=\"/wiki/Quebec\" title=\"Quebec\">Quebec</a>, Canada</td>
+</tr>
+<tr>
+<td>YQC</td>
+<td>CYHA</td>
+<td><a href=\"/wiki/Quaqtaq_Airport\" title=\"Quaqtaq Airport\">Quaqtaq Airport</a></td>
+<td><a href=\"/wiki/Quaqtaq\" title=\"Quaqtaq\">Quaqtaq</a>, <a href=\"/wiki/Quebec\" title=\"Quebec\">Quebec</a>, Canada</td>
+</tr>
+<tr>
+<td>YQD</td>
+<td>CYQD</td>
+<td><a href=\"/wiki/The_Pas_Airport\" title=\"The Pas Airport\">The Pas Airport</a></td>
+<td><a href=\"/wiki/The_Pas\" title=\"The Pas\">The Pas</a>, <a href=\"/wiki/Manitoba\" title=\"Manitoba\">Manitoba</a>, Canada</td>
+</tr>
+<tr>
+<td>YQF</td>
+<td>CYQF</td>
+<td><a href=\"/wiki/Red_Deer_Regional_Airport\" title=\"Red Deer Regional Airport\">Red Deer Regional Airport</a></td>
+<td><a href=\"/wiki/Red_Deer,_Alberta\" title=\"Red Deer, Alberta\">Red Deer</a>, <a href=\"/wiki/Alberta\" title=\"Alberta\">Alberta</a>, Canada</td>
+</tr>
+<tr>
+<td>YQG</td>
+<td>CYQG</td>
+<td><a href=\"/wiki/Windsor_International_Airport\" title=\"Windsor International Airport\">Windsor International Airport</a></td>
+<td><a href=\"/wiki/Windsor,_Ontario\" title=\"Windsor, Ontario\">Windsor</a>, <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YQH</td>
+<td>CYQH</td>
+<td><a href=\"/wiki/Watson_Lake_Airport\" title=\"Watson Lake Airport\">Watson Lake Airport</a></td>
+<td><a href=\"/wiki/Watson_Lake,_Yukon\" title=\"Watson Lake, Yukon\">Watson Lake</a>, <a href=\"/wiki/Yukon\" title=\"Yukon\">Yukon</a>, Canada</td>
+</tr>
+<tr>
+<td>YQI</td>
+<td>CYQI</td>
+<td><a href=\"/wiki/Yarmouth_Airport\" title=\"Yarmouth Airport\">Yarmouth Airport</a></td>
+<td><a href=\"/wiki/Yarmouth,_Nova_Scotia\" title=\"Yarmouth, Nova Scotia\">Yarmouth</a>, <a href=\"/wiki/Nova_Scotia\" title=\"Nova Scotia\">Nova Scotia</a>, Canada</td>
+</tr>
+<tr>
+<td>YQJ</td>
+<td></td>
+<td><a href=\"/w/index.php?title=April_Point_Water_Aerodrome&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"April Point Water Aerodrome (page does not exist)\">April Point Water Aerodrome</a><sup id=\"cite_ref-IATA_1-27\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Quadra_Island\" title=\"Quadra Island\">Quadra Island</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YQK</td>
+<td>CYQK</td>
+<td><a href=\"/wiki/Kenora_Airport\" title=\"Kenora Airport\">Kenora Airport</a></td>
+<td><a href=\"/wiki/Kenora\" title=\"Kenora\">Kenora</a>, <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YQL</td>
+<td>CYQL</td>
+<td><a href=\"/wiki/Lethbridge_Airport\" title=\"Lethbridge Airport\">Lethbridge Airport</a></td>
+<td><a href=\"/wiki/Lethbridge\" title=\"Lethbridge\">Lethbridge</a>, <a href=\"/wiki/Alberta\" title=\"Alberta\">Alberta</a>, Canada</td>
+</tr>
+<tr>
+<td>YQM</td>
+<td>CYQM</td>
+<td><a href=\"/wiki/Greater_Moncton_International_Airport\" class=\"mw-redirect\" title=\"Greater Moncton International Airport\">Greater Moncton International Airport</a></td>
+<td><a href=\"/wiki/Moncton\" title=\"Moncton\">Moncton</a>, <a href=\"/wiki/New_Brunswick\" title=\"New Brunswick\">New Brunswick</a>, Canada</td>
+</tr>
+<tr>
+<td>YQN</td>
+<td>CYQN</td>
+<td><a href=\"/wiki/Nakina_Airport\" title=\"Nakina Airport\">Nakina Airport</a></td>
+<td><a href=\"/wiki/Greenstone,_Ontario\" title=\"Greenstone, Ontario\">Greenstone</a> (Nakina), <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YQQ</td>
+<td>CYQQ</td>
+<td><a href=\"/wiki/CFB_Comox\" title=\"CFB Comox\">CFB Comox</a></td>
+<td><a href=\"/wiki/Comox,_British_Columbia\" title=\"Comox, British Columbia\">Comox</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YQR</td>
+<td>CYQR</td>
+<td><a href=\"/wiki/Regina_International_Airport\" title=\"Regina International Airport\">Regina International Airport</a></td>
+<td><a href=\"/wiki/Regina,_Saskatchewan\" title=\"Regina, Saskatchewan\">Regina</a>, <a href=\"/wiki/Saskatchewan\" title=\"Saskatchewan\">Saskatchewan</a>, Canada</td>
+</tr>
+<tr>
+<td>YQS</td>
+<td>CYQS</td>
+<td><a href=\"/wiki/St._Thomas_Municipal_Airport_(Ontario)\" title=\"St. Thomas Municipal Airport (Ontario)\">St. Thomas Municipal Airport</a></td>
+<td><a href=\"/wiki/St._Thomas,_Ontario\" title=\"St. Thomas, Ontario\">St. Thomas</a>, <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YQT</td>
+<td>CYQT</td>
+<td><a href=\"/wiki/Thunder_Bay_International_Airport\" title=\"Thunder Bay International Airport\">Thunder Bay International Airport</a></td>
+<td><a href=\"/wiki/Thunder_Bay\" title=\"Thunder Bay\">Thunder Bay</a>, <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YQU</td>
+<td>CYQU</td>
+<td><a href=\"/wiki/Grande_Prairie_Airport\" title=\"Grande Prairie Airport\">Grande Prairie Airport</a></td>
+<td><a href=\"/wiki/Grande_Prairie\" title=\"Grande Prairie\">Grande Prairie</a>, <a href=\"/wiki/Alberta\" title=\"Alberta\">Alberta</a>, Canada</td>
+</tr>
+<tr>
+<td>YQV</td>
+<td>CYQV</td>
+<td><a href=\"/wiki/Yorkton_Municipal_Airport\" title=\"Yorkton Municipal Airport\">Yorkton Municipal Airport</a></td>
+<td><a href=\"/wiki/Yorkton\" title=\"Yorkton\">Yorkton</a>, <a href=\"/wiki/Saskatchewan\" title=\"Saskatchewan\">Saskatchewan</a>, Canada</td>
+</tr>
+<tr>
+<td>YQW</td>
+<td>CYQW</td>
+<td><a href=\"/wiki/North_Battleford_Airport\" title=\"North Battleford Airport\">North Battleford Airport</a> (Cameron McIntosh Airport)</td>
+<td><a href=\"/wiki/North_Battleford\" title=\"North Battleford\">North Battleford</a>, <a href=\"/wiki/Saskatchewan\" title=\"Saskatchewan\">Saskatchewan</a>, Canada</td>
+</tr>
+<tr>
+<td>YQX</td>
+<td>CYQX</td>
+<td><a href=\"/wiki/Gander_International_Airport\" title=\"Gander International Airport\">Gander International Airport</a> / <a href=\"/wiki/CFB_Gander\" title=\"CFB Gander\">CFB Gander</a></td>
+<td><a href=\"/wiki/Gander,_Newfoundland_and_Labrador\" title=\"Gander, Newfoundland and Labrador\">Gander</a>, <a href=\"/wiki/Newfoundland_and_Labrador\" title=\"Newfoundland and Labrador\">Newfoundland and Labrador</a>, Canada</td>
+</tr>
+<tr>
+<td>YQY</td>
+<td>CYQY</td>
+<td><a href=\"/wiki/Sydney/J.A._Douglas_McCurdy_Airport\" title=\"Sydney/J.A. Douglas McCurdy Airport\">Sydney/J.A. Douglas McCurdy Airport</a></td>
+<td><a href=\"/wiki/Sydney,_Nova_Scotia\" title=\"Sydney, Nova Scotia\">Sydney</a>, <a href=\"/wiki/Nova_Scotia\" title=\"Nova Scotia\">Nova Scotia</a>, Canada</td>
+</tr>
+<tr>
+<td>YQZ</td>
+<td>CYQZ</td>
+<td><a href=\"/wiki/Quesnel_Airport\" title=\"Quesnel Airport\">Quesnel Airport</a></td>
+<td><a href=\"/wiki/Quesnel,_British_Columbia\" title=\"Quesnel, British Columbia\">Quesnel</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YRA</td>
+<td>CYRA</td>
+<td><a href=\"/wiki/Gam%C3%A8t%C3%AC/Rae_Lakes_Airport\" title=\"Gam\u00e8t\u00ec/Rae Lakes Airport\">Gam\u00e8t\u00ec/Rae Lakes Airport</a></td>
+<td><a href=\"/wiki/Gam%C3%A8ti\" title=\"Gam\u00e8ti\">Gam\u00e8ti</a>, <a href=\"/wiki/Northwest_Territories\" title=\"Northwest Territories\">Northwest Territories</a>, Canada</td>
+</tr>
+<tr>
+<td>YRB</td>
+<td>CYRB</td>
+<td><a href=\"/wiki/Resolute_Bay_Airport\" title=\"Resolute Bay Airport\">Resolute Bay Airport</a></td>
+<td><a href=\"/wiki/Resolute,_Nunavut\" title=\"Resolute, Nunavut\">Resolute</a>, <a href=\"/wiki/Nunavut\" title=\"Nunavut\">Nunavut</a>, Canada</td>
+</tr>
+<tr>
+<td>YRC</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Refuge_Cove_Water_Aerodrome&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Refuge Cove Water Aerodrome (page does not exist)\">Refuge Cove Water Aerodrome</a><sup id=\"cite_ref-IATA_1-28\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Refuge_Cove,_British_Columbia\" title=\"Refuge Cove, British Columbia\">Refuge Cove</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YRD</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Dean_River_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Dean River Airport (page does not exist)\">Dean River Airport</a></td>
+<td><a href=\"/wiki/Dean_River\" title=\"Dean River\">Dean River</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YRF</td>
+<td>CYCA</td>
+<td><a href=\"/wiki/Cartwright_Airport\" title=\"Cartwright Airport\">Cartwright Airport</a></td>
+<td><a href=\"/wiki/Cartwright,_Newfoundland_and_Labrador\" title=\"Cartwright, Newfoundland and Labrador\">Cartwright</a>, <a href=\"/wiki/Newfoundland_and_Labrador\" title=\"Newfoundland and Labrador\">Newfoundland and Labrador</a>, Canada</td>
+</tr>
+<tr>
+<td>YRG</td>
+<td></td>
+<td><a href=\"/wiki/Rigolet_Airport\" title=\"Rigolet Airport\">Rigolet Airport</a> (TC: CCZ2)</td>
+<td><a href=\"/wiki/Rigolet\" title=\"Rigolet\">Rigolet</a>, <a href=\"/wiki/Newfoundland_and_Labrador\" title=\"Newfoundland and Labrador\">Newfoundland and Labrador</a>, Canada</td>
+</tr>
+<tr>
+<td>YRI</td>
+<td>CYRI</td>
+<td><a href=\"/wiki/Rivi%C3%A8re-du-Loup_Airport\" title=\"Rivi\u00e8re-du-Loup Airport\">Rivi\u00e8re-du-Loup Airport</a></td>
+<td><a href=\"/wiki/Rivi%C3%A8re-du-Loup\" title=\"Rivi\u00e8re-du-Loup\">Rivi\u00e8re-du-Loup</a>, <a href=\"/wiki/Quebec\" title=\"Quebec\">Quebec</a>, Canada</td>
+</tr>
+<tr>
+<td>YRJ</td>
+<td>CYRJ</td>
+<td><a href=\"/wiki/Roberval_Airport\" title=\"Roberval Airport\">Roberval Airport</a></td>
+<td><a href=\"/wiki/Roberval,_Quebec\" title=\"Roberval, Quebec\">Roberval</a>, <a href=\"/wiki/Quebec\" title=\"Quebec\">Quebec</a>, Canada</td>
+</tr>
+<tr>
+<td>YRL</td>
+<td>CYRL</td>
+<td><a href=\"/wiki/Red_Lake_Airport\" title=\"Red Lake Airport\">Red Lake Airport</a></td>
+<td><a href=\"/wiki/Red_Lake,_Ontario\" title=\"Red Lake, Ontario\">Red Lake</a>, <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YRM</td>
+<td>CYRM</td>
+<td><a href=\"/wiki/Rocky_Mountain_House_Airport\" title=\"Rocky Mountain House Airport\">Rocky Mountain House Airport</a></td>
+<td><a href=\"/wiki/Rocky_Mountain_House\" title=\"Rocky Mountain House\">Rocky Mountain House</a>, <a href=\"/wiki/Alberta\" title=\"Alberta\">Alberta</a>, Canada</td>
+</tr>
+<tr>
+<td>YRN</td>
+<td></td>
+<td><a href=\"/wiki/Rivers_Inlet_Water_Aerodrome\" title=\"Rivers Inlet Water Aerodrome\">Rivers Inlet Water Aerodrome</a> (TC: CAU8)</td>
+<td><a href=\"/wiki/Rivers_Inlet,_British_Columbia\" title=\"Rivers Inlet, British Columbia\">Rivers Inlet</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YRO</td>
+<td>CYRO</td>
+<td><a href=\"/wiki/Ottawa/Rockcliffe_Airport\" title=\"Ottawa/Rockcliffe Airport\">Ottawa/Rockcliffe Airport</a></td>
+<td><a href=\"/wiki/Ottawa\" title=\"Ottawa\">Ottawa</a>, <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YRP</td>
+<td>CYRP</td>
+<td><a href=\"/wiki/Ottawa/Carp_Airport\" class=\"mw-redirect\" title=\"Ottawa/Carp Airport\">Ottawa/Carp Airport</a></td>
+<td><a href=\"/wiki/Carp\" title=\"Carp\">Carp</a>, <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YRQ</td>
+<td>CYRQ</td>
+<td><a href=\"/wiki/Trois-Rivi%C3%A8res_Airport\" title=\"Trois-Rivi\u00e8res Airport\">Trois-Rivi\u00e8res Airport</a></td>
+<td><a href=\"/wiki/Trois-Rivi%C3%A8res\" title=\"Trois-Rivi\u00e8res\">Trois-Rivi\u00e8res</a>, <a href=\"/wiki/Quebec\" title=\"Quebec\">Quebec</a>, Canada</td>
+</tr>
+<tr>
+<td>YRR</td>
+<td></td>
+<td><a href=\"/wiki/Stuart_Island_Airport\" class=\"mw-redirect\" title=\"Stuart Island Airport\">Stuart Island Airport</a></td>
+<td><a href=\"/wiki/Stuart_Island_(British_Columbia)\" title=\"Stuart Island (British Columbia)\">Stuart Island</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YRS</td>
+<td>CYRS</td>
+<td><a href=\"/wiki/Red_Sucker_Lake_Airport\" title=\"Red Sucker Lake Airport\">Red Sucker Lake Airport</a></td>
+<td><a href=\"/wiki/Red_Sucker_Lake,_Manitoba\" title=\"Red Sucker Lake, Manitoba\">Red Sucker Lake</a>, <a href=\"/wiki/Manitoba\" title=\"Manitoba\">Manitoba</a>, Canada</td>
+</tr>
+<tr>
+<td>YRT</td>
+<td>CYRT</td>
+<td><a href=\"/wiki/Rankin_Inlet_Airport\" title=\"Rankin Inlet Airport\">Rankin Inlet Airport</a></td>
+<td><a href=\"/wiki/Rankin_Inlet\" title=\"Rankin Inlet\">Rankin Inlet</a>, <a href=\"/wiki/Nunavut\" title=\"Nunavut\">Nunavut</a>, Canada</td>
+</tr>
+<tr>
+<td>YRV</td>
+<td>CYRV</td>
+<td><a href=\"/wiki/Revelstoke_Airport\" title=\"Revelstoke Airport\">Revelstoke Airport</a></td>
+<td><a href=\"/wiki/Revelstoke,_British_Columbia\" title=\"Revelstoke, British Columbia\">Revelstoke</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YSA</td>
+<td></td>
+<td><a href=\"/wiki/Sable_Island_Aerodrome\" title=\"Sable Island Aerodrome\">Sable Island Aerodrome</a></td>
+<td><a href=\"/wiki/Sable_Island\" title=\"Sable Island\">Sable Island</a>, <a href=\"/wiki/Nova_Scotia\" title=\"Nova Scotia\">Nova Scotia</a>, Canada</td>
+</tr>
+<tr>
+<td>YSB</td>
+<td>CYSB</td>
+<td><a href=\"/wiki/Sudbury_Airport\" title=\"Sudbury Airport\">Sudbury Airport</a></td>
+<td><a href=\"/wiki/Greater_Sudbury\" title=\"Greater Sudbury\">Greater Sudbury</a>, <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YSC</td>
+<td>CYSC</td>
+<td><a href=\"/wiki/Sherbrooke_Airport\" title=\"Sherbrooke Airport\">Sherbrooke Airport</a></td>
+<td><a href=\"/wiki/Sherbrooke\" title=\"Sherbrooke\">Sherbrooke</a>, <a href=\"/wiki/Quebec\" title=\"Quebec\">Quebec</a>, Canada</td>
+</tr>
+<tr>
+<td>YSD</td>
+<td>CYSD</td>
+<td><a href=\"/wiki/CFB_Suffield\" title=\"CFB Suffield\">CFB Suffield</a></td>
+<td><a href=\"/wiki/Suffield,_Alberta\" title=\"Suffield, Alberta\">Suffield</a>, <a href=\"/wiki/Alberta\" title=\"Alberta\">Alberta</a>, Canada</td>
+</tr>
+<tr>
+<td>YSE</td>
+<td>CYSE</td>
+<td><a href=\"/wiki/Squamish_Airport\" title=\"Squamish Airport\">Squamish Airport</a></td>
+<td><a href=\"/wiki/Squamish,_British_Columbia\" title=\"Squamish, British Columbia\">Squamish</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YSF</td>
+<td>CYSF</td>
+<td><a href=\"/wiki/Stony_Rapids_Airport\" title=\"Stony Rapids Airport\">Stony Rapids Airport</a></td>
+<td><a href=\"/wiki/Stony_Rapids\" title=\"Stony Rapids\">Stony Rapids</a>, <a href=\"/wiki/Saskatchewan\" title=\"Saskatchewan\">Saskatchewan</a>, Canada</td>
+</tr>
+<tr>
+<td>YSG</td>
+<td>CYLK</td>
+<td><a href=\"/wiki/Lutselk%27e_Airport\" title=\"Lutselk&#39;e Airport\">Lutselk'e Airport</a></td>
+<td><a href=\"/wiki/Lutselk%27e\" class=\"mw-redirect\" title=\"Lutselk&#39;e\">Lutselk'e</a>, <a href=\"/wiki/Northwest_Territories\" title=\"Northwest Territories\">Northwest Territories</a>, Canada</td>
+</tr>
+<tr>
+<td>YSH</td>
+<td>CYSH</td>
+<td><a href=\"/wiki/Smiths_Falls-Montague_Airport\" title=\"Smiths Falls-Montague Airport\">Smiths Falls-Montague Airport</a></td>
+<td><a href=\"/wiki/Smiths_Falls\" title=\"Smiths Falls\">Smiths Falls</a>, <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YSI</td>
+<td></td>
+<td><a href=\"/wiki/Parry_Sound/Frying_Pan_Island-Sans_Souci_Water_Aerodrome\" title=\"Parry Sound/Frying Pan Island-Sans Souci Water Aerodrome\">Parry Sound/Frying Pan Island-Sans Souci Water Aerodrome</a> (TC: CPS9)</td>
+<td><a href=\"/w/index.php?title=Fryingpan_Island&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Fryingpan Island (page does not exist)\">Fryingpan Island</a>, <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YSJ</td>
+<td>CYSJ</td>
+<td><a href=\"/wiki/Saint_John_Airport\" title=\"Saint John Airport\">Saint John Airport</a></td>
+<td><a href=\"/wiki/Saint_John,_New_Brunswick\" title=\"Saint John, New Brunswick\">Saint John</a>, <a href=\"/wiki/New_Brunswick\" title=\"New Brunswick\">New Brunswick</a>, Canada</td>
+</tr>
+<tr>
+<td>YSK</td>
+<td>CYSK</td>
+<td><a href=\"/wiki/Sanikiluaq_Airport\" title=\"Sanikiluaq Airport\">Sanikiluaq Airport</a></td>
+<td><a href=\"/wiki/Sanikiluaq\" title=\"Sanikiluaq\">Sanikiluaq</a>, <a href=\"/wiki/Nunavut\" title=\"Nunavut\">Nunavut</a>, Canada</td>
+</tr>
+<tr>
+<td>YSL</td>
+<td>CYSL</td>
+<td><a href=\"/wiki/Saint-L%C3%A9onard_Aerodrome\" title=\"Saint-L\u00e9onard Aerodrome\">Saint-L\u00e9onard Aerodrome</a></td>
+<td><a href=\"/wiki/Saint-L%C3%A9onard,_New_Brunswick\" title=\"Saint-L\u00e9onard, New Brunswick\">Saint-L\u00e9onard</a>, <a href=\"/wiki/New_Brunswick\" title=\"New Brunswick\">New Brunswick</a>, Canada</td>
+</tr>
+<tr>
+<td>YSM</td>
+<td>CYSM</td>
+<td><a href=\"/wiki/Fort_Smith_Airport\" title=\"Fort Smith Airport\">Fort Smith Airport</a></td>
+<td><a href=\"/wiki/Fort_Smith,_Northwest_Territories\" title=\"Fort Smith, Northwest Territories\">Fort Smith</a>, <a href=\"/wiki/Northwest_Territories\" title=\"Northwest Territories\">Northwest Territories</a>, Canada</td>
+</tr>
+<tr>
+<td>YSN</td>
+<td>CZAM</td>
+<td><a href=\"/wiki/Salmon_Arm_Airport\" title=\"Salmon Arm Airport\">Salmon Arm Airport</a></td>
+<td><a href=\"/wiki/Salmon_Arm\" title=\"Salmon Arm\">Salmon Arm</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YSO</td>
+<td></td>
+<td><a href=\"/wiki/Postville_Airport\" title=\"Postville Airport\">Postville Airport</a> (TC: CCD4)</td>
+<td><a href=\"/wiki/Postville,_Newfoundland_and_Labrador\" title=\"Postville, Newfoundland and Labrador\">Postville</a>, <a href=\"/wiki/Newfoundland_and_Labrador\" title=\"Newfoundland and Labrador\">Newfoundland and Labrador</a>, Canada</td>
+</tr>
+<tr>
+<td>YSP</td>
+<td>CYSP</td>
+<td><a href=\"/wiki/Marathon_Aerodrome\" title=\"Marathon Aerodrome\">Marathon Aerodrome</a></td>
+<td><a href=\"/wiki/Marathon,_Ontario\" title=\"Marathon, Ontario\">Marathon</a>, <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YST</td>
+<td>CYST</td>
+<td><a href=\"/wiki/St._Theresa_Point_Airport\" title=\"St. Theresa Point Airport\">St. Theresa Point Airport</a></td>
+<td><a href=\"/wiki/St._Theresa_Point,_Manitoba\" class=\"mw-redirect\" title=\"St. Theresa Point, Manitoba\">St. Theresa Point</a>, <a href=\"/wiki/Manitoba\" title=\"Manitoba\">Manitoba</a>, Canada</td>
+</tr>
+<tr>
+<td>YSU</td>
+<td>CYSU</td>
+<td><a href=\"/wiki/Summerside_Airport\" title=\"Summerside Airport\">Summerside Airport</a></td>
+<td><a href=\"/wiki/Summerside,_Prince_Edward_Island\" title=\"Summerside, Prince Edward Island\">Summerside</a>, <a href=\"/wiki/Prince_Edward_Island\" title=\"Prince Edward Island\">Prince Edward Island</a>, Canada</td>
+</tr>
+<tr>
+<td>YSX</td>
+<td></td>
+<td><a href=\"/wiki/Bella_Bella/Shearwater_Water_Aerodrome\" title=\"Bella Bella/Shearwater Water Aerodrome\">Bella Bella/Shearwater Water Aerodrome</a> (TC: CAW8)</td>
+<td><a href=\"/wiki/Bella_Bella,_British_Columbia\" title=\"Bella Bella, British Columbia\">Bella Bella</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YSY</td>
+<td>CYSY</td>
+<td><a href=\"/wiki/Sachs_Harbour_(David_Nasogaluak_Jr._Saaryuaq)_Airport\" title=\"Sachs Harbour (David Nasogaluak Jr. Saaryuaq) Airport\">Sachs Harbour (David Nasogaluak Jr. Saaryuaq) Airport</a></td>
+<td><a href=\"/wiki/Sachs_Harbour\" title=\"Sachs Harbour\">Sachs Harbour</a>, <a href=\"/wiki/Northwest_Territories\" title=\"Northwest Territories\">Northwest Territories</a>, Canada</td>
+</tr>
+<tr>
+<td>YTA</td>
+<td>CYTA</td>
+<td><a href=\"/wiki/Pembroke_Airport\" title=\"Pembroke Airport\">Pembroke Airport</a></td>
+<td><a href=\"/wiki/Pembroke,_Ontario\" title=\"Pembroke, Ontario\">Pembroke</a>, <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YTB</td>
+<td></td>
+<td><a href=\"/wiki/Hartley_Bay_Water_Aerodrome\" title=\"Hartley Bay Water Aerodrome\">Hartley Bay Water Aerodrome</a> (TC: CAY4)</td>
+<td><a href=\"/wiki/Hartley_Bay\" title=\"Hartley Bay\">Hartley Bay</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YTD</td>
+<td>CZLQ</td>
+<td><a href=\"/wiki/Thicket_Portage_Airport\" title=\"Thicket Portage Airport\">Thicket Portage Airport</a></td>
+<td><a href=\"/wiki/Thicket_Portage,_Manitoba\" class=\"mw-redirect\" title=\"Thicket Portage, Manitoba\">Thicket Portage</a>, <a href=\"/wiki/Manitoba\" title=\"Manitoba\">Manitoba</a>, Canada</td>
+</tr>
+<tr>
+<td>YTE</td>
+<td>CYTE</td>
+<td><a href=\"/wiki/Cape_Dorset_Airport\" title=\"Cape Dorset Airport\">Cape Dorset Airport</a></td>
+<td><a href=\"/wiki/Cape_Dorset\" title=\"Cape Dorset\">Cape Dorset</a>, <a href=\"/wiki/Nunavut\" title=\"Nunavut\">Nunavut</a>, Canada</td>
+</tr>
+<tr>
+<td>YTF</td>
+<td>CYTF</td>
+<td><a href=\"/wiki/Alma_Airport\" title=\"Alma Airport\">Alma Airport</a></td>
+<td><a href=\"/wiki/Alma,_Quebec\" title=\"Alma, Quebec\">Alma</a>, <a href=\"/wiki/Quebec\" title=\"Quebec\">Quebec</a>, Canada</td>
+</tr>
+<tr>
+<td>YTG</td>
+<td></td>
+<td><a href=\"/wiki/Sullivan_Bay_Water_Aerodrome\" title=\"Sullivan Bay Water Aerodrome\">Sullivan Bay Water Aerodrome</a> (TC: CAV5)</td>
+<td><a href=\"/w/index.php?title=Sullivan_Bay,_British_Columbia&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Sullivan Bay, British Columbia (page does not exist)\">Sullivan Bay</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YTH</td>
+<td>CYTH</td>
+<td><a href=\"/wiki/Thompson_Airport\" title=\"Thompson Airport\">Thompson Airport</a></td>
+<td><a href=\"/wiki/Thompson,_Manitoba\" title=\"Thompson, Manitoba\">Thompson</a>, <a href=\"/wiki/Manitoba\" title=\"Manitoba\">Manitoba</a>, Canada</td>
+</tr>
+<tr>
+<td>YTL</td>
+<td>CYTL</td>
+<td><a href=\"/wiki/Big_Trout_Lake_Airport\" title=\"Big Trout Lake Airport\">Big Trout Lake Airport</a></td>
+<td><a href=\"/wiki/Kitchenuhmaykoosib_Inninuwug_First_Nation\" title=\"Kitchenuhmaykoosib Inninuwug First Nation\">Kitchenuhmaykoosib Inninuwug</a> (Big Trout Lake), <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YTM</td>
+<td>CYFJ</td>
+<td><a href=\"/wiki/Mont_Tremblant_International_Airport\" title=\"Mont Tremblant International Airport\">Mont Tremblant International Airport</a></td>
+<td><a href=\"/wiki/Mont-Tremblant,_Quebec\" class=\"mw-redirect\" title=\"Mont-Tremblant, Quebec\">Mont-Tremblant</a>, <a href=\"/wiki/Quebec\" title=\"Quebec\">Quebec</a>, Canada</td>
+</tr>
+<tr>
+<td>YTO<sup id=\"cite_ref-IATA_1-29\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td></td>
+<td>metropolitan area<sup class=\"reference plainlinks nourlexpansion\" id=\"ref_4\"><a href=\"#endnote_4\">4</a></sup></td>
+<td><a href=\"/wiki/Toronto\" title=\"Toronto\">Toronto</a>, <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YTP</td>
+<td></td>
+<td><a href=\"/wiki/Tofino_Harbour_Water_Aerodrome\" title=\"Tofino Harbour Water Aerodrome\">Tofino Harbour Water Aerodrome</a> (TC: CAB4)</td>
+<td><a href=\"/wiki/Tofino\" title=\"Tofino\">Tofino</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YTQ</td>
+<td>CYTQ</td>
+<td><a href=\"/wiki/Tasiujaq_Airport\" title=\"Tasiujaq Airport\">Tasiujaq Airport</a></td>
+<td><a href=\"/wiki/Tasiujaq\" title=\"Tasiujaq\">Tasiujaq</a>, <a href=\"/wiki/Quebec\" title=\"Quebec\">Quebec</a>, Canada</td>
+</tr>
+<tr>
+<td>YTR</td>
+<td>CYTR</td>
+<td><a href=\"/wiki/CFB_Trenton\" title=\"CFB Trenton\">CFB Trenton</a></td>
+<td><a href=\"/wiki/Trenton,_Ontario\" title=\"Trenton, Ontario\">Trenton</a>, <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YTS</td>
+<td>CYTS</td>
+<td><a href=\"/wiki/Timmins/Victor_M._Power_Airport\" title=\"Timmins/Victor M. Power Airport\">Timmins/Victor M. Power Airport</a></td>
+<td><a href=\"/wiki/Timmins\" title=\"Timmins\">Timmins</a>, <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YTT</td>
+<td></td>
+<td><a href=\"/wiki/Tisdale_Airport\" title=\"Tisdale Airport\">Tisdale Airport</a> (TC: CJY3)</td>
+<td><a href=\"/wiki/Tisdale,_Saskatchewan\" title=\"Tisdale, Saskatchewan\">Tisdale</a>, <a href=\"/wiki/Saskatchewan\" title=\"Saskatchewan\">Saskatchewan</a>, Canada</td>
+</tr>
+<tr>
+<td>YTU</td>
+<td></td>
+<td><a href=\"/wiki/Tasu_Water_Aerodrome\" title=\"Tasu Water Aerodrome\">Tasu Water Aerodrome</a></td>
+<td><a href=\"/wiki/Tasu\" title=\"Tasu\">Tasu</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YTX</td>
+<td></td>
+<td><a href=\"/wiki/Telegraph_Creek_Airport\" title=\"Telegraph Creek Airport\">Telegraph Creek Airport</a> (TC: CBM5)</td>
+<td><a href=\"/wiki/Telegraph_Creek\" title=\"Telegraph Creek\">Telegraph Creek</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YTY</td>
+<td>ZSYA</td>
+<td><a href=\"/wiki/Yangzhou_Taizhou_Airport\" class=\"mw-redirect\" title=\"Yangzhou Taizhou Airport\">Yangzhou Taizhou Airport</a></td>
+<td><a href=\"/wiki/Yangzhou\" title=\"Yangzhou\">Yangzhou</a> / <a href=\"/wiki/Taizhou,_Jiangsu\" title=\"Taizhou, Jiangsu\">Taizhou</a>, <a href=\"/wiki/Jiangsu\" title=\"Jiangsu\">Jiangsu</a>, China</td>
+</tr>
+<tr>
+<td>YTZ</td>
+<td>CYTZ</td>
+<td><a href=\"/wiki/Billy_Bishop_Toronto_City_Airport\" title=\"Billy Bishop Toronto City Airport\">Billy Bishop Toronto City Airport</a> (Toronto Island Airport)</td>
+<td><a href=\"/wiki/Toronto\" title=\"Toronto\">Toronto</a>, <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YUA</td>
+<td>ZPYM</td>
+<td><a href=\"/w/index.php?title=Yuanmou_Air_Base&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Yuanmou Air Base (page does not exist)\">Yuanmou Air Base</a></td>
+<td><a href=\"/wiki/Yuanmou_County\" title=\"Yuanmou County\">Yuanmou</a>, <a href=\"/wiki/Yunnan\" title=\"Yunnan\">Yunnan</a>, China</td>
+</tr>
+<tr>
+<td>YUB</td>
+<td>CYUB</td>
+<td><a href=\"/wiki/Tuktoyaktuk/James_Gruben_Airport\" title=\"Tuktoyaktuk/James Gruben Airport\">Tuktoyaktuk/James Gruben Airport</a></td>
+<td><a href=\"/wiki/Tuktoyaktuk\" title=\"Tuktoyaktuk\">Tuktoyaktuk</a>, <a href=\"/wiki/Northwest_Territories\" title=\"Northwest Territories\">Northwest Territories</a>, Canada</td>
+</tr>
+<tr>
+<td>YUD</td>
+<td>CYMU</td>
+<td><a href=\"/wiki/Umiujaq_Airport\" title=\"Umiujaq Airport\">Umiujaq Airport</a></td>
+<td><a href=\"/wiki/Umiujaq\" title=\"Umiujaq\">Umiujaq</a>, <a href=\"/wiki/Quebec\" title=\"Quebec\">Quebec</a>, Canada</td>
+</tr>
+<tr>
+<td>YUE</td>
+<td>YYND</td>
+<td><a href=\"/wiki/Yuendumu_Airport\" title=\"Yuendumu Airport\">Yuendumu Airport</a></td>
+<td><a href=\"/wiki/Yuendumu\" title=\"Yuendumu\">Yuendumu</a>, <a href=\"/wiki/Northern_Territory\" title=\"Northern Territory\">Northern Territory</a>, Australia</td>
+</tr>
+<tr>
+<td>YUL</td>
+<td>CYUL</td>
+<td><a href=\"/wiki/Montr%C3%A9al%E2%80%93Pierre_Elliott_Trudeau_International_Airport\" title=\"Montr\u00e9al\u2013Pierre Elliott Trudeau International Airport\">Montr\u00e9al\u2013Pierre Elliott Trudeau International Airport</a></td>
+<td><a href=\"/wiki/Montreal\" title=\"Montreal\">Montreal</a>, <a href=\"/wiki/Quebec\" title=\"Quebec\">Quebec</a>, Canada</td>
+</tr>
+<tr>
+<td>YUM</td>
+<td>KNYL</td>
+<td><a href=\"/wiki/Yuma_International_Airport\" title=\"Yuma International Airport\">Yuma International Airport</a> / <a href=\"/wiki/Marine_Corps_Air_Station_Yuma\" title=\"Marine Corps Air Station Yuma\">MCAS Yuma</a> (FAA: NYL)</td>
+<td><a href=\"/wiki/Yuma,_Arizona\" title=\"Yuma, Arizona\">Yuma</a>, <a href=\"/wiki/Arizona\" title=\"Arizona\">Arizona</a>, United States</td>
+</tr>
+<tr>
+<td>YUS</td>
+<td>ZLYS</td>
+<td><a href=\"/wiki/Yushu_Batang_Airport\" title=\"Yushu Batang Airport\">Yushu Batang Airport</a></td>
+<td><a href=\"/wiki/Yushu_City,_Qinghai\" title=\"Yushu City, Qinghai\">Yushu City</a>, <a href=\"/wiki/Qinghai\" title=\"Qinghai\">Qinghai</a>, China</td>
+</tr>
+<tr>
+<td>YUT</td>
+<td>CYUT</td>
+<td><a href=\"/wiki/Repulse_Bay_Airport\" class=\"mw-redirect\" title=\"Repulse Bay Airport\">Repulse Bay Airport</a></td>
+<td><a href=\"/wiki/Naujaat\" title=\"Naujaat\">Naujaat</a> (Repulse Bay), <a href=\"/wiki/Nunavut\" title=\"Nunavut\">Nunavut</a>, Canada</td>
+</tr>
+<tr>
+<td>YUX</td>
+<td>CYUX</td>
+<td><a href=\"/wiki/Hall_Beach_Airport\" title=\"Hall Beach Airport\">Hall Beach Airport</a></td>
+<td><a href=\"/wiki/Hall_Beach\" title=\"Hall Beach\">Hall Beach</a>, <a href=\"/wiki/Nunavut\" title=\"Nunavut\">Nunavut</a>, Canada</td>
+</tr>
+<tr>
+<td>YUY</td>
+<td>CYUY</td>
+<td><a href=\"/wiki/Rouyn-Noranda_Airport\" title=\"Rouyn-Noranda Airport\">Rouyn-Noranda Airport</a></td>
+<td><a href=\"/wiki/Rouyn-Noranda\" title=\"Rouyn-Noranda\">Rouyn-Noranda</a>, <a href=\"/wiki/Quebec\" title=\"Quebec\">Quebec</a>, Canada</td>
+</tr>
+<tr>
+<td>YVA</td>
+<td>FMCN</td>
+<td><a href=\"/wiki/Iconi_Airport\" title=\"Iconi Airport\">Iconi Airport</a></td>
+<td><a href=\"/wiki/Moroni,_Comoros\" title=\"Moroni, Comoros\">Moroni</a>, <a href=\"/wiki/Comoros\" title=\"Comoros\">Comoros</a></td>
+</tr>
+<tr>
+<td>YVB</td>
+<td>CYVB</td>
+<td><a href=\"/wiki/Bonaventure_Airport\" title=\"Bonaventure Airport\">Bonaventure Airport</a></td>
+<td><a href=\"/wiki/Bonaventure,_Quebec\" title=\"Bonaventure, Quebec\">Bonaventure</a>, <a href=\"/wiki/Quebec\" title=\"Quebec\">Quebec</a>, Canada</td>
+</tr>
+<tr>
+<td>YVC</td>
+<td>CYVC</td>
+<td><a href=\"/wiki/La_Ronge_(Barber_Field)_Airport\" title=\"La Ronge (Barber Field) Airport\">La Ronge (Barber Field) Airport</a></td>
+<td><a href=\"/wiki/La_Ronge\" title=\"La Ronge\">La Ronge</a>, <a href=\"/wiki/Saskatchewan\" title=\"Saskatchewan\">Saskatchewan</a>, Canada</td>
+</tr>
+<tr>
+<td>YVD</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Yeva_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Yeva Airport (page does not exist)\">Yeva Airport</a></td>
+<td><a href=\"/wiki/Yeva\" title=\"Yeva\">Yeva</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>YVE</td>
+<td>CYVK</td>
+<td><a href=\"/wiki/Vernon_Regional_Airport\" title=\"Vernon Regional Airport\">Vernon Regional Airport</a></td>
+<td><a href=\"/wiki/Vernon,_British_Columbia\" title=\"Vernon, British Columbia\">Vernon</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YVG</td>
+<td>CYVG</td>
+<td><a href=\"/wiki/Vermilion_Airport\" title=\"Vermilion Airport\">Vermilion Airport</a></td>
+<td><a href=\"/wiki/Vermilion,_Alberta\" title=\"Vermilion, Alberta\">Vermilion</a>, <a href=\"/wiki/Alberta\" title=\"Alberta\">Alberta</a>, Canada</td>
+</tr>
+<tr>
+<td>YVM</td>
+<td>CYVM</td>
+<td><a href=\"/wiki/Qikiqtarjuaq_Airport\" title=\"Qikiqtarjuaq Airport\">Qikiqtarjuaq Airport</a></td>
+<td><a href=\"/wiki/Qikiqtarjuaq\" title=\"Qikiqtarjuaq\">Qikiqtarjuaq</a>, <a href=\"/wiki/Nunavut\" title=\"Nunavut\">Nunavut</a>, Canada</td>
+</tr>
+<tr>
+<td>YVN</td>
+<td>CYVN</td>
+<td><a href=\"/w/index.php?title=Cape_Dyer_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Cape Dyer Airport (page does not exist)\">Cape Dyer Airport</a><sup id=\"cite_ref-IATA_1-30\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Baffin,_Unorganized\" class=\"mw-redirect\" title=\"Baffin, Unorganized\">Cape Dyer</a>, <a href=\"/wiki/Nunavut\" title=\"Nunavut\">Nunavut</a>, Canada</td>
+</tr>
+<tr>
+<td>YVO</td>
+<td>CYVO</td>
+<td><a href=\"/wiki/Val-d%27Or_Airport\" title=\"Val-d&#39;Or Airport\">Val-d'Or Airport</a></td>
+<td><a href=\"/wiki/Val-d%27Or\" title=\"Val-d&#39;Or\">Val-d'Or</a>, <a href=\"/wiki/Quebec\" title=\"Quebec\">Quebec</a>, Canada</td>
+</tr>
+<tr>
+<td>YVP</td>
+<td>CYVP</td>
+<td><a href=\"/wiki/Kuujjuaq_Airport\" title=\"Kuujjuaq Airport\">Kuujjuaq Airport</a></td>
+<td><a href=\"/wiki/Kuujjuaq\" title=\"Kuujjuaq\">Kuujjuaq</a>, <a href=\"/wiki/Quebec\" title=\"Quebec\">Quebec</a>, Canada</td>
+</tr>
+<tr>
+<td>YVQ</td>
+<td>CYVQ</td>
+<td><a href=\"/wiki/Norman_Wells_Airport\" title=\"Norman Wells Airport\">Norman Wells Airport</a></td>
+<td><a href=\"/wiki/Norman_Wells\" title=\"Norman Wells\">Norman Wells</a>, <a href=\"/wiki/Northwest_Territories\" title=\"Northwest Territories\">Northwest Territories</a>, Canada</td>
+</tr>
+<tr>
+<td>YVR</td>
+<td>CYVR</td>
+<td><a href=\"/wiki/Vancouver_International_Airport\" title=\"Vancouver International Airport\">Vancouver International Airport</a></td>
+<td><a href=\"/wiki/Vancouver\" title=\"Vancouver\">Vancouver</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YVT</td>
+<td>CYVT</td>
+<td><a href=\"/wiki/Buffalo_Narrows_Airport\" title=\"Buffalo Narrows Airport\">Buffalo Narrows Airport</a></td>
+<td><a href=\"/wiki/Buffalo_Narrows\" title=\"Buffalo Narrows\">Buffalo Narrows</a>, <a href=\"/wiki/Saskatchewan\" title=\"Saskatchewan\">Saskatchewan</a>, Canada</td>
+</tr>
+<tr>
+<td>YVV</td>
+<td>CYVV</td>
+<td><a href=\"/wiki/Wiarton_Airport\" title=\"Wiarton Airport\">Wiarton Airport</a></td>
+<td><a href=\"/wiki/Wiarton,_Ontario\" title=\"Wiarton, Ontario\">Wiarton</a>, <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YVZ</td>
+<td>CYVZ</td>
+<td><a href=\"/wiki/Deer_Lake_Airport\" title=\"Deer Lake Airport\">Deer Lake Airport</a></td>
+<td><a href=\"/wiki/Deer_Lake_First_Nation\" title=\"Deer Lake First Nation\">Deer Lake</a>, <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YWA</td>
+<td>CYWA</td>
+<td><a href=\"/wiki/Petawawa_Airport\" class=\"mw-redirect\" title=\"Petawawa Airport\">Petawawa Airport</a></td>
+<td><a href=\"/wiki/Petawawa\" title=\"Petawawa\">Petawawa</a>, <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YWB</td>
+<td>CYKG</td>
+<td><a href=\"/wiki/Kangiqsujuaq_(Wakeham_Bay)_Airport\" title=\"Kangiqsujuaq (Wakeham Bay) Airport\">Kangiqsujuaq (Wakeham Bay) Airport</a></td>
+<td><a href=\"/wiki/Kangiqsujuaq\" title=\"Kangiqsujuaq\">Kangiqsujuaq</a>, <a href=\"/wiki/Quebec\" title=\"Quebec\">Quebec</a>, Canada</td>
+</tr>
+<tr>
+<td>YWG</td>
+<td>CYWG</td>
+<td><a href=\"/wiki/Winnipeg_James_Armstrong_Richardson_International_Airport\" title=\"Winnipeg James Armstrong Richardson International Airport\">Winnipeg James Armstrong Richardson International Airport</a></td>
+<td><a href=\"/wiki/Winnipeg\" title=\"Winnipeg\">Winnipeg</a>, <a href=\"/wiki/Manitoba\" title=\"Manitoba\">Manitoba</a>, Canada</td>
+</tr>
+<tr>
+<td>YWH</td>
+<td>CYWH</td>
+<td><a href=\"/wiki/Victoria_Inner_Harbour_Airport\" title=\"Victoria Inner Harbour Airport\">Victoria Harbour Water Airport</a></td>
+<td><a href=\"/wiki/Victoria,_British_Columbia\" title=\"Victoria, British Columbia\">Victoria</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YWJ</td>
+<td>CYWJ</td>
+<td><a href=\"/wiki/D%C3%A9line_Airport\" title=\"D\u00e9line Airport\">D\u00e9line Airport</a></td>
+<td><a href=\"/wiki/Deline\" title=\"Deline\">Deline</a>, <a href=\"/wiki/Northwest_Territories\" title=\"Northwest Territories\">Northwest Territories</a>, Canada</td>
+</tr>
+<tr>
+<td>YWK</td>
+<td>CYWK</td>
+<td><a href=\"/wiki/Wabush_Airport\" title=\"Wabush Airport\">Wabush Airport</a></td>
+<td><a href=\"/wiki/Wabush\" title=\"Wabush\">Wabush</a>, <a href=\"/wiki/Newfoundland_and_Labrador\" title=\"Newfoundland and Labrador\">Newfoundland and Labrador</a>, Canada</td>
+</tr>
+<tr>
+<td>YWL</td>
+<td>CYWL</td>
+<td><a href=\"/wiki/Williams_Lake_Airport\" title=\"Williams Lake Airport\">Williams Lake Airport</a></td>
+<td><a href=\"/wiki/Williams_Lake,_British_Columbia\" title=\"Williams Lake, British Columbia\">Williams Lake</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YWM</td>
+<td></td>
+<td><a href=\"/wiki/Williams_Harbour_Airport\" title=\"Williams Harbour Airport\">Williams Harbour Airport</a> (TC: CCA6)</td>
+<td><a href=\"/wiki/William%27s_Harbour\" title=\"William&#39;s Harbour\">William's Harbour</a>, <a href=\"/wiki/Newfoundland_and_Labrador\" title=\"Newfoundland and Labrador\">Newfoundland and Labrador</a>, Canada</td>
+</tr>
+<tr>
+<td>YWP</td>
+<td>CYWP</td>
+<td><a href=\"/wiki/Webequie_Airport\" title=\"Webequie Airport\">Webequie Airport</a></td>
+<td><a href=\"/wiki/Webequie_First_Nation\" title=\"Webequie First Nation\">Webequie</a>, <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YWQ</td>
+<td></td>
+<td><a href=\"/wiki/Chutes-des-Passes/Lac_Margane_Water_Aerodrome\" title=\"Chutes-des-Passes/Lac Margane Water Aerodrome\">Chutes-des-Passes/Lac Margane Water Aerodrome</a><sup id=\"cite_ref-IATA_1-31\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (TC: CTM3)</td>
+<td><a href=\"/wiki/Passes-Dangereuses,_Quebec\" title=\"Passes-Dangereuses, Quebec\">Passes-Dangereuses</a> (Chute-des-Passes), <a href=\"/wiki/Quebec\" title=\"Quebec\">Quebec</a>, Canada</td>
+</tr>
+<tr>
+<td>YWR</td>
+<td></td>
+<td><a href=\"/wiki/White_River_Water_Aerodrome\" title=\"White River Water Aerodrome\">White River Water Aerodrome</a> (TC: CNJ8)</td>
+<td><a href=\"/wiki/White_River,_Ontario\" title=\"White River, Ontario\">White River</a>, <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YWS</td>
+<td></td>
+<td><a href=\"/wiki/Whistler/Green_Lake_Water_Aerodrome\" title=\"Whistler/Green Lake Water Aerodrome\">Whistler/Green Lake Water Aerodrome</a> (TC: CAE5)</td>
+<td><a href=\"/wiki/Whistler,_British_Columbia\" title=\"Whistler, British Columbia\">Whistler</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YWY</td>
+<td>CYWY</td>
+<td><a href=\"/wiki/Wrigley_Airport\" title=\"Wrigley Airport\">Wrigley Airport</a></td>
+<td><a href=\"/wiki/Wrigley,_Northwest_Territories\" title=\"Wrigley, Northwest Territories\">Wrigley</a>, <a href=\"/wiki/Northwest_Territories\" title=\"Northwest Territories\">Northwest Territories</a>, Canada</td>
+</tr>
+<tr>
+<td>YXC</td>
+<td>CYXC</td>
+<td><a href=\"/wiki/Cranbrook/Canadian_Rockies_International_Airport\" title=\"Cranbrook/Canadian Rockies International Airport\">Cranbrook/Canadian Rockies International Airport</a></td>
+<td><a href=\"/wiki/Cranbrook,_British_Columbia\" title=\"Cranbrook, British Columbia\">Cranbrook</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YXD</td>
+<td>CYXD</td>
+<td><a href=\"/wiki/Edmonton_City_Centre_(Blatchford_Field)_Airport\" title=\"Edmonton City Centre (Blatchford Field) Airport\">Edmonton City Centre (Blatchford Field) Airport</a><sup id=\"cite_ref-IATA_1-32\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Edmonton\" title=\"Edmonton\">Edmonton</a>, <a href=\"/wiki/Alberta\" title=\"Alberta\">Alberta</a>, Canada</td>
+</tr>
+<tr>
+<td>YXE</td>
+<td>CYXE</td>
+<td><a href=\"/wiki/Saskatoon_John_G._Diefenbaker_International_Airport\" title=\"Saskatoon John G. Diefenbaker International Airport\">Saskatoon John G. Diefenbaker International Airport</a></td>
+<td><a href=\"/wiki/Saskatoon\" title=\"Saskatoon\">Saskatoon</a>, <a href=\"/wiki/Saskatchewan\" title=\"Saskatchewan\">Saskatchewan</a>, Canada</td>
+</tr>
+<tr>
+<td>YXH</td>
+<td>CYXH</td>
+<td><a href=\"/wiki/Medicine_Hat_Airport\" title=\"Medicine Hat Airport\">Medicine Hat Airport</a></td>
+<td><a href=\"/wiki/Medicine_Hat\" title=\"Medicine Hat\">Medicine Hat</a>, <a href=\"/wiki/Alberta\" title=\"Alberta\">Alberta</a>, Canada</td>
+</tr>
+<tr>
+<td>YXJ</td>
+<td>CYXJ</td>
+<td><a href=\"/wiki/Fort_St._John_Airport\" title=\"Fort St. John Airport\">Fort St. John Airport</a> (North Peace Airport)</td>
+<td><a href=\"/wiki/Fort_St._John,_British_Columbia\" title=\"Fort St. John, British Columbia\">Fort St. John</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YXK</td>
+<td>CYXK</td>
+<td><a href=\"/wiki/Rimouski_Airport\" title=\"Rimouski Airport\">Rimouski Airport</a></td>
+<td><a href=\"/wiki/Rimouski\" title=\"Rimouski\">Rimouski</a>, <a href=\"/wiki/Quebec\" title=\"Quebec\">Quebec</a>, Canada</td>
+</tr>
+<tr>
+<td>YXL</td>
+<td>CYXL</td>
+<td><a href=\"/wiki/Sioux_Lookout_Airport\" title=\"Sioux Lookout Airport\">Sioux Lookout Airport</a></td>
+<td><a href=\"/wiki/Sioux_Lookout\" title=\"Sioux Lookout\">Sioux Lookout</a>, <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YXN</td>
+<td>CYXN</td>
+<td><a href=\"/wiki/Whale_Cove_Airport\" title=\"Whale Cove Airport\">Whale Cove Airport</a></td>
+<td><a href=\"/wiki/Whale_Cove,_Nunavut\" title=\"Whale Cove, Nunavut\">Whale Cove</a>, <a href=\"/wiki/Nunavut\" title=\"Nunavut\">Nunavut</a>, Canada</td>
+</tr>
+<tr>
+<td>YXP</td>
+<td>CYXP</td>
+<td><a href=\"/wiki/Pangnirtung_Airport\" title=\"Pangnirtung Airport\">Pangnirtung Airport</a></td>
+<td><a href=\"/wiki/Pangnirtung\" title=\"Pangnirtung\">Pangnirtung</a>, <a href=\"/wiki/Nunavut\" title=\"Nunavut\">Nunavut</a>, Canada</td>
+</tr>
+<tr>
+<td>YXQ</td>
+<td>CYXQ</td>
+<td><a href=\"/wiki/Beaver_Creek_Airport\" title=\"Beaver Creek Airport\">Beaver Creek Airport</a></td>
+<td><a href=\"/wiki/Beaver_Creek,_Yukon\" title=\"Beaver Creek, Yukon\">Beaver Creek</a>, <a href=\"/wiki/Yukon\" title=\"Yukon\">Yukon</a>, Canada</td>
+</tr>
+<tr>
+<td>YXR</td>
+<td>CYXR</td>
+<td><a href=\"/wiki/Earlton_(Timiskaming_Regional)_Airport\" title=\"Earlton (Timiskaming Regional) Airport\">Earlton (Timiskaming Regional) Airport</a></td>
+<td><a href=\"/wiki/Armstrong,_Ontario\" title=\"Armstrong, Ontario\">Armstrong</a> (Earlton), <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YXS</td>
+<td>CYXS</td>
+<td><a href=\"/wiki/Prince_George_Airport\" title=\"Prince George Airport\">Prince George Airport</a></td>
+<td><a href=\"/wiki/Prince_George,_British_Columbia\" title=\"Prince George, British Columbia\">Prince George</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YXT</td>
+<td>CYXT</td>
+<td><a href=\"/wiki/Northwest_Regional_Airport_(British_Columbia)\" class=\"mw-redirect\" title=\"Northwest Regional Airport (British Columbia)\">Northwest Regional Airport</a></td>
+<td><a href=\"/wiki/Terrace,_British_Columbia\" title=\"Terrace, British Columbia\">Terrace</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YXU</td>
+<td>CYXU</td>
+<td><a href=\"/wiki/London_International_Airport\" title=\"London International Airport\">London International Airport</a></td>
+<td><a href=\"/wiki/London,_Ontario\" title=\"London, Ontario\">London</a>, <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YXX</td>
+<td>CYXX</td>
+<td><a href=\"/wiki/Abbotsford_International_Airport\" title=\"Abbotsford International Airport\">Abbotsford International Airport</a></td>
+<td><a href=\"/wiki/Abbotsford,_British_Columbia\" title=\"Abbotsford, British Columbia\">Abbotsford</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YXY</td>
+<td>CYXY</td>
+<td><a href=\"/wiki/Erik_Nielsen_Whitehorse_International_Airport\" title=\"Erik Nielsen Whitehorse International Airport\">Erik Nielsen Whitehorse International Airport</a></td>
+<td><a href=\"/wiki/Whitehorse,_Yukon\" title=\"Whitehorse, Yukon\">Whitehorse</a>, <a href=\"/wiki/Yukon\" title=\"Yukon\">Yukon</a>, Canada</td>
+</tr>
+<tr>
+<td>YXZ</td>
+<td>CYXZ</td>
+<td><a href=\"/wiki/Wawa_Airport\" title=\"Wawa Airport\">Wawa Airport</a></td>
+<td><a href=\"/wiki/Wawa,_Ontario\" title=\"Wawa, Ontario\">Wawa</a>, <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YYB</td>
+<td>CYYB</td>
+<td><a href=\"/wiki/North_Bay/Jack_Garland_Airport\" title=\"North Bay/Jack Garland Airport\">North Bay/Jack Garland Airport</a></td>
+<td><a href=\"/wiki/North_Bay,_Ontario\" title=\"North Bay, Ontario\">North Bay</a>, <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YYC</td>
+<td>CYYC</td>
+<td><a href=\"/wiki/Calgary_International_Airport\" title=\"Calgary International Airport\">Calgary International Airport</a></td>
+<td><a href=\"/wiki/Calgary\" title=\"Calgary\">Calgary</a>, <a href=\"/wiki/Alberta\" title=\"Alberta\">Alberta</a>, Canada</td>
+</tr>
+<tr>
+<td>YYD</td>
+<td>CYYD</td>
+<td><a href=\"/wiki/Smithers_Airport\" title=\"Smithers Airport\">Smithers Airport</a></td>
+<td><a href=\"/wiki/Smithers,_British_Columbia\" title=\"Smithers, British Columbia\">Smithers</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YYE</td>
+<td>CYYE</td>
+<td><a href=\"/wiki/Fort_Nelson_Airport\" title=\"Fort Nelson Airport\">Northern Rockies Regional Airport</a></td>
+<td><a href=\"/wiki/Fort_Nelson,_British_Columbia\" title=\"Fort Nelson, British Columbia\">Fort Nelson</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YYF</td>
+<td>CYYF</td>
+<td><a href=\"/wiki/Penticton_Regional_Airport\" title=\"Penticton Regional Airport\">Penticton Regional Airport</a></td>
+<td><a href=\"/wiki/Penticton\" title=\"Penticton\">Penticton</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YYG</td>
+<td>CYYG</td>
+<td><a href=\"/wiki/Charlottetown_Airport\" title=\"Charlottetown Airport\">Charlottetown Airport</a></td>
+<td><a href=\"/wiki/Charlottetown\" title=\"Charlottetown\">Charlottetown</a>, <a href=\"/wiki/Prince_Edward_Island\" title=\"Prince Edward Island\">Prince Edward Island</a>, Canada</td>
+</tr>
+<tr>
+<td>YYH</td>
+<td>CYYH</td>
+<td><a href=\"/wiki/Taloyoak_Airport\" title=\"Taloyoak Airport\">Taloyoak Airport</a></td>
+<td><a href=\"/wiki/Taloyoak\" title=\"Taloyoak\">Taloyoak</a>, <a href=\"/wiki/Nunavut\" title=\"Nunavut\">Nunavut</a>, Canada</td>
+</tr>
+<tr>
+<td>YYI</td>
+<td>CYYI</td>
+<td><a href=\"/w/index.php?title=Rivers_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Rivers Airport (page does not exist)\">Rivers Airport</a></td>
+<td><a href=\"/wiki/Rivers,_Manitoba\" title=\"Rivers, Manitoba\">Rivers</a>, <a href=\"/wiki/Manitoba\" title=\"Manitoba\">Manitoba</a>, Canada</td>
+</tr>
+<tr>
+<td>YYJ</td>
+<td>CYYJ</td>
+<td><a href=\"/wiki/Victoria_International_Airport\" title=\"Victoria International Airport\">Victoria International Airport</a></td>
+<td><a href=\"/wiki/Victoria,_British_Columbia\" title=\"Victoria, British Columbia\">Victoria</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YYL</td>
+<td>CYYL</td>
+<td><a href=\"/wiki/Lynn_Lake_Airport\" title=\"Lynn Lake Airport\">Lynn Lake Airport</a></td>
+<td><a href=\"/wiki/Lynn_Lake\" title=\"Lynn Lake\">Lynn Lake</a>, <a href=\"/wiki/Manitoba\" title=\"Manitoba\">Manitoba</a>, Canada</td>
+</tr>
+<tr>
+<td>YYM</td>
+<td>CYYM</td>
+<td><a href=\"/wiki/Cowley_Airport\" title=\"Cowley Airport\">Cowley Airport</a></td>
+<td><a href=\"/wiki/Cowley,_Alberta\" title=\"Cowley, Alberta\">Cowley</a>, <a href=\"/wiki/Alberta\" title=\"Alberta\">Alberta</a>, Canada</td>
+</tr>
+<tr>
+<td>YYN</td>
+<td>CYYN</td>
+<td><a href=\"/wiki/Swift_Current_Airport\" title=\"Swift Current Airport\">Swift Current Airport</a></td>
+<td><a href=\"/wiki/Swift_Current\" title=\"Swift Current\">Swift Current</a>, <a href=\"/wiki/Saskatchewan\" title=\"Saskatchewan\">Saskatchewan</a>, Canada</td>
+</tr>
+<tr>
+<td>YYQ</td>
+<td>CYYQ</td>
+<td><a href=\"/wiki/Churchill_Airport\" title=\"Churchill Airport\">Churchill Airport</a></td>
+<td><a href=\"/wiki/Churchill,_Manitoba\" title=\"Churchill, Manitoba\">Churchill</a>, <a href=\"/wiki/Manitoba\" title=\"Manitoba\">Manitoba</a>, Canada</td>
+</tr>
+<tr>
+<td>YYR</td>
+<td>CYYR</td>
+<td><a href=\"/wiki/CFB_Goose_Bay\" title=\"CFB Goose Bay\">CFB Goose Bay</a></td>
+<td><a href=\"/wiki/Happy_Valley-Goose_Bay\" title=\"Happy Valley-Goose Bay\">Happy Valley-Goose Bay</a>, <a href=\"/wiki/Newfoundland_and_Labrador\" title=\"Newfoundland and Labrador\">Newfoundland and Labrador</a>, Canada</td>
+</tr>
+<tr>
+<td>YYT</td>
+<td>CYYT</td>
+<td><a href=\"/wiki/St._John%27s_International_Airport\" title=\"St. John&#39;s International Airport\">St. John's International Airport</a></td>
+<td><a href=\"/wiki/St._John%27s,_Newfoundland_and_Labrador\" title=\"St. John&#39;s, Newfoundland and Labrador\">St. John's</a>, <a href=\"/wiki/Newfoundland_and_Labrador\" title=\"Newfoundland and Labrador\">Newfoundland and Labrador</a>, Canada</td>
+</tr>
+<tr>
+<td>YYU</td>
+<td>CYYU</td>
+<td><a href=\"/wiki/Kapuskasing_Airport\" title=\"Kapuskasing Airport\">Kapuskasing Airport</a></td>
+<td><a href=\"/wiki/Kapuskasing\" title=\"Kapuskasing\">Kapuskasing</a>, <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YYW</td>
+<td>CYYW</td>
+<td><a href=\"/wiki/Armstrong_Airport\" title=\"Armstrong Airport\">Armstrong Airport</a></td>
+<td><a href=\"/wiki/Armstrong,_Thunder_Bay_District,_Ontario\" title=\"Armstrong, Thunder Bay District, Ontario\">Armstrong</a>, <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YYY</td>
+<td>CYYY</td>
+<td><a href=\"/wiki/Mont-Joli_Airport\" title=\"Mont-Joli Airport\">Mont-Joli Airport</a></td>
+<td><a href=\"/wiki/Mont-Joli\" title=\"Mont-Joli\">Mont-Joli</a>, <a href=\"/wiki/Quebec\" title=\"Quebec\">Quebec</a>, Canada</td>
+</tr>
+<tr>
+<td>YYZ</td>
+<td>CYYZ</td>
+<td><a href=\"/wiki/Toronto_Pearson_International_Airport\" title=\"Toronto Pearson International Airport\">Toronto Pearson International Airport</a></td>
+<td><a href=\"/wiki/Toronto\" title=\"Toronto\">Toronto</a>, <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YZA</td>
+<td>CYZA</td>
+<td><a href=\"/wiki/Cache_Creek_Airport\" title=\"Cache Creek Airport\">Cache Creek Airport</a> (Ashcroft Regional Airport)</td>
+<td><a href=\"/wiki/Cache_Creek,_British_Columbia\" title=\"Cache Creek, British Columbia\">Cache Creek</a> / <a href=\"/wiki/Ashcroft,_British_Columbia\" title=\"Ashcroft, British Columbia\">Ashcroft</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YZE</td>
+<td>CYZE</td>
+<td><a href=\"/wiki/Gore_Bay-Manitoulin_Airport\" title=\"Gore Bay-Manitoulin Airport\">Gore Bay-Manitoulin Airport</a></td>
+<td><a href=\"/wiki/Gore_Bay,_Ontario\" title=\"Gore Bay, Ontario\">Gore Bay</a>, <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YZF</td>
+<td>CYZF</td>
+<td><a href=\"/wiki/Yellowknife_Airport\" title=\"Yellowknife Airport\">Yellowknife Airport</a></td>
+<td><a href=\"/wiki/Yellowknife\" title=\"Yellowknife\">Yellowknife</a>, <a href=\"/wiki/Northwest_Territories\" title=\"Northwest Territories\">Northwest Territories</a>, Canada</td>
+</tr>
+<tr>
+<td>YZG</td>
+<td>CYZG</td>
+<td><a href=\"/wiki/Salluit_Airport\" title=\"Salluit Airport\">Salluit Airport</a></td>
+<td><a href=\"/wiki/Salluit\" title=\"Salluit\">Salluit</a>, <a href=\"/wiki/Quebec\" title=\"Quebec\">Quebec</a>, Canada</td>
+</tr>
+<tr>
+<td>YZH</td>
+<td>CYZH</td>
+<td><a href=\"/wiki/Slave_Lake_Airport\" title=\"Slave Lake Airport\">Slave Lake Airport</a></td>
+<td><a href=\"/wiki/Slave_Lake\" title=\"Slave Lake\">Slave Lake</a>, <a href=\"/wiki/Alberta\" title=\"Alberta\">Alberta</a>, Canada</td>
+</tr>
+<tr>
+<td>YZP</td>
+<td>CYZP</td>
+<td><a href=\"/wiki/Sandspit_Airport\" title=\"Sandspit Airport\">Sandspit Airport</a></td>
+<td><a href=\"/wiki/Sandspit,_British_Columbia\" title=\"Sandspit, British Columbia\">Sandspit</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YZR</td>
+<td>CYZR</td>
+<td><a href=\"/wiki/Sarnia_Chris_Hadfield_Airport\" title=\"Sarnia Chris Hadfield Airport\">Sarnia Chris Hadfield Airport</a></td>
+<td><a href=\"/wiki/Sarnia\" title=\"Sarnia\">Sarnia</a>, <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>YZS</td>
+<td>CYZS</td>
+<td><a href=\"/wiki/Coral_Harbour_Airport\" title=\"Coral Harbour Airport\">Coral Harbour Airport</a></td>
+<td><a href=\"/wiki/Coral_Harbour\" title=\"Coral Harbour\">Coral Harbour</a>, <a href=\"/wiki/Nunavut\" title=\"Nunavut\">Nunavut</a>, Canada</td>
+</tr>
+<tr>
+<td>YZT</td>
+<td>CYZT</td>
+<td><a href=\"/wiki/Port_Hardy_Airport\" title=\"Port Hardy Airport\">Port Hardy Airport</a></td>
+<td><a href=\"/wiki/Port_Hardy\" title=\"Port Hardy\">Port Hardy</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>YZU</td>
+<td>CYZU</td>
+<td><a href=\"/wiki/Whitecourt_Airport\" title=\"Whitecourt Airport\">Whitecourt Airport</a></td>
+<td><a href=\"/wiki/Whitecourt\" title=\"Whitecourt\">Whitecourt</a>, <a href=\"/wiki/Alberta\" title=\"Alberta\">Alberta</a>, Canada</td>
+</tr>
+<tr>
+<td>YZV</td>
+<td>CYZV</td>
+<td><a href=\"/wiki/Sept-%C3%8Eles_Airport\" title=\"Sept-\u00celes Airport\">Sept-\u00celes Airport</a></td>
+<td><a href=\"/wiki/Sept-%C3%8Eles,_Quebec\" title=\"Sept-\u00celes, Quebec\">Sept-\u00celes</a>, <a href=\"/wiki/Quebec\" title=\"Quebec\">Quebec</a>, Canada</td>
+</tr>
+<tr>
+<td>YZW</td>
+<td>CYZW</td>
+<td><a href=\"/wiki/Teslin_Airport\" title=\"Teslin Airport\">Teslin Airport</a></td>
+<td><a href=\"/wiki/Teslin,_Yukon\" title=\"Teslin, Yukon\">Teslin</a>, <a href=\"/wiki/Yukon\" title=\"Yukon\">Yukon</a>, Canada</td>
+</tr>
+<tr>
+<td>YZX</td>
+<td>CYZX</td>
+<td><a href=\"/wiki/CFB_Greenwood\" title=\"CFB Greenwood\">CFB Greenwood</a></td>
+<td><a href=\"/wiki/Greenwood,_Nova_Scotia\" title=\"Greenwood, Nova Scotia\">Greenwood</a>, <a href=\"/wiki/Nova_Scotia\" title=\"Nova Scotia\">Nova Scotia</a>, Canada</td>
+</tr>
+<tr>
+<td>YZY</td>
+<td>ZLZY</td>
+<td><a href=\"/wiki/Zhangye_Ganzhou_Airport\" title=\"Zhangye Ganzhou Airport\">Zhangye Ganzhou Airport</a></td>
+<td><a href=\"/wiki/Zhangye\" title=\"Zhangye\">Zhangye</a>, <a href=\"/wiki/Gansu\" title=\"Gansu\">Gansu</a>, China</td>
+</tr>
+<tr>
+<td>YZZ</td>
+<td></td>
+<td><a href=\"/wiki/Trail_Airport\" title=\"Trail Airport\">Trail Airport</a><sup id=\"cite_ref-IATA_1-33\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (TC: CAD4)</td>
+<td><a href=\"/wiki/Trail,_British_Columbia\" title=\"Trail, British Columbia\">Trail</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>

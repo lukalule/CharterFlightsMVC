@@ -1,0 +1,1752 @@
+<tr>
+<td>FAA</td>
+<td>GUFH</td>
+<td><a href=\"/wiki/Faranah_Airport\" title=\"Faranah Airport\">Faranah Airport</a></td>
+<td><a href=\"/wiki/Faranah\" title=\"Faranah\">Faranah</a>, <a href=\"/wiki/Guinea\" title=\"Guinea\">Guinea</a></td>
+<td><a href=\"/wiki/Greenwich_Mean_Time\" title=\"Greenwich Mean Time\">UTC\u00b100:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>FAB</td>
+<td>EGLF</td>
+<td><a href=\"/wiki/Farnborough_Airport\" title=\"Farnborough Airport\">Farnborough Airport</a></td>
+<td><a href=\"/wiki/Farnborough,_Hampshire\" title=\"Farnborough, Hampshire\">Farnborough</a>, <a href=\"/wiki/England\" title=\"England\">England</a>, United Kingdom</td>
+<td><a href=\"/wiki/Greenwich_Mean_Time\" title=\"Greenwich Mean Time\">UTC\u00b100:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>FAC</td>
+<td>NTKF</td>
+<td><a href=\"/wiki/Faaite_Airport\" title=\"Faaite Airport\">Faaite Airport</a></td>
+<td><a href=\"/wiki/Faaite\" title=\"Faaite\">Faaite</a>, <a href=\"/wiki/Tuamotus\" title=\"Tuamotus\">Tuamotus</a>, <a href=\"/wiki/French_Polynesia\" title=\"French Polynesia\">French Polynesia</a></td>
+<td><a href=\"/wiki/Time_in_France\" title=\"Time in France\">UTC\u221210:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>FAE</td>
+<td>EKVG</td>
+<td><a href=\"/wiki/V%C3%A1gar_Airport\" title=\"V\u00e1gar Airport\">V\u00e1gar Airport</a></td>
+<td><a href=\"/wiki/V%C3%A1gar\" title=\"V\u00e1gar\">V\u00e1gar</a>, <a href=\"/wiki/Faroe_Islands\" title=\"Faroe Islands\">Faroe Islands</a></td>
+<td><a href=\"/wiki/Greenwich_Mean_Time\" title=\"Greenwich Mean Time\">UTC\u00b100:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>FAF</td>
+<td>KFAF</td>
+<td><a href=\"/wiki/Felker_Army_Airfield\" class=\"mw-redirect\" title=\"Felker Army Airfield\">Felker Army Airfield</a></td>
+<td><a href=\"/wiki/Fort_Eustis\" title=\"Fort Eustis\">Fort Eustis</a>, <a href=\"/wiki/Virginia\" title=\"Virginia\">Virginia</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>FAG</td>
+<td>BIFM</td>
+<td><a href=\"/wiki/Fagurh%C3%B3lsm%C3%BDri_Airport\" title=\"Fagurh\u00f3lsm\u00fdri Airport\">Fagurh\u00f3lsm\u00fdri Airport</a></td>
+<td><a href=\"/wiki/Fagurh%C3%B3lsm%C3%BDri\" title=\"Fagurh\u00f3lsm\u00fdri\">Fagurh\u00f3lsm\u00fdri</a>, <a href=\"/wiki/Iceland\" title=\"Iceland\">Iceland</a></td>
+<td><a href=\"/wiki/Greenwich_Mean_Time\" title=\"Greenwich Mean Time\">UTC\u00b100:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>FAH</td>
+<td>OAFR</td>
+<td><a href=\"/wiki/Farah_Airport\" title=\"Farah Airport\">Farah Airport</a></td>
+<td><a href=\"/wiki/Farah,_Afghanistan\" title=\"Farah, Afghanistan\">Farah</a>, <a href=\"/wiki/Afghanistan\" title=\"Afghanistan\">Afghanistan</a></td>
+<td><a href=\"/wiki/Time_in_Afghanistan\" title=\"Time in Afghanistan\">UTC+04:30</a></td>
+<td>
+</td></tr>
+<tr>
+<td>FAI</td>
+<td>PAFA</td>
+<td><a href=\"/wiki/Fairbanks_International_Airport\" title=\"Fairbanks International Airport\">Fairbanks International Airport</a></td>
+<td><a href=\"/wiki/Fairbanks,_Alaska\" title=\"Fairbanks, Alaska\">Fairbanks</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+<td><a href=\"/wiki/Alaska_Time_Zone\" title=\"Alaska Time Zone\">UTC\u221209:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>FAJ</td>
+<td>TJFA</td>
+<td><a href=\"/wiki/Diego_Jim%C3%A9nez_Torres_Airport\" title=\"Diego Jim\u00e9nez Torres Airport\">Diego Jim\u00e9nez Torres Airport</a> (FAA: X95)</td>
+<td><a href=\"/wiki/Fajardo,_Puerto_Rico\" title=\"Fajardo, Puerto Rico\">Fajardo</a>, <a href=\"/wiki/Puerto_Rico\" title=\"Puerto Rico\">Puerto Rico</a>, United States</td>
+<td><a href=\"/wiki/Atlantic_Time_Zone\" title=\"Atlantic Time Zone\">UTC\u221204:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>FAK</td>
+<td></td>
+<td><a href=\"/w/index.php?title=False_Island_Seaplane_Base&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"False Island Seaplane Base (page does not exist)\">False Island Seaplane Base</a> (FAA: 2Z6)</td>
+<td><a href=\"/wiki/False_Island\" title=\"False Island\">False Island</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+<td><a href=\"/wiki/Alaska_Time_Zone\" title=\"Alaska Time Zone\">UTC\u221209:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>FAM</td>
+<td>KFAM</td>
+<td><a href=\"/w/index.php?title=Farmington_Regional_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Farmington Regional Airport (page does not exist)\">Farmington Regional Airport</a></td>
+<td><a href=\"/wiki/Farmington,_Missouri\" title=\"Farmington, Missouri\">Farmington</a>, <a href=\"/wiki/Missouri\" title=\"Missouri\">Missouri</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>FAO</td>
+<td>LPFR</td>
+<td><a href=\"/wiki/Faro_Airport\" title=\"Faro Airport\">Faro Airport</a></td>
+<td><a href=\"/wiki/Faro,_Portugal\" title=\"Faro, Portugal\">Faro</a>, <a href=\"/wiki/Portugal\" title=\"Portugal\">Portugal</a></td>
+<td><a href=\"/wiki/Western_European_Time\" title=\"Western European Time\">UTC\u00b100:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>FAQ</td>
+<td>AYFR</td>
+<td><a href=\"/wiki/Frieda_River_Airport\" title=\"Frieda River Airport\">Frieda River Airport</a></td>
+<td><a href=\"/w/index.php?title=Frieda_River&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Frieda River (page does not exist)\">Frieda River</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+<td><a href=\"/wiki/UTC%2B10:00\" title=\"UTC+10:00\">UTC+10:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>FAR</td>
+<td>KFAR</td>
+<td><a href=\"/wiki/Hector_International_Airport\" title=\"Hector International Airport\">Hector International Airport</a></td>
+<td><a href=\"/wiki/Fargo,_North_Dakota\" title=\"Fargo, North Dakota\">Fargo</a>, <a href=\"/wiki/North_Dakota\" title=\"North Dakota\">North Dakota</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>FAS</td>
+<td>BIFF</td>
+<td><a href=\"/wiki/F%C3%A1skr%C3%BA%C3%B0sfj%C3%B6r%C3%B0ur_Airport\" title=\"F\u00e1skr\u00fa\u00f0sfj\u00f6r\u00f0ur Airport\">F\u00e1skr\u00fa\u00f0sfj\u00f6r\u00f0ur Airport</a></td>
+<td><a href=\"/wiki/F%C3%A1skr%C3%BA%C3%B0sfj%C3%B6r%C3%B0ur\" title=\"F\u00e1skr\u00fa\u00f0sfj\u00f6r\u00f0ur\">F\u00e1skr\u00fa\u00f0sfj\u00f6r\u00f0ur</a>, <a href=\"/wiki/Iceland\" title=\"Iceland\">Iceland</a></td>
+<td><a href=\"/wiki/Greenwich_Mean_Time\" title=\"Greenwich Mean Time\">UTC\u00b100:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>FAT</td>
+<td>KFAT</td>
+<td><a href=\"/wiki/Fresno_Yosemite_International_Airport\" title=\"Fresno Yosemite International Airport\">Fresno Yosemite International Airport</a></td>
+<td><a href=\"/wiki/Fresno,_California\" title=\"Fresno, California\">Fresno</a>, <a href=\"/wiki/California\" title=\"California\">California</a>, United States</td>
+<td><a href=\"/wiki/Pacific_Time_Zone\" title=\"Pacific Time Zone\">UTC\u221208:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>FAU</td>
+<td>OOFD</td>
+<td><a href=\"/wiki/Fahud_Airport\" title=\"Fahud Airport\">Fahud Airport</a><sup id=\"cite_ref-IATA_1-0\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Fahud\" title=\"Fahud\">Fahud</a>, <a href=\"/wiki/Oman\" title=\"Oman\">Oman</a></td>
+<td><a href=\"/wiki/UTC%2B04:00\" title=\"UTC+04:00\">UTC+04:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>FAV</td>
+<td>NTGF</td>
+<td><a href=\"/wiki/Fakarava_Airport\" title=\"Fakarava Airport\">Fakarava Airport</a></td>
+<td><a href=\"/wiki/Fakarava\" title=\"Fakarava\">Fakarava</a>, <a href=\"/wiki/Tuamotus\" title=\"Tuamotus\">Tuamotus</a>, <a href=\"/wiki/French_Polynesia\" title=\"French Polynesia\">French Polynesia</a></td>
+<td><a href=\"/wiki/Time_in_France\" title=\"Time in France\">UTC\u221210:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>FAY</td>
+<td>KFAY</td>
+<td><a href=\"/wiki/Fayetteville_Regional_Airport\" title=\"Fayetteville Regional Airport\">Fayetteville Regional Airport</a> (Grannis Field)</td>
+<td><a href=\"/wiki/Fayetteville,_North_Carolina\" title=\"Fayetteville, North Carolina\">Fayetteville</a>, <a href=\"/wiki/North_Carolina\" title=\"North Carolina\">North Carolina</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>FAZ</td>
+<td>OISF</td>
+<td><a href=\"/wiki/Fasa_Airport\" title=\"Fasa Airport\">Fasa Airport</a><sup id=\"cite_ref-IATA_1-1\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Fasa\" title=\"Fasa\">Fasa</a>, <a href=\"/wiki/Iran\" title=\"Iran\">Iran</a></td>
+<td><a href=\"/wiki/Iran_Standard_Time\" title=\"Iran Standard Time\">UTC+03:30</a></td>
+<td>Mar-Sep
+</td></tr>
+<tr class=\"sortbottom\">
+<th colspan=\"6\" style=\"text-align:left; background:#ddd;\"><span id=\"FB\"></span>-FB-
+</th></tr>
+<tr>
+<td>FBA</td>
+<td>SWOB</td>
+<td><a href=\"/wiki/Fonte_Boa_Airport\" title=\"Fonte Boa Airport\">Fonte Boa Airport</a><sup id=\"cite_ref-IATA_1-2\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Fonte_Boa,_Amazonas\" title=\"Fonte Boa, Amazonas\">Fonte Boa</a>, <a href=\"/wiki/Amazonas_(Brazilian_state)\" title=\"Amazonas (Brazilian state)\">Amazonas</a>, Brazil</td>
+<td><a href=\"/wiki/Time_in_Brazil\" title=\"Time in Brazil\">UTC\u221205:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>FBD</td>
+<td>OAFZ</td>
+<td><a href=\"/wiki/Fayzabad_Airport\" title=\"Fayzabad Airport\">Fayzabad Airport</a></td>
+<td><a href=\"/wiki/Fayzabad,_Badakhshan\" title=\"Fayzabad, Badakhshan\">Fayzabad</a>, <a href=\"/wiki/Afghanistan\" title=\"Afghanistan\">Afghanistan</a></td>
+<td><a href=\"/wiki/Time_in_Afghanistan\" title=\"Time in Afghanistan\">UTC+04:30</a></td>
+<td>
+</td></tr>
+<tr>
+<td>FBE</td>
+<td>SSFB</td>
+<td><a href=\"/wiki/Francisco_Beltr%C3%A3o_Airport\" title=\"Francisco Beltr\u00e3o Airport\">Francisco Beltr\u00e3o Airport</a> (Paulo Abdala Airport)</td>
+<td><a href=\"/wiki/Francisco_Beltr%C3%A3o\" title=\"Francisco Beltr\u00e3o\">Francisco Beltr\u00e3o</a>, <a href=\"/wiki/Paran%C3%A1_(state)\" title=\"Paran\u00e1 (state)\">Paran\u00e1</a>, Brazil</td>
+<td><a href=\"/wiki/Time_in_Brazil\" title=\"Time in Brazil\">UTC\u221203:00</a></td>
+<td>Oct-Feb
+</td></tr>
+<tr>
+<td>FBG</td>
+<td>KFBG</td>
+<td><a href=\"/wiki/Simmons_Army_Airfield\" title=\"Simmons Army Airfield\">Simmons Army Airfield</a></td>
+<td><a href=\"/wiki/Fort_Bragg\" title=\"Fort Bragg\">Fort Bragg</a>, <a href=\"/wiki/North_Carolina\" title=\"North Carolina\">North Carolina</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>FBK</td>
+<td>PAFB</td>
+<td><a href=\"/wiki/Ladd_Army_Airfield\" title=\"Ladd Army Airfield\">Ladd Army Airfield</a></td>
+<td><a href=\"/wiki/Fairbanks,_Alaska\" title=\"Fairbanks, Alaska\">Fairbanks</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+<td><a href=\"/wiki/Alaska_Time_Zone\" title=\"Alaska Time Zone\">UTC\u221209:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>FBL</td>
+<td>KFBL</td>
+<td><a href=\"/w/index.php?title=Faribault_Municipal_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Faribault Municipal Airport (page does not exist)\">Faribault Municipal Airport</a></td>
+<td><a href=\"/wiki/Faribault,_Minnesota\" title=\"Faribault, Minnesota\">Faribault</a>, <a href=\"/wiki/Minnesota\" title=\"Minnesota\">Minnesota</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>FBM</td>
+<td>FZQA</td>
+<td><a href=\"/wiki/Lubumbashi_International_Airport\" title=\"Lubumbashi International Airport\">Lubumbashi International Airport</a></td>
+<td><a href=\"/wiki/Lubumbashi\" title=\"Lubumbashi\">Lubumbashi</a>, <a href=\"/wiki/Democratic_Republic_of_the_Congo\" title=\"Democratic Republic of the Congo\">Democratic Republic of the Congo</a></td>
+<td><a href=\"/wiki/Central_Africa_Time\" title=\"Central Africa Time\">UTC+02:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>FBR</td>
+<td>KFBR</td>
+<td><a href=\"/w/index.php?title=Fort_Bridger_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Fort Bridger Airport (page does not exist)\">Fort Bridger Airport</a></td>
+<td><a href=\"/wiki/Fort_Bridger,_Wyoming\" title=\"Fort Bridger, Wyoming\">Fort Bridger</a>, <a href=\"/wiki/Wyoming\" title=\"Wyoming\">Wyoming</a>, United States</td>
+<td><a href=\"/wiki/Mountain_Time_Zone\" title=\"Mountain Time Zone\">UTC\u221207:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>FBS</td>
+<td></td>
+<td><a href=\"/wiki/Friday_Harbor_Seaplane_Base\" title=\"Friday Harbor Seaplane Base\">Friday Harbor Seaplane Base</a> (FAA: W33)</td>
+<td><a href=\"/wiki/Friday_Harbor,_Washington\" title=\"Friday Harbor, Washington\">Friday Harbor</a>, <a href=\"/wiki/Washington_(state)\" title=\"Washington (state)\">Washington</a>, United States</td>
+<td><a href=\"/wiki/Pacific_Time_Zone\" title=\"Pacific Time Zone\">UTC\u221208:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>FBY</td>
+<td>KFBY</td>
+<td><a href=\"/w/index.php?title=Fairbury_Municipal_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Fairbury Municipal Airport (page does not exist)\">Fairbury Municipal Airport</a></td>
+<td><a href=\"/wiki/Fairbury,_Nebraska\" title=\"Fairbury, Nebraska\">Fairbury</a>, <a href=\"/wiki/Nebraska\" title=\"Nebraska\">Nebraska</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr class=\"sortbottom\">
+<th colspan=\"6\" style=\"text-align:left; background:#ddd;\"><span id=\"FC\"></span>-FC-
+</th></tr>
+<tr>
+<td>FCA</td>
+<td>KGPI</td>
+<td><a href=\"/wiki/Glacier_Park_International_Airport\" title=\"Glacier Park International Airport\">Glacier Park International Airport</a> (FAA: GPI)</td>
+<td><a href=\"/wiki/Kalispell,_Montana\" title=\"Kalispell, Montana\">Kalispell</a>, <a href=\"/wiki/Montana\" title=\"Montana\">Montana</a>, United States</td>
+<td><a href=\"/wiki/Mountain_Time_Zone\" title=\"Mountain Time Zone\">UTC\u221207:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>FCB</td>
+<td>FAFB</td>
+<td><a href=\"/w/index.php?title=Ficksburg_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Ficksburg Airport (page does not exist)\">Ficksburg Airport</a></td>
+<td><a href=\"/wiki/Ficksburg\" title=\"Ficksburg\">Ficksburg</a>, <a href=\"/wiki/South_Africa\" title=\"South Africa\">South Africa</a></td>
+<td><a href=\"/wiki/South_African_Standard_Time\" title=\"South African Standard Time\">UTC+02:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>FCH</td>
+<td>KFCH</td>
+<td><a href=\"/wiki/Fresno_Chandler_Executive_Airport\" title=\"Fresno Chandler Executive Airport\">Fresno Chandler Executive Airport</a></td>
+<td><a href=\"/wiki/Fresno,_California\" title=\"Fresno, California\">Fresno</a>, <a href=\"/wiki/California\" title=\"California\">California</a>, United States</td>
+<td><a href=\"/wiki/Pacific_Time_Zone\" title=\"Pacific Time Zone\">UTC\u221208:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>FCM</td>
+<td>KFCM</td>
+<td><a href=\"/wiki/Flying_Cloud_Airport\" title=\"Flying Cloud Airport\">Flying Cloud Airport</a></td>
+<td><a href=\"/wiki/Eden_Prairie,_Minnesota\" title=\"Eden Prairie, Minnesota\">Eden Prairie</a>, <a href=\"/wiki/Minnesota\" title=\"Minnesota\">Minnesota</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>FCN</td>
+<td>ETMN</td>
+<td><a href=\"/wiki/Nordholz_Naval_Airbase\" title=\"Nordholz Naval Airbase\">Nordholz Naval Airbase</a></td>
+<td><a href=\"/wiki/Cuxhaven\" title=\"Cuxhaven\">Cuxhaven</a>, <a href=\"/wiki/Lower_Saxony\" title=\"Lower Saxony\">Lower Saxony</a>, Germany</td>
+<td><a href=\"/wiki/Central_European_Time\" title=\"Central European Time\">UTC+01:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>FCO</td>
+<td>LIRF</td>
+<td><a href=\"/wiki/Leonardo_da_Vinci%E2%80%93Fiumicino_Airport\" title=\"Leonardo da Vinci\u2013Fiumicino Airport\">Leonardo da Vinci\u2013Fiumicino Airport</a></td>
+<td><a href=\"/wiki/Rome\" title=\"Rome\">Rome</a>, <a href=\"/wiki/Lazio\" title=\"Lazio\">Lazio</a>, Italy</td>
+<td><a href=\"/wiki/Central_European_Time\" title=\"Central European Time\">UTC+01:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>FCS</td>
+<td>KFCS</td>
+<td><a href=\"/wiki/Butts_Army_Airfield\" class=\"mw-redirect\" title=\"Butts Army Airfield\">Butts Army Airfield</a> (Fort Carson)</td>
+<td><a href=\"/wiki/Colorado_Springs,_Colorado\" title=\"Colorado Springs, Colorado\">Colorado Springs</a>, <a href=\"/wiki/Colorado\" title=\"Colorado\">Colorado</a>, United States</td>
+<td><a href=\"/wiki/Mountain_Time_Zone\" title=\"Mountain Time Zone\">UTC\u221207:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>FCY</td>
+<td>KFCY</td>
+<td><a href=\"/wiki/Forrest_City_Municipal_Airport\" title=\"Forrest City Municipal Airport\">Forrest City Municipal Airport</a></td>
+<td><a href=\"/wiki/Forrest_City,_Arkansas\" title=\"Forrest City, Arkansas\">Forrest City</a>, <a href=\"/wiki/Arkansas\" title=\"Arkansas\">Arkansas</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr class=\"sortbottom\">
+<th colspan=\"6\" style=\"text-align:left; background:#ddd;\"><span id=\"FD\"></span>-FD-
+</th></tr>
+<tr>
+<td>FDE</td>
+<td>ENBL</td>
+<td><a href=\"/wiki/F%C3%B8rde_Airport,_Bringeland\" title=\"F\u00f8rde Airport, Bringeland\">F\u00f8rde Airport, Bringeland</a></td>
+<td><a href=\"/wiki/F%C3%B8rde\" title=\"F\u00f8rde\">F\u00f8rde</a>, <a href=\"/wiki/Norway\" title=\"Norway\">Norway</a></td>
+<td><a href=\"/wiki/Central_European_Time\" title=\"Central European Time\">UTC+01:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>FDF</td>
+<td>TFFF</td>
+<td><a href=\"/wiki/Martinique_Aim%C3%A9_C%C3%A9saire_International_Airport\" title=\"Martinique Aim\u00e9 C\u00e9saire International Airport\">Martinique Aim\u00e9 C\u00e9saire International Airport</a></td>
+<td><a href=\"/wiki/Fort-de-France\" title=\"Fort-de-France\">Fort-de-France</a>, <a href=\"/wiki/Martinique\" title=\"Martinique\">Martinique</a></td>
+<td><a href=\"/wiki/Atlantic_Time_Zone\" title=\"Atlantic Time Zone\">UTC\u221204:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>FDH</td>
+<td>EDNY</td>
+<td><a href=\"/wiki/Friedrichshafen_Airport\" title=\"Friedrichshafen Airport\">Friedrichshafen Airport</a> (Bodensee Airport)</td>
+<td><a href=\"/wiki/Friedrichshafen\" title=\"Friedrichshafen\">Friedrichshafen</a>, <a href=\"/wiki/Baden-W%C3%BCrttemberg\" title=\"Baden-W\u00fcrttemberg\">Baden-W\u00fcrttemberg</a>, Germany</td>
+<td><a href=\"/wiki/Central_European_Time\" title=\"Central European Time\">UTC+01:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>FDK</td>
+<td>KFDK</td>
+<td><a href=\"/wiki/Frederick_Municipal_Airport_(Maryland)\" title=\"Frederick Municipal Airport (Maryland)\">Frederick Municipal Airport</a></td>
+<td><a href=\"/wiki/Frederick,_Maryland\" title=\"Frederick, Maryland\">Frederick</a>, <a href=\"/wiki/Maryland\" title=\"Maryland\">Maryland</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>FDR</td>
+<td>KFDR</td>
+<td><a href=\"/wiki/Frederick_Regional_Airport\" title=\"Frederick Regional Airport\">Frederick Regional Airport</a></td>
+<td><a href=\"/wiki/Frederick,_Oklahoma\" title=\"Frederick, Oklahoma\">Frederick</a>, <a href=\"/wiki/Oklahoma\" title=\"Oklahoma\">Oklahoma</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>FDU</td>
+<td>FZBO</td>
+<td><a href=\"/wiki/Bandundu_Airport\" title=\"Bandundu Airport\">Bandundu Airport</a></td>
+<td><a href=\"/wiki/Bandundu_(city)\" title=\"Bandundu (city)\">Bandundu</a>, <a href=\"/wiki/Democratic_Republic_of_the_Congo\" title=\"Democratic Republic of the Congo\">Democratic Republic of the Congo</a></td>
+<td><a href=\"/wiki/West_Africa_Time\" title=\"West Africa Time\">UTC+01:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>FDY</td>
+<td>KFDY</td>
+<td><a href=\"/wiki/Findlay_Airport\" title=\"Findlay Airport\">Findlay Airport</a></td>
+<td><a href=\"/wiki/Findlay,_Ohio\" title=\"Findlay, Ohio\">Findlay</a>, <a href=\"/wiki/Ohio\" title=\"Ohio\">Ohio</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr class=\"sortbottom\">
+<th colspan=\"6\" style=\"text-align:left; background:#ddd;\"><span id=\"FE\"></span>-FE-
+</th></tr>
+<tr>
+<td>FEA</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Fetlar_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Fetlar Airport (page does not exist)\">Fetlar Airport</a></td>
+<td><a href=\"/wiki/Fetlar\" title=\"Fetlar\">Fetlar</a>, <a href=\"/wiki/Scotland\" title=\"Scotland\">Scotland</a>, United Kingdom</td>
+<td><a href=\"/wiki/Greenwich_Mean_Time\" title=\"Greenwich Mean Time\">UTC\u00b100:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>FEB</td>
+<td>VNSR</td>
+<td><a href=\"/wiki/Sanfebagar_Airport\" class=\"mw-redirect\" title=\"Sanfebagar Airport\">Sanfebagar Airport</a></td>
+<td><a href=\"/wiki/Sanfebagar\" class=\"mw-redirect\" title=\"Sanfebagar\">Sanfebagar</a>, <a href=\"/wiki/Nepal\" title=\"Nepal\">Nepal</a></td>
+<td><a href=\"/wiki/Nepal_Standard_Time\" title=\"Nepal Standard Time\">UTC+05:45</a></td>
+<td>
+</td></tr>
+<tr>
+<td>FEC</td>
+<td>SNJD</td>
+<td><a href=\"/wiki/Feira_de_Santana_Airport\" title=\"Feira de Santana Airport\">Feira de Santana Airport</a> (Gov. Jo\u00e3o Durval Carneiro Airport)</td>
+<td><a href=\"/wiki/Feira_de_Santana\" title=\"Feira de Santana\">Feira de Santana</a>, <a href=\"/wiki/Bahia\" title=\"Bahia\">Bahia</a>, Brazil</td>
+<td><a href=\"/wiki/Time_in_Brazil\" title=\"Time in Brazil\">UTC\u221203:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>FEG</td>
+<td>UTKF</td>
+<td><a href=\"/wiki/Fergana_International_Airport\" title=\"Fergana International Airport\">Fergana International Airport</a></td>
+<td><a href=\"/wiki/Fergana\" title=\"Fergana\">Fergana</a>, <a href=\"/wiki/Uzbekistan\" title=\"Uzbekistan\">Uzbekistan</a></td>
+<td><a href=\"/wiki/Time_in_Uzbekistan\" title=\"Time in Uzbekistan\">UTC+05:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>FEJ</td>
+<td>SNOU</td>
+<td><a href=\"/wiki/Feij%C3%B3_Airport\" title=\"Feij\u00f3 Airport\">Feij\u00f3 Airport</a></td>
+<td><a href=\"/wiki/Feij%C3%B3,_Acre\" title=\"Feij\u00f3, Acre\">Feij\u00f3</a>, <a href=\"/wiki/Acre_(state)\" title=\"Acre (state)\">Acre</a>, Brazil</td>
+<td><a href=\"/wiki/Time_in_Brazil\" title=\"Time in Brazil\">UTC\u221205:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>FEK</td>
+<td>DIFK</td>
+<td><a href=\"/wiki/Ferkess%C3%A9dougou_Airport\" title=\"Ferkess\u00e9dougou Airport\">Ferkess\u00e9dougou Airport</a></td>
+<td><a href=\"/wiki/Ferkess%C3%A9dougou\" title=\"Ferkess\u00e9dougou\">Ferkess\u00e9dougou</a>, <a href=\"/wiki/Ivory_Coast\" title=\"Ivory Coast\">Ivory Coast</a></td>
+<td><a href=\"/wiki/Greenwich_Mean_Time\" title=\"Greenwich Mean Time\">UTC\u00b100:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>FEL</td>
+<td>ETSF</td>
+<td><a href=\"/wiki/F%C3%BCrstenfeldbruck_Air_Base\" title=\"F\u00fcrstenfeldbruck Air Base\">F\u00fcrstenfeldbruck Air Base</a></td>
+<td><a href=\"/wiki/F%C3%BCrstenfeldbruck\" title=\"F\u00fcrstenfeldbruck\">F\u00fcrstenfeldbruck</a>, <a href=\"/wiki/Bavaria\" title=\"Bavaria\">Bavaria</a>, Germany</td>
+<td><a href=\"/wiki/Central_European_Time\" title=\"Central European Time\">UTC+01:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>FEN</td>
+<td>SBFN</td>
+<td><a href=\"/wiki/Fernando_de_Noronha_Airport\" title=\"Fernando de Noronha Airport\">Fernando de Noronha Airport</a> (Gov. Carlos Wilson Airport)</td>
+<td><a href=\"/wiki/Fernando_de_Noronha\" title=\"Fernando de Noronha\">Fernando de Noronha</a>, <a href=\"/wiki/Pernambuco\" title=\"Pernambuco\">Pernambuco</a>, Brazil</td>
+<td><a href=\"/wiki/Time_in_Brazil\" title=\"Time in Brazil\">UTC\u221202:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>FEP</td>
+<td>KFEP</td>
+<td><a href=\"/w/index.php?title=Albertus_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Albertus Airport (page does not exist)\">Albertus Airport</a></td>
+<td><a href=\"/wiki/Freeport,_Illinois\" title=\"Freeport, Illinois\">Freeport</a>, <a href=\"/wiki/Illinois\" title=\"Illinois\">Illinois</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>FET</td>
+<td>KFET</td>
+<td><a href=\"/wiki/Fremont_Municipal_Airport_(Nebraska)\" title=\"Fremont Municipal Airport (Nebraska)\">Fremont Municipal Airport</a></td>
+<td><a href=\"/wiki/Fremont,_Nebraska\" title=\"Fremont, Nebraska\">Fremont</a>, <a href=\"/wiki/Nebraska\" title=\"Nebraska\">Nebraska</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>FEZ</td>
+<td>GMFF</td>
+<td><a href=\"/wiki/Fes%E2%80%93Sa%C3%AFss_Airport\" class=\"mw-redirect\" title=\"Fes\u2013Sa\u00efss Airport\">Fes\u2013Sa\u00efss Airport</a></td>
+<td><a href=\"/wiki/Fez,_Morocco\" title=\"Fez, Morocco\">Fez</a>, <a href=\"/wiki/Morocco\" title=\"Morocco\">Morocco</a></td>
+<td><a href=\"/wiki/Western_European_Time\" title=\"Western European Time\">UTC\u00b100:00</a></td>
+<td>Mar-Oct<sup class=\"reference plainlinks nourlexpansion\" id=\"ref_1\"><a href=\"#endnote_1\">1</a></sup>
+</td></tr>
+<tr class=\"sortbottom\">
+<th colspan=\"6\" style=\"text-align:left; background:#ddd;\"><span id=\"FF\"></span>-FF-
+</th></tr>
+<tr>
+<td>FFA</td>
+<td>KFFA</td>
+<td><a href=\"/wiki/First_Flight_Airport\" title=\"First Flight Airport\">First Flight Airport</a></td>
+<td><a href=\"/wiki/Kill_Devil_Hills,_North_Carolina\" title=\"Kill Devil Hills, North Carolina\">Kill Devil Hills</a>, <a href=\"/wiki/North_Carolina\" title=\"North Carolina\">North Carolina</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>FFD</td>
+<td>EGVA</td>
+<td><a href=\"/wiki/RAF_Fairford\" title=\"RAF Fairford\">RAF Fairford</a></td>
+<td><a href=\"/wiki/Fairford\" title=\"Fairford\">Fairford</a>, <a href=\"/wiki/England\" title=\"England\">England</a>, United Kingdom</td>
+<td><a href=\"/wiki/Greenwich_Mean_Time\" title=\"Greenwich Mean Time\">UTC\u00b100:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>FFL</td>
+<td>KFFL</td>
+<td><a href=\"/wiki/Fairfield_Municipal_Airport_(Iowa)\" title=\"Fairfield Municipal Airport (Iowa)\">Fairfield Municipal Airport</a></td>
+<td><a href=\"/wiki/Fairfield,_Iowa\" title=\"Fairfield, Iowa\">Fairfield</a>, <a href=\"/wiki/Iowa\" title=\"Iowa\">Iowa</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>FFM</td>
+<td>KFFM</td>
+<td><a href=\"/wiki/Fergus_Falls_Municipal_Airport\" title=\"Fergus Falls Municipal Airport\">Fergus Falls Municipal Airport</a> (Einar Mickelson Field)</td>
+<td><a href=\"/wiki/Fergus_Falls,_Minnesota\" title=\"Fergus Falls, Minnesota\">Fergus Falls</a>, <a href=\"/wiki/Minnesota\" title=\"Minnesota\">Minnesota</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>FFO</td>
+<td>KFFO</td>
+<td><a href=\"/wiki/Wright-Patterson_Air_Force_Base\" title=\"Wright-Patterson Air Force Base\">Wright-Patterson Air Force Base</a></td>
+<td><a href=\"/wiki/Dayton,_Ohio\" title=\"Dayton, Ohio\">Dayton</a>, <a href=\"/wiki/Ohio\" title=\"Ohio\">Ohio</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>FFT</td>
+<td>KFFT</td>
+<td><a href=\"/wiki/Capital_City_Airport_(Kentucky)\" title=\"Capital City Airport (Kentucky)\">Capital City Airport</a></td>
+<td><a href=\"/wiki/Frankfort,_Kentucky\" title=\"Frankfort, Kentucky\">Frankfort</a>, <a href=\"/wiki/Kentucky\" title=\"Kentucky\">Kentucky</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>FFU</td>
+<td>SCFT</td>
+<td><a href=\"/wiki/Futaleuf%C3%BA_Airfield\" title=\"Futaleuf\u00fa Airfield\">Futaleuf\u00fa Airfield</a></td>
+<td><a href=\"/wiki/Futaleuf%C3%BA,_Chile\" title=\"Futaleuf\u00fa, Chile\">Futaleuf\u00fa</a>, <a href=\"/wiki/Chile\" title=\"Chile\">Chile</a></td>
+<td><a href=\"/wiki/Time_in_Chile\" title=\"Time in Chile\">UTC\u221204:00</a></td>
+<td>Aug-May
+</td></tr>
+<tr class=\"sortbottom\">
+<th colspan=\"6\" style=\"text-align:left; background:#ddd;\"><span id=\"FG\"></span>-FG-
+</th></tr>
+<tr>
+<td>FGD</td>
+<td>GQPF</td>
+<td><a href=\"/wiki/Fderik_Airport\" title=\"Fderik Airport\">Fderik Airport</a></td>
+<td><a href=\"/wiki/Fder%C3%AEck\" title=\"Fder\u00eeck\">Fder\u00eeck</a>, <a href=\"/wiki/Mauritania\" title=\"Mauritania\">Mauritania</a></td>
+<td><a href=\"/wiki/Greenwich_Mean_Time\" title=\"Greenwich Mean Time\">UTC\u00b100:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>FGI</td>
+<td>NSFI</td>
+<td><a href=\"/wiki/Fagali%27i_Airport\" title=\"Fagali&#39;i Airport\">Fagali'i Airport</a></td>
+<td><a href=\"/wiki/Apia\" title=\"Apia\">Apia</a>, <a href=\"/wiki/Upolu\" title=\"Upolu\">Upolu Island</a>, <a href=\"/wiki/Samoa\" title=\"Samoa\">Samoa</a></td>
+<td><a href=\"/wiki/Time_in_Samoa\" title=\"Time in Samoa\">UTC+13:00</a></td>
+<td>Sep-Apr
+</td></tr>
+<tr>
+<td>FGU</td>
+<td>NTGB</td>
+<td><a href=\"/wiki/Fangatau_Airport\" title=\"Fangatau Airport\">Fangatau Airport</a></td>
+<td><a href=\"/wiki/Fangatau\" title=\"Fangatau\">Fangatau</a>, <a href=\"/wiki/Tuamotus\" title=\"Tuamotus\">Tuamotus</a>, <a href=\"/wiki/French_Polynesia\" title=\"French Polynesia\">French Polynesia</a></td>
+<td><a href=\"/wiki/Time_in_France\" title=\"Time in France\">UTC\u221210:00</a></td>
+<td>
+</td></tr>
+<tr class=\"sortbottom\">
+<th colspan=\"6\" style=\"text-align:left; background:#ddd;\"><span id=\"FH\"></span>-FH-
+</th></tr>
+<tr>
+<td>FHU</td>
+<td>KFHU</td>
+<td><a href=\"/wiki/Sierra_Vista_Municipal_Airport\" title=\"Sierra Vista Municipal Airport\">Sierra Vista Municipal Airport</a> (Libby Army Airfield)</td>
+<td><a href=\"/wiki/Sierra_Vista,_Arizona\" title=\"Sierra Vista, Arizona\">Sierra Vista</a>, <a href=\"/wiki/Arizona\" title=\"Arizona\">Arizona</a>, United States</td>
+<td><a href=\"/wiki/Mountain_Time_Zone\" title=\"Mountain Time Zone\">UTC\u221207:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>FHZ</td>
+<td>NTKH</td>
+<td><a href=\"/w/index.php?title=Fakahina_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Fakahina Airport (page does not exist)\">Fakahina Airport</a></td>
+<td><a href=\"/wiki/Fakahina\" title=\"Fakahina\">Fakahina</a>, <a href=\"/wiki/Tuamotus\" title=\"Tuamotus\">Tuamotus</a>, <a href=\"/wiki/French_Polynesia\" title=\"French Polynesia\">French Polynesia</a></td>
+<td><a href=\"/wiki/Time_in_France\" title=\"Time in France\">UTC\u221210:00</a></td>
+<td>
+</td></tr>
+<tr class=\"sortbottom\">
+<th colspan=\"6\" style=\"text-align:left; background:#ddd;\"><span id=\"FI\"></span>-FI-
+</th></tr>
+<tr>
+<td>FID</td>
+<td></td>
+<td><a href=\"/wiki/Elizabeth_Field_(Suffolk_County,_New_York)\" title=\"Elizabeth Field (Suffolk County, New York)\">Elizabeth Field</a> (FAA: 0B8)</td>
+<td><a href=\"/wiki/Fishers_Island,_New_York\" title=\"Fishers Island, New York\">Fishers Island</a>, <a href=\"/wiki/New_York_(state)\" title=\"New York (state)\">New York</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>FIE</td>
+<td>EGEF</td>
+<td><a href=\"/wiki/Fair_Isle_Airport\" title=\"Fair Isle Airport\">Fair Isle Airport</a></td>
+<td><a href=\"/wiki/Fair_Isle\" title=\"Fair Isle\">Fair Isle</a>, <a href=\"/wiki/Scotland\" title=\"Scotland\">Scotland</a>, United Kingdom</td>
+<td><a href=\"/wiki/Greenwich_Mean_Time\" title=\"Greenwich Mean Time\">UTC\u00b100:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>FIG</td>
+<td>GUFA</td>
+<td><a href=\"/wiki/Fria_Airport\" title=\"Fria Airport\">Fria Airport</a></td>
+<td><a href=\"/wiki/Fria\" title=\"Fria\">Fria</a>, <a href=\"/wiki/Guinea\" title=\"Guinea\">Guinea</a></td>
+<td><a href=\"/wiki/Greenwich_Mean_Time\" title=\"Greenwich Mean Time\">UTC\u00b100:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>FIH</td>
+<td>FZAA</td>
+<td><a href=\"/wiki/N%27djili_Airport\" title=\"N&#39;djili Airport\">N'djili Airport</a> (Kinshasa Int'l Airport)</td>
+<td><a href=\"/wiki/Kinshasa\" title=\"Kinshasa\">Kinshasa</a>, <a href=\"/wiki/Democratic_Republic_of_the_Congo\" title=\"Democratic Republic of the Congo\">Democratic Republic of the Congo</a></td>
+<td><a href=\"/wiki/West_Africa_Time\" title=\"West Africa Time\">UTC+01:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>FIK</td>
+<td>YFNE</td>
+<td><a href=\"/w/index.php?title=Finke_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Finke Airport (page does not exist)\">Finke Airport</a></td>
+<td><a href=\"/wiki/Aputula\" title=\"Aputula\">Finke</a> (Aputula), <a href=\"/wiki/Northern_Territory\" title=\"Northern Territory\">Northern Territory</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+09:30</a></td>
+<td>
+</td></tr>
+<tr>
+<td>FIL</td>
+<td>KFOM</td>
+<td><a href=\"/wiki/Fillmore_Municipal_Airport\" title=\"Fillmore Municipal Airport\">Fillmore Municipal Airport</a> (FAA: FOM)</td>
+<td><a href=\"/wiki/Fillmore,_Utah\" title=\"Fillmore, Utah\">Fillmore</a>, <a href=\"/wiki/Utah\" title=\"Utah\">Utah</a>, United States</td>
+<td><a href=\"/wiki/Mountain_Time_Zone\" title=\"Mountain Time Zone\">UTC\u221207:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>FIN</td>
+<td>AYFI</td>
+<td><a href=\"/wiki/Finschhafen_Airport\" title=\"Finschhafen Airport\">Finschhafen Airport</a></td>
+<td><a href=\"/wiki/Finschhafen\" title=\"Finschhafen\">Finschhafen</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+<td><a href=\"/wiki/UTC%2B10:00\" title=\"UTC+10:00\">UTC+10:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>FIZ</td>
+<td>YFTZ</td>
+<td><a href=\"/wiki/Fitzroy_Crossing_Airport\" title=\"Fitzroy Crossing Airport\">Fitzroy Crossing Airport</a></td>
+<td><a href=\"/wiki/Fitzroy_Crossing,_Western_Australia\" title=\"Fitzroy Crossing, Western Australia\">Fitzroy Crossing</a>, <a href=\"/wiki/Western_Australia\" title=\"Western Australia\">Western Australia</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+08:00</a></td>
+<td>
+</td></tr>
+<tr class=\"sortbottom\">
+<th colspan=\"6\" style=\"text-align:left; background:#ddd;\"><span id=\"FJ\"></span>-FJ-
+</th></tr>
+<tr>
+<td>FJR</td>
+<td>OMFJ</td>
+<td><a href=\"/wiki/Fujairah_International_Airport\" title=\"Fujairah International Airport\">Fujairah International Airport</a></td>
+<td><a href=\"/wiki/Fujairah\" title=\"Fujairah\">Fujairah</a>, <a href=\"/wiki/United_Arab_Emirates\" title=\"United Arab Emirates\">United Arab Emirates</a></td>
+<td><a href=\"/wiki/UTC%2B04:00\" title=\"UTC+04:00\">UTC+04:00</a></td>
+<td>
+</td></tr>
+<tr class=\"sortbottom\">
+<th colspan=\"6\" style=\"text-align:left; background:#ddd;\"><span id=\"FK\"></span>-FK-
+</th></tr>
+<tr>
+<td>FKB</td>
+<td>EDSB</td>
+<td><a href=\"/wiki/Karlsruhe/Baden-Baden_Airport\" title=\"Karlsruhe/Baden-Baden Airport\">Karlsruhe/Baden-Baden Airport</a></td>
+<td><a href=\"/wiki/Karlsruhe\" title=\"Karlsruhe\">Karlsruhe</a> / <a href=\"/wiki/Baden-Baden\" title=\"Baden-Baden\">Baden-Baden</a>, <a href=\"/wiki/Baden-W%C3%BCrttemberg\" title=\"Baden-W\u00fcrttemberg\">Baden-W\u00fcrttemberg</a>, Germany</td>
+<td><a href=\"/wiki/Central_European_Time\" title=\"Central European Time\">UTC+01:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>FKI</td>
+<td>FZIC</td>
+<td><a href=\"/wiki/Bangoka_International_Airport\" title=\"Bangoka International Airport\">Bangoka International Airport</a></td>
+<td><a href=\"/wiki/Kisangani\" title=\"Kisangani\">Kisangani</a>, <a href=\"/wiki/Democratic_Republic_of_the_Congo\" title=\"Democratic Republic of the Congo\">Democratic Republic of the Congo</a></td>
+<td><a href=\"/wiki/Central_Africa_Time\" title=\"Central Africa Time\">UTC+02:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>FKJ</td>
+<td>RJNF</td>
+<td><a href=\"/wiki/Fukui_Airport\" title=\"Fukui Airport\">Fukui Airport</a></td>
+<td><a href=\"/wiki/Fukui,_Fukui\" class=\"mw-redirect\" title=\"Fukui, Fukui\">Fukui</a>, <a href=\"/wiki/Honshu\" title=\"Honshu\">Honshu</a>, Japan</td>
+<td><a href=\"/wiki/Japan_Standard_Time\" title=\"Japan Standard Time\">UTC+09:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>FKL</td>
+<td>KFKL</td>
+<td><a href=\"/wiki/Venango_Regional_Airport\" title=\"Venango Regional Airport\">Venango Regional Airport</a> (Chess Lamberton Field)</td>
+<td><a href=\"/wiki/Franklin,_Pennsylvania\" title=\"Franklin, Pennsylvania\">Franklin</a>, <a href=\"/wiki/Pennsylvania\" title=\"Pennsylvania\">Pennsylvania</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>FKN</td>
+<td>KFKN</td>
+<td><a href=\"/wiki/Franklin_Municipal%E2%80%93John_Beverly_Rose_Airport\" title=\"Franklin Municipal\u2013John Beverly Rose Airport\">Franklin Municipal\u2013John Beverly Rose Airport</a></td>
+<td><a href=\"/wiki/Franklin,_Virginia\" title=\"Franklin, Virginia\">Franklin</a>, <a href=\"/wiki/Virginia\" title=\"Virginia\">Virginia</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>FKQ</td>
+<td>WASF</td>
+<td><a href=\"/wiki/Fakfak_Torea_Airport\" title=\"Fakfak Torea Airport\">Fakfak Torea Airport</a></td>
+<td><a href=\"/wiki/Fakfak\" title=\"Fakfak\">Fakfak</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+<td><a href=\"/wiki/Time_in_Indonesia\" title=\"Time in Indonesia\">UTC+09:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>FKS</td>
+<td>RJSF</td>
+<td><a href=\"/wiki/Fukushima_Airport\" title=\"Fukushima Airport\">Fukushima Airport</a></td>
+<td><a href=\"/wiki/Sukagawa,_Fukushima\" title=\"Sukagawa, Fukushima\">Sukagawa</a>, <a href=\"/wiki/Honshu\" title=\"Honshu\">Honshu</a>, Japan</td>
+<td><a href=\"/wiki/Japan_Standard_Time\" title=\"Japan Standard Time\">UTC+09:00</a></td>
+<td>
+</td></tr>
+<tr class=\"sortbottom\">
+<th colspan=\"6\" style=\"text-align:left; background:#ddd;\"><span id=\"FL\"></span>-FL-
+</th></tr>
+<tr>
+<td>FLA</td>
+<td>SKFL</td>
+<td><a href=\"/wiki/Gustavo_Artunduaga_Paredes_Airport\" title=\"Gustavo Artunduaga Paredes Airport\">Gustavo Artunduaga Paredes Airport</a></td>
+<td><a href=\"/wiki/Florencia,_Caquet%C3%A1\" title=\"Florencia, Caquet\u00e1\">Florencia (Caquet\u00e1)</a>, <a href=\"/wiki/Colombia\" title=\"Colombia\">Colombia</a></td>
+<td><a href=\"/wiki/Time_in_Colombia\" title=\"Time in Colombia\">UTC\u221205:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>FLB</td>
+<td>SNQG</td>
+<td><a href=\"/w/index.php?title=Cangapara_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Cangapara Airport (page does not exist)\">Cangapara Airport</a></td>
+<td><a href=\"/wiki/Floriano,_Piau%C3%AD\" title=\"Floriano, Piau\u00ed\">Floriano</a>, <a href=\"/wiki/Piau%C3%AD\" title=\"Piau\u00ed\">Piau\u00ed</a>, Brazil</td>
+<td><a href=\"/wiki/Time_in_Brazil\" title=\"Time in Brazil\">UTC\u221203:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>FLD</td>
+<td>KFLD</td>
+<td><a href=\"/wiki/Fond_du_Lac_County_Airport\" title=\"Fond du Lac County Airport\">Fond du Lac County Airport</a></td>
+<td><a href=\"/wiki/Fond_du_Lac,_Wisconsin\" title=\"Fond du Lac, Wisconsin\">Fond du Lac</a>, <a href=\"/wiki/Wisconsin\" title=\"Wisconsin\">Wisconsin</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>FLF</td>
+<td>EDXF</td>
+<td><a href=\"/wiki/Flensburg-Sch%C3%A4ferhaus_Airport\" title=\"Flensburg-Sch\u00e4ferhaus Airport\">Flensburg-Sch\u00e4ferhaus Airport</a></td>
+<td><a href=\"/wiki/Flensburg\" title=\"Flensburg\">Flensburg</a>, <a href=\"/wiki/Schleswig-Holstein\" title=\"Schleswig-Holstein\">Schleswig-Holstein</a>, Germany</td>
+<td><a href=\"/wiki/Central_European_Time\" title=\"Central European Time\">UTC+01:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>FLG</td>
+<td>KFLG</td>
+<td><a href=\"/wiki/Flagstaff_Pulliam_Airport\" title=\"Flagstaff Pulliam Airport\">Flagstaff Pulliam Airport</a></td>
+<td><a href=\"/wiki/Flagstaff,_Arizona\" title=\"Flagstaff, Arizona\">Flagstaff</a>, <a href=\"/wiki/Arizona\" title=\"Arizona\">Arizona</a>, United States</td>
+<td><a href=\"/wiki/Mountain_Time_Zone\" title=\"Mountain Time Zone\">UTC\u221207:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>FLH</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Flotta_Island_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Flotta Island Airport (page does not exist)\">Flotta Island Airport</a></td>
+<td><a href=\"/wiki/Flotta\" title=\"Flotta\">Flotta</a>, <a href=\"/wiki/Scotland\" title=\"Scotland\">Scotland</a>, United Kingdom</td>
+<td><a href=\"/wiki/Greenwich_Mean_Time\" title=\"Greenwich Mean Time\">UTC\u00b100:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>FLI</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Holt_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Holt Airport (page does not exist)\">Holt Airport</a></td>
+<td><a href=\"/wiki/Flateyri\" title=\"Flateyri\">Flateyri</a>, <a href=\"/wiki/Iceland\" title=\"Iceland\">Iceland</a></td>
+<td><a href=\"/wiki/Greenwich_Mean_Time\" title=\"Greenwich Mean Time\">UTC\u00b100:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>FLL</td>
+<td>KFLL</td>
+<td><a href=\"/wiki/Fort_Lauderdale%E2%80%93Hollywood_International_Airport\" title=\"Fort Lauderdale\u2013Hollywood International Airport\">Fort Lauderdale\u2013Hollywood International Airport</a></td>
+<td><a href=\"/wiki/Fort_Lauderdale,_Florida\" title=\"Fort Lauderdale, Florida\">Fort Lauderdale</a> / <a href=\"/wiki/Hollywood,_Florida\" title=\"Hollywood, Florida\">Hollywood</a>, <a href=\"/wiki/Florida\" title=\"Florida\">Florida</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>FLM</td>
+<td>SGFI</td>
+<td><a href=\"/wiki/Filadelfia_Airport\" title=\"Filadelfia Airport\">Filadelfia Airport</a></td>
+<td><a href=\"/wiki/Filadelfia\" title=\"Filadelfia\">Filadelfia</a>, <a href=\"/wiki/Paraguay\" title=\"Paraguay\">Paraguay</a></td>
+<td><a href=\"/wiki/UTC%E2%88%9204:00\" title=\"UTC\u221204:00\">UTC\u221204:00</a></td>
+<td>Oct-Mar
+</td></tr>
+<tr>
+<td>FLN</td>
+<td>SBFL</td>
+<td><a href=\"/wiki/Herc%C3%ADlio_Luz_International_Airport\" title=\"Herc\u00edlio Luz International Airport\">Herc\u00edlio Luz International Airport</a></td>
+<td><a href=\"/wiki/Florian%C3%B3polis\" title=\"Florian\u00f3polis\">Florian\u00f3polis</a>, <a href=\"/wiki/Santa_Catarina_(state)\" title=\"Santa Catarina (state)\">Santa Catarina</a>, Brazil</td>
+<td><a href=\"/wiki/Time_in_Brazil\" title=\"Time in Brazil\">UTC\u221203:00</a></td>
+<td>Oct-Feb
+</td></tr>
+<tr>
+<td>FLO</td>
+<td>KFLO</td>
+<td><a href=\"/wiki/Florence_Regional_Airport\" title=\"Florence Regional Airport\">Florence Regional Airport</a></td>
+<td><a href=\"/wiki/Florence,_South_Carolina\" title=\"Florence, South Carolina\">Florence</a>, <a href=\"/wiki/South_Carolina\" title=\"South Carolina\">South Carolina</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>FLP</td>
+<td>KFLP</td>
+<td><a href=\"/wiki/Marion_County_Regional_Airport\" title=\"Marion County Regional Airport\">Marion County Regional Airport</a></td>
+<td><a href=\"/wiki/Flippin,_Arkansas\" title=\"Flippin, Arkansas\">Flippin</a>, <a href=\"/wiki/Arkansas\" title=\"Arkansas\">Arkansas</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>FLR</td>
+<td>LIRQ</td>
+<td><a href=\"/wiki/Florence_Airport,_Peretola\" class=\"mw-redirect\" title=\"Florence Airport, Peretola\">Florence Airport, Peretola</a> (Amerigo Vespucci Airport)</td>
+<td><a href=\"/wiki/Florence\" title=\"Florence\">Florence</a>, <a href=\"/wiki/Tuscany\" title=\"Tuscany\">Tuscany</a>, Italy</td>
+<td><a href=\"/wiki/Central_European_Time\" title=\"Central European Time\">UTC+01:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>FLS</td>
+<td>YFLI</td>
+<td><a href=\"/wiki/Flinders_Island_Airport\" title=\"Flinders Island Airport\">Flinders Island Airport</a></td>
+<td><a href=\"/wiki/Flinders_Island\" title=\"Flinders Island\">Flinders Island</a>, <a href=\"/wiki/Tasmania\" title=\"Tasmania\">Tasmania</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+10:00</a></td>
+<td>Oct-Apr
+</td></tr>
+<tr>
+<td>FLT</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Flat_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Flat Airport (page does not exist)\">Flat Airport</a></td>
+<td><a href=\"/wiki/Flat,_Alaska\" title=\"Flat, Alaska\">Flat</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+<td><a href=\"/wiki/Alaska_Time_Zone\" title=\"Alaska Time Zone\">UTC\u221209:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>FLV</td>
+<td>KFLV</td>
+<td><a href=\"/wiki/Sherman_Army_Airfield\" title=\"Sherman Army Airfield\">Sherman Army Airfield</a></td>
+<td><a href=\"/wiki/Fort_Leavenworth\" title=\"Fort Leavenworth\">Fort Leavenworth</a>, <a href=\"/wiki/Kansas\" title=\"Kansas\">Kansas</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>FLW</td>
+<td>LPFL</td>
+<td><a href=\"/wiki/Flores_Airport\" title=\"Flores Airport\">Flores Airport</a></td>
+<td><a href=\"/wiki/Flores_Island_(Azores)\" title=\"Flores Island (Azores)\">Flores Island</a>, <a href=\"/wiki/Azores\" title=\"Azores\">Azores</a>, <a href=\"/wiki/Portugal\" title=\"Portugal\">Portugal</a></td>
+<td><a href=\"/wiki/UTC%E2%88%9201:00\" title=\"UTC\u221201:00\">UTC\u221201:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>FLX</td>
+<td>KFLX</td>
+<td><a href=\"/wiki/Fallon_Municipal_Airport\" title=\"Fallon Municipal Airport\">Fallon Municipal Airport</a></td>
+<td><a href=\"/wiki/Fallon,_Nevada\" title=\"Fallon, Nevada\">Fallon</a>, <a href=\"/wiki/Nevada\" title=\"Nevada\">Nevada</a>, United States</td>
+<td><a href=\"/wiki/Pacific_Time_Zone\" title=\"Pacific Time Zone\">UTC\u221208:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>FLY</td>
+<td>YFIL</td>
+<td><a href=\"/wiki/Finley_Airport\" title=\"Finley Airport\">Finley Airport</a></td>
+<td><a href=\"/wiki/Finley,_New_South_Wales\" title=\"Finley, New South Wales\">Finley</a>, <a href=\"/wiki/New_South_Wales\" title=\"New South Wales\">New South Wales</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+10:00</a></td>
+<td>Oct-Apr
+</td></tr>
+<tr>
+<td>FLZ</td>
+<td>WIMS</td>
+<td><a href=\"/wiki/Ferdinand_Lumban_Tobing_Airport\" title=\"Ferdinand Lumban Tobing Airport\">Ferdinand Lumban Tobing Airport</a><sup id=\"cite_ref-IATA_1-3\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Sibolga\" title=\"Sibolga\">Sibolga</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+<td><a href=\"/wiki/Time_in_Indonesia\" title=\"Time in Indonesia\">UTC+07:00</a></td>
+<td>
+</td></tr>
+<tr class=\"sortbottom\">
+<th colspan=\"6\" style=\"text-align:left; background:#ddd;\"><span id=\"FM\"></span>-FM-
+</th></tr>
+<tr>
+<td>FMA</td>
+<td>SARF</td>
+<td><a href=\"/wiki/Formosa_International_Airport\" title=\"Formosa International Airport\">Formosa International Airport</a> (El Puc\u00fa Airport)</td>
+<td><a href=\"/wiki/Formosa,_Argentina\" title=\"Formosa, Argentina\">Formosa</a>, Argentina</td>
+<td><a href=\"/wiki/Time_in_Argentina\" title=\"Time in Argentina\">UTC\u221203:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>FME</td>
+<td>KFME</td>
+<td><a href=\"/wiki/Tipton_Airport\" title=\"Tipton Airport\">Tipton Airport</a></td>
+<td><a href=\"/wiki/Fort_Meade,_Maryland\" title=\"Fort Meade, Maryland\">Fort Meade</a> / <a href=\"/wiki/Odenton,_Maryland\" title=\"Odenton, Maryland\">Odenton</a>, <a href=\"/wiki/Maryland\" title=\"Maryland\">Maryland</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>FMH</td>
+<td>KFMH</td>
+<td><a href=\"/wiki/Otis_Air_National_Guard_Base\" title=\"Otis Air National Guard Base\">Otis Air National Guard Base</a></td>
+<td><a href=\"/wiki/Falmouth,_Massachusetts\" title=\"Falmouth, Massachusetts\">Falmouth</a>, <a href=\"/wiki/Massachusetts\" title=\"Massachusetts\">Massachusetts</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>FMI</td>
+<td>FZRF</td>
+<td><a href=\"/wiki/Kalemie_Airport\" title=\"Kalemie Airport\">Kalemie Airport</a></td>
+<td><a href=\"/wiki/Kalemie\" title=\"Kalemie\">Kalemie</a>, <a href=\"/wiki/Democratic_Republic_of_the_Congo\" title=\"Democratic Republic of the Congo\">Democratic Republic of the Congo</a></td>
+<td><a href=\"/wiki/Central_Africa_Time\" title=\"Central Africa Time\">UTC+02:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>FMM</td>
+<td>EDJA</td>
+<td><a href=\"/wiki/Memmingen_Airport\" title=\"Memmingen Airport\">Memmingen Airport</a></td>
+<td><a href=\"/wiki/Memmingen\" title=\"Memmingen\">Memmingen</a>, <a href=\"/wiki/Bavaria\" title=\"Bavaria\">Bavaria</a>, Germany</td>
+<td><a href=\"/wiki/Central_European_Time\" title=\"Central European Time\">UTC+01:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>FMN</td>
+<td>KFMN</td>
+<td><a href=\"/wiki/Four_Corners_Regional_Airport\" title=\"Four Corners Regional Airport\">Four Corners Regional Airport</a></td>
+<td><a href=\"/wiki/Farmington,_New_Mexico\" title=\"Farmington, New Mexico\">Farmington</a>, <a href=\"/wiki/New_Mexico\" title=\"New Mexico\">New Mexico</a>, United States</td>
+<td><a href=\"/wiki/Mountain_Time_Zone\" title=\"Mountain Time Zone\">UTC\u221207:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>FMO</td>
+<td>EDDG</td>
+<td><a href=\"/wiki/M%C3%BCnster_Osnabr%C3%BCck_International_Airport\" title=\"M\u00fcnster Osnabr\u00fcck International Airport\">M\u00fcnster Osnabr\u00fcck International Airport</a></td>
+<td><a href=\"/wiki/M%C3%BCnster\" title=\"M\u00fcnster\">M\u00fcnster</a> / <a href=\"/wiki/Osnabr%C3%BCck\" title=\"Osnabr\u00fcck\">Osnabr\u00fcck (LS)</a>, <a href=\"/wiki/North_Rhine-Westphalia\" title=\"North Rhine-Westphalia\">North Rhine-Westphalia</a>, Germany</td>
+<td><a href=\"/wiki/Central_European_Time\" title=\"Central European Time\">UTC+01:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>FMS</td>
+<td>KFSW</td>
+<td><a href=\"/w/index.php?title=Fort_Madison_Municipal_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Fort Madison Municipal Airport (page does not exist)\">Fort Madison Municipal Airport</a> (FAA: FSW)</td>
+<td><a href=\"/wiki/Fort_Madison,_Iowa\" title=\"Fort Madison, Iowa\">Fort Madison</a>, <a href=\"/wiki/Iowa\" title=\"Iowa\">Iowa</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>FMU</td>
+<td></td>
+<td><a href=\"/wiki/Florence_Municipal_Airport\" title=\"Florence Municipal Airport\">Florence Municipal Airport</a><sup id=\"cite_ref-IATA_1-4\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (FAA: 6S2)</td>
+<td><a href=\"/wiki/Florence,_Oregon\" title=\"Florence, Oregon\">Florence</a>, <a href=\"/wiki/Oregon\" title=\"Oregon\">Oregon</a>, United States</td>
+<td><a href=\"/wiki/Pacific_Time_Zone\" title=\"Pacific Time Zone\">UTC\u221208:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>FMY</td>
+<td>KFMY</td>
+<td><a href=\"/wiki/Page_Field\" title=\"Page Field\">Page Field</a></td>
+<td><a href=\"/wiki/Fort_Myers,_Florida\" title=\"Fort Myers, Florida\">Fort Myers</a>, <a href=\"/wiki/Florida\" title=\"Florida\">Florida</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr class=\"sortbottom\">
+<th colspan=\"6\" style=\"text-align:left; background:#ddd;\"><span id=\"FN\"></span>-FN-
+</th></tr>
+<tr>
+<td>FNA</td>
+<td>GFLL</td>
+<td><a href=\"/wiki/Lungi_International_Airport\" title=\"Lungi International Airport\">Lungi International Airport</a></td>
+<td><a href=\"/wiki/Freetown\" title=\"Freetown\">Freetown</a>, <a href=\"/wiki/Sierra_Leone\" title=\"Sierra Leone\">Sierra Leone</a></td>
+<td><a href=\"/wiki/Greenwich_Mean_Time\" title=\"Greenwich Mean Time\">UTC\u00b100:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>FNB</td>
+<td>ETNU</td>
+<td><a href=\"/wiki/Neubrandenburg_Airport\" title=\"Neubrandenburg Airport\">Neubrandenburg Airport</a></td>
+<td><a href=\"/wiki/Neubrandenburg\" title=\"Neubrandenburg\">Neubrandenburg</a>, <a href=\"/wiki/Mecklenburg-Vorpommern\" title=\"Mecklenburg-Vorpommern\">Mecklenburg-Vorpommern</a>, Germany</td>
+<td><a href=\"/wiki/Central_European_Time\" title=\"Central European Time\">UTC+01:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>FNC</td>
+<td>LPMA</td>
+<td><a href=\"/wiki/Madeira_Airport\" title=\"Madeira Airport\">Madeira Airport</a></td>
+<td><a href=\"/wiki/Funchal\" title=\"Funchal\">Funchal</a>, <a href=\"/wiki/Madeira\" title=\"Madeira\">Madeira</a>, <a href=\"/wiki/Portugal\" title=\"Portugal\">Portugal</a></td>
+<td><a href=\"/wiki/Western_European_Time\" title=\"Western European Time\">UTC\u00b100:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>FNE</td>
+<td>AYFA</td>
+<td><a href=\"/wiki/Fane_Airport\" title=\"Fane Airport\">Fane Airport</a></td>
+<td><a href=\"/w/index.php?title=Fane,_Papua_New_Guinea&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Fane, Papua New Guinea (page does not exist)\">Fane</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+<td><a href=\"/wiki/UTC%2B10:00\" title=\"UTC+10:00\">UTC+10:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>FNG</td>
+<td>DFEF</td>
+<td><a href=\"/wiki/Fada_N%27gourma_Airport\" title=\"Fada N&#39;gourma Airport\">Fada N'gourma Airport</a></td>
+<td><a href=\"/wiki/Fada_N%27gourma\" title=\"Fada N&#39;gourma\">Fada N'gourma</a>, <a href=\"/wiki/Burkina_Faso\" title=\"Burkina Faso\">Burkina Faso</a></td>
+<td><a href=\"/wiki/Greenwich_Mean_Time\" title=\"Greenwich Mean Time\">UTC\u00b100:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>FNH</td>
+<td>HAFN</td>
+<td><a href=\"/wiki/Fincha_Airport\" title=\"Fincha Airport\">Fincha Airport</a></td>
+<td><a href=\"/wiki/Finicha%27a\" title=\"Finicha&#39;a\">Fincha</a>, <a href=\"/wiki/Ethiopia\" title=\"Ethiopia\">Ethiopia</a></td>
+<td><a href=\"/wiki/East_Africa_Time\" title=\"East Africa Time\">UTC+03:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>FNI</td>
+<td>LFTW</td>
+<td><a href=\"/wiki/N%C3%AEmes%E2%80%93Al%C3%A8s%E2%80%93Camargue%E2%80%93C%C3%A9vennes_Airport\" title=\"N\u00eemes\u2013Al\u00e8s\u2013Camargue\u2013C\u00e9vennes Airport\">N\u00eemes\u2013Al\u00e8s\u2013Camargue\u2013C\u00e9vennes Airport</a> (Garons Airport)</td>
+<td><a href=\"/wiki/N%C3%AEmes\" title=\"N\u00eemes\">N\u00eemes</a>, <a href=\"/wiki/Languedoc-Roussillon\" title=\"Languedoc-Roussillon\">Languedoc-Roussillon</a>, France</td>
+<td><a href=\"/wiki/Central_European_Time\" title=\"Central European Time\">UTC+01:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>FNJ</td>
+<td>ZKPY</td>
+<td><a href=\"/wiki/Pyongyang_Sunan_International_Airport\" class=\"mw-redirect\" title=\"Pyongyang Sunan International Airport\">Pyongyang Sunan International Airport</a></td>
+<td><a href=\"/wiki/Pyongyang\" title=\"Pyongyang\">Pyongyang</a>, <a href=\"/wiki/North_Korea\" title=\"North Korea\">North Korea</a></td>
+<td><a href=\"/wiki/Time_in_North_Korea\" title=\"Time in North Korea\">UTC+08:30</a></td>
+<td>
+</td></tr>
+<tr>
+<td>FNL</td>
+<td>KFNL</td>
+<td><a href=\"/wiki/Fort_Collins%E2%80%93Loveland_Municipal_Airport\" class=\"mw-redirect\" title=\"Fort Collins\u2013Loveland Municipal Airport\">Fort Collins\u2013Loveland Municipal Airport</a></td>
+<td><a href=\"/wiki/Fort_Collins,_Colorado\" title=\"Fort Collins, Colorado\">Fort Collins</a>/<a href=\"/wiki/Loveland,_Colorado\" title=\"Loveland, Colorado\">Loveland</a>, <a href=\"/wiki/Colorado\" title=\"Colorado\">Colorado</a>, United States</td>
+<td><a href=\"/wiki/Mountain_Time_Zone\" title=\"Mountain Time Zone\">UTC\u221207:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>FNR</td>
+<td>PANR</td>
+<td><a href=\"/wiki/Funter_Bay_Seaplane_Base\" title=\"Funter Bay Seaplane Base\">Funter Bay Seaplane Base</a></td>
+<td><a href=\"/wiki/Funter_Bay\" title=\"Funter Bay\">Funter Bay</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+<td><a href=\"/wiki/Alaska_Time_Zone\" title=\"Alaska Time Zone\">UTC\u221209:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>FNT</td>
+<td>KFNT</td>
+<td><a href=\"/wiki/Bishop_International_Airport\" title=\"Bishop International Airport\">Bishop International Airport</a></td>
+<td><a href=\"/wiki/Flint,_Michigan\" title=\"Flint, Michigan\">Flint</a>, <a href=\"/wiki/Michigan\" title=\"Michigan\">Michigan</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>FNU</td>
+<td>LIER</td>
+<td><a href=\"/wiki/Oristano-Fenosu_Airport\" title=\"Oristano-Fenosu Airport\">Oristano-Fenosu Airport</a><sup id=\"cite_ref-IATA_1-5\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Oristano\" title=\"Oristano\">Oristano</a>, <a href=\"/wiki/Sardinia\" title=\"Sardinia\">Sardinia</a>, Italy</td>
+<td><a href=\"/wiki/Central_European_Time\" title=\"Central European Time\">UTC+01:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr class=\"sortbottom\">
+<th colspan=\"6\" style=\"text-align:left; background:#ddd;\"><span id=\"FO\"></span>-FO-
+</th></tr>
+<tr>
+<td>FOA</td>
+<td></td>
+<td><a href=\"/wiki/Foula_Airfield\" title=\"Foula Airfield\">Foula Airfield</a></td>
+<td><a href=\"/wiki/Foula\" title=\"Foula\">Foula</a>, <a href=\"/wiki/Scotland\" title=\"Scotland\">Scotland</a>, United Kingdom</td>
+<td><a href=\"/wiki/Greenwich_Mean_Time\" title=\"Greenwich Mean Time\">UTC\u00b100:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>FOB</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Fort_Bragg_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Fort Bragg Airport (page does not exist)\">Fort Bragg Airport</a> (FAA: 82CL)</td>
+<td><a href=\"/wiki/Fort_Bragg,_California\" title=\"Fort Bragg, California\">Fort Bragg</a>, <a href=\"/wiki/California\" title=\"California\">California</a>, United States</td>
+<td><a href=\"/wiki/Pacific_Time_Zone\" title=\"Pacific Time Zone\">UTC\u221208:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>FOC</td>
+<td>ZSFZ</td>
+<td><a href=\"/wiki/Fuzhou_Changle_International_Airport\" title=\"Fuzhou Changle International Airport\">Fuzhou Changle International Airport</a></td>
+<td><a href=\"/wiki/Fuzhou\" title=\"Fuzhou\">Fuzhou</a>, <a href=\"/wiki/Fujian\" title=\"Fujian\">Fujian</a>, China</td>
+<td><a href=\"/wiki/Time_in_China\" title=\"Time in China\">UTC+08:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>FOD</td>
+<td>KFOD</td>
+<td><a href=\"/wiki/Fort_Dodge_Regional_Airport\" title=\"Fort Dodge Regional Airport\">Fort Dodge Regional Airport</a></td>
+<td><a href=\"/wiki/Fort_Dodge,_Iowa\" title=\"Fort Dodge, Iowa\">Fort Dodge</a>, <a href=\"/wiki/Iowa\" title=\"Iowa\">Iowa</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>FOE</td>
+<td>KFOE</td>
+<td><a href=\"/wiki/Topeka_Regional_Airport\" title=\"Topeka Regional Airport\">Topeka Regional Airport</a></td>
+<td><a href=\"/wiki/Topeka,_Kansas\" title=\"Topeka, Kansas\">Topeka</a>, <a href=\"/wiki/Kansas\" title=\"Kansas\">Kansas</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>FOG</td>
+<td>LIBF</td>
+<td><a href=\"/wiki/Foggia_%22Gino_Lisa%22_Airport\" title=\"Foggia &quot;Gino Lisa&quot; Airport\">Foggia \"Gino Lisa\" Airport</a></td>
+<td><a href=\"/wiki/Foggia\" title=\"Foggia\">Foggia</a>, <a href=\"/wiki/Apulia\" title=\"Apulia\">Apulia</a>, Italy</td>
+<td><a href=\"/wiki/Central_European_Time\" title=\"Central European Time\">UTC+01:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>FOK</td>
+<td>KFOK</td>
+<td><a href=\"/wiki/Francis_S._Gabreski_Airport\" title=\"Francis S. Gabreski Airport\">Francis S. Gabreski Airport</a></td>
+<td><a href=\"/wiki/Westhampton_Beach,_New_York\" title=\"Westhampton Beach, New York\">Westhampton Beach</a>, <a href=\"/wiki/New_York_(state)\" title=\"New York (state)\">New York</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>FOM</td>
+<td>FKKM</td>
+<td><a href=\"/wiki/Foumban_Nkounja_Airport\" title=\"Foumban Nkounja Airport\">Foumban Nkounja Airport</a></td>
+<td><a href=\"/wiki/Foumban\" title=\"Foumban\">Foumban</a>, <a href=\"/wiki/Cameroon\" title=\"Cameroon\">Cameroon</a></td>
+<td><a href=\"/wiki/West_Africa_Time\" title=\"West Africa Time\">UTC+01:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>FON</td>
+<td>MRAN</td>
+<td><a href=\"/w/index.php?title=La_Fortuna_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"La Fortuna Airport (page does not exist)\">La Fortuna Airport</a></td>
+<td><a href=\"/w/index.php?title=La_Fortuna,_Costa_Rica&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"La Fortuna, Costa Rica (page does not exist)\">La Fortuna</a>, <a href=\"/wiki/Costa_Rica\" title=\"Costa Rica\">Costa Rica</a></td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>FOO</td>
+<td></td>
+<td><a href=\"/wiki/Kornasoren_Airport\" title=\"Kornasoren Airport\">Kornasoren Airport</a> (Numfoor Airport)</td>
+<td><a href=\"/wiki/Numfor\" title=\"Numfor\">Numfoor</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+<td><a href=\"/wiki/Time_in_Indonesia\" title=\"Time in Indonesia\">UTC+09:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>FOR</td>
+<td>SBFZ</td>
+<td><a href=\"/wiki/Pinto_Martins_%E2%80%93_Fortaleza_International_Airport\" title=\"Pinto Martins \u2013 Fortaleza International Airport\">Pinto Martins \u2013 Fortaleza International Airport</a></td>
+<td><a href=\"/wiki/Fortaleza\" title=\"Fortaleza\">Fortaleza</a>, <a href=\"/wiki/Cear%C3%A1\" title=\"Cear\u00e1\">Cear\u00e1</a>, Brazil</td>
+<td><a href=\"/wiki/Time_in_Brazil\" title=\"Time in Brazil\">UTC\u221203:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>FOS</td>
+<td>YFRT</td>
+<td><a href=\"/wiki/Forrest_Airport\" title=\"Forrest Airport\">Forrest Airport</a></td>
+<td><a href=\"/wiki/Forrest,_Western_Australia\" title=\"Forrest, Western Australia\">Forrest</a>, <a href=\"/wiki/Western_Australia\" title=\"Western Australia\">Western Australia</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+08:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>FOT</td>
+<td>YFST</td>
+<td><a href=\"/wiki/Forster_(Wallis_Island)_Airport\" title=\"Forster (Wallis Island) Airport\">Forster (Wallis Island) Airport</a><sup id=\"cite_ref-IATA_1-6\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup><sup id=\"cite_ref-2\" class=\"reference\"><a href=\"#cite_note-2\">&#91;2&#93;</a></sup></td>
+<td><a href=\"/wiki/Forster,_New_South_Wales\" title=\"Forster, New South Wales\">Forster</a>, <a href=\"/wiki/New_South_Wales\" title=\"New South Wales\">New South Wales</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+10:00</a></td>
+<td>Oct-Apr
+</td></tr>
+<tr>
+<td>FOU</td>
+<td>FOGF</td>
+<td><a href=\"/wiki/Fougamou_Airport\" title=\"Fougamou Airport\">Fougamou Airport</a></td>
+<td><a href=\"/wiki/Fougamou\" title=\"Fougamou\">Fougamou</a>, <a href=\"/wiki/Gabon\" title=\"Gabon\">Gabon</a></td>
+<td><a href=\"/wiki/West_Africa_Time\" title=\"West Africa Time\">UTC+01:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>FOY</td>
+<td></td>
+<td><a href=\"/wiki/Foya_Airport\" title=\"Foya Airport\">Foya Airport</a></td>
+<td><a href=\"/wiki/Foya\" title=\"Foya\">Foya</a>, <a href=\"/wiki/Liberia\" title=\"Liberia\">Liberia</a></td>
+<td><a href=\"/wiki/Greenwich_Mean_Time\" title=\"Greenwich Mean Time\">UTC\u00b100:00</a></td>
+<td>
+</td></tr>
+<tr class=\"sortbottom\">
+<th colspan=\"6\" style=\"text-align:left; background:#ddd;\"><span id=\"FP\"></span>-FP-
+</th></tr>
+<tr>
+<td>FPO</td>
+<td>MYGF</td>
+<td><a href=\"/wiki/Grand_Bahama_International_Airport\" title=\"Grand Bahama International Airport\">Grand Bahama International Airport</a></td>
+<td><a href=\"/wiki/Freeport,_Bahamas\" title=\"Freeport, Bahamas\">Freeport</a>, <a href=\"/wiki/Grand_Bahama\" title=\"Grand Bahama\">Grand Bahama</a>, <a href=\"/wiki/The_Bahamas\" title=\"The Bahamas\">Bahamas</a></td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>FPR</td>
+<td>KFPR</td>
+<td><a href=\"/wiki/St._Lucie_County_International_Airport\" class=\"mw-redirect\" title=\"St. Lucie County International Airport\">St. Lucie County International Airport</a></td>
+<td><a href=\"/wiki/Fort_Pierce,_Florida\" title=\"Fort Pierce, Florida\">Fort Pierce</a>, <a href=\"/wiki/Florida\" title=\"Florida\">Florida</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>FPY</td>
+<td></td>
+<td><a href=\"/wiki/Perry-Foley_Airport\" class=\"mw-redirect\" title=\"Perry-Foley Airport\">Perry-Foley Airport</a> (FAA: 40J)</td>
+<td><a href=\"/wiki/Perry,_Florida\" title=\"Perry, Florida\">Perry</a>, <a href=\"/wiki/Florida\" title=\"Florida\">Florida</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr class=\"sortbottom\">
+<th colspan=\"6\" style=\"text-align:left; background:#ddd;\"><span id=\"FR\"></span>-FR-
+</th></tr>
+<tr>
+<td>FRA</td>
+<td>EDDF</td>
+<td><a href=\"/wiki/Frankfurt_Airport\" title=\"Frankfurt Airport\">Frankfurt Airport</a></td>
+<td><a href=\"/wiki/Frankfurt\" title=\"Frankfurt\">Frankfurt</a>, <a href=\"/wiki/Hessen\" class=\"mw-redirect\" title=\"Hessen\">Hessen</a>, Germany</td>
+<td><a href=\"/wiki/Central_European_Time\" title=\"Central European Time\">UTC+01:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>FRB</td>
+<td>YFBS</td>
+<td><a href=\"/wiki/Forbes_Airport\" title=\"Forbes Airport\">Forbes Airport</a></td>
+<td><a href=\"/wiki/Forbes,_New_South_Wales\" title=\"Forbes, New South Wales\">Forbes</a>, <a href=\"/wiki/New_South_Wales\" title=\"New South Wales\">New South Wales</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+10:00</a></td>
+<td>Oct-Apr
+</td></tr>
+<tr>
+<td>FRC</td>
+<td>SIMK</td>
+<td><a href=\"/wiki/Franca_Airport\" title=\"Franca Airport\">Franca Airport</a> (Ten. Lund Presotto\u2013Franca State Airport)</td>
+<td><a href=\"/wiki/Franca\" title=\"Franca\">Franca</a>, <a href=\"/wiki/S%C3%A3o_Paulo_(state)\" title=\"S\u00e3o Paulo (state)\">S\u00e3o Paulo</a>, Brazil</td>
+<td><a href=\"/wiki/Time_in_Brazil\" title=\"Time in Brazil\">UTC\u221203:00</a></td>
+<td>Oct-Feb
+</td></tr>
+<tr>
+<td>FRD</td>
+<td>KFHR</td>
+<td><a href=\"/wiki/Friday_Harbor_Airport\" title=\"Friday Harbor Airport\">Friday Harbor Airport</a> (FAA: FHR)</td>
+<td><a href=\"/wiki/Friday_Harbor,_Washington\" title=\"Friday Harbor, Washington\">Friday Harbor</a>, <a href=\"/wiki/Washington_(state)\" title=\"Washington (state)\">Washington</a>, United States</td>
+<td><a href=\"/wiki/Pacific_Time_Zone\" title=\"Pacific Time Zone\">UTC\u221208:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>FRE</td>
+<td>AGGF</td>
+<td><a href=\"/wiki/Fera_Airport\" title=\"Fera Airport\">Fera Airport</a> (Fera/Maringe Airport)</td>
+<td><a href=\"/wiki/Fera_Island\" title=\"Fera Island\">Fera Island</a>, <a href=\"/wiki/Isabel_Province\" title=\"Isabel Province\">Isabel Province</a>, <a href=\"/wiki/Solomon_Islands\" title=\"Solomon Islands\">Solomon Islands</a></td>
+<td><a href=\"/wiki/UTC%2B11:00\" title=\"UTC+11:00\">UTC+11:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>FRG</td>
+<td>KFRG</td>
+<td><a href=\"/wiki/Republic_Airport\" title=\"Republic Airport\">Republic Airport</a></td>
+<td><a href=\"/wiki/Farmingdale,_New_York\" title=\"Farmingdale, New York\">Farmingdale</a>, <a href=\"/wiki/New_York_(state)\" title=\"New York (state)\">New York</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>FRH</td>
+<td>KFRH</td>
+<td><a href=\"/wiki/French_Lick_Municipal_Airport\" title=\"French Lick Municipal Airport\">French Lick Municipal Airport</a></td>
+<td><a href=\"/wiki/French_Lick,_Indiana\" title=\"French Lick, Indiana\">French Lick</a>, <a href=\"/wiki/Indiana\" title=\"Indiana\">Indiana</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>FRI</td>
+<td>KFRI</td>
+<td><a href=\"/wiki/Marshall_Army_Airfield\" title=\"Marshall Army Airfield\">Marshall Army Airfield</a></td>
+<td><a href=\"/wiki/Fort_Riley\" title=\"Fort Riley\">Fort Riley</a>, <a href=\"/wiki/Kansas\" title=\"Kansas\">Kansas</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>FRK</td>
+<td>FSSF</td>
+<td><a href=\"/wiki/Fr%C3%A9gate_Island_Airport\" title=\"Fr\u00e9gate Island Airport\">Fr\u00e9gate Island Airport</a></td>
+<td><a href=\"/wiki/Fr%C3%A9gate_Island\" title=\"Fr\u00e9gate Island\">Fr\u00e9gate Island</a>, <a href=\"/wiki/Seychelles\" title=\"Seychelles\">Seychelles</a></td>
+<td><a href=\"/wiki/Seychelles_Time\" title=\"Seychelles Time\">UTC+04:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>FRL</td>
+<td>LIPK</td>
+<td><a href=\"/wiki/Forl%C3%AC_Airport\" title=\"Forl\u00ec Airport\">Forl\u00ec International Airport</a> (Luigi Ridolfi Airport)</td>
+<td><a href=\"/wiki/Forl%C3%AC\" title=\"Forl\u00ec\">Forl\u00ec</a>, <a href=\"/wiki/Emilia-Romagna\" title=\"Emilia-Romagna\">Emilia-Romagna</a>, Italy</td>
+<td><a href=\"/wiki/Central_European_Time\" title=\"Central European Time\">UTC+01:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>FRM</td>
+<td>KFRM</td>
+<td><a href=\"/wiki/Fairmont_Municipal_Airport_(Minnesota)\" title=\"Fairmont Municipal Airport (Minnesota)\">Fairmont Municipal Airport</a></td>
+<td><a href=\"/wiki/Fairmont,_Minnesota\" title=\"Fairmont, Minnesota\">Fairmont</a>, <a href=\"/wiki/Minnesota\" title=\"Minnesota\">Minnesota</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>FRN</td>
+<td>PAFR</td>
+<td><a href=\"/wiki/Bryant_Army_Heliport\" title=\"Bryant Army Heliport\">Bryant Army Airport</a></td>
+<td><a href=\"/wiki/Anchorage,_Alaska\" title=\"Anchorage, Alaska\">Anchorage</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+<td><a href=\"/wiki/Alaska_Time_Zone\" title=\"Alaska Time Zone\">UTC\u221209:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>FRO</td>
+<td>ENFL</td>
+<td><a href=\"/wiki/Flor%C3%B8_Airport\" title=\"Flor\u00f8 Airport\">Flor\u00f8 Airport</a></td>
+<td><a href=\"/wiki/Flor%C3%B8\" title=\"Flor\u00f8\">Flor\u00f8</a>, <a href=\"/wiki/Norway\" title=\"Norway\">Norway</a></td>
+<td><a href=\"/wiki/Central_European_Time\" title=\"Central European Time\">UTC+01:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>FRQ</td>
+<td>AYFE</td>
+<td><a href=\"/w/index.php?title=Feramin_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Feramin Airport (page does not exist)\">Feramin Airport</a></td>
+<td><a href=\"/w/index.php?title=Feramin&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Feramin (page does not exist)\">Feramin</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+<td><a href=\"/wiki/UTC%2B10:00\" title=\"UTC+10:00\">UTC+10:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>FRR</td>
+<td>KFRR</td>
+<td><a href=\"/wiki/Front_Royal%E2%80%93Warren_County_Airport\" title=\"Front Royal\u2013Warren County Airport\">Front Royal\u2013Warren County Airport</a></td>
+<td><a href=\"/wiki/Front_Royal,_Virginia\" title=\"Front Royal, Virginia\">Front Royal</a>, <a href=\"/wiki/Virginia\" title=\"Virginia\">Virginia</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>FRS</td>
+<td>MGTK</td>
+<td><a href=\"/wiki/Mundo_Maya_International_Airport\" title=\"Mundo Maya International Airport\">Mundo Maya International Airport</a></td>
+<td><a href=\"/wiki/Flores,_El_Pet%C3%A9n\" title=\"Flores, El Pet\u00e9n\">Flores</a>, <a href=\"/wiki/Guatemala\" title=\"Guatemala\">Guatemala</a></td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>FRT</td>
+<td>SCFI</td>
+<td><a href=\"/wiki/Frutillar_Airport\" title=\"Frutillar Airport\">Frutillar Airport</a></td>
+<td><a href=\"/wiki/Frutillar\" title=\"Frutillar\">Frutillar</a>, <a href=\"/wiki/Chile\" title=\"Chile\">Chile</a></td>
+<td><a href=\"/wiki/Time_in_Chile\" title=\"Time in Chile\">UTC\u221204:00</a></td>
+<td>Aug-May
+</td></tr>
+<tr>
+<td>FRU</td>
+<td>UAFM</td>
+<td><a href=\"/wiki/Manas_International_Airport\" title=\"Manas International Airport\">Manas International Airport</a></td>
+<td><a href=\"/wiki/Bishkek\" title=\"Bishkek\">Bishkek</a>, <a href=\"/wiki/Kyrgyzstan\" title=\"Kyrgyzstan\">Kyrgyzstan</a></td>
+<td><a href=\"/wiki/Kyrgyzstan_Time\" title=\"Kyrgyzstan Time\">UTC+06:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>FRW</td>
+<td>FBFT</td>
+<td><a href=\"/wiki/Francistown_Airport\" title=\"Francistown Airport\">Francistown Airport</a></td>
+<td><a href=\"/wiki/Francistown\" title=\"Francistown\">Francistown</a>, <a href=\"/wiki/Botswana\" title=\"Botswana\">Botswana</a></td>
+<td><a href=\"/wiki/Central_Africa_Time\" title=\"Central Africa Time\">UTC+02:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>FRY</td>
+<td>KIZG</td>
+<td><a href=\"/wiki/Eastern_Slopes_Regional_Airport\" title=\"Eastern Slopes Regional Airport\">Eastern Slopes Regional Airport</a> (FAA: IZG)</td>
+<td><a href=\"/wiki/Fryeburg,_Maine\" title=\"Fryeburg, Maine\">Fryeburg</a>, <a href=\"/wiki/Maine\" title=\"Maine\">Maine</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>FRZ</td>
+<td>ETHF</td>
+<td><a href=\"/wiki/Fritzlar_Air_Base\" title=\"Fritzlar Air Base\">Fritzlar Air Base</a></td>
+<td><a href=\"/wiki/Fritzlar\" title=\"Fritzlar\">Fritzlar</a>, <a href=\"/wiki/Hesse\" title=\"Hesse\">Hesse</a>, Germany</td>
+<td><a href=\"/wiki/Central_European_Time\" title=\"Central European Time\">UTC+01:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr class=\"sortbottom\">
+<th colspan=\"6\" style=\"text-align:left; background:#ddd;\"><span id=\"FS\"></span>-FS-
+</th></tr>
+<tr>
+<td>FSC</td>
+<td>LFKF</td>
+<td><a href=\"/wiki/Figari%E2%80%93Sud_Corse_Airport\" title=\"Figari\u2013Sud Corse Airport\">Figari\u2013Sud Corse Airport</a></td>
+<td><a href=\"/wiki/Figari\" title=\"Figari\">Figari</a>, <a href=\"/wiki/Corsica\" title=\"Corsica\">Corsica</a>, France</td>
+<td><a href=\"/wiki/Central_European_Time\" title=\"Central European Time\">UTC+01:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>FSD</td>
+<td>KFSD</td>
+<td><a href=\"/wiki/Sioux_Falls_Regional_Airport\" title=\"Sioux Falls Regional Airport\">Sioux Falls Regional Airport</a> (Joe Foss Field)</td>
+<td><a href=\"/wiki/Sioux_Falls,_South_Dakota\" title=\"Sioux Falls, South Dakota\">Sioux Falls</a>, <a href=\"/wiki/South_Dakota\" title=\"South Dakota\">South Dakota</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>FSI</td>
+<td>KFSI</td>
+<td><a href=\"/wiki/Henry_Post_Army_Airfield\" title=\"Henry Post Army Airfield\">Henry Post Army Airfield</a> (Fort Sill)</td>
+<td><a href=\"/wiki/Lawton,_Oklahoma\" title=\"Lawton, Oklahoma\">Lawton</a>, <a href=\"/wiki/Oklahoma\" title=\"Oklahoma\">Oklahoma</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>FSK</td>
+<td>KFSK</td>
+<td><a href=\"/wiki/Fort_Scott_Municipal_Airport\" title=\"Fort Scott Municipal Airport\">Fort Scott Municipal Airport</a></td>
+<td><a href=\"/wiki/Fort_Scott,_Kansas\" title=\"Fort Scott, Kansas\">Fort Scott</a>, <a href=\"/wiki/Kansas\" title=\"Kansas\">Kansas</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>FSL</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Fossil_Downs_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Fossil Downs Airport (page does not exist)\">Fossil Downs Airport</a></td>
+<td><a href=\"/wiki/Fossil_Downs_Station\" title=\"Fossil Downs Station\">Fossil Downs Station</a>, <a href=\"/wiki/Western_Australia\" title=\"Western Australia\">Western Australia</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+08:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>FSM</td>
+<td>KFSM</td>
+<td><a href=\"/wiki/Fort_Smith_Regional_Airport\" title=\"Fort Smith Regional Airport\">Fort Smith Regional Airport</a></td>
+<td><a href=\"/wiki/Fort_Smith,_Arkansas\" title=\"Fort Smith, Arkansas\">Fort Smith</a>, <a href=\"/wiki/Arkansas\" title=\"Arkansas\">Arkansas</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>FSP</td>
+<td>LFVP</td>
+<td><a href=\"/wiki/Saint-Pierre_Airport\" title=\"Saint-Pierre Airport\">Saint-Pierre Airport</a></td>
+<td><a href=\"/wiki/Saint-Pierre,_Saint_Pierre_and_Miquelon\" title=\"Saint-Pierre, Saint Pierre and Miquelon\">Saint-Pierre</a>, <a href=\"/wiki/Saint_Pierre_and_Miquelon\" title=\"Saint Pierre and Miquelon\">Saint Pierre and Miquelon</a></td>
+<td><a href=\"/wiki/Time_in_France\" title=\"Time in France\">UTC\u221203:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>FSS</td>
+<td>EGQK</td>
+<td><a href=\"/wiki/RAF_Kinloss\" title=\"RAF Kinloss\">RAF Kinloss</a></td>
+<td><a href=\"/wiki/Forres\" title=\"Forres\">Forres</a>, <a href=\"/wiki/Scotland\" title=\"Scotland\">Scotland</a>, United Kingdom</td>
+<td><a href=\"/wiki/Greenwich_Mean_Time\" title=\"Greenwich Mean Time\">UTC\u00b100:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>FST</td>
+<td>KFST</td>
+<td><a href=\"/wiki/Fort_Stockton%E2%80%93Pecos_County_Airport\" title=\"Fort Stockton\u2013Pecos County Airport\">Fort Stockton\u2013Pecos County Airport</a></td>
+<td><a href=\"/wiki/Fort_Stockton,_Texas\" title=\"Fort Stockton, Texas\">Fort Stockton</a>, <a href=\"/wiki/Texas\" title=\"Texas\">Texas</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>FSU</td>
+<td>KFSU</td>
+<td><a href=\"/wiki/Fort_Sumner_Municipal_Airport\" title=\"Fort Sumner Municipal Airport\">Fort Sumner Municipal Airport</a></td>
+<td><a href=\"/wiki/Fort_Sumner,_New_Mexico\" title=\"Fort Sumner, New Mexico\">Fort Sumner</a>, <a href=\"/wiki/New_Mexico\" title=\"New Mexico\">New Mexico</a>, United States</td>
+<td><a href=\"/wiki/Mountain_Time_Zone\" title=\"Mountain Time Zone\">UTC\u221207:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>FSZ</td>
+<td>RJNS</td>
+<td><a href=\"/wiki/Shizuoka_Airport\" title=\"Shizuoka Airport\">Shizuoka Airport</a> (Mt. Fuji Shizuoka Airport)</td>
+<td><a href=\"/wiki/Shizuoka,_Shizuoka\" class=\"mw-redirect\" title=\"Shizuoka, Shizuoka\">Shizuoka</a>, <a href=\"/wiki/Honshu\" title=\"Honshu\">Honshu</a>, Japan</td>
+<td><a href=\"/wiki/Japan_Standard_Time\" title=\"Japan Standard Time\">UTC+09:00</a></td>
+<td>
+</td></tr>
+<tr class=\"sortbottom\">
+<th colspan=\"6\" style=\"text-align:left; background:#ddd;\"><span id=\"FT\"></span>-FT-
+</th></tr>
+<tr>
+<td>FTA</td>
+<td>NVVF</td>
+<td><a href=\"/wiki/Futuna_Airport\" title=\"Futuna Airport\">Futuna Airport</a></td>
+<td><a href=\"/wiki/Futuna_Island,_Vanuatu\" title=\"Futuna Island, Vanuatu\">Futuna Island</a>, <a href=\"/wiki/Tafea_Province\" title=\"Tafea Province\">Tafea</a>, <a href=\"/wiki/Vanuatu\" title=\"Vanuatu\">Vanuatu</a></td>
+<td><a href=\"/wiki/UTC%2B11:00\" title=\"UTC+11:00\">UTC+11:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>FTE</td>
+<td>SAWA</td>
+<td><a href=\"/wiki/Comandante_Armando_Tola_International_Airport\" title=\"Comandante Armando Tola International Airport\">Comandante Armando Tola International Airport</a></td>
+<td><a href=\"/wiki/El_Calafate\" title=\"El Calafate\">El Calafate</a>, <a href=\"/wiki/Santa_Cruz_Province,_Argentina\" title=\"Santa Cruz Province, Argentina\">Santa Cruz</a>, Argentina</td>
+<td><a href=\"/wiki/Time_in_Argentina\" title=\"Time in Argentina\">UTC\u221203:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>FTI</td>
+<td>NSFQ</td>
+<td><a href=\"/wiki/Fitiuta_Airport\" title=\"Fitiuta Airport\">Fitiuta Airport</a> (FAA: FAQ)</td>
+<td><a href=\"/wiki/Fitiuta,_American_Samoa\" title=\"Fitiuta, American Samoa\">Fitiuta</a>, <a href=\"/wiki/American_Samoa\" title=\"American Samoa\">American Samoa</a>, United States</td>
+<td><a href=\"/wiki/Samoa_Time_Zone\" title=\"Samoa Time Zone\">UTC\u221211:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>FTK</td>
+<td>KFTK</td>
+<td><a href=\"/wiki/Godman_Army_Airfield\" title=\"Godman Army Airfield\">Godman Army Airfield</a></td>
+<td><a href=\"/wiki/Fort_Knox\" title=\"Fort Knox\">Fort Knox</a>, <a href=\"/wiki/Kentucky\" title=\"Kentucky\">Kentucky</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>FTU</td>
+<td>FMSD</td>
+<td><a href=\"/wiki/T%C3%B4lanaro_Airport\" title=\"T\u00f4lanaro Airport\">T\u00f4lanaro Airport</a> (Marillac Airport)</td>
+<td><a href=\"/wiki/T%C3%B4lanaro\" title=\"T\u00f4lanaro\">T\u00f4lanaro</a>, <a href=\"/wiki/Madagascar\" title=\"Madagascar\">Madagascar</a></td>
+<td><a href=\"/wiki/East_Africa_Time\" title=\"East Africa Time\">UTC+03:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>FTW</td>
+<td>KFTW</td>
+<td><a href=\"/wiki/Fort_Worth_Meacham_International_Airport\" title=\"Fort Worth Meacham International Airport\">Fort Worth Meacham International Airport</a></td>
+<td><a href=\"/wiki/Fort_Worth,_Texas\" title=\"Fort Worth, Texas\">Fort Worth</a>, <a href=\"/wiki/Texas\" title=\"Texas\">Texas</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>FTX</td>
+<td>FCOO</td>
+<td><a href=\"/wiki/Owando_Airport\" title=\"Owando Airport\">Owando Airport</a></td>
+<td><a href=\"/wiki/Owando\" title=\"Owando\">Owando</a>, <a href=\"/wiki/Republic_of_the_Congo\" title=\"Republic of the Congo\">Republic of the Congo</a></td>
+<td><a href=\"/wiki/West_Africa_Time\" title=\"West Africa Time\">UTC+01:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>FTY</td>
+<td>KFTY</td>
+<td><a href=\"/wiki/Fulton_County_Airport_(Georgia)\" title=\"Fulton County Airport (Georgia)\">Fulton County Airport</a> (Charlie Brown Field)</td>
+<td><a href=\"/wiki/Atlanta\" title=\"Atlanta\">Atlanta</a>, <a href=\"/wiki/Georgia_(U.S._state)\" title=\"Georgia (U.S. state)\">Georgia</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr class=\"sortbottom\">
+<th colspan=\"6\" style=\"text-align:left; background:#ddd;\"><span id=\"FU\"></span>-FU-
+</th></tr>
+<tr>
+<td>FUB</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Fulleborn_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Fulleborn Airport (page does not exist)\">Fulleborn Airport</a></td>
+<td><a href=\"/w/index.php?title=Fulleborn&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Fulleborn (page does not exist)\">Fulleborn</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+<td><a href=\"/wiki/UTC%2B10:00\" title=\"UTC+10:00\">UTC+10:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>FUE</td>
+<td>GCFV</td>
+<td><a href=\"/wiki/Fuerteventura_Airport\" title=\"Fuerteventura Airport\">Fuerteventura Airport</a></td>
+<td><a href=\"/wiki/Fuerteventura\" title=\"Fuerteventura\">Fuerteventura</a>, <a href=\"/wiki/Canary_Islands\" title=\"Canary Islands\">Canary Islands</a>, Spain</td>
+<td><a href=\"/wiki/Western_European_Time\" title=\"Western European Time\">UTC\u00b100:00</a></td>
+<td>Mar-Oct
+</td></tr>
+<tr>
+<td>FUG</td>
+<td>ZSFY</td>
+<td><a href=\"/wiki/Fuyang_Xiguan_Airport\" title=\"Fuyang Xiguan Airport\">Fuyang Xiguan Airport</a></td>
+<td><a href=\"/wiki/Fuyang\" title=\"Fuyang\">Fuyang</a>, <a href=\"/wiki/Anhui\" title=\"Anhui\">Anhui</a>, China</td>
+<td><a href=\"/wiki/Time_in_China\" title=\"Time in China\">UTC+08:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>FUJ</td>
+<td>RJFE</td>
+<td><a href=\"/wiki/Fukue_Airport\" title=\"Fukue Airport\">Fukue Airport</a> (Got\u014d-Fukue Airport)</td>
+<td><a href=\"/wiki/Got%C5%8D,_Nagasaki\" title=\"Got\u014d, Nagasaki\">Got\u014d</a>, <a href=\"/wiki/Got%C5%8D_Islands\" title=\"Got\u014d Islands\">Got\u014d Islands</a>, Japan</td>
+<td><a href=\"/wiki/Japan_Standard_Time\" title=\"Japan Standard Time\">UTC+09:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>FUK</td>
+<td>RJFF</td>
+<td><a href=\"/wiki/Fukuoka_Airport\" title=\"Fukuoka Airport\">Fukuoka Airport</a> (Itazuke Air Base)</td>
+<td><a href=\"/wiki/Fukuoka\" title=\"Fukuoka\">Fukuoka</a>, <a href=\"/wiki/Kyushu\" title=\"Kyushu\">Kyushu</a>, Japan</td>
+<td><a href=\"/wiki/Japan_Standard_Time\" title=\"Japan Standard Time\">UTC+09:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>FUL</td>
+<td>KFUL</td>
+<td><a href=\"/wiki/Fullerton_Municipal_Airport\" title=\"Fullerton Municipal Airport\">Fullerton Municipal Airport</a></td>
+<td><a href=\"/wiki/Fullerton,_California\" title=\"Fullerton, California\">Fullerton</a>, <a href=\"/wiki/California\" title=\"California\">California</a>, United States</td>
+<td><a href=\"/wiki/Pacific_Time_Zone\" title=\"Pacific Time Zone\">UTC\u221208:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>FUM</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Fuma_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Fuma Airport (page does not exist)\">Fuma Airport</a><sup id=\"cite_ref-IATA_1-7\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Fuma,_Papua_New_Guinea&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Fuma, Papua New Guinea (page does not exist)\">Fuma</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+<td><a href=\"/wiki/UTC%2B10:00\" title=\"UTC+10:00\">UTC+10:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>FUN</td>
+<td>NGFU</td>
+<td><a href=\"/wiki/Funafuti_International_Airport\" title=\"Funafuti International Airport\">Funafuti International Airport</a></td>
+<td><a href=\"/wiki/Funafuti\" title=\"Funafuti\">Funafuti</a>, <a href=\"/wiki/Tuvalu\" title=\"Tuvalu\">Tuvalu</a></td>
+<td><a href=\"/wiki/UTC%2B12:00\" title=\"UTC+12:00\">UTC+12:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>FUO</td>
+<td>ZGFS</td>
+<td><a href=\"/wiki/Foshan_Shadi_Airport\" title=\"Foshan Shadi Airport\">Foshan Shadi Airport</a></td>
+<td><a href=\"/wiki/Foshan\" title=\"Foshan\">Foshan</a>, <a href=\"/wiki/Guangdong\" title=\"Guangdong\">Guangdong</a>, China</td>
+<td><a href=\"/wiki/Time_in_China\" title=\"Time in China\">UTC+08:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>FUT</td>
+<td>NLWF</td>
+<td><a href=\"/wiki/Pointe_Vele_Airport\" title=\"Pointe Vele Airport\">Pointe Vele Airport</a></td>
+<td><a href=\"/wiki/Futuna_(Wallis_and_Futuna)\" title=\"Futuna (Wallis and Futuna)\">Futuna Island</a>, <a href=\"/wiki/Wallis_and_Futuna\" title=\"Wallis and Futuna\">Wallis and Futuna</a></td>
+<td><a href=\"/wiki/Time_in_France\" title=\"Time in France\">UTC+12:00</a></td>
+<td>
+</td></tr>
+<tr class=\"sortbottom\">
+<th colspan=\"6\" style=\"text-align:left; background:#ddd;\"><span id=\"FV\"></span>-FV-
+</th></tr>
+<tr>
+<td>FVL</td>
+<td>YFLO</td>
+<td><a href=\"/w/index.php?title=Flora_Valley_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Flora Valley Airport (page does not exist)\">Flora Valley Airport</a><sup id=\"cite_ref-IATA_1-8\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Flora_Valley,_Western_Australia&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Flora Valley, Western Australia (page does not exist)\">Flora Valley</a>, <a href=\"/wiki/Western_Australia\" title=\"Western Australia\">Western Australia</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+08:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>FVM</td>
+<td>VRMF</td>
+<td><a href=\"/wiki/Fuvahmulah_Airport\" title=\"Fuvahmulah Airport\">Fuvahmulah Airport</a></td>
+<td><a href=\"/wiki/Fuvahmulah\" title=\"Fuvahmulah\">Fuvahmulah</a>, <a href=\"/wiki/Gnaviyani_Atoll\" title=\"Gnaviyani Atoll\">Gnaviyani Atoll</a>, <a href=\"/wiki/Maldives\" title=\"Maldives\">Maldives</a></td>
+<td><a href=\"/wiki/UTC%2B05:00\" title=\"UTC+05:00\">UTC+05:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>FVR</td>
+<td>YFRV</td>
+<td><a href=\"/w/index.php?title=Forrest_River_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Forrest River Airport (page does not exist)\">Forrest River Airport</a><sup id=\"cite_ref-IATA_1-9\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Oombulgurri_Community,_Western_Australia\" title=\"Oombulgurri Community, Western Australia\">Forrest River Mission</a>, <a href=\"/wiki/Western_Australia\" title=\"Western Australia\">Western Australia</a>, Australia</td>
+<td><a href=\"/wiki/Australian_Time\" class=\"mw-redirect\" title=\"Australian Time\">UTC+08:00</a></td>
+<td>
+</td></tr>
+<tr class=\"sortbottom\">
+<th colspan=\"6\" style=\"text-align:left; background:#ddd;\"><span id=\"FW\"></span>-FW-
+</th></tr>
+<tr>
+<td>FWA</td>
+<td>KFWA</td>
+<td><a href=\"/wiki/Fort_Wayne_International_Airport\" title=\"Fort Wayne International Airport\">Fort Wayne International Airport</a></td>
+<td><a href=\"/wiki/Fort_Wayne,_Indiana\" title=\"Fort Wayne, Indiana\">Fort Wayne</a>, <a href=\"/wiki/Indiana\" title=\"Indiana\">Indiana</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>FWH</td>
+<td>KNFW</td>
+<td><a href=\"/wiki/Naval_Air_Station_Joint_Reserve_Base_Fort_Worth\" title=\"Naval Air Station Joint Reserve Base Fort Worth\">NAS Fort Worth JRB</a> / Carswell Field (FAA: NFW)</td>
+<td><a href=\"/wiki/Fort_Worth,_Texas\" title=\"Fort Worth, Texas\">Fort Worth</a>, <a href=\"/wiki/Texas\" title=\"Texas\">Texas</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>FWL</td>
+<td>PAFW</td>
+<td><a href=\"/w/index.php?title=Farewell_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Farewell Airport (page does not exist)\">Farewell Airport</a></td>
+<td><a href=\"/w/index.php?title=Farewell,_Alaska&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Farewell, Alaska (page does not exist)\">Farewell</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+<td><a href=\"/wiki/Alaska_Time_Zone\" title=\"Alaska Time Zone\">UTC\u221209:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr class=\"sortbottom\">
+<th colspan=\"6\" style=\"text-align:left; background:#ddd;\"><span id=\"FX\"></span>-FX-
+</th></tr>
+<tr>
+<td>FXE</td>
+<td>KFXE</td>
+<td><a href=\"/wiki/Fort_Lauderdale_Executive_Airport\" title=\"Fort Lauderdale Executive Airport\">Fort Lauderdale Executive Airport</a></td>
+<td><a href=\"/wiki/Fort_Lauderdale,_Florida\" title=\"Fort Lauderdale, Florida\">Fort Lauderdale</a>, <a href=\"/wiki/Florida\" title=\"Florida\">Florida</a>, United States</td>
+<td><a href=\"/wiki/Eastern_Time_Zone\" title=\"Eastern Time Zone\">UTC\u221205:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>FXO</td>
+<td>FQCB</td>
+<td><a href=\"/wiki/Cuamba_Airport\" title=\"Cuamba Airport\">Cuamba Airport</a></td>
+<td><a href=\"/wiki/Cuamba\" title=\"Cuamba\">Cuamba</a>, <a href=\"/wiki/Mozambique\" title=\"Mozambique\">Mozambique</a></td>
+<td><a href=\"/wiki/Central_Africa_Time\" title=\"Central Africa Time\">UTC+02:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>FXY</td>
+<td>KFXY</td>
+<td><a href=\"/wiki/Forest_City_Municipal_Airport\" title=\"Forest City Municipal Airport\">Forest City Municipal Airport</a></td>
+<td><a href=\"/wiki/Forest_City,_Iowa\" title=\"Forest City, Iowa\">Forest City</a>, <a href=\"/wiki/Iowa\" title=\"Iowa\">Iowa</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr class=\"sortbottom\">
+<th colspan=\"6\" style=\"text-align:left; background:#ddd;\"><span id=\"FY\"></span>-FY-
+</th></tr>
+<tr>
+<td>FYJ</td>
+<td>ZYFY</td>
+<td><a href=\"/wiki/Fuyuan_Dongji_Airport\" title=\"Fuyuan Dongji Airport\">Fuyuan Dongji Airport</a></td>
+<td><a href=\"/wiki/Fuyuan_County,_Heilongjiang\" class=\"mw-redirect\" title=\"Fuyuan County, Heilongjiang\">Fuyuan</a>, <a href=\"/wiki/Heilongjiang\" title=\"Heilongjiang\">Heilongjiang</a>, China</td>
+<td><a href=\"/wiki/Time_in_China\" title=\"Time in China\">UTC+08:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>FYM</td>
+<td>KFYM</td>
+<td><a href=\"/wiki/Fayetteville_Municipal_Airport_(Tennessee)\" title=\"Fayetteville Municipal Airport (Tennessee)\">Fayetteville Municipal Airport</a></td>
+<td><a href=\"/wiki/Fayetteville,_Tennessee\" title=\"Fayetteville, Tennessee\">Fayetteville</a>, <a href=\"/wiki/Tennessee\" title=\"Tennessee\">Tennessee</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>FYN</td>
+<td>ZWFY</td>
+<td><a href=\"/wiki/Fuyun_Koktokay_Airport\" title=\"Fuyun Koktokay Airport\">Fuyun Koktokay Airport</a><sup id=\"cite_ref-IATA_1-10\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Fuyun_County\" title=\"Fuyun County\">Fuyun</a>, <a href=\"/wiki/Xinjiang\" title=\"Xinjiang\">Xinjiang</a>, China</td>
+<td><a href=\"/wiki/Time_in_China\" title=\"Time in China\">UTC+06:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>FYT</td>
+<td>FTTY</td>
+<td><a href=\"/wiki/Faya-Largeau_Airport\" title=\"Faya-Largeau Airport\">Faya-Largeau Airport</a></td>
+<td><a href=\"/wiki/Faya-Largeau\" title=\"Faya-Largeau\">Faya-Largeau</a>, <a href=\"/wiki/Chad\" title=\"Chad\">Chad</a></td>
+<td><a href=\"/wiki/West_Africa_Time\" title=\"West Africa Time\">UTC+01:00</a></td>
+<td>
+</td></tr>
+<tr>
+<td>FYU</td>
+<td>PFYU</td>
+<td><a href=\"/wiki/Fort_Yukon_Airport\" title=\"Fort Yukon Airport\">Fort Yukon Airport</a></td>
+<td><a href=\"/wiki/Fort_Yukon,_Alaska\" title=\"Fort Yukon, Alaska\">Fort Yukon</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+<td><a href=\"/wiki/Alaska_Time_Zone\" title=\"Alaska Time Zone\">UTC\u221209:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr>
+<td>FYV</td>
+<td>KFYV</td>
+<td><a href=\"/wiki/Drake_Field\" title=\"Drake Field\">Drake Field</a> (Fayetteville Executive Airport)</td>
+<td><a href=\"/wiki/Fayetteville,_Arkansas\" title=\"Fayetteville, Arkansas\">Fayetteville</a>, <a href=\"/wiki/Arkansas\" title=\"Arkansas\">Arkansas</a>, United States</td>
+<td><a href=\"/wiki/Central_Time_Zone\" title=\"Central Time Zone\">UTC\u221206:00</a></td>
+<td>Mar-Nov
+</td></tr>
+<tr class=\"sortbottom\">
+<th colspan=\"6\" style=\"text-align:left; background:#ddd;\"><span id=\"FZ\"></span>-FZ-
+</th></tr>
+<tr>
+<td>FZO</td>
+<td>EGTG</td>
+<td><a href=\"/wiki/Bristol_Filton_Airport\" title=\"Bristol Filton Airport\">Bristol Filton Airport</a></td>
+<td><a href=\"/wiki/Bristol\" title=\"Bristol\">Bristol</a>, <a href=\"/wiki/England\" title=\"England\">England</a>, United Kingdom</td>
+<td><a href=\"/wiki/Greenwich_Mean_Time\" title=\"Greenwich Mean Time\">UTC\u00b100:00</a></td>
+<td>Mar-Oct
+</td></tr>

@@ -1,0 +1,254 @@
+EAA, Eagle, Alaska, United States
+EAB,Abbs, Yemen
+EAE,Emae Island, Shefa, Vanuatu
+EAL,Mejato Island, Mejato Island Kwajalein Atoll, Marshall Islands
+EAM,Najran, Saudi Arabia
+EAN, Wheatland, Wyoming, United States
+EAP,Basel, Mulhouse, Alsace, France
+EAR, Kearney, Nebraska, United States
+EAS,San Sebasti\u00e1n, Basque Country, Spain
+EAT, Wenatchee, Washington, United States
+EAU, Eau Claire, Wisconsin, United States
+EBA,Elba Island, Tuscany, Italy
+EBB,Entebbe, Uganda
+EBD,El Obeid, Sudan
+EBG,El Bagre, Colombia
+EBH,El Bayadh, Algeria
+EBJ,Esbjerg, Denmark
+EBL,Erbil, Iraq
+EBM,El Borma, Tunisia
+EBN,Ebadon Island, Ebadon Island Kwajalein Atoll, Marshall Islands
+EBO,Ebon Atoll, Marshall Islands
+EBS, Webster City, Iowa, United States
+EBU,Saint-\u00c9tienne, Rh\u00f4ne-Alpes, France
+EBW,Ebolowa, Cameroon
+ECA, East Tawas, Michigan, United States
+ECG, Elizabeth City, North Carolina, United States
+ECH,Echuca, Victoria, Australia
+ECI, Rivas, Nicaragua
+ECN,Nicosia (Lefko\u015fa), Northern Cyprus
+ECO,El Encanto, Colombia
+ECP, Panama City, Florida, United States
+ECR,El Charco, Colombia
+ECS, Newcastle, Wyoming, United States
+EDA, Edna Bay, Alaska, United States
+EDB, El Debba, Sudan
+EDD,Erldunda, Northern Territory, Australia
+EDE, Edenton, North Carolina, United States
+EDF, Anchorage, Alaska, United States
+EDI,Edinburgh, Scotland, United Kingdom
+EDK, El Dorado, Kansas, United States
+EDL,Eldoret, Kenya
+EDM,La Roche-sur-Yon, Pays de la Loire, France
+EDO, Edremit, Turkey
+EDQ,Erandique, Honduras
+EDR, Pormpuraaw, Queensland, Australia
+EDW, Edwards, California, United States
+EED, Needles, California, United States
+EEK, Eek, Alaska, United States
+EEN, Keene, New Hampshire, United States
+EFD,Houston, Texas, United States
+EFG,Efogi, Papua New Guinea
+EFK, Newport, Vermont, United States
+EFL,Cephalonia, Greece
+EFW, Jefferson, Iowa, United States
+EGA,Engati, Papua New Guinea
+EGC, Bergerac, Aquitaine, France
+EGE, Vail, Colorado, United States
+EGI, Crestview, Florida, United States
+EGL,Neghelle, Ethiopia
+EGM,Seghe, Western Province, Solomon Islands
+EGN,Geneina, Sudan
+EGO,Belgorod, Belgorod Oblast, Russia
+EGP, Eagle Pass, Texas, United States
+EGS,Egilssta\u00f0ir, Iceland
+EGV, Eagle River, Wisconsin, United States
+EGX, Egegik, Alaska, United States
+EHL, El Bols\u00f3n, R\u00edo Negro, Argentina
+EHM,Cape Newenham, Alaska, United States
+EIA, Eia, Papua New Guinea
+EIB,Eisenach, Thuringia, Germany
+EIE,Yeniseysk, Krasnoyarsk Krai, Russia
+EIH,Einasleigh, Queensland, Australia
+EIK,Yeysk, Krasnodar Krai, Russia
+EIL, Fairbanks, Alaska, United States
+EIN,Eindhoven, Netherlands
+EIS,Tortola, Virgin Islands
+EIY,Ein Yahav, Israel
+EJA,Barrancabermeja, Colombia
+EJH,Al Wajh, Saudi Arabia
+EJN,Ejin Banner, Inner Mongolia, China
+EJT,Enejit, Mili Atoll, Marshall Islands
+EKA, Eureka, California, United States
+EKB,Ekibastuz, Kazakhstan
+EKD,Elkedra, Northern Territory, Australia
+EKE,Ekereku, Guyana
+EKI, Elkhart, Indiana, United States
+EKN, Elkins, West Virginia, United States
+EKO, Elko, Nevada, United States
+EKS,Shakhtyorsk, Sakhalin Oblast, Russia
+EKT,Eskilstuna, Sweden
+EKX, Elizabethtown, Kentucky, United States
+ELA, Eagle Lake, Texas, United States
+ELB,El Banco, Colombia
+ELC,Elcho Island, Northern Territory, Australia
+ELD, El Dorado, Arkansas, United States
+ELE,El Real, Panama
+ELF,El Fasher, Sudan
+ELG,El Gol\u00e9a, Algeria
+ELH,North Eleuthera, Eleuthera Island, Bahamas
+ELI, Elim, Alaska, United States
+ELJ,El Recreo, Colombia
+ELK, Elk City, Oklahoma, United States
+ELL,Ellisras, South Africa
+ELM, Corning, New York, United States
+ELN, Ellensburg, Washington, United States
+ELO, Eldorado, Misiones, Argentina
+ELP, El Paso, Texas, United States
+ELQ,Buraidah, Saudi Arabia
+ELR,Elelim, Indonesia
+ELS, East London, South Africa
+ELT,El Tor, Egypt
+ELU,El Oued, Algeria
+ELV, Elfin Cove, Alaska, United States
+ELW,Ellamar, Alaska, United States
+ELX,El Tigre, Venezuela
+ELY, Ely, Nevada, United States
+ELZ, Wellsville, New York, United States
+EMA,Derby, England, United Kingdom
+EMD, Emerald, Queensland, Australia
+EME,Emden, Lower Saxony, Germany
+EMG,Empangeni, South Africa
+EMI,Emirau Island, Papua New Guinea
+EMK, Emmonak, Alaska, United States
+EML, Emmen, Switzerland
+EMM, Kemmerer, Wyoming, United States
+EMN,N\u00e9ma, Mauritania
+EMO, Emo, Papua New Guinea
+EMP, Emporia, Kansas, United States
+EMS,Embessa, Papua New Guinea
+EMT, El Monte, California, United States
+EMX,El Mait\u00e9n, Chubut, Argentina
+EMY, El Minya, Egypt
+ENA, Kenai, Alaska, United States
+ENB, Eneabba, Western Australia, Australia
+ENC, Nancy, Lorraine, France
+END, Enid, Oklahoma, United States
+ENE, Ende, Indonesia
+ENF,Enonteki\u00f6, Finland
+ENH,Enshi, Hubei, China
+ENI, El Nido, Philippines
+ENJ, El Naranjo, Guatemala
+ENK,Enniskillen, Northern Ireland, United Kingdom
+ENL, Centralia, Illinois, United States
+ENN, Nenana, Alaska, United States
+ENO, Encarnacion, Paraguay
+ENS,Enschede, Netherlands
+ENT,Enewetak, Marshall Islands
+ENU,Enugu, Nigeria
+ENV, Wendover, Utah, United States
+ENW, Kenosha, Wisconsin, United States
+ENY,Yan'an, Shaanxi, China
+EOH,Medell\u00edn, Colombia
+EOI,Eday, Scotland, United Kingdom
+EOK, Keokuk, Iowa, United States
+EOR, El Dorado, Venezuela
+EOS, Neosho, Missouri, United States
+EOZ,Elorza, Venezuela
+EPA, El Palomar, Buenos Aires, Argentina
+EPG, Weeping Water, Nebraska, United States
+EPH, Ephrata, Washington, United States
+EPL,Mirecourt, Lorraine, France
+EPN,Ep\u00e9na, Republic of the Congo
+EPR, Esperance, Western Australia, Australia
+EPS,Saman\u00e1, Dominican Republic
+EPT,Eliptamin, Papua New Guinea
+EPU,P\u00e4rnu, Estonia
+EQS,Esquel, Chubut, Argentina
+ERA,Erigavo, Somalia
+ERB, Pukatja, South Australia, Australia
+ERC,Erzincan, Turkey
+ERD,Berdiansk, Ukraine
+ERE,Erave, Papua New Guinea
+ERF,Erfurt, Thuringia, Germany
+ERG,Yerbogachen, Irkutsk Oblast, Russia
+ERH,Errachidia, Morocco
+ERI, Erie, Pennsylvania, United States
+ERL,Erenhot, Inner Mongolia, China
+ERM,Erechim, Rio Grande do Sul, Brazil
+ERN,Eirunep\u00e9, Amazonas, Brazil
+ERQ,Eloise Copper Mine, Queensland, Australia
+ERR, Errol, New Hampshire, United States
+ERS,Windhoek, Namibia
+ERT,Erdenet, Mongolia
+ERU,Erume, Papua New Guinea
+ERV, Kerrville, Texas, United States
+ERZ,Erzurum, Turkey
+ESA,Esa'ala, Papua New Guinea
+ESB,Ankara, Turkey
+ESC, Escanaba, Michigan, United States
+ESD, Eastsound, Washington, United States
+ESE, Ensenada, Baja California, Mexico
+ESF, Alexandria, Louisiana, United States
+ESG,Mariscal Estigarribia, Paraguay
+ESH,Shoreham-by-Sea, England, United Kingdom
+ESI, Espinosa, Minas Gerais, Brazil
+ESK,Eski\u015fehir, Turkey
+ESL,Elista, Kalmykia, Russia
+ESM, Esmeraldas, Ecuador
+ESN, Easton, Maryland, United States
+ESO, Espa\u00f1ola, New Mexico, United States
+ESP, East Stroudsburg, Pennsylvania, United States
+ESR, El Salvador, Chile
+ESS,Essen, North Rhine-Westphalia, Germany
+EST, Estherville, Iowa, United States
+ESU,Essaouira, Morocco
+ESW, Easton, Washington, United States
+ETB, West Bend, Wisconsin, United States
+ETD, Etadunna, South Australia, Australia
+ETE,Metemma, Ethiopia
+ETH,Eilat, Israel
+ETM,Eilat, Israel
+ETN, Eastland, Texas, United States
+ETR, Santa Rosa, Ecuador
+ETS, Enterprise, Alabama, United States
+ETZ,Nancy, Lorraine, France
+EUA,Eua, Tonga
+EUC, Eucla, Western Australia, Australia
+EUE, Eureka, Nevada, United States
+EUF, Eufaula, Alabama, United States
+EUG, Eugene, Oregon, United States
+EUM,Neum\u00fcnster, Schleswig-Holstein, Germany
+EUN,Laayoune, Morocco
+EUO,Paratebueno, Colombia
+EUQ, San Jose de Buenavista, Philippines
+EUX, Oranjestad, Sint Eustatius, Caribbean Netherlands
+EVA, Evadale, Texas, United States
+EVD,Eva Downs, Northern Territory, Australia
+EVE,Narvik, Norway
+EVG,Sveg, Sweden
+EVH, Evans Head, New South Wales, Australia
+EVM, Eveleth, Minnesota, United States
+EVN,Yerevan, Armenia
+EVV, Evansville, Indiana, United States
+EVW, Evanston, Wyoming, United States
+EVX,\u00c9vreux, Upper Normandy, France
+EWB, Fall River, Massachusetts, United States
+EWE, Ewer, Indonesia
+EWI,Enarotali, Indonesia
+EWK, Newton, Kansas, United States
+EWN, New Bern, North Carolina, United States
+EWO,Ewo, Republic of the Congo
+EWR, Newark, New Jersey, United States
+EXI, Excursion Inlet, Alaska, United States
+EXM, Exmouth, Western Australia, Australia
+EXT,Exeter, England, United Kingdom
+EYK, Beloyarsky, Khanty-Mansi Autonomous Okrug, Russia
+EYL,Y\u00e9liman\u00e9, Mali
+EYP,Yopal, Colombia
+EYR, Yerington, Nevada, United States
+EYS,Eliye Springs, Kenya
+EYW, Key West, Florida, United States
+EZE,Buenos Aires, Argentina
+EZS,Elaz\u0131\u011f, Turkey
+EZV, Beryozovo, Khanty-Mansi Autonomous Okrug, Russia

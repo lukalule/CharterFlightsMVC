@@ -1,0 +1,501 @@
+TAA,Tarapaina, Solomon Islands
+TAB,Tobago, Trinidad and Tobago
+TAC,Tacloban, Philippines
+TAD, Trinidad, Colorado, United States
+TAE,Daegu, South Korea
+TAF,Oran, Algeria
+TAG,Tagbilaran, Philippines
+TAH,Tanna Island, Vanuatu
+TAI, (Ta'izz), Yemen
+TAJ,Aitape, Papua New Guinea
+TAK, Takamatsu, Shikoku, Japan
+TAL, Tanana, Alaska, United States
+TAM,Tampico, Tamaulipas, Mexico
+TAN, Tangalooma, Queensland, Australia
+TAO,Qingdao, Shandong, China
+TAP,Tapachula, Chiapas, Mexico
+TAQ, Tarcoola, South Australia, Australia
+TAR,Taranto, Apulia, Italy
+TAS,Tashkent, Uzbekistan
+TAT,Poprad, Slovakia
+TAU,Tauramena, Colombia
+TAV, Tau, American Samoa
+TAW,Tacuaremb\u00f3, Uruguay
+TAX,Taliabu, Indonesia
+TAY,Tartu, Estonia
+TAZ, (Dashoguz), Turkmenistan
+TBA,Tabibuga, Papua New Guinea
+TBB,Tuy H\u00f2a, Vietnam
+TBC, Tuba City, Arizona, United States
+TBD, Timbiqui, Colombia
+TBE,Timbunke, Papua New Guinea
+TBF,Tabiteuea North, Kiribati
+TBG,Tabubil, Papua New Guinea
+TBH,Tablas Island, Philippines
+TBI,New Bight,   Cat Island, Bahamas
+TBJ,Tabarka, Tunisia
+TBK, Timber Creek, Northern Territory, Australia
+TBL, Tableland, Western Australia, Australia
+TBM,Tumbang Samba, Indonesia
+TBN, Fort Leonard Wood, Missouri, United States
+TBO,Tabora, Tanzania
+TBP, Tumbes, Peru
+TBQ,Tarabo, Papua New Guinea
+TBR, Statesboro, Georgia, United States
+TBS,Tbilisi, Georgia
+TBT,Tabatinga, Amazonas, Brazil
+TBU,Nuku\u02bbalofa, Tonga
+TBV,Tabal Island, Aur Atoll, Marshall Islands
+TBW,Tambov, Tambov Oblast, Russia
+TBY,Tsabong, Botswana
+TBZ,Tabriz, Iran
+TCA,Tennant Creek, Northern Territory, Australia
+TCB,Treasure Cay, Abaco Islands, Bahamas
+TCC, Tucumcari, New Mexico, United States
+TCD, Tarapac\u00e1, Colombia
+TCE,Tulcea, Romania
+TCF, Tocoa, Honduras
+TCG,Tacheng, Xinjiang, China
+TCH,Tchibanga, Gabon
+TCI,Tenerife, Canary Islands, Spain
+TCJ,Torembi, Papua New Guinea
+TCK,Tinboli, Papua New Guinea
+TCL, Tuscaloosa, Alabama, United States
+TCM, Tacoma, Washington, United States
+TCN,Tehuac\u00e1n, Puebla, Mexico
+TCO,Tumaco, Colombia
+TCP, Taba, Egypt
+TCQ,Tacna, Peru
+TCR, (Tuticorin), Tamil Nadu, India
+TCS, Truth or Consequences, New Mexico, United States
+TCT, Takotna, Alaska, United States
+TCU,Thaba 'Nchu, South Africa
+TCW,Tocumwal, New South Wales, Australia
+TCX,Tabas, Iran
+TCY, Terrace Bay, Namibia
+TCZ,Tengchong, Yunnan, China
+TDA, Trinidad, Colombia
+TDB,Tetebedi, Papua New Guinea
+TDD, Trinidad, Bolivia
+TDG,Tandag, Philippines
+TDJ,Tadjoura, Djibouti
+TDK,Taldykorgan, Kazakhstan
+TDL,Tandil, Buenos Aires, Argentina
+TDN,Theda Station, Western Australia, Australia
+TDO, Toledo, Washington, United States
+TDP,Trompeteros, Peru
+TDR, Theodore, Queensland, Australia
+TDS,Sasereme, Papua New Guinea
+TDT,Timbavati, South Africa
+TDV, Tanandava, Madagascar
+TDW, Amarillo, Texas, United States
+TDX,Trat, Thailand
+TDZ, Toledo, Ohio, United States
+TEA,Tela, Honduras
+TEB, Teterboro, New Jersey, United States
+TEC,Tel\u00eamaco Borba, Paran\u00e1, Brazil
+TED,Thisted, Denmark
+TEE,T\u00e9bessa, Algeria
+TEF, Telfer, Western Australia, Australia
+TEG,Tenkodogo, Burkina Faso
+TEH, Tetlin, Alaska, United States
+TEI,Tezu, Arunachal Pradesh, India
+TEK, Tatitlek, Alaska, United States
+TEL,Telupid, Sabah, Malaysia
+TEM, Temora, New South Wales, Australia
+TEN,Tongren, Guizhou, China
+TEO,Terapo, Papua New Guinea
+TEP,Teptep, Papua New Guinea
+TEQ,Tekirda\u011f, Turkey
+TER,Terceira Island, Azores, Portugal
+TES,Teseney, Eritrea
+TET, Tete, Mozambique
+TEU,Te Anau, New Zealand
+TEV,Teruel, Aragon, Spain
+TEX, Telluride, Colorado, United States
+TEY, (\u00deingeyri), Iceland
+TEZ,Tezpur, Assam, India
+TFB,Tifalmin, Papua New Guinea
+TFF,Tef\u00e9, Amazonas, Brazil
+TFI,Tufi, Papua New Guinea
+TFL,Te\u00f3filo Otoni, Minas Gerais, Brazil
+TFM,Telefomin, Papua New Guinea
+TFN,Tenerife, Canary Islands, Spain
+TFR,10th of Ramadan City, Egypt
+TFS,Tenerife, Canary Islands, Spain
+TFT, Taftan, Pakistan
+TGA,Singapore
+TGB, Rizal, Philippines
+TGC,Tanjung Manis, Sarawak, Malaysia
+TGD,Podgorica, Montenegro
+TGE, Tuskegee, Alabama, United States
+TGG,Kuala Terengganu, Terengganu, Malaysia
+TGH,Tongoa, Shefa, Vanuatu
+TGI,Tingo Mar\u00eda, Peru
+TGJ,Tiga Island, Loyalty Islands, New Caledonia
+TGK,Taganrog, Rostov Oblast, Russia
+TGL, (Tagula Island), Papua New Guinea
+TGM,T\u00e2rgu Mure\u0219, Romania
+TGN,Traralgon, Victoria, Australia
+TGO,Tongliao, Inner Mongolia, China
+TGP, Bor, Krasnoyarsk Krai, Russia
+TGQ,Tangar\u00e1 da Serra, Mato Grosso, Brazil
+TGR,Touggourt, Algeria
+TGS, Chokwe, Mozambique
+TGT, Tanga, Tanzania
+TGU,Tegucigalpa, Honduras
+TGV,Targovishte, Bulgaria
+TGZ,Tuxtla Guti\u00e9rrez, Chiapas, Mexico
+THA, Tullahoma, Tennessee, United States
+THB,Thaba-Tseka, Lesotho
+THC,Tchien, Liberia
+THD,Thanh H\u00f3a, Vietnam
+THE,Teresina, Piau\u00ed, Brazil
+THG,Thangool, Queensland, Australia
+THH,Taharoa, New Zealand
+THI,Tichit, Mauritania
+THK,Thakhek, Laos
+THL, (Tachilek), Myanmar
+THM, Thompson Falls, Montana, United States
+THN,V\u00e4nersborg, Sweden
+THO, (\u00de\u00f3rsh\u00f6fn), Iceland
+THP, Thermopolis, Wyoming, United States
+THQ,Tianshui, Gansu, China
+THR,Tehran, Iran
+THS,Sukhothai, Thailand
+THT,Tamchakett, Mauritania
+THU,Pituffik, Greenland
+THV, York, Pennsylvania, United States
+THW,Trincomalee, Sri Lanka
+THX,Turukhansk, Krasnoyarsk Krai, Russia
+THY,Thohoyandou, South Africa
+THZ,Tahoua, Niger
+TIA,Tirana, Albania
+TIB,Tib\u00fa, Colombia
+TIC,Tinak Island, Arno Atoll, Marshall Islands
+TID,Tiaret, Algeria
+TIE, (Tippi), Ethiopia
+TIF,Ta'if, Saudi Arabia
+TIG,Tingwon, Papua New Guinea
+TIH,Tikehau, Tuamotus, French Polynesia
+TII, (Tarin Kowt), Afghanistan
+TIJ,Tijuana, Baja California, Mexico
+TIK,Oklahoma City, Oklahoma, United States
+TIL, Cheadle, Alberta, Canada
+TIM,Timika, Indonesia
+TIN,Tindouf, Algeria
+TIO, (Tilin), Myanmar
+TIP,Tripoli, Libya
+TIQ,Tinian, Northern Mariana Islands
+TIR,Tirupati, Andhra Pradesh, India
+TIU,Timaru, New Zealand
+TIV,Tivat, Montenegro
+TIW, Tacoma, Washington, United States
+TIX, Titusville, Florida, United States
+TIY,Tidjikja, Mauritania
+TIZ, Tari, Papua New Guinea
+TJA,Tarija, Bolivia
+TJB,Tanjung Balai, Indonesia
+TJC,Ticantiqu\u00ed, Panama
+TJG, Tanjung, Indonesia
+TJH, Toyooka, Honshu, Japan
+TJI, Trujillo, Honduras
+TJK,Tokat, Turkey
+TJL,Tr\u00eas Lagoas, Mato Grosso do Sul, Brazil
+TJM,Tyumen, Tyumen Oblast, Russia
+TJN,Takume, Tuamotus, French Polynesia
+TJQ,Tanjung Pandan, Indonesia
+TJS,Tanjung Selor, Indonesia
+TJU,Kulob, Tajikistan
+TJV,Thanjavur, Tamil Nadu, India
+TKA, Talkeetna, Alaska, United States
+TKB,Tekadu, Papua New Guinea
+TKC,Tiko, Cameroon
+TKD,Sekondi-Takoradi, Ghana
+TKE, Tenakee Springs, Alaska, United States
+TKF, Truckee, California, United States
+TKG,Bandar Lampung, Indonesia
+TKH,Takhli, Thailand
+TKI, Tokeen, Alaska, United States
+TKJ, Tok, Alaska, United States
+TKK,Chuuk, Federated States of Micronesia
+TKL, Taku Lodge, Alaska, United States
+TKN,Tokunoshima, Amami Islands, Japan
+TKO,Tlokoeng, Lesotho
+TKP,Takapoto, Tuamotus, French Polynesia
+TKQ,Kigoma, Tanzania
+TKR,Thakurgaon, Bangladesh
+TKS, Tokushima, Shikoku, Japan
+TKT,Tak, Thailand
+TKU,Turku, Finland
+TKV,Tatakoto, Tuamotus, French Polynesia
+TKW, Tekin, Papua New Guinea
+TKX,Takaroa, Tuamotus, French Polynesia
+TKY,  (Turkey Creek), Western Australia, Australia
+TKZ,Tokoroa, New Zealand
+TLA, Teller, Alaska, United States
+TLB,Tarbela Dam, Pakistan
+TLC,Toluca, State of Mexico, Mexico
+TLD,Tuli Lodge, Botswana
+TLE,Toliara, Madagascar
+TLF, Telida, Alaska, United States
+TLG,Tulagi, Solomon Islands
+TLH, Tallahassee, Florida, United States
+TLI,Tolitoli, Indonesia
+TLJ,Tatalina, Alaska, United States
+TLK,Talakan, Yakutia, Russia
+TLL,Tallinn, Estonia
+TLM,Tlemcen, Algeria
+TLN,Hy\u00e8res, Provence-Alpes-C\u00f4te d'Azur, France
+TLO, Tol, Papua New Guinea
+TLP,Tumolbil, Papua New Guinea
+TLQ,Turpan, Xinjiang, China
+TLR, Tulare, California, United States
+TLS,Toulouse, Midi-Pyr\u00e9n\u00e9es, France
+TLT, Tuluksak, Alaska, United States
+TLU,Tol\u00fa, Colombia
+TLV,Tel Aviv, Israel
+TLW,Talasea, Papua New Guinea
+TLX,Talca, Chile
+TLY,Plastun, Primorsky Krai, Russia
+TLZ,Catal\u00e3o, Goi\u00e1s, Brazil
+TMA, Tifton, Georgia, United States
+TMB,Miami, Florida, United States
+TMC,Tambolaka, Indonesia
+TMD,Timb\u00e9dra, Mauritania
+TME, Tame, Colombia
+TMF,Thimarafushi, Thaa Atoll, Maldives
+TMG,Tommanggong, Sabah, Malaysia
+TMH,Tanahmerah, Indonesia
+TMI,Tumlingtar, Nepal
+TMJ,Termez, Uzbekistan
+TMK,Tam K\u1ef3, Vietnam
+TML, Tamale, Ghana
+TMM,Toamasina, Madagascar
+TMN, Tamana, Kiribati
+TMO,Tumeremo, Venezuela
+TMP,Tampere, Finland
+TMQ,Tambao, Burkina Faso
+TMR,Tamanrasset, Algeria
+TMS,S\u00e3o Tom\u00e9, S\u00e3o Tom\u00e9 and Pr\u00edncipe
+TMT,Oriximin\u00e1, Par\u00e1, Brazil
+TMU, Tambor, Costa Rica
+TMW, Tamworth, New South Wales, Australia
+TMX,Timimoun, Algeria
+TMY,Tiom, Indonesia
+TMZ, Thames, New Zealand
+TNA,Jinan, Shandong, China
+TNB,Tanah Grogot, Indonesia
+TNC, Tin City, Alaska, United States
+TND, Trinidad, Cuba
+TNE,Tanegashima, \u014csumi Islands, Japan
+TNF,Toussus-le-Noble, \u00cele-de-France, France
+TNG,Tangier, Morocco
+TNH,Tonghua, Jilin, China
+TNI,Satna, Madhya Pradesh, India
+TNJ,Tanjung Pinang, Indonesia
+TNK, Tununak, Alaska, United States
+TNL,Ternopil, Ukraine
+TNM,King George Island, Antarctica
+TNN,Tainan, Taiwan
+TNO, Tamarindo, Costa Rica
+TNP, Twentynine Palms, California, United States
+TNQ,Teraina, Kiribati
+TNR,Antananarivo, Madagascar
+TNS, Tungsten, Northwest Territories, Canada
+TNT,Miami, Florida, United States
+TNU, Newton, Iowa, United States
+TNV,Tabuaeran, Kiribati
+TNW, Tena, Ecuador
+TNX,Stung Treng, Cambodia
+TNZ, Tosontsengel, Mongolia
+TOA, Torrance, California, United States
+TOB,Tobruk, Libya
+TOC, Toccoa, Georgia, United States
+TOD,Tioman Island, Pahang, Malaysia
+TOE,Tozeur, Tunisia
+TOF,Tomsk, Tomsk Oblast, Russia
+TOG, Togiak, Alaska, United States
+TOH,Torres Islands, Vanuatu
+TOI, Troy, Alabama, United States
+TOJ,Madrid, Community of Madrid, Spain
+TOK,Torokina, Papua New Guinea
+TOL, Toledo, Ohio, United States
+TOM, (Tombouctou), Mali
+TON, Tonu, Papua New Guinea
+TOO,San Vito, Costa Rica
+TOP, Topeka, Kansas, United States
+TOQ,Tocopilla, Chile
+TOR, Torrington, Wyoming, United States
+TOS,Troms\u00f8, Norway
+TOT, Totness, Suriname
+TOU,Touho, New Caledonia
+TOV,Tortola, Virgin Islands
+TOW, Toledo, Paran\u00e1, Brazil
+TOX,Tobolsk, Tyumen Oblast, Russia
+TOY, Toyama, Honshu, Japan
+TOZ, Touba, Ivory Coast
+TPA, Tampa, Florida, United States
+TPC,Tarapoa, Ecuador
+TPE, Taoyuan, Taiwan
+TPF, Tampa, Florida, United States
+TPG, Taiping, Perak, Malaysia
+TPH, Tonopah, Nevada, United States
+TPI,Tapini, Papua New Guinea
+TPJ,Taplejung, Nepal
+TPK,Tapaktuan, Indonesia
+TPL, Temple, Texas, United States
+TPN,Tiputini, Ecuador
+TPP,Tarapoto, Peru
+TPQ,Tepic, Nayarit, Mexico
+TPR, Tom Price, Western Australia, Australia
+TPS,Trapani, Sicily, Italy
+TPT,Tapeta, Liberia
+TPU,Tikapur, Nepal
+TPX,T\u016bpai, Society Islands, French Polynesia
+TQD,Fallujah, Iraq
+TQL,Tarko-Sale, Yamalo-Nenets Autonomous Okrug, Russia
+TQN,Taloqan, Afghanistan
+TQP,Trepell, Queensland, Australia
+TQQ,Tomia Island, Indonesia
+TQS,Tres Esquinas, Colombia
+TRA, Tarama, Miyako Islands, Japan
+TRB, Turbo, Colombia
+TRC,Torre\u00f3n, Coahuila, Mexico
+TRD,Trondheim, Norway
+TRE,Tiree, Scotland, United Kingdom
+TRF,Oslo, Norway
+TRG,Tauranga, New Zealand
+TRH, Trona, California, United States
+TRI, Kingsport, Tennessee, United States
+TRJ,Tarakbits, Papua New Guinea
+TRK, Tarakan, Indonesia
+TRL, Terrell, Texas, United States
+TRM, Thermal, California, United States
+TRN,Turin, Piedmont, Italy
+TRO, Taree, New South Wales, Australia
+TRQ,Tarauac\u00e1, Acre, Brazil
+TRR,Trincomalee, Sri Lanka
+TRS,Trieste, Friuli-Venezia Giulia, Italy
+TRU, Trujillo, Peru
+TRV,Thiruvananthapuram, Kerala, India
+TRW,Tarawa, Kiribati
+TRX, Trenton, Missouri, United States
+TRY,Tororo, Uganda
+TRZ, (Tiruchchirappalli), Tamil Nadu, India
+TSA,Taipei, Taiwan
+TSB,Tsumeb, Namibia
+TSC, Taisha, Ecuador
+TSD,Tshipise, South Africa
+TSE,Astana, Kazakhstan
+TSF,Venice, Veneto, Italy
+TSG, Tanacross, Alaska, United States
+TSH,Tshikapa, Democratic Republic of the Congo
+TSI, (Tsile Tsile), Papua New Guinea
+TSJ, Tsushima, Tsushima Island, Japan
+TSK,Taskul, Papua New Guinea
+TSL,Tamu\u00edn, San Luis Potos\u00ed, Mexico
+TSM, Taos, New Mexico, United States
+TSN,Tianjin, China
+TSP, Tehachapi, California, United States
+TSQ, Torres, Rio Grande do Sul, Brazil
+TSR,Timi\u0219oara, Romania
+TST, Trang, Thailand
+TSU,Tabiteuea South, Kiribati
+TSV, Townsville, Queensland, Australia
+TSW,Tsewi, Papua New Guinea
+TSY,Tasikmalaya, West Java, Indonesia
+TSX,Tanjung Santan, Indonesia
+TSZ,Tsetserleg, Mongolia
+TTA,Tan-Tan, Morocco
+TTB,Tortol\u00ec, Sardinia, Italy
+TTC,Taltal, Chile
+TTD, Portland, Oregon, United States
+TTE,Ternate, Indonesia
+TTG, Tartagal, Salta, Argentina
+TTH,Thumrait, Oman
+TTI,Tetiaroa, Society Islands, French Polynesia
+TTJ, Tottori, Honshu, Japan
+TTL,Nanuya Levu, Fiji
+TTM,Tabl\u00f3n de Tamar\u00e1, Colombia
+TTN, Trenton, New Jersey, United States
+TTO, Britton, South Dakota, United States
+TTQ, Tortuguero, Costa Rica
+TTR,Tana Toraja, Indonesia
+TTS,Tsaratanana, Madagascar
+TTT,Taitung, Taiwan
+TTU,T\u00e9touan, Morocco
+TTW,Tissamaharama, Sri Lanka
+TTX, Mungalalu, Western Australia, Australia
+TUA,Tulc\u00e1n, Ecuador
+TUB,Tubuai, French Polynesia
+TUC,San Miguel de Tucum\u00e1n, Tucum\u00e1n, Argentina
+TUD,Tambacounda, Senegal
+TUF,Tours, Centre-Val de Loire, France
+TUG,Tuguegarao, Philippines
+TUI,Turaif, Saudi Arabia
+TUJ, Tum, Ethiopia
+TUK,Turbat, Pakistan
+TUL, Tulsa, Oklahoma, United States
+TUM,Tumut, New South Wales, Australia
+TUN,Tunis, Tunisia
+TUO,Taupo, New Zealand
+TUP, Tupelo, Mississippi, United States
+TUQ,Tougan, Burkina Faso
+TUR,Tucuru\u00ed, Par\u00e1, Brazil
+TUS, Tucson, Arizona, United States
+TUT,Tauta, Papua New Guinea
+TUU, Tabuk, Saudi Arabia
+TUV,Tucupita, Venezuela
+TUW,  (Tubual\u00e1), Panama
+TUX,Tumbler Ridge, British Columbia, Canada
+TUY,Tulum, Quintana Roo, Mexico
+TUZ, Tucum\u00e3, Par\u00e1, Brazil
+TVA,Morafenobe, Madagascar
+TVC, Traverse City, Michigan, United States
+TVF, Thief River Falls, Minnesota, United States
+TVI, Thomasville, Georgia, United States
+TVL, South Lake Tahoe, California, United States
+TVS,Tangshan, Hebei, China
+TVU,Taveuni, Fiji
+TVY,Dawei, Myanmar
+TWA, Twin Hills, Alaska, United States
+TWB,Toowoomba, Queensland, Australia
+TWD, Port Townsend, Washington, United States
+TWE, Taylor, Alaska, United States
+TWF, Twin Falls, Idaho, United States
+TWN, Tewantin, Queensland, Australia
+TWP, Torwood, Queensland, Australia
+TWT, (Tawi-Tawi), Philippines
+TWU,Tawau, Sabah, Malaysia
+TWY, Tawa, Papua New Guinea
+TWZ,Twizel, New Zealand
+TXF,Teixeira de Freitas, Bahia, Brazil
+TXK, Texarkana, Arkansas, United States
+TXL,Berlin, Germany
+TXM,Teminabuan, Indonesia
+TXN,Huangshan, Anhui, China
+TXR,Tanbar, Queensland, Australia
+TXU, Tabou, Ivory Coast
+TYA, Tula, Tula Oblast, Russia
+TYB, Tibooburra, New South Wales, Australia
+TYD,Tynda, Amur Oblast, Russia
+TYE, Tyonek, Alaska, United States
+TYF,Torsby, Sweden
+TYG,Thylungra, Queensland, Australia
+TYL,Talara, Peru
+TYM,Staniel Cay, Exuma Islands, Bahamas
+TYN,Taiyuan, Shanxi, China
+TYO,Tokyo, Honshu, Japan
+TYP,Tobermorey, Northern Territory, Australia
+TYR, Tyler, Texas, United States
+TYS, Knoxville, Tennessee, United States
+TYT,Treinta y Tres, Uruguay
+TYZ, Taylor, Arizona, United States
+TZA,Belize City, Belize
+TZC, Caro, Michigan, United States
+TZL,Tuzla, Bosnia and Herzegovina
+TZM,Tizim\u00edn, Yucat\u00e1n, Mexico
+TZN,South Andros,   Andros Island, Bahamas
+TZO,Ankisatra, Madagascar
+TZX,Trabzon, Turkey

@@ -1,0 +1,300 @@
+DAA,Fort Belvoir, Virginia, United States
+DAB, Daytona Beach, Florida, United States
+DAC,Dhaka, Bangladesh
+DAD,Da Nang, Vietnam
+DAF,Daup, Papua New Guinea
+DAG, Daggett, California, United States
+DAH,Dathina, Yemen
+DAK,Dakhla Oasis, Egypt
+DAL,Dallas, Texas, United States
+DAM,Damascus, Syria
+DAN, Danville, Virginia, United States
+DAO, Dabo, Papua New Guinea
+DAP,Darchula, Nepal
+DAR,Dar es Salaam, Tanzania
+DAS,Great Bear Lake, Northwest Territories, Canada
+DAT,Datong, Shanxi, China
+DAU,Daru, Papua New Guinea
+DAV, David, Panama
+DAX,Dazhou, Sichuan, China
+DAY, Dayton, Ohio, United States
+DAZ,Darwaz, Afghanistan
+DBA,Dalbandin, Pakistan
+DBB,El Alamein, Egypt
+DBC,Baicheng, Jilin, China
+DBD,Dhanbad, Jharkhand, India
+DBK,Kalpitiya, Sri Lanka
+DBM,Debre Marqos, Ethiopia
+DBN, Dublin, Georgia, United States
+DBO,Dubbo, New South Wales, Australia
+DBP,Debepare, Papua New Guinea
+DBQ, Dubuque, Iowa, United States
+DBR,Darbhanga, Bihar, India
+DBS, Dubois, Idaho, United States
+DBT,Debre Tabor, Ethiopia
+DBU,Dambulla, Sri Lanka
+DBV,Dubrovnik, Croatia
+DBY, Dalby, Queensland, Australia
+DCA, Washington, Virginia, United States
+DCF,Canefield, Dominica
+DCG,Dubai, United Arab Emirates
+DCI,Decimomannu, Sardinia, Italy
+DCK, Dahl Creek, Alaska, United States
+DCM,Castres, Midi-Pyr\u00e9n\u00e9es, France
+DCN, Derby, Western Australia, Australia
+DCT,Duncan Town,   Ragged Island, Bahamas
+DCU, Decatur, Alabama, United States
+DCY,Daocheng, Sichuan, China
+DDC, Dodge City, Kansas, United States
+DDG,Dandong, Liaoning, China
+DDM,Dodoima, Papua New Guinea
+DDN,Delta Downs, Queensland, Australia
+DDU, Dadu, Pakistan
+DEA,Dera Ghazi Khan, Pakistan
+DEB,Debrecen, Hungary
+DEC, Decatur, Illinois, United States
+DED,Dehradun, Uttarakhand, India
+DEE,Yuzhno-Kurilsk, Sakhalin Oblast, Russia
+DEF,Dezful, Iran
+DEH, Decorah, Iowa, United States
+DEI,Denis Island, Seychelles
+DEL,Delhi, India
+DEM,Dembidolo, Ethiopia
+DEN,Denver, Colorado, United States
+DEP,Daporijo, Arunachal Pradesh, India
+DER,Derim, Papua New Guinea
+DES,Desroches Island, Seychelles
+DET,Detroit, Michigan, United States
+DEX,Yahukimo, Indonesia
+DEZ,Deir ez-Zor, Syria
+DFI, Defiance, Ohio, United States
+DFP,Drumduff, Queensland, Australia
+DFW,Fort Worth, Texas, United States
+DGA,Dangriga, Belize
+DGC,Degeh Bur, Ethiopia
+DGD,Dalgaranga Gold Mine, Western Australia, Australia
+DGE,Mudgee, New South Wales, Australia
+DGF, Douglas Lake, British Columbia, Canada
+DGK,Dugong Beach Lodge, Mozambique
+DGL, Douglas, Arizona, United States
+DGM,Colombo, Sri Lanka
+DGN, Dahlgren, Virginia, United States
+DGO,Durango, Durango, Mexico
+DGP,Daugavpils, Latvia
+DGR,Dargaville, New Zealand
+DGT,Dumaguete, Philippines
+DGU,D\u00e9dougou, Burkina Faso
+DGW, Douglas, Wyoming, United States
+DHA,Dhahran, Saudi Arabia
+DHB, Deer Harbor, Washington, United States
+DHD,Durham Downs, Queensland, Australia
+DHF,Abu Dhabi, United Arab Emirates
+DHI,Dhangadhi, Nepal
+DHL,Dhala, Yemen
+DHM, Kangra, Himachal Pradesh, India
+DHN, Dothan, Alabama, United States
+DHR,Den Helder, Netherlands
+DHT, Dalhart, Texas, United States
+DIA,Doha, Qatar
+DIB,Dibrugarh, Assam, India
+DIE,Antsiranana, Madagascar
+DIG,Shangri-La, Yunnan, China
+DIJ,Dijon, Burgundy, France
+DIK, Dickinson, North Dakota, United States
+DIL,Dili, East Timor
+DIM,Dimbokro, Ivory Coast
+DIN,Dien Bien Phu, Vietnam
+DIP,Diapaga, Burkina Faso
+DIQ,Divin\u00f3polis, Minas Gerais, Brazil
+DIR,Dire Dawa, Ethiopia
+DIS,Dolisie, Republic of the Congo
+DIU, Diu, Daman and Diu, India
+DIV, Divo, Ivory Coast
+DIW,Dickwella, Sri Lanka
+DIY,Diyarbak\u0131r, Turkey
+DJA,Djougou, Benin
+DJB,Jambi, Indonesia
+DJE,Djerba, Tunisia
+DJG,Djanet, Algeria
+DJH,Dubai, United Arab Emirates
+DJJ,Jayapura, Indonesia
+DJM,Djambala, Republic of the Congo
+DJN, Delta Junction, Alaska, United States
+DJO,Daloa, Ivory Coast
+DJU,Dj\u00fapivogur, Iceland
+DKA,Katsina, Nigeria
+DKI,Dunk Island, Queensland, Australia
+DKK, Dunkirk, New York, United States
+DKR,Dakar, Senegal
+DKS,Dikson, Krasnoyarsk Krai, Russia
+DKV,Docker River, Northern Territory, Australia
+DLA,Douala, Cameroon
+DLB,Dalbertis, Papua New Guinea
+DLC,Dalian, Liaoning, China
+DLE, Dole, Franche-Comt\u00e9, France
+DLF, Del Rio, Texas, United States
+DLG, Dillingham, Alaska, United States
+DLH, Duluth, Minnesota, United States
+DLI,Da Lat, Vietnam
+DLK,Dulkaninna, South Australia, Australia
+DLL, Dillon, South Carolina, United States
+DLM,Dalaman, Turkey
+DLN, Dillon, Montana, United States
+DLS, The Dalles, Oregon, United States
+DLU,Dali, Yunnan, China
+DLV,Delissaville, Northern Territory, Australia
+DLY,Dillon's Bay, Erromango, Tafea, Vanuatu
+DLZ,Dalanzadgad, Mongolia
+DMA, Tucson, Arizona, United States
+DMB,Taraz, Kazakhstan
+DMD, Doomadgee, Queensland, Australia
+DME,Moscow, Russia
+DMK,Bangkok, Thailand
+DMM,Dammam, Saudi Arabia
+DMN, Deming, New Mexico, United States
+DMO, Sedalia, Missouri, United States
+DMR, Dhamar, Yemen
+DMT,Diamantino, Mato Grosso, Brazil
+DMU,Dimapur, Nagaland, India
+DNA, Kadena, Okinawa, Japan
+DNB, Dunbar, Queensland, Australia
+DND,Dundee, Scotland, United Kingdom
+DNF, Derna, Libya
+DNG, Doongan, Western Australia, Australia
+DNH,Dunhuang, Gansu, China
+DNI,Wad Madani, Sudan
+DNK,Dnipro, Ukraine
+DNL, Augusta, Georgia, United States
+DNM, Denham, Western Australia, Australia
+DNN, Dalton, Georgia, United States
+DNO,Dian\u00f3polis, Tocantins, Brazil
+DNP,Tribhuwannagar, Nepal
+DNQ,Deniliquin, New South Wales, Australia
+DNR,Saint-Malo, Brittany, France
+DNS, Denison, Iowa, United States
+DNU,Dinangat, Papua New Guinea
+DNV, Danville, Illinois, United States
+DNX, Dinder, Sudan
+DNZ,Denizli, Turkey
+DOA,Doany, Madagascar
+DOB, Dobo, Indonesia
+DOC,Dornoch, Scotland, United Kingdom
+DOD,Dodoma, Tanzania
+DOE,Djoemoe, Suriname
+DOG,Dongola, Sudan
+DOH,Doha, Qatar
+DOI,Doini Island, Papua New Guinea
+DOK,Donetsk, Ukraine
+DOL,Deauville, Lower Normandy, France
+DOM, St Andrew Parish, Dominica
+DON,Dos Lagunas, Guatemala
+DOO,Dorobisoro, Papua New Guinea
+DOP,Dolpa, Nepal
+DOR, Dori, Burkina Faso
+DOS, Dios, Papua New Guinea
+DOU,Dourados, Mato Grosso do Sul, Brazil
+DOV, Dover, Delaware, United States
+DOX, Dongara, Western Australia, Australia
+DOY,Dongying, Shandong, China
+DPA, West Chicago, Illinois, United States
+DPE,Dieppe, Upper Normandy, France
+DPG, Dugway, Utah, United States
+DPL,Dipolog, Philippines
+DPO, Devonport, Tasmania, Australia
+DPS, (Bali), Indonesia
+DPT, Deputatsky, Yakutia, Russia
+DPU, Dumpu, Papua New Guinea
+DQA,Daqing, Heilongjiang, China
+DQM,Duqm, Oman
+DRA, Mercury, Nevada, United States
+DRB, Derby, Western Australia, Australia
+DRC,Dirico, Angola
+DRD,Dorunda, Queensland, Australia
+DRE, Drummond Island, Michigan, United States
+DRF,Drift River, Alaska, United States
+DRG, Deering, Alaska, United States
+DRH, Dabra, Indonesia
+DRI, DeRidder, Louisiana, United States
+DRJ,Drietabbetje, Suriname
+DRK,Drake Bay, Costa Rica
+DRN, Dirranbandi, Queensland, Australia
+DRO, Durango, Colorado, United States
+DRR,Durrie, Queensland, Australia
+DRS,Dresden, Saxony, Germany
+DRT, Del Rio, Texas, United States
+DRU, Drummond, Montana, United States
+DRV,Dharavandhoo Island, Baa Atoll, Maldives
+DRW, Darwin, Northern Territory, Australia
+DRY,Drysdale River, Western Australia, Australia
+DSA,Doncaster, England, United Kingdom
+DSC,Dschang, Cameroon
+DSD,La D\u00e9sirade, Guadeloupe
+DSE,Kombolcha, Ethiopia
+DSG, Dilasag, Philippines
+DSI, Destin, Florida, United States
+DSK,Dera Ismail Khan, Pakistan
+DSM, Des Moines, Iowa, United States
+DSN,Ordos, Inner Mongolia, China
+DSO,Sondok, North Korea
+DSS,Dakar, Senegal
+DSV, Dansville, New York, United States
+DSX,Pratas (Dongsha) Islands, Taiwan
+DTA, Delta, Utah, United States
+DTB,Siborong-Borong, Indonesia
+DTD,Datadawai, Indonesia
+DTE, Daet, Philippines
+DTH,Death Valley, California, United States
+DTI, Diamantina, Minas Gerais, Brazil
+DTL, Detroit Lakes, Minnesota, United States
+DTM,Dortmund, North Rhine-Westphalia, Germany
+DTN, Shreveport, Louisiana, United States
+DTR,Decatur Island, Washington, United States
+DTT,Detroit, Michigan, United States
+DTU,Wudalianchi, Heilongjiang, China
+DTW,Detroit, Michigan, United States
+DUA, Durant, Oklahoma, United States
+DUB,Dublin, Ireland
+DUC, Duncan, Oklahoma, United States
+DUD,Dunedin, New Zealand
+DUE,Dundo, Angola
+DUF, Corolla, North Carolina, United States
+DUG, Douglas, Arizona, United States
+DUJ, DuBois, Pennsylvania, United States
+DUK,Mtubatuba, South Africa
+DUM,Dumai, Indonesia
+DUQ, Duncan, British Columbia, Canada
+DUR,Durban, South Africa
+DUS,D\u00fcsseldorf, North Rhine-Westphalia, Germany
+DUT, Unalaska, Alaska, United States
+DVD,Andavadoaka, Madagascar
+DVK,Diavik Diamond Mine, Northwest Territories, Canada
+DVL, Devils Lake, North Dakota, United States
+DVN, Davenport, Iowa, United States
+DVO,Davao City, Philippines
+DVP,Davenport Downs, Queensland, Australia
+DVR, Daly River, Northern Territory, Australia
+DVT, Phoenix, Arizona, United States
+DWA,Dwangwa, Malawi
+DWB,Soalala, Madagascar
+DWC,Dubai, United Arab Emirates
+DWD,Dawadmi, Saudi Arabia
+DWH,Houston, Texas, United States
+DWO,Sri Jayawardenepura Kotte, Sri Lanka
+DWR,Camp Dwyer, Afghanistan
+DXB,Dubai, United Arab Emirates
+DXD, Dixie, Queensland, Australia
+DXE, Madison, Mississippi, United States
+DXR, Danbury, Connecticut, United States
+DYA, Dysart, Queensland, Australia
+DYG,Zhangjiajie, Hunan, China
+DYL, Doylestown, Pennsylvania, United States
+DYM,Diamantina Lakes, Queensland, Australia
+DYR,Anadyr, Chukotka, Russia
+DYS, Abilene, Texas, United States
+DYU,Dushanbe, Tajikistan
+DYW, Daly Waters, Northern Territory, Australia
+DZA,Dzaoudzi, Mayotte
+DZI,Codazzi, Colombia
+DZN,Zhezkazgan, Kazakhstan
+DZO,Durazno, Uruguay
+DZU,Dazu, Chongqing, China

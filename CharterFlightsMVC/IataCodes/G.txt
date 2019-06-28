@@ -1,0 +1,363 @@
+GAA,Guamal, Colombia
+GAB, Gabbs, Nevada, United States
+GAC,Gracias, Honduras
+GAD, Gadsden, Alabama, United States
+GAE,Gab\u00e8s, Tunisia
+GAF,Gafsa, Tunisia
+GAG, Gage, Oklahoma, United States
+GAH,Gayndah, Queensland, Australia
+GAI, Gaithersburg, Maryland, United States
+GAJ, Yamagata, Honshu, Japan
+GAL, Galena, Alaska, United States
+GAM, Gambell, Alaska, United States
+GAN,Gan Island, Addu Atoll, Maldives
+GAO,Guant\u00e1namo, Cuba
+GAP,Gusap, Papua New Guinea
+GAQ,Gao, Mali
+GAR,Garaina, Papua New Guinea
+GAS,Garissa, Kenya
+GAT, Gap, Provence-Alpes-C\u00f4te d'Azur, France
+GAU,Guwahati, Assam, India
+GAV,Gag Island, Indonesia
+GAW,Gangaw, Myanmar
+GAX, Gamba, Gabon
+GAY, Gaya, Bihar, India
+GAZ,Guasopa, Papua New Guinea
+GBA, Kemble, England, United Kingdom
+GBB,Qabala, Azerbaijan
+GBC,Gasuke, Papua New Guinea
+GBD, Great Bend, Kansas, United States
+GBE,Gaborone, Botswana
+GBF,Negarbo, Papua New Guinea
+GBG, Galesburg, Illinois, United States
+GBH,Galbraith Lake, Alaska, United States
+GBJ,Grand-Bourg, Marie-Galante Island, Guadeloupe
+GBK,Gbangbatok, Sierra Leone
+GBL,Goulburn Islands, Northern Territory, Australia
+GBM,Garbaharey, Somalia
+GBP,Gamboola, Queensland, Australia
+GBR, Great Barrington, Massachusetts, United States
+GBT,Gorgan, Iran
+GBU,Khashm el Girba, Sudan
+GBV, Gibb River, Western Australia, Australia
+GBW,Ginbata, Western Australia, Australia
+GBZ,Great Barrier Island, New Zealand
+GCA, Guacamayas, Colombia
+GCC, Gillette, Wyoming, United States
+GCD, Electric City, Washington, United States
+GCH,Gachsaran, Iran
+GCI,Guernsey, Channel Islands, United Kingdom
+GCJ,Johannesburg, South Africa
+GCK, Garden City, Kansas, United States
+GCM,Grand Cayman, Cayman Islands
+GCN, Tusayan, Arizona, United States
+GCW, Peach Springs, Arizona, United States
+GCY, Greeneville, Tennessee, United States
+GDA,Gounda, Central African Republic
+GDC, Greenville, South Carolina, United States
+GDD,Gordon Downs, Western Australia, Australia
+GDE,Gode, Ethiopia
+GDG,Magdagachi, Amur Oblast, Russia
+GDH,Golden Horn Lodge, Alaska, United States
+GDI,Gordil, Central African Republic
+GDJ,Gandajika, Democratic Republic of the Congo
+GDL,Guadalajara, Jalisco, Mexico
+GDM, Gardner, Massachusetts, United States
+GDN,Gda\u0144sk, Poland
+GDO,Guasdualito, Venezuela
+GDP, Guadalupe, Piau\u00ed, Brazil
+GDQ,Gondar, Ethiopia
+GDT,Grand Turk Island, Turks and Caicos Islands
+GDV, Glendive, Montana, United States
+GDW, Gladwin, Michigan, United States
+GDX,Magadan, Magadan Oblast, Russia
+GDZ,Gelendzhik, Krasnodar Krai, Russia
+GEA,Noum\u00e9a, New Caledonia
+GEB,Gebe, Indonesia
+GEC,Ge\u00e7itkale, Northern Cyprus
+GED, Georgetown, Delaware, United States
+GEE, George Town, Tasmania, Australia
+GEF,Liangai, Vella Lavella, Solomon Islands
+GEG, Spokane, Washington, United States
+GEL,Santo \u00c2ngelo, Rio Grande do Sul, Brazil
+GEM,Mengomey\u00e9n, Equatorial Guinea
+GEO, Georgetown, Guyana
+GER,Nueva Gerona, Cuba
+GES,General Santos, Philippines
+GET,Geraldton, Western Australia, Australia
+GEV,G\u00e4llivare, Sweden
+GEW,Gewoia, Papua New Guinea
+GEX,Geelong, Victoria, Australia
+GEY, Greybull, Wyoming, United States
+GFD, Greenfield, Indiana, United States
+GFE, Grenfell, New South Wales, Australia
+GFF, Griffith, New South Wales, Australia
+GFK, Grand Forks, North Dakota, United States
+GFL, Glens Falls, New York, United States
+GFN, Grafton, New South Wales, Australia
+GFO,Bartica, Guyana
+GFR, Granville, Lower Normandy, France
+GFY,Grootfontein, Namibia
+GGC,Lumbala N'guimbo, Angola
+GGD, Gregory Downs, Queensland, Australia
+GGE, Georgetown, South Carolina, United States
+GGG, Longview, Texas, United States
+GGL, Gilgal, Colombia
+GGM,Kakamega, Kenya
+GGN,Gagnoa, Ivory Coast
+GGO,Guiglo, Ivory Coast
+GGR,Garowe, Somalia
+GGS,Gobernador Gregores,   Santa Cruz, Argentina
+GGT,Moss Town, Great Exuma Island, Bahamas
+GGW, Glasgow, Montana, United States
+GHA,Gharda\u00efa, Algeria
+GHB,Governor's Harbour, Eleuthera Island, Bahamas
+GHC,Great Harbour Cay, Berry Islands, Bahamas
+GHE,Garachin\u00e9, Panama
+GHF,Giebelstadt, Bavaria, Germany
+GHK, Kennedy Lake, Northwest Territories, Canada
+GHM, Centerville, Tennessee, United States
+GHN,Guanghan, Sichuan, China
+GHT, Ghat, Libya
+GHU, Gualeguaych\u00fa, Entre R\u00edos, Argentina
+GIB,Gibraltar
+GIC,Boigu Island, Queensland, Australia
+GID,Gitega, Burundi
+GIF, Winter Haven, Florida, United States
+GIG,Rio de Janeiro, Brazil
+GII,Siguiri, Guinea
+GIL,Gilgit, Pakistan
+GIM,Miele Mimbale, Gabon
+GIR, Girardot, Colombia
+GIS, Gisborne, New Zealand
+GIT,Geita, Tanzania
+GIU,Dambulla, Sri Lanka
+GIY,Giyani, South Africa
+GIZ,Jizan, Saudi Arabia
+GJA,Guanaja, Honduras
+GJL,Jijel, Algeria
+GJM,Guajar\u00e1-Mirim, Rond\u00f4nia, Brazil
+GJR,Gj\u00f6gur, Iceland
+GJT, Grand Junction, Colorado, United States
+GKA,Goroka, Papua New Guinea
+GKD,G\u00f6k\u00e7eada, Turkey
+GKE,Geilenkirchen, North Rhine-Westphalia, Germany
+GKH,Gorkha, Nepal
+GKK,Kooddoo, Gaafu Alif Atoll, Maldives
+GKL,Great Keppel Island, Queensland, Australia
+GKN, Gulkana, Alaska, United States
+GKO,Kongo Boumba, Gabon
+GKT, Sevierville, Tennessee, United States
+GLA,Glasgow, Scotland, United Kingdom
+GLB, Globe, Arizona, United States
+GLC,Geladi, Ethiopia
+GLD, Goodland, Kansas, United States
+GLE, Gainesville, Texas, United States
+GLF,Golfito, Costa Rica
+GLG,Glengyle, Queensland, Australia
+GLH, Greenville, Mississippi, United States
+GLI, Glen Innes, New South Wales, Australia
+GLK,Galkayo, Somalia
+GLL, Gol, Norway
+GLM,Glenormiston, Queensland, Australia
+GLN,Guelmim, Morocco
+GLO,Cheltenham, England, United Kingdom
+GLP,Gulgubip, Papua New Guinea
+GLR, Gaylord, Michigan, United States
+GLS, Galveston, Texas, United States
+GLT, Gladstone, Queensland, Australia
+GLU,Gelephu, Bhutan
+GLV, Golovin, Alaska, United States
+GLW, Glasgow, Kentucky, United States
+GLX,Galela, Indonesia
+GLY, Goldsworthy, Western Australia, Australia
+GLZ,Breda, Netherlands
+GMA,Gemena, Democratic Republic of the Congo
+GMB, Gambela, Ethiopia
+GMC,Guerima, Colombia
+GMD,Ben Slimane, Morocco
+GME,Gomel, Belarus
+GMI,Gasmata, Papua New Guinea
+GMM,Gamboma, Republic of the Congo
+GMN,Greymouth, New Zealand
+GMO, Gombe, Nigeria
+GMP,Seoul, South Korea
+GMQ,Golog, Qinghai, China
+GMR,Mangareva, Gambier Islands, French Polynesia
+GMS, Guimar\u00e3es, Maranh\u00e3o, Brazil
+GMT, Granite Mountain, Alaska, United States
+GMU, Greenville, South Carolina, United States
+GMV,Monument Valley, Utah, United States
+GMZ,Canary Islands, Spain
+GNA,Grodno, Belarus
+GNB,Grenoble, Rh\u00f4ne-Alpes, France
+GND, St. George's, Grenada
+GNF, Quincy, California, United States
+GNG, Gooding, Idaho, United States
+GNI,  (Green Island), Taiwan
+GNM,Guanambi, Bahia, Brazil
+GNN,Ginir, Ethiopia
+GNR, General Roca, R\u00edo Negro, Argentina
+GNS,Gunungsitoli, Indonesia
+GNT, Grants, New Mexico, United States
+GNU, Goodnews Bay, Alaska, United States
+GNV, Gainesville, Florida, United States
+GNY,\u015eanl\u0131urfa, Turkey
+GNZ,Ghanzi, Botswana
+GOA,Genoa, Liguria, Italy
+GOB,Goba, Ethiopia
+GOC, Gora, Papua New Guinea
+GOE,Gonaili, Papua New Guinea
+GOG,Gobabis, Namibia
+GOH,Nuuk, Greenland
+GOI,Dabolim, Goa, India
+GOJ,Nizhny Novgorod, Nizhny Novgorod Oblast, Russia
+GOK, Guthrie, Oklahoma, United States
+GOL, Gold Beach, Oregon, United States
+GOM,Goma, Democratic Republic of the Congo
+GON, New London, Connecticut, United States
+GOO,Goondiwindi, Queensland, Australia
+GOP,Gorakhpur, Uttar Pradesh, India
+GOQ,Golmud, Qinghai, China
+GOR, Gore, Ethiopia
+GOS,Gosford, New South Wales, Australia
+GOT,Gothenburg, Sweden
+GOU,Garoua, Cameroon
+GOV,Nhulunbuy, Northern Territory, Australia
+GOZ,Gorna Oryahovitsa, Bulgaria
+GPA,Patras, Greece
+GPB,Guarapuava, Paran\u00e1, Brazil
+GPD,Mount Gordon Mine, Queensland, Australia
+GPI, Guapi, Colombia
+GPL,Gu\u00e1piles, Costa Rica
+GPN,Pularumpi, Northern Territory, Australia
+GPO,General Pico, La Pampa, Argentina
+GPS,Baltra Island, Gal\u00e1pagos Islands, Ecuador
+GPT, Biloxi, Mississippi, United States
+GPZ, Grand Rapids, Minnesota, United States
+GQQ, Galion, Ohio, United States
+GRA, Gamarra, Colombia
+GRB, Green Bay, Wisconsin, United States
+GRC,Grand Cess, Liberia
+GRD, Greenwood, South Carolina, United States
+GRE, Greenville, Illinois, United States
+GRF, Tacoma, Washington, United States
+GRG,Gardez, Afghanistan
+GRH,Garuahi, Papua New Guinea
+GRI, Grand Island, Nebraska, United States
+GRJ, George, South Africa
+GRK,Killeen, Texas, United States
+GRL,Garasa, Papua New Guinea
+GRM, Grand Marais, Minnesota, United States
+GRN, Gordon, Nebraska, United States
+GRO,Girona, Catalonia, Spain
+GRP,Gurupi, Tocantins, Brazil
+GRQ,Groningen, Netherlands
+GRR, Grand Rapids, Michigan, United States
+GRS,Grosseto, Tuscany, Italy
+GRT,Gujrat, Pakistan
+GRU,S\u00e3o Paulo, Brazil
+GRV,Grozny, Chechnya, Russia
+GRW,Graciosa, Azores, Portugal
+GRX,Granada, Andalusia, Spain
+GRY,Gr\u00edmsey, Iceland
+GRZ,Graz, Austria
+GSA,Long Pasia, Sabah, Malaysia
+GSB, Goldsboro, North Carolina, United States
+GSC, Gascoyne Junction, Western Australia, Australia
+GSE,Gothenburg, Sweden
+GSH, Goshen, Indiana, United States
+GSI,Grand-Santi, French Guiana
+GSJ,Puerto San Jos\u00e9, Guatemala
+GSL,Taltheilei Narrows, Northwest Territories, Canada
+GSM,Qeshm, Iran
+GSN, Mount Gunson, South Australia, Australia
+GSO, Greensboro, North Carolina, United States
+GSP, Spartanburg, South Carolina, United States
+GSQ,Sharq Al-Owainat, Egypt
+GSR,Qardho, Somalia
+GSS,Sabie, South Africa
+GST, Gustavus, Alaska, United States
+GSU,Gedaref, Sudan
+GSV,Saratov, Saratov Oblast, Russia
+GTA,Gatokae, Solomon Islands
+GTE,Groote Eylandt, Northern Territory, Australia
+GTF, Great Falls, Montana, United States
+GTG, Grantsburg, Wisconsin, United States
+GTI,G\u00fcttin, Mecklenburg-Vorpommern, Germany
+GTN,Mount Cook, New Zealand
+GTO,Gorontalo, Indonesia
+GTP, Grants Pass, Oregon, United States
+GTR, Starkville, Mississippi, United States
+GTS,The Granites, Northern Territory, Australia
+GTT, Georgetown, Queensland, Australia
+GTW,Zl\u00edn, Czech Republic
+GTY, Gettysburg, Pennsylvania, United States
+GTZ,Grumeti, Tanzania
+GUA,Guatemala City, Guatemala
+GUB,Guerrero Negro, Baja California Sur, Mexico
+GUC, Gunnison, Colorado, United States
+GUD,Goundam, Mali
+GUE,Guriaso, Papua New Guinea
+GUF, Gulf Shores, Alabama, United States
+GUG,Guari, Papua New Guinea
+GUH,Gunnedah, New South Wales, Australia
+GUI,G\u00fciria, Venezuela
+GUJ,Guaratinguet\u00e1, S\u00e3o Paulo, Brazil
+GUL, Goulburn, New South Wales, Australia
+GUM, Hag\u00e5t\u00f1a, Guam
+GUP, Gallup, New Mexico, United States
+GUQ,Guanare, Venezuela
+GUR,Alotau, Papua New Guinea
+GUS, Peru, Indiana, United States
+GUT,G\u00fctersloh, North Rhine-Westphalia, Germany
+GUU,Grundarfj\u00f6r\u00f0ur, Iceland
+GUV,Mougulu, Papua New Guinea
+GUW,Atyrau, Kazakhstan
+GUX, Guna, Madhya Pradesh, India
+GUY, Guymon, Oklahoma, United States
+GUZ,Guarapari, Esp\u00edrito Santo, Brazil
+GVA,Geneva, Switzerland
+GVE, Gordonsville, Virginia, United States
+GVI, Green River, Papua New Guinea
+GVL, Gainesville, Georgia, United States
+GVN,Sovetskaya Gavan, Khabarovsk Krai, Russia
+GVP, Greenvale, Queensland, Australia
+GVR, Governador Valadares, Minas Gerais, Brazil
+GVT, Greenville, Texas, United States
+GVX,G\u00e4vle, Sweden
+GWA, Gwa, Myanmar
+GWD,Gwadar, Pakistan
+GWE,Gweru, Zimbabwe
+GWL,Gwalior, Madhya Pradesh, India
+GWN,Gnarowein, Papua New Guinea
+GWO, Greenwood, Mississippi, United States
+GWS, Glenwood Springs, Colorado, United States
+GWT,Sylt, Schleswig-Holstein, Germany
+GWV, Glen Dale, West Virginia, United States
+GWY,Galway, Ireland
+GXF,Sayun, Yemen
+GXG,Negage, Angola
+GXH,Xiahe, Gansu, China
+GXQ,Coyhaique, Chile
+GXX,Yagoua, Cameroon
+GXY, Greeley, Colorado, United States
+GYA,Guayaramer\u00edn, Bolivia
+GYD,Baku, Azerbaijan
+GYE,Guayaquil, Ecuador
+GYG, Magan, Yakutia, Russia
+GYI,Gisenyi, Rwanda
+GYL,Argyle, Western Australia, Australia
+GYM,Guaymas, Sonora, Mexico
+GYN,Goi\u00e2nia, Goi\u00e1s, Brazil
+GYP,Gympie, Queensland, Australia
+GYR, Goodyear, Arizona, United States
+GYS,Guangyuan, Sichuan, China
+GYU,Guyuan, Ningxia, China
+GYY, Gary, United States
+GZA,Gaza, Palestine
+GZI,Ghazni, Afghanistan
+GZO, Gizo, Western Province, Solomon Islands
+GZP,Gazipa\u015fa, Turkey
+GZT,Gaziantep, Turkey
+GZW,Qazvin, Iran

@@ -1,0 +1,1098 @@
+<tr>
+<td>VAA</td>
+<td>EFVA</td>
+<td><a href=\"/wiki/Vaasa_Airport\" title=\"Vaasa Airport\">Vaasa Airport</a></td>
+<td><a href=\"/wiki/Vaasa\" title=\"Vaasa\">Vaasa</a>, <a href=\"/wiki/Finland\" title=\"Finland\">Finland</a></td>
+</tr>
+<tr>
+<td>VAB</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Yavarate_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Yavarate Airport (page does not exist)\">Yavarate Airport</a><sup id=\"cite_ref-IATA_1-0\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Yavarate\" class=\"mw-redirect\" title=\"Yavarate\">Yavarate</a>, <a href=\"/wiki/Colombia\" title=\"Colombia\">Colombia</a></td>
+</tr>
+<tr>
+<td>VAC</td>
+<td>EDWU</td>
+<td><a href=\"/wiki/Varrelbusch_Airport\" title=\"Varrelbusch Airport\">Varrelbusch Airport</a><sup id=\"cite_ref-IATA_1-1\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Cloppenburg\" title=\"Cloppenburg\">Cloppenburg</a>, <a href=\"/wiki/Lower_Saxony\" title=\"Lower Saxony\">Lower Saxony</a>, Germany</td>
+</tr>
+<tr>
+<td>VAD</td>
+<td>KVAD</td>
+<td><a href=\"/wiki/Moody_Air_Force_Base\" title=\"Moody Air Force Base\">Moody Air Force Base</a></td>
+<td><a href=\"/wiki/Valdosta,_Georgia\" title=\"Valdosta, Georgia\">Valdosta</a>, <a href=\"/wiki/Georgia_(U.S._state)\" title=\"Georgia (U.S. state)\">Georgia</a>, United States</td>
+</tr>
+<tr>
+<td>VAF</td>
+<td>LFLU</td>
+<td><a href=\"/wiki/Valence-Chabeuil_Airport\" title=\"Valence-Chabeuil Airport\">Valence-Chabeuil Airport</a></td>
+<td><a href=\"/wiki/Valence,_Dr%C3%B4me\" class=\"mw-redirect\" title=\"Valence, Dr\u00f4me\">Valence</a>, <a href=\"/wiki/Rh%C3%B4ne-Alpes\" title=\"Rh\u00f4ne-Alpes\">Rh\u00f4ne-Alpes</a>, France</td>
+</tr>
+<tr>
+<td>VAG</td>
+<td>SBVG</td>
+<td><a href=\"/wiki/Varginha_Airport\" title=\"Varginha Airport\">Major Brigadeiro Trompowsky Airport</a></td>
+<td><a href=\"/wiki/Varginha\" title=\"Varginha\">Varginha</a>, <a href=\"/wiki/Minas_Gerais\" title=\"Minas Gerais\">Minas Gerais</a>, Brazil</td>
+</tr>
+<tr>
+<td>VAH</td>
+<td>SLVG</td>
+<td><a href=\"/wiki/Cap._Av._Vidal_Villagomez_Toledo_Airport\" title=\"Cap. Av. Vidal Villagomez Toledo Airport\">Cap. Av. Vidal Villagomez Toledo Airport</a><sup id=\"cite_ref-IATA_1-2\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Vallegrande\" title=\"Vallegrande\">Vallegrande</a>, <a href=\"/wiki/Bolivia\" title=\"Bolivia\">Bolivia</a></td>
+</tr>
+<tr>
+<td>VAI</td>
+<td>AYVN</td>
+<td><a href=\"/wiki/Vanimo_Airport\" title=\"Vanimo Airport\">Vanimo Airport</a><sup id=\"cite_ref-IATA_1-3\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Vanimo\" title=\"Vanimo\">Vanimo</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>VAK</td>
+<td>PAVA</td>
+<td><a href=\"/wiki/Chevak_Airport\" title=\"Chevak Airport\">Chevak Airport</a></td>
+<td><a href=\"/wiki/Chevak,_Alaska\" title=\"Chevak, Alaska\">Chevak</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>VAL</td>
+<td>SNVB</td>
+<td><a href=\"/wiki/Valen%C3%A7a_Airport\" title=\"Valen\u00e7a Airport\">Valen\u00e7a Airport</a><sup id=\"cite_ref-IATA_1-4\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Valen%C3%A7a,_Bahia\" title=\"Valen\u00e7a, Bahia\">Valen\u00e7a</a>, <a href=\"/wiki/Bahia\" title=\"Bahia\">Bahia</a>, Brazil</td>
+</tr>
+<tr>
+<td>VAM</td>
+<td>VRMV</td>
+<td><a href=\"/wiki/Villa_International_Airport\" title=\"Villa International Airport\">Villa International Airport</a></td>
+<td><a href=\"/wiki/Maamingili_(Alif_Dhaal_Atoll)\" title=\"Maamingili (Alif Dhaal Atoll)\">Maamigili</a>, <a href=\"/wiki/Maldives\" title=\"Maldives\">Maldives</a></td>
+</tr>
+<tr>
+<td>VAN</td>
+<td>LTCI</td>
+<td><a href=\"/wiki/Van_Ferit_Melen_Airport\" title=\"Van Ferit Melen Airport\">Van Ferit Melen Airport</a></td>
+<td><a href=\"/wiki/Van,_Turkey\" title=\"Van, Turkey\">Van</a>, <a href=\"/wiki/Turkey\" title=\"Turkey\">Turkey</a></td>
+</tr>
+<tr>
+<td>VAO</td>
+<td>AGGV</td>
+<td><a href=\"/wiki/Suavanao_Airport\" title=\"Suavanao Airport\">Suavanao Airport</a><sup id=\"cite_ref-IATA_1-5\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Suavanao&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Suavanao (page does not exist)\">Suavanao</a>, <a href=\"/wiki/Solomon_Islands\" title=\"Solomon Islands\">Solomon Islands</a></td>
+</tr>
+<tr>
+<td>VAP</td>
+<td>SCRD</td>
+<td><a href=\"/wiki/Rodelillo_Airfield\" title=\"Rodelillo Airfield\">Rodelillo Airfield</a><sup id=\"cite_ref-IATA_1-6\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Valpara%C3%ADso\" title=\"Valpara\u00edso\">Valpara\u00edso</a>, <a href=\"/wiki/Chile\" title=\"Chile\">Chile</a></td>
+</tr>
+<tr>
+<td>VAR</td>
+<td>LBWN</td>
+<td><a href=\"/wiki/Varna_Airport\" title=\"Varna Airport\">Varna Airport</a></td>
+<td><a href=\"/wiki/Varna\" title=\"Varna\">Varna</a>, <a href=\"/wiki/Bulgaria\" title=\"Bulgaria\">Bulgaria</a></td>
+</tr>
+<tr>
+<td>VAS</td>
+<td>LTAR</td>
+<td><a href=\"/wiki/Sivas_Airport\" title=\"Sivas Airport\">Sivas Airport</a></td>
+<td><a href=\"/wiki/Sivas\" title=\"Sivas\">Sivas</a>, <a href=\"/wiki/Turkey\" title=\"Turkey\">Turkey</a></td>
+</tr>
+<tr>
+<td>VAT</td>
+<td>FMMY</td>
+<td><a href=\"/w/index.php?title=Vatomandry_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Vatomandry Airport (page does not exist)\">Vatomandry Airport</a><sup id=\"cite_ref-IATA_1-7\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Vatomandry\" title=\"Vatomandry\">Vatomandry</a>, <a href=\"/wiki/Madagascar\" title=\"Madagascar\">Madagascar</a></td>
+</tr>
+<tr>
+<td>VAU</td>
+<td>NFNV</td>
+<td><a href=\"/w/index.php?title=Vatukoula_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Vatukoula Airport (page does not exist)\">Vatukoula Airport</a><sup id=\"cite_ref-IATA_1-8\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Vatukoula\" title=\"Vatukoula\">Vatukoula</a>, <a href=\"/wiki/Fiji\" title=\"Fiji\">Fiji</a></td>
+</tr>
+<tr>
+<td>VAV</td>
+<td>NFTV</td>
+<td><a href=\"/wiki/Vava%CA%BBu_International_Airport\" title=\"Vava\u02bbu International Airport\">Vava\u02bbu International Airport</a><sup id=\"cite_ref-IATA_1-9\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Vava%CA%BBu\" title=\"Vava\u02bbu\">Vava\u02bbu</a>, <a href=\"/wiki/Tonga\" title=\"Tonga\">Tonga</a></td>
+</tr>
+<tr>
+<td>VAW</td>
+<td>ENSS</td>
+<td><a href=\"/wiki/Vard%C3%B8_Airport,_Svartnes\" title=\"Vard\u00f8 Airport, Svartnes\">Vard\u00f8 Airport, Svartnes</a></td>
+<td><a href=\"/wiki/Vard%C3%B8\" title=\"Vard\u00f8\">Vard\u00f8</a>, <a href=\"/wiki/Norway\" title=\"Norway\">Norway</a></td>
+</tr>
+<tr>
+<td>VBA</td>
+<td>VYAN</td>
+<td><a href=\"/wiki/Ann_Airport\" title=\"Ann Airport\">Ann Airport</a><sup id=\"cite_ref-IATA_1-10\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Ann,_Myanmar\" title=\"Ann, Myanmar\">Ann</a>, <a href=\"/wiki/Myanmar\" title=\"Myanmar\">Myanmar</a></td>
+</tr>
+<tr>
+<td>VBC</td>
+<td>VYCZ</td>
+<td><a href=\"/wiki/Mandalay_Chanmyathazi_Airport\" title=\"Mandalay Chanmyathazi Airport\">Mandalay Chanmyathazi Airport</a><sup id=\"cite_ref-IATA_1-11\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Mandalay\" title=\"Mandalay\">Mandalay</a>, <a href=\"/wiki/Myanmar\" title=\"Myanmar\">Myanmar</a></td>
+</tr>
+<tr>
+<td>VBG</td>
+<td>KVBG</td>
+<td><a href=\"/wiki/Vandenberg_Air_Force_Base\" title=\"Vandenberg Air Force Base\">Vandenberg Air Force Base</a></td>
+<td><a href=\"/wiki/Lompoc,_California\" title=\"Lompoc, California\">Lompoc</a>, <a href=\"/wiki/California\" title=\"California\">California</a>, United States</td>
+</tr>
+<tr>
+<td>VBP</td>
+<td>VYBP</td>
+<td><a href=\"/w/index.php?title=Bokpyin_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Bokpyin Airport (page does not exist)\">Bokpyin Airport</a><sup id=\"cite_ref-IATA_1-12\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Bokpyin\" title=\"Bokpyin\">Bokpyin</a>, <a href=\"/wiki/Myanmar\" title=\"Myanmar\">Myanmar</a></td>
+</tr>
+<tr>
+<td>VBS</td>
+<td>LIPO</td>
+<td><a href=\"/wiki/Brescia_Airport\" title=\"Brescia Airport\">Brescia Airport</a> (Gabriele D'Annunzio Airport)</td>
+<td><a href=\"/wiki/Brescia\" title=\"Brescia\">Brescia</a>, <a href=\"/wiki/Lombardy\" title=\"Lombardy\">Lombardy</a>, Italy</td>
+</tr>
+<tr>
+<td>VBV</td>
+<td>NFVB</td>
+<td><a href=\"/wiki/Vanuabalavu_Airport\" title=\"Vanuabalavu Airport\">Vanuabalavu Airport</a><sup id=\"cite_ref-IATA_1-13\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Vanua_Balavu\" title=\"Vanua Balavu\">Vanua Balavu</a>, <a href=\"/wiki/Fiji\" title=\"Fiji\">Fiji</a></td>
+</tr>
+<tr>
+<td>VBY</td>
+<td>ESSV</td>
+<td><a href=\"/wiki/Visby_Airport\" title=\"Visby Airport\">Visby Airport</a></td>
+<td><a href=\"/wiki/Visby\" title=\"Visby\">Visby</a>, <a href=\"/wiki/Sweden\" title=\"Sweden\">Sweden</a></td>
+</tr>
+<tr>
+<td>VCA</td>
+<td>VVCT</td>
+<td><a href=\"/wiki/Can_Tho_International_Airport\" title=\"Can Tho International Airport\">Can Tho International Airport</a></td>
+<td><a href=\"/wiki/C%E1%BA%A7n_Th%C6%A1\" title=\"C\u1ea7n Th\u01a1\">Can Tho</a> (C\u1ea7n Th\u01a1), <a href=\"/wiki/Vietnam\" title=\"Vietnam\">Vietnam</a></td>
+</tr>
+<tr>
+<td>VCD</td>
+<td>YVRD</td>
+<td><a href=\"/wiki/Victoria_River_Downs_Airport\" title=\"Victoria River Downs Airport\">Victoria River Downs Airport</a><sup id=\"cite_ref-IATA_1-14\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Victoria_River_Downs_Station\" title=\"Victoria River Downs Station\">Victoria River Downs Station</a>, <a href=\"/wiki/Northern_Territory\" title=\"Northern Territory\">Northern Territory</a>, Australia</td>
+</tr>
+<tr>
+<td>VCE</td>
+<td>LIPZ</td>
+<td><a href=\"/wiki/Venice_Marco_Polo_Airport\" title=\"Venice Marco Polo Airport\">Venice Marco Polo Airport</a></td>
+<td><a href=\"/wiki/Venice\" title=\"Venice\">Venice</a>, <a href=\"/wiki/Veneto\" title=\"Veneto\">Veneto</a>, Italy</td>
+</tr>
+<tr>
+<td>VCF</td>
+<td></td>
+<td><a href=\"/wiki/Valcheta_Airport\" title=\"Valcheta Airport\">Valcheta Airport</a><sup id=\"cite_ref-IATA_1-15\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Valcheta\" title=\"Valcheta\">Valcheta</a>, <a href=\"/wiki/R%C3%ADo_Negro_Province\" title=\"R\u00edo Negro Province\">R\u00edo Negro</a>, Argentina</td>
+</tr>
+<tr>
+<td>VCH</td>
+<td>SUVO</td>
+<td><a href=\"/wiki/Vichadero_Airport\" title=\"Vichadero Airport\">Vichadero Airport</a></td>
+<td><a href=\"/wiki/Vichadero\" title=\"Vichadero\">Vichadero</a>, <a href=\"/wiki/Uruguay\" title=\"Uruguay\">Uruguay</a></td>
+</tr>
+<tr>
+<td>VCL</td>
+<td>VVCA</td>
+<td><a href=\"/wiki/Chu_Lai_International_Airport\" title=\"Chu Lai International Airport\">Chu Lai International Airport</a></td>
+<td><a href=\"/wiki/Chu_Lai\" title=\"Chu Lai\">Chu Lai</a>, <a href=\"/wiki/Vietnam\" title=\"Vietnam\">Vietnam</a></td>
+</tr>
+<tr>
+<td>VCP</td>
+<td>SBKP</td>
+<td><a href=\"/wiki/Viracopos_International_Airport\" title=\"Viracopos International Airport\">Viracopos/Campinas International Airport</a></td>
+<td><a href=\"/wiki/S%C3%A3o_Paulo\" title=\"S\u00e3o Paulo\">S\u00e3o Paulo</a> / <a href=\"/wiki/Campinas\" title=\"Campinas\">Campinas</a>, <a href=\"/wiki/S%C3%A3o_Paulo_(state)\" title=\"S\u00e3o Paulo (state)\">S\u00e3o Paulo</a>, Brazil</td>
+</tr>
+<tr>
+<td>VCR</td>
+<td>SVCO</td>
+<td><a href=\"/wiki/Carora_Airport\" title=\"Carora Airport\">Carora Airport</a><sup id=\"cite_ref-IATA_1-16\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Carora\" title=\"Carora\">Carora</a>, <a href=\"/wiki/Venezuela\" title=\"Venezuela\">Venezuela</a></td>
+</tr>
+<tr>
+<td>VCS</td>
+<td>VVCS</td>
+<td><a href=\"/wiki/Con_Dao_Airport\" title=\"Con Dao Airport\">Con Dao Airport</a> (C\u1ecf \u1ed0ng Airport)</td>
+<td><a href=\"/wiki/C%C3%B4n_%C4%90%E1%BA%A3o\" title=\"C\u00f4n \u0110\u1ea3o\">Con Dao Island</a> (C\u00f4n \u0110\u1ea3o), <a href=\"/wiki/Vietnam\" title=\"Vietnam\">Vietnam</a></td>
+</tr>
+<tr>
+<td>VCT</td>
+<td>KVCT</td>
+<td><a href=\"/wiki/Victoria_Regional_Airport\" title=\"Victoria Regional Airport\">Victoria Regional Airport</a></td>
+<td><a href=\"/wiki/Victoria,_Texas\" title=\"Victoria, Texas\">Victoria</a>, <a href=\"/wiki/Texas\" title=\"Texas\">Texas</a>, United States</td>
+</tr>
+<tr>
+<td>VCV</td>
+<td>KVCV</td>
+<td><a href=\"/wiki/Southern_California_Logistics_Airport\" title=\"Southern California Logistics Airport\">Southern California Logistics Airport</a></td>
+<td><a href=\"/wiki/Victorville,_California\" title=\"Victorville, California\">Victorville</a>, <a href=\"/wiki/California\" title=\"California\">California</a>, United States</td>
+</tr>
+<tr>
+<td>VDA</td>
+<td>LLOV</td>
+<td><a href=\"/wiki/Ovda_Airport\" title=\"Ovda Airport\">Ovda Airport</a></td>
+<td><a href=\"/wiki/Uvda_(Israel)\" title=\"Uvda (Israel)\">Ovda</a> (Uvda), <a href=\"/wiki/Israel\" title=\"Israel\">Israel</a></td>
+</tr>
+<tr>
+<td>VDB</td>
+<td>ENFG</td>
+<td><a href=\"/wiki/Fagernes_Airport,_Leirin\" title=\"Fagernes Airport, Leirin\">Fagernes Airport, Leirin</a></td>
+<td><a href=\"/wiki/Fagernes\" title=\"Fagernes\">Fagernes</a>, <a href=\"/wiki/Norway\" title=\"Norway\">Norway</a></td>
+</tr>
+<tr>
+<td>VDC</td>
+<td>SBQV</td>
+<td><a href=\"/wiki/Vit%C3%B3ria_da_Conquista_Airport\" title=\"Vit\u00f3ria da Conquista Airport\">Pedro Otac\u00edlio Figueiredo Airport</a></td>
+<td><a href=\"/wiki/Vit%C3%B3ria_da_Conquista\" title=\"Vit\u00f3ria da Conquista\">Vit\u00f3ria da Conquista</a>, <a href=\"/wiki/Bahia\" title=\"Bahia\">Bahia</a>, Brazil</td>
+</tr>
+<tr>
+<td>VDE</td>
+<td>GCHI</td>
+<td><a href=\"/wiki/El_Hierro_Airport\" title=\"El Hierro Airport\">El Hierro Airport</a><sup id=\"cite_ref-IATA_1-17\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Valverde,_Santa_Cruz_de_Tenerife\" title=\"Valverde, Santa Cruz de Tenerife\">Valverde</a>, <a href=\"/wiki/Canary_Islands\" title=\"Canary Islands\">Canary Islands</a>, Spain</td>
+</tr>
+<tr>
+<td>VDH</td>
+<td>VVDH</td>
+<td><a href=\"/wiki/Dong_Hoi_Airport\" title=\"Dong Hoi Airport\">Dong Hoi Airport</a><sup id=\"cite_ref-IATA_1-18\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/%C4%90%E1%BB%93ng_H%E1%BB%9Bi\" title=\"\u0110\u1ed3ng H\u1edbi\">Dong Hoi</a> (\u0110\u1ed3ng H\u1edbi), <a href=\"/wiki/Vietnam\" title=\"Vietnam\">Vietnam</a></td>
+</tr>
+<tr>
+<td>VDI</td>
+<td>KVDI</td>
+<td><a href=\"/wiki/Vidalia_Regional_Airport\" title=\"Vidalia Regional Airport\">Vidalia Regional Airport</a></td>
+<td><a href=\"/wiki/Vidalia,_Georgia\" title=\"Vidalia, Georgia\">Vidalia</a>, <a href=\"/wiki/Georgia_(U.S._state)\" title=\"Georgia (U.S. state)\">Georgia</a>, United States</td>
+</tr>
+<tr>
+<td>VDM</td>
+<td>SAVV</td>
+<td><a href=\"/wiki/Gobernador_Edgardo_Castello_Airport\" title=\"Gobernador Edgardo Castello Airport\">Gobernador Edgardo Castello Airport</a></td>
+<td><a href=\"/wiki/Viedma,_R%C3%ADo_Negro\" title=\"Viedma, R\u00edo Negro\">Viedma</a>, <a href=\"/wiki/R%C3%ADo_Negro_Province\" title=\"R\u00edo Negro Province\">R\u00edo Negro</a>, Argentina</td>
+</tr>
+<tr>
+<td>VDO</td>
+<td>VVVD</td>
+<td><a href=\"/wiki/Van_Don_International_Airport\" title=\"Van Don International Airport\">Van Don International Airport</a></td>
+<td><a href=\"/wiki/H%E1%BA%A1_Long_Bay\" title=\"H\u1ea1 Long Bay\">Ha Long</a>, <a href=\"/wiki/Qu%E1%BA%A3ng_Ninh_Province\" title=\"Qu\u1ea3ng Ninh Province\">Quang Ninh</a> (Qu\u1ea3ng Ninh), <a href=\"/wiki/Vietnam\" title=\"Vietnam\">Vietnam</a></td>
+</tr>
+<tr>
+<td>VDP</td>
+<td>SVVP</td>
+<td><a href=\"/wiki/Valle_de_la_Pascua_Airport\" title=\"Valle de la Pascua Airport\">Valle de la Pascua Airport</a></td>
+<td><a href=\"/wiki/Valle_de_la_Pascua\" title=\"Valle de la Pascua\">Valle de la Pascua</a>, <a href=\"/wiki/Venezuela\" title=\"Venezuela\">Venezuela</a></td>
+</tr>
+<tr>
+<td>VDR</td>
+<td>SAOD</td>
+<td><a href=\"/wiki/Villa_Dolores_Airport\" title=\"Villa Dolores Airport\">Villa Dolores Airport</a></td>
+<td><a href=\"/wiki/Villa_Dolores\" title=\"Villa Dolores\">Villa Dolores</a>, <a href=\"/wiki/C%C3%B3rdoba_Province,_Argentina\" title=\"C\u00f3rdoba Province, Argentina\">C\u00f3rdoba</a>, Argentina</td>
+</tr>
+<tr>
+<td>VDS</td>
+<td>ENVD</td>
+<td><a href=\"/wiki/Vads%C3%B8_Airport\" title=\"Vads\u00f8 Airport\">Vads\u00f8 Airport</a></td>
+<td><a href=\"/wiki/Vads%C3%B8_(town)\" title=\"Vads\u00f8 (town)\">Vads\u00f8</a>, <a href=\"/wiki/Norway\" title=\"Norway\">Norway</a></td>
+</tr>
+<tr>
+<td>VDY</td>
+<td>VOJV</td>
+<td><a href=\"/wiki/Vidyanagar_Airport\" class=\"mw-redirect\" title=\"Vidyanagar Airport\">Vidyanagar Airport</a><sup id=\"cite_ref-IATA_1-19\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (Jindal Airport)</td>
+<td><a href=\"/wiki/Toranagallu\" title=\"Toranagallu\">Toranagallu</a>, <a href=\"/wiki/Karnataka\" title=\"Karnataka\">Karnataka</a>, India</td>
+</tr>
+<tr>
+<td>VDZ</td>
+<td>PAVD</td>
+<td><a href=\"/wiki/Valdez_Airport\" title=\"Valdez Airport\">Valdez Airport</a> (Pioneer Field)</td>
+<td><a href=\"/wiki/Valdez,_Alaska\" title=\"Valdez, Alaska\">Valdez</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>VEE</td>
+<td>PAVE</td>
+<td><a href=\"/wiki/Venetie_Airport\" title=\"Venetie Airport\">Venetie Airport</a></td>
+<td><a href=\"/wiki/Venetie,_Alaska\" title=\"Venetie, Alaska\">Venetie</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>VEG</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Maikwak_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Maikwak Airport (page does not exist)\">Maikwak Airport</a><sup id=\"cite_ref-IATA_1-20\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Maikwak&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Maikwak (page does not exist)\">Maikwak</a>, <a href=\"/wiki/Guyana\" title=\"Guyana\">Guyana</a></td>
+</tr>
+<tr>
+<td>VEL</td>
+<td>KVEL</td>
+<td><a href=\"/wiki/Vernal_Regional_Airport\" title=\"Vernal Regional Airport\">Vernal Regional Airport</a></td>
+<td><a href=\"/wiki/Vernal,_Utah\" title=\"Vernal, Utah\">Vernal</a>, <a href=\"/wiki/Utah\" title=\"Utah\">Utah</a>, United States</td>
+</tr>
+<tr>
+<td>VER</td>
+<td>MMVR</td>
+<td><a href=\"/wiki/General_Heriberto_Jara_International_Airport\" class=\"mw-redirect\" title=\"General Heriberto Jara International Airport\">General Heriberto Jara International Airport</a></td>
+<td><a href=\"/wiki/Veracruz_(city)\" title=\"Veracruz (city)\">Veracruz</a>, <a href=\"/wiki/Veracruz\" title=\"Veracruz\">Veracruz</a>, Mexico</td>
+</tr>
+<tr>
+<td>VEV</td>
+<td>AGBA</td>
+<td><a href=\"/w/index.php?title=Barakoma_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Barakoma Airport (page does not exist)\">Barakoma Airport</a><sup id=\"cite_ref-IATA_1-21\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Barakoma&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Barakoma (page does not exist)\">Barakoma</a>, <a href=\"/wiki/Solomon_Islands\" title=\"Solomon Islands\">Solomon Islands</a></td>
+</tr>
+<tr>
+<td>VEX</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Tioga_Municipal_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tioga Municipal Airport (page does not exist)\">Tioga Municipal Airport</a> (FAA: D60)</td>
+<td><a href=\"/wiki/Tioga,_North_Dakota\" title=\"Tioga, North Dakota\">Tioga</a>, <a href=\"/wiki/North_Dakota\" title=\"North Dakota\">North Dakota</a>, United States</td>
+</tr>
+<tr>
+<td>VEY</td>
+<td>BIVM</td>
+<td><a href=\"/wiki/Vestmannaeyjar_Airport\" title=\"Vestmannaeyjar Airport\">Vestmannaeyjar Airport</a></td>
+<td><a href=\"/wiki/Vestmannaeyjar\" title=\"Vestmannaeyjar\">Vestmannaeyjar</a>, <a href=\"/wiki/Iceland\" title=\"Iceland\">Iceland</a></td>
+</tr>
+<tr>
+<td>VFA</td>
+<td>FVFA</td>
+<td><a href=\"/wiki/Victoria_Falls_Airport\" title=\"Victoria Falls Airport\">Victoria Falls Airport</a></td>
+<td><a href=\"/wiki/Victoria_Falls,_Zimbabwe\" title=\"Victoria Falls, Zimbabwe\">Victoria Falls</a>, <a href=\"/wiki/Zimbabwe\" title=\"Zimbabwe\">Zimbabwe</a></td>
+</tr>
+<tr>
+<td>VGA</td>
+<td>VOBZ</td>
+<td><a href=\"/wiki/Vijayawada_Airport\" title=\"Vijayawada Airport\">Vijayawada Airport</a></td>
+<td><a href=\"/wiki/Vijayawada\" title=\"Vijayawada\">Vijayawada</a>, <a href=\"/wiki/Andhra_Pradesh\" title=\"Andhra Pradesh\">Andhra Pradesh</a>, India</td>
+</tr>
+<tr>
+<td>VGD</td>
+<td>ULWW</td>
+<td><a href=\"/wiki/Vologda_Airport\" title=\"Vologda Airport\">Vologda Airport</a></td>
+<td><a href=\"/wiki/Vologda\" title=\"Vologda\">Vologda</a>, <a href=\"/wiki/Vologda_Oblast\" title=\"Vologda Oblast\">Vologda Oblast</a>, Russia</td>
+</tr>
+<tr>
+<td>VGO</td>
+<td>LEVX</td>
+<td><a href=\"/wiki/Vigo%E2%80%93Peinador_Airport\" title=\"Vigo\u2013Peinador Airport\">Vigo\u2013Peinador Airport</a></td>
+<td><a href=\"/wiki/Vigo\" title=\"Vigo\">Vigo</a>, <a href=\"/wiki/Galicia_(Spain)\" title=\"Galicia (Spain)\">Galicia</a>, Spain</td>
+</tr>
+<tr>
+<td>VGS</td>
+<td></td>
+<td><a href=\"/wiki/General_Villegas_Airport\" title=\"General Villegas Airport\">General Villegas Airport</a><sup id=\"cite_ref-IATA_1-22\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/General_Villegas\" title=\"General Villegas\">General Villegas</a>, <a href=\"/wiki/Buenos_Aires_Province\" title=\"Buenos Aires Province\">Buenos Aires</a>, Argentina</td>
+</tr>
+<tr>
+<td>VGT</td>
+<td>KVGT</td>
+<td><a href=\"/wiki/North_Las_Vegas_Airport\" title=\"North Las Vegas Airport\">North Las Vegas Airport</a></td>
+<td><a href=\"/wiki/Las_Vegas\" title=\"Las Vegas\">Las Vegas</a>, <a href=\"/wiki/Nevada\" title=\"Nevada\">Nevada</a>, United States</td>
+</tr>
+<tr>
+<td>VGZ</td>
+<td>SKVG</td>
+<td><a href=\"/wiki/Villa_Garz%C3%B3n_Airport\" title=\"Villa Garz\u00f3n Airport\">Villa Garz\u00f3n Airport</a></td>
+<td><a href=\"/wiki/Villagarz%C3%B3n\" title=\"Villagarz\u00f3n\">Villagarz\u00f3n</a>, <a href=\"/wiki/Colombia\" title=\"Colombia\">Colombia</a></td>
+</tr>
+<tr>
+<td>VHC</td>
+<td>FNSA</td>
+<td><a href=\"/wiki/Henrique_de_Carvalho_Airport\" class=\"mw-redirect\" title=\"Henrique de Carvalho Airport\">Henrique de Carvalho Airport</a><sup id=\"cite_ref-IATA_1-23\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Saurimo\" title=\"Saurimo\">Saurimo</a>, <a href=\"/wiki/Angola\" title=\"Angola\">Angola</a></td>
+</tr>
+<tr>
+<td>VHM</td>
+<td>ESNV</td>
+<td><a href=\"/wiki/Vilhelmina_Airport\" title=\"Vilhelmina Airport\">Vilhelmina Airport</a></td>
+<td><a href=\"/wiki/Vilhelmina\" title=\"Vilhelmina\">Vilhelmina</a>, <a href=\"/wiki/Sweden\" title=\"Sweden\">Sweden</a></td>
+</tr>
+<tr>
+<td>VHN</td>
+<td>KVHN</td>
+<td><a href=\"/wiki/Culberson_County_Airport\" title=\"Culberson County Airport\">Culberson County Airport</a></td>
+<td><a href=\"/wiki/Van_Horn,_Texas\" title=\"Van Horn, Texas\">Van Horn</a>, <a href=\"/wiki/Texas\" title=\"Texas\">Texas</a>, United States</td>
+</tr>
+<tr>
+<td>VHV</td>
+<td>UENI</td>
+<td><a href=\"/wiki/Verkhnevilyuysk_Airport\" title=\"Verkhnevilyuysk Airport\">Verkhnevilyuysk Airport</a></td>
+<td><a href=\"/wiki/Verkhnevilyuysk\" title=\"Verkhnevilyuysk\">Verkhnevilyuysk</a>, <a href=\"/wiki/Sakha_Republic\" title=\"Sakha Republic\">Yakutia</a>, Russia</td>
+</tr>
+<tr>
+<td>VHY</td>
+<td>LFLV</td>
+<td><a href=\"/wiki/Vichy_%E2%80%94_Charmeil_Airport\" title=\"Vichy \u2014 Charmeil Airport\">Vichy \u2014 Charmeil Airport</a><sup id=\"cite_ref-IATA_1-24\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Vichy\" title=\"Vichy\">Vichy</a>, <a href=\"/wiki/Auvergne\" title=\"Auvergne\">Auvergne</a>, France</td>
+</tr>
+<tr>
+<td>VHZ</td>
+<td>NTUV</td>
+<td><a href=\"/wiki/Vahitahi_Airport\" title=\"Vahitahi Airport\">Vahitahi Airport</a><sup id=\"cite_ref-IATA_1-25\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Vahitahi\" title=\"Vahitahi\">Vahitahi</a>, <a href=\"/wiki/Tuamotus\" title=\"Tuamotus\">Tuamotus</a>, <a href=\"/wiki/French_Polynesia\" title=\"French Polynesia\">French Polynesia</a></td>
+</tr>
+<tr>
+<td>VIA</td>
+<td>SSVI</td>
+<td><a href=\"/wiki/Videira_Airport\" title=\"Videira Airport\">\u00c2ngelo Ponzoni Municipal Airport</a></td>
+<td><a href=\"/wiki/Videira\" title=\"Videira\">Videira</a>, <a href=\"/wiki/Santa_Catarina_(state)\" title=\"Santa Catarina (state)\">Santa Catarina</a>, Brazil</td>
+</tr>
+<tr>
+<td>VIB</td>
+<td></td>
+<td><a href=\"/wiki/Villa_Constituci%C3%B3n_Airport\" title=\"Villa Constituci\u00f3n Airport\">Villa Constituci\u00f3n Airport</a><sup id=\"cite_ref-IATA_1-26\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Ciudad_Constituci%C3%B3n\" title=\"Ciudad Constituci\u00f3n\">Ciudad Constituci\u00f3n</a>, <a href=\"/wiki/Baja_California_Sur\" title=\"Baja California Sur\">Baja California Sur</a>, Mexico</td>
+</tr>
+<tr>
+<td>VIC</td>
+<td>LIPT</td>
+<td><a href=\"/wiki/Vicenza_Airport\" title=\"Vicenza Airport\">Vicenza Airport</a></td>
+<td><a href=\"/wiki/Vicenza\" title=\"Vicenza\">Vicenza</a>, <a href=\"/wiki/Veneto\" title=\"Veneto\">Veneto</a>, Italy</td>
+</tr>
+<tr>
+<td>VIE</td>
+<td>LOWW</td>
+<td><a href=\"/wiki/Vienna_International_Airport\" title=\"Vienna International Airport\">Vienna International Airport</a></td>
+<td><a href=\"/wiki/Vienna\" title=\"Vienna\">Vienna</a>, <a href=\"/wiki/Austria\" title=\"Austria\">Austria</a></td>
+</tr>
+<tr>
+<td>VIG</td>
+<td>SVVG</td>
+<td><a href=\"/wiki/Juan_Pablo_P%C3%A9rez_Alfonzo_Airport\" title=\"Juan Pablo P\u00e9rez Alfonzo Airport\">Juan Pablo P\u00e9rez Alfonzo Airport</a></td>
+<td><a href=\"/wiki/Alberto_Adriani_Municipality\" title=\"Alberto Adriani Municipality\">El Vig\u00eda</a>, <a href=\"/wiki/Venezuela\" title=\"Venezuela\">Venezuela</a></td>
+</tr>
+<tr>
+<td>VIH</td>
+<td>KVIH</td>
+<td><a href=\"/wiki/Rolla_National_Airport\" title=\"Rolla National Airport\">Rolla National Airport</a></td>
+<td><a href=\"/wiki/Rolla,_Missouri\" title=\"Rolla, Missouri\">Rolla</a> / <a href=\"/wiki/Vichy,_Missouri\" title=\"Vichy, Missouri\">Vichy</a>, <a href=\"/wiki/Missouri\" title=\"Missouri\">Missouri</a>, United States</td>
+</tr>
+<tr>
+<td>VII</td>
+<td>VVVH</td>
+<td><a href=\"/wiki/Vinh_International_Airport\" title=\"Vinh International Airport\">Vinh International Airport</a></td>
+<td><a href=\"/wiki/Vinh\" title=\"Vinh\">Vinh</a>, <a href=\"/wiki/Vietnam\" title=\"Vietnam\">Vietnam</a></td>
+</tr>
+<tr>
+<td>VIJ</td>
+<td>TUPW</td>
+<td><a href=\"/wiki/Virgin_Gorda_Airport\" title=\"Virgin Gorda Airport\">Virgin Gorda Airport</a></td>
+<td><a href=\"/wiki/Virgin_Gorda\" title=\"Virgin Gorda\">Virgin Gorda</a>, <a href=\"/wiki/British_Overseas_Territory\" class=\"mw-redirect\" title=\"British Overseas Territory\">British Overseas Territory</a> of <a href=\"/wiki/British_Virgin_Islands\" title=\"British Virgin Islands\">Virgin Islands</a></td>
+</tr>
+<tr>
+<td>VIL</td>
+<td>GMMH</td>
+<td><a href=\"/wiki/Dakhla_Airport\" title=\"Dakhla Airport\">Dakhla Airport</a></td>
+<td><a href=\"/wiki/Dakhla,_Western_Sahara\" title=\"Dakhla, Western Sahara\">Dakhla</a>, <a href=\"/wiki/Morocco\" title=\"Morocco\">Morocco</a></td>
+</tr>
+<tr>
+<td>VIN</td>
+<td>UKWW</td>
+<td><a href=\"/wiki/Havryshivka_Vinnytsia_International_Airport\" title=\"Havryshivka Vinnytsia International Airport\">Havryshivka Vinnytsia International Airport</a></td>
+<td><a href=\"/wiki/Vinnytsia\" title=\"Vinnytsia\">Vinnytsia</a>, <a href=\"/wiki/Ukraine\" title=\"Ukraine\">Ukraine</a></td>
+</tr>
+<tr>
+<td>VIQ</td>
+<td>WPVQ</td>
+<td><a href=\"/wiki/Viqueque_Airport\" title=\"Viqueque Airport\">Viqueque Airport</a></td>
+<td><a href=\"/wiki/Viqueque\" title=\"Viqueque\">Viqueque</a>, <a href=\"/wiki/East_Timor\" title=\"East Timor\">East Timor</a></td>
+</tr>
+<tr>
+<td>VIR</td>
+<td>FAVG</td>
+<td><a href=\"/wiki/Virginia_Airport\" title=\"Virginia Airport\">Virginia Airport</a><sup id=\"cite_ref-IATA_1-27\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Durban\" title=\"Durban\">Durban</a>, <a href=\"/wiki/South_Africa\" title=\"South Africa\">South Africa</a></td>
+</tr>
+<tr>
+<td>VIS</td>
+<td>KVIS</td>
+<td><a href=\"/wiki/Visalia_Municipal_Airport\" title=\"Visalia Municipal Airport\">Visalia Municipal Airport</a></td>
+<td><a href=\"/wiki/Visalia,_California\" title=\"Visalia, California\">Visalia</a>, <a href=\"/wiki/California\" title=\"California\">California</a>, United States</td>
+</tr>
+<tr>
+<td>VIT</td>
+<td>LEVT</td>
+<td><a href=\"/wiki/Vitoria_Airport\" title=\"Vitoria Airport\">Vitoria Airport</a></td>
+<td><a href=\"/wiki/Vitoria-Gasteiz\" title=\"Vitoria-Gasteiz\">Vitoria-Gasteiz</a>, <a href=\"/wiki/Basque_Country_(autonomous_community)\" title=\"Basque Country (autonomous community)\">Basque Country</a>, Spain</td>
+</tr>
+<tr>
+<td>VIU</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Viru_Harbour_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Viru Harbour Airport (page does not exist)\">Viru Harbour Airport</a><sup id=\"cite_ref-IATA_1-28\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Viru_Harbour&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Viru Harbour (page does not exist)\">Viru Harbour</a>, <a href=\"/wiki/Solomon_Islands\" title=\"Solomon Islands\">Solomon Islands</a></td>
+</tr>
+<tr>
+<td>VIV</td>
+<td></td>
+<td><a href=\"/wiki/Vivigani_Airfield\" title=\"Vivigani Airfield\">Vivigani Airfield</a></td>
+<td><a href=\"/w/index.php?title=Vivigani&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Vivigani (page does not exist)\">Vivigani</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>VIX</td>
+<td>SBVT</td>
+<td><a href=\"/wiki/Eurico_de_Aguiar_Salles_Airport\" title=\"Eurico de Aguiar Salles Airport\">Eurico de Aguiar Salles Airport</a></td>
+<td><a href=\"/wiki/Vit%C3%B3ria,_Esp%C3%ADrito_Santo\" title=\"Vit\u00f3ria, Esp\u00edrito Santo\">Vit\u00f3ria</a>, <a href=\"/wiki/Esp%C3%ADrito_Santo\" title=\"Esp\u00edrito Santo\">Esp\u00edrito Santo</a>, Brazil</td>
+</tr>
+<tr>
+<td>VIY</td>
+<td>LFPV</td>
+<td><a href=\"/wiki/V%C3%A9lizy_%E2%80%93_Villacoublay_Air_Base\" title=\"V\u00e9lizy \u2013 Villacoublay Air Base\">V\u00e9lizy \u2013 Villacoublay Air Base</a><sup id=\"cite_ref-IATA_1-29\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Paris\" title=\"Paris\">Paris</a>, <a href=\"/wiki/%C3%8Ele-de-France\" title=\"\u00cele-de-France\">\u00cele-de-France</a>, France</td>
+</tr>
+<tr>
+<td>VJB</td>
+<td>FQXA</td>
+<td><a href=\"/w/index.php?title=Xai-Xai_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Xai-Xai Airport (page does not exist)\">Xai-Xai Airport</a></td>
+<td><a href=\"/wiki/Xai-Xai\" title=\"Xai-Xai\">Xai-Xai</a>, <a href=\"/wiki/Mozambique\" title=\"Mozambique\">Mozambique</a></td>
+</tr>
+<tr>
+<td>VJI</td>
+<td>KVJI</td>
+<td><a href=\"/wiki/Virginia_Highlands_Airport\" title=\"Virginia Highlands Airport\">Virginia Highlands Airport</a></td>
+<td><a href=\"/wiki/Abingdon,_Virginia\" title=\"Abingdon, Virginia\">Abingdon</a>, <a href=\"/wiki/Virginia\" title=\"Virginia\">Virginia</a>, United States</td>
+</tr>
+<tr>
+<td>VJQ</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Gur%C3%BA%C3%A9_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Gur\u00fa\u00e9 Airport (page does not exist)\">Gur\u00fa\u00e9 Airport</a><sup id=\"cite_ref-IATA_1-30\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Gur%C3%BA%C3%A8\" title=\"Gur\u00fa\u00e8\">Gur\u00fa\u00e8</a>, <a href=\"/wiki/Mozambique\" title=\"Mozambique\">Mozambique</a></td>
+</tr>
+<tr>
+<td>VKG</td>
+<td>VVRG</td>
+<td><a href=\"/wiki/Rach_Gia_Airport\" title=\"Rach Gia Airport\">Rach Gia Airport</a></td>
+<td><a href=\"/wiki/R%E1%BA%A1ch_Gi%C3%A1\" title=\"R\u1ea1ch Gi\u00e1\">Rach Gia</a> (R\u1ea1ch Gi\u00e1), <a href=\"/wiki/Vietnam\" title=\"Vietnam\">Vietnam</a></td>
+</tr>
+<tr>
+<td>VKO</td>
+<td>UUWW</td>
+<td><a href=\"/wiki/Vnukovo_International_Airport\" title=\"Vnukovo International Airport\">Vnukovo International Airport</a></td>
+<td><a href=\"/wiki/Moscow\" title=\"Moscow\">Moscow</a>, Russia</td>
+</tr>
+<tr>
+<td>VKS</td>
+<td>KVKS</td>
+<td><a href=\"/w/index.php?title=Vicksburg_Municipal_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Vicksburg Municipal Airport (page does not exist)\">Vicksburg Municipal Airport</a></td>
+<td><a href=\"/wiki/Vicksburg,_Mississippi\" title=\"Vicksburg, Mississippi\">Vicksburg</a>, <a href=\"/wiki/Mississippi\" title=\"Mississippi\">Mississippi</a>, United States</td>
+</tr>
+<tr>
+<td>VKT</td>
+<td>UUYW</td>
+<td><a href=\"/wiki/Vorkuta_Airport\" title=\"Vorkuta Airport\">Vorkuta Airport</a></td>
+<td><a href=\"/wiki/Vorkuta\" title=\"Vorkuta\">Vorkuta</a>, <a href=\"/wiki/Komi_Republic\" title=\"Komi Republic\">Komi Republic</a>, Russia</td>
+</tr>
+<tr>
+<td>VLA</td>
+<td>KVLA</td>
+<td><a href=\"/w/index.php?title=Vandalia_Municipal_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Vandalia Municipal Airport (page does not exist)\">Vandalia Municipal Airport</a></td>
+<td><a href=\"/wiki/Vandalia,_Illinois\" title=\"Vandalia, Illinois\">Vandalia</a>, <a href=\"/wiki/Illinois\" title=\"Illinois\">Illinois</a>, United States</td>
+</tr>
+<tr>
+<td>VLC</td>
+<td>LEVC</td>
+<td><a href=\"/wiki/Valencia_Airport\" title=\"Valencia Airport\">Valencia Airport</a></td>
+<td><a href=\"/wiki/Valencia\" title=\"Valencia\">Valencia</a>, <a href=\"/wiki/Valencian_Community\" title=\"Valencian Community\">Valencian Community</a>, Spain</td>
+</tr>
+<tr>
+<td>VLD</td>
+<td>KVLD</td>
+<td><a href=\"/wiki/Valdosta_Regional_Airport\" title=\"Valdosta Regional Airport\">Valdosta Regional Airport</a></td>
+<td><a href=\"/wiki/Valdosta,_Georgia\" title=\"Valdosta, Georgia\">Valdosta</a>, <a href=\"/wiki/Georgia_(U.S._state)\" title=\"Georgia (U.S. state)\">Georgia</a>, United States</td>
+</tr>
+<tr>
+<td>VLE</td>
+<td></td>
+<td><a href=\"/wiki/Valle_Airport\" title=\"Valle Airport\">Valle Airport</a> (FAA: 40G)</td>
+<td><a href=\"/wiki/Grand_Canyon\" title=\"Grand Canyon\">Grand Canyon</a>, <a href=\"/wiki/Arizona\" title=\"Arizona\">Arizona</a>, United States</td>
+</tr>
+<tr>
+<td>VLG</td>
+<td>SAZV</td>
+<td><a href=\"/wiki/Villa_Gesell_Airport\" title=\"Villa Gesell Airport\">Villa Gesell Airport</a></td>
+<td><a href=\"/wiki/Villa_Gesell\" title=\"Villa Gesell\">Villa Gesell</a>, <a href=\"/wiki/Buenos_Aires_Province\" title=\"Buenos Aires Province\">Buenos Aires</a>, Argentina</td>
+</tr>
+<tr>
+<td>VLI</td>
+<td>NVVV</td>
+<td><a href=\"/wiki/Bauerfield_International_Airport\" title=\"Bauerfield International Airport\">Bauerfield International Airport</a></td>
+<td><a href=\"/wiki/Port_Vila\" title=\"Port Vila\">Port Vila</a>, <a href=\"/wiki/Vanuatu\" title=\"Vanuatu\">Vanuatu</a></td>
+</tr>
+<tr>
+<td>VLK</td>
+<td>URRY</td>
+<td><a href=\"/w/index.php?title=Volgodonsk_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Volgodonsk Airport (page does not exist)\">Volgodonsk Airport</a><sup id=\"cite_ref-IATA_1-31\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Volgodonsk\" title=\"Volgodonsk\">Volgodonsk</a>, <a href=\"/wiki/Rostov_Oblast\" title=\"Rostov Oblast\">Rostov Oblast</a>, Russia</td>
+</tr>
+<tr>
+<td>VLL</td>
+<td>LEVD</td>
+<td><a href=\"/wiki/Valladolid_Airport\" title=\"Valladolid Airport\">Valladolid Airport</a></td>
+<td><a href=\"/wiki/Valladolid\" title=\"Valladolid\">Valladolid</a>, <a href=\"/wiki/Castile_and_Le%C3%B3n\" title=\"Castile and Le\u00f3n\">Castile and Le\u00f3n</a>, Spain</td>
+</tr>
+<tr>
+<td>VLM</td>
+<td>SLVM</td>
+<td><a href=\"/wiki/Lieutenant_Colonel_Rafael_Pab%C3%B3n_Airport\" title=\"Lieutenant Colonel Rafael Pab\u00f3n Airport\">Lieutenant Colonel Rafael Pab\u00f3n Airport</a><sup id=\"cite_ref-IATA_1-32\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Villamontes\" title=\"Villamontes\">Villamontes</a>, <a href=\"/wiki/Bolivia\" title=\"Bolivia\">Bolivia</a></td>
+</tr>
+<tr>
+<td>VLN</td>
+<td>SVVA</td>
+<td><a href=\"/wiki/Arturo_Michelena_International_Airport\" title=\"Arturo Michelena International Airport\">Arturo Michelena International Airport</a></td>
+<td><a href=\"/wiki/Valencia,_Carabobo\" title=\"Valencia, Carabobo\">Valencia</a>, <a href=\"/wiki/Venezuela\" title=\"Venezuela\">Venezuela</a></td>
+</tr>
+<tr>
+<td>VLP</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Vila_Rica_Municipal_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Vila Rica Municipal Airport (page does not exist)\">Vila Rica Municipal Airport</a><sup id=\"cite_ref-IATA_1-33\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Vila_Rica,_Mato_Grosso\" title=\"Vila Rica, Mato Grosso\">Vila Rica</a>, <a href=\"/wiki/Mato_Grosso\" title=\"Mato Grosso\">Mato Grosso</a>, Brazil</td>
+</tr>
+<tr>
+<td>VLR</td>
+<td>SCLL</td>
+<td><a href=\"/wiki/Vallenar_Airport\" title=\"Vallenar Airport\">Vallenar Airport</a><sup id=\"cite_ref-IATA_1-34\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Vallenar\" title=\"Vallenar\">Vallenar</a>, <a href=\"/wiki/Chile\" title=\"Chile\">Chile</a></td>
+</tr>
+<tr>
+<td>VLS</td>
+<td>NVSV</td>
+<td><a href=\"/wiki/Valesdir_Airport\" title=\"Valesdir Airport\">Valesdir Airport</a><sup id=\"cite_ref-IATA_1-35\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Valesdir&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Valesdir (page does not exist)\">Valesdir</a>, <a href=\"/wiki/Vanuatu\" title=\"Vanuatu\">Vanuatu</a></td>
+</tr>
+<tr>
+<td>VLU</td>
+<td>ULOL</td>
+<td><a href=\"/wiki/Velikiye_Luki_Airport\" title=\"Velikiye Luki Airport\">Velikiye Luki Airport</a></td>
+<td><a href=\"/wiki/Velikiye_Luki\" title=\"Velikiye Luki\">Velikiye Luki</a>, <a href=\"/wiki/Pskov_Oblast\" title=\"Pskov Oblast\">Pskov Oblast</a>, Russia</td>
+</tr>
+<tr>
+<td>VLV</td>
+<td>SVVL</td>
+<td><a href=\"/wiki/Dr._Antonio_Nicol%C3%A1s_Brice%C3%B1o_Airport\" title=\"Dr. Antonio Nicol\u00e1s Brice\u00f1o Airport\">Dr. Antonio Nicol\u00e1s Brice\u00f1o Airport</a></td>
+<td><a href=\"/wiki/Valera\" title=\"Valera\">Valera</a>, <a href=\"/wiki/Venezuela\" title=\"Venezuela\">Venezuela</a></td>
+</tr>
+<tr>
+<td>VLY</td>
+<td>EGOV</td>
+<td><a href=\"/wiki/Anglesey_Airport\" title=\"Anglesey Airport\">Anglesey Airport</a> / <a href=\"/wiki/RAF_Valley\" title=\"RAF Valley\">RAF Valley</a></td>
+<td><a href=\"/wiki/Anglesey\" title=\"Anglesey\">Anglesey</a>, <a href=\"/wiki/Wales\" title=\"Wales\">Wales</a>, United Kingdom</td>
+</tr>
+<tr>
+<td>VME</td>
+<td>SAOR</td>
+<td><a href=\"/wiki/Villa_Reynolds_Airport\" title=\"Villa Reynolds Airport\">Villa Reynolds Airport</a></td>
+<td><a href=\"/wiki/Villa_Mercedes,_San_Luis\" title=\"Villa Mercedes, San Luis\">Villa Mercedes</a>, <a href=\"/wiki/San_Luis_Province\" title=\"San Luis Province\">San Luis</a>, Argentina</td>
+</tr>
+<tr>
+<td>VMI</td>
+<td></td>
+<td><a href=\"/wiki/Dr._Juan_Plate_Airport\" title=\"Dr. Juan Plate Airport\">Dr. Juan Plate Airport</a><sup id=\"cite_ref-IATA_1-36\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Puerto_Valle-Mi&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Puerto Valle-Mi (page does not exist)\">Puerto Valle-Mi</a>, <a href=\"/wiki/Paraguay\" title=\"Paraguay\">Paraguay</a></td>
+</tr>
+<tr>
+<td>VMU</td>
+<td>AYBA</td>
+<td><a href=\"/wiki/Baimuru_Airport\" title=\"Baimuru Airport\">Baimuru Airport</a></td>
+<td><a href=\"/w/index.php?title=Baimuru&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Baimuru (page does not exist)\">Baimuru</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>VNA</td>
+<td>VLSV</td>
+<td><a href=\"/w/index.php?title=Salavan_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Salavan Airport (page does not exist)\">Salavan Airport</a><sup id=\"cite_ref-IATA_1-37\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Salavan_(city)\" title=\"Salavan (city)\">Salavan</a> (Saravane), <a href=\"/wiki/Laos\" title=\"Laos\">Laos</a></td>
+</tr>
+<tr>
+<td>VNC</td>
+<td>KVNC</td>
+<td><a href=\"/wiki/Venice_Municipal_Airport\" title=\"Venice Municipal Airport\">Venice Municipal Airport</a></td>
+<td><a href=\"/wiki/Venice,_Florida\" title=\"Venice, Florida\">Venice</a>, <a href=\"/wiki/Florida\" title=\"Florida\">Florida</a>, United States</td>
+</tr>
+<tr>
+<td>VND</td>
+<td>FMSU</td>
+<td><a href=\"/w/index.php?title=Vangaindrano_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Vangaindrano Airport (page does not exist)\">Vangaindrano Airport</a><sup id=\"cite_ref-IATA_1-38\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Vangaindrano\" title=\"Vangaindrano\">Vangaindrano</a>, <a href=\"/wiki/Madagascar\" title=\"Madagascar\">Madagascar</a></td>
+</tr>
+<tr>
+<td>VNE</td>
+<td>LFRV</td>
+<td><a href=\"/wiki/Meucon_Airport\" title=\"Meucon Airport\">Meucon Airport</a></td>
+<td><a href=\"/wiki/Vannes\" title=\"Vannes\">Vannes</a>, <a href=\"/wiki/Brittany_(administrative_region)\" title=\"Brittany (administrative region)\">Brittany</a>, France</td>
+</tr>
+<tr>
+<td>VNO</td>
+<td>EYVI</td>
+<td><a href=\"/wiki/Vilnius_Airport\" title=\"Vilnius Airport\">Vilnius Airport</a></td>
+<td><a href=\"/wiki/Vilnius\" title=\"Vilnius\">Vilnius</a>, <a href=\"/wiki/Lithuania\" title=\"Lithuania\">Lithuania</a></td>
+</tr>
+<tr>
+<td>VNR</td>
+<td>YVRS</td>
+<td><a href=\"/w/index.php?title=Vanrook_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Vanrook Airport (page does not exist)\">Vanrook Airport</a><sup id=\"cite_ref-IATA_1-39\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Vanrook_Station&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Vanrook Station (page does not exist)\">Vanrook Station</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+</tr>
+<tr>
+<td>VNS</td>
+<td>VEBN</td>
+<td><a href=\"/wiki/Lal_Bahadur_Shastri_Airport\" title=\"Lal Bahadur Shastri Airport\">Lal Bahadur Shastri Airport</a></td>
+<td><a href=\"/wiki/Varanasi\" title=\"Varanasi\">Varanasi</a>, <a href=\"/wiki/Uttar_Pradesh\" title=\"Uttar Pradesh\">Uttar Pradesh</a>, India</td>
+</tr>
+<tr>
+<td>VNT</td>
+<td>EVVA</td>
+<td><a href=\"/wiki/Ventspils_International_Airport\" title=\"Ventspils International Airport\">Ventspils International Airport</a></td>
+<td><a href=\"/wiki/Ventspils\" title=\"Ventspils\">Ventspils</a>, <a href=\"/wiki/Latvia\" title=\"Latvia\">Latvia</a></td>
+</tr>
+<tr>
+<td>VNX</td>
+<td>FQVL</td>
+<td><a href=\"/wiki/Vilankulo_Airport\" title=\"Vilankulo Airport\">Vilankulo Airport</a></td>
+<td><a href=\"/wiki/Vilankulo\" title=\"Vilankulo\">Vilankulo</a>, <a href=\"/wiki/Mozambique\" title=\"Mozambique\">Mozambique</a></td>
+</tr>
+<tr>
+<td>VNY</td>
+<td>KVNY</td>
+<td><a href=\"/wiki/Van_Nuys_Airport\" title=\"Van Nuys Airport\">Van Nuys Airport</a></td>
+<td><a href=\"/wiki/Los_Angeles\" title=\"Los Angeles\">Los Angeles</a>, <a href=\"/wiki/California\" title=\"California\">California</a>, United States</td>
+</tr>
+<tr>
+<td>VOD</td>
+<td>LKVO</td>
+<td><a href=\"/wiki/Vodochody_Airport\" title=\"Vodochody Airport\">Vodochody Airport</a></td>
+<td><a href=\"/wiki/Prague\" title=\"Prague\">Prague</a>, <a href=\"/wiki/Czech_Republic\" title=\"Czech Republic\">Czech Republic</a></td>
+</tr>
+<tr>
+<td>VOG</td>
+<td>URWW</td>
+<td><a href=\"/wiki/Volgograd_International_Airport\" title=\"Volgograd International Airport\">Volgograd International Airport</a></td>
+<td><a href=\"/wiki/Volgograd\" title=\"Volgograd\">Volgograd</a>, <a href=\"/wiki/Volgograd_Oblast\" title=\"Volgograd Oblast\">Volgograd Oblast</a>, Russia</td>
+</tr>
+<tr>
+<td>VOH</td>
+<td>FMNV</td>
+<td><a href=\"/wiki/Vohemar_Airport\" title=\"Vohemar Airport\">Vohemar Airport</a><sup id=\"cite_ref-IATA_1-40\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Vohemar\" title=\"Vohemar\">Vohemar</a> (Vohimarina), <a href=\"/wiki/Madagascar\" title=\"Madagascar\">Madagascar</a></td>
+</tr>
+<tr>
+<td>VOI</td>
+<td>GLVA</td>
+<td><a href=\"/wiki/Voinjama_Airport\" title=\"Voinjama Airport\">Voinjama Airport</a> (Tenebu Airport)</td>
+<td><a href=\"/wiki/Voinjama\" title=\"Voinjama\">Voinjama</a>, <a href=\"/wiki/Liberia\" title=\"Liberia\">Liberia</a></td>
+</tr>
+<tr>
+<td>VOK</td>
+<td>KVOK</td>
+<td><a href=\"/wiki/Volk_Field_Air_National_Guard_Base\" title=\"Volk Field Air National Guard Base\">Volk Field Air National Guard Base</a></td>
+<td><a href=\"/wiki/Camp_Douglas,_Wisconsin\" title=\"Camp Douglas, Wisconsin\">Camp Douglas</a>, <a href=\"/wiki/Wisconsin\" title=\"Wisconsin\">Wisconsin</a>, United States</td>
+</tr>
+<tr>
+<td>VOL</td>
+<td>LGBL</td>
+<td><a href=\"/wiki/Nea_Anchialos_National_Airport\" title=\"Nea Anchialos National Airport\">Nea Anchialos National Airport</a></td>
+<td><a href=\"/wiki/Volos\" title=\"Volos\">Volos</a>, <a href=\"/wiki/Greece\" title=\"Greece\">Greece</a></td>
+</tr>
+<tr>
+<td>VOT</td>
+<td>SDVG</td>
+<td><a href=\"/w/index.php?title=Votuporanga_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Votuporanga Airport (page does not exist)\">Votuporanga Airport</a><sup id=\"cite_ref-IATA_1-41\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (Domingos Pignatari Airport)</td>
+<td><a href=\"/wiki/Votuporanga\" title=\"Votuporanga\">Votuporanga</a>, <a href=\"/wiki/S%C3%A3o_Paulo_(state)\" title=\"S\u00e3o Paulo (state)\">S\u00e3o Paulo</a>, Brazil</td>
+</tr>
+<tr>
+<td>VOZ</td>
+<td>UUOO</td>
+<td><a href=\"/wiki/Voronezh_International_Airport\" title=\"Voronezh International Airport\">Voronezh International Airport</a> (Chertovitskoye Airport)</td>
+<td><a href=\"/wiki/Voronezh\" title=\"Voronezh\">Voronezh</a>, <a href=\"/wiki/Voronezh_Oblast\" title=\"Voronezh Oblast\">Voronezh Oblast</a>, Russia</td>
+</tr>
+<tr>
+<td>VPE</td>
+<td>FNGI</td>
+<td><a href=\"/wiki/Ondjiva_Pereira_Airport\" title=\"Ondjiva Pereira Airport\">Ondjiva Pereira Airport</a><sup id=\"cite_ref-IATA_1-42\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Ondjiva\" title=\"Ondjiva\">Ondjiva</a>, <a href=\"/wiki/Angola\" title=\"Angola\">Angola</a></td>
+</tr>
+<tr>
+<td>VPG</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Vipingo_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Vipingo Airport (page does not exist)\">Vipingo Airport</a><sup id=\"cite_ref-IATA_1-43\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Vipingo&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Vipingo (page does not exist)\">Vipingo</a>, <a href=\"/wiki/Kenya\" title=\"Kenya\">Kenya</a></td>
+</tr>
+<tr>
+<td>VPM</td>
+<td></td>
+<td><a href=\"/wiki/Tanjung_Api_Airport\" title=\"Tanjung Api Airport\">Tanjung Api Airport</a></td>
+<td><a href=\"/wiki/Ampana\" title=\"Ampana\">Ampana</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+</tr>
+<tr>
+<td>VPN</td>
+<td>BIVO</td>
+<td><a href=\"/wiki/Vopnafj%C3%B6r%C3%B0ur_Airport\" title=\"Vopnafj\u00f6r\u00f0ur Airport\">Vopnafj\u00f6r\u00f0ur Airport</a></td>
+<td><a href=\"/wiki/Vopnafj%C3%B6r%C3%B0ur\" title=\"Vopnafj\u00f6r\u00f0ur\">Vopnafj\u00f6r\u00f0ur</a>, <a href=\"/wiki/Iceland\" title=\"Iceland\">Iceland</a></td>
+</tr>
+<tr>
+<td>VPS</td>
+<td>KVPS</td>
+<td><a href=\"/wiki/Destin%E2%80%93Fort_Walton_Beach_Airport\" title=\"Destin\u2013Fort Walton Beach Airport\">Destin\u2013Fort Walton Beach Airport</a> / <a href=\"/wiki/Eglin_Air_Force_Base\" title=\"Eglin Air Force Base\">Eglin Air Force Base</a></td>
+<td><a href=\"/wiki/Destin,_Florida\" title=\"Destin, Florida\">Destin</a> / <a href=\"/wiki/Fort_Walton_Beach,_Florida\" title=\"Fort Walton Beach, Florida\">Fort Walton Beach</a>, <a href=\"/wiki/Florida\" title=\"Florida\">Florida</a>, United States</td>
+</tr>
+<tr>
+<td>VPY</td>
+<td>FQCH</td>
+<td><a href=\"/wiki/Chimoio_Airport\" title=\"Chimoio Airport\">Chimoio Airport</a></td>
+<td><a href=\"/wiki/Chimoio\" title=\"Chimoio\">Chimoio</a>, <a href=\"/wiki/Mozambique\" title=\"Mozambique\">Mozambique</a></td>
+</tr>
+<tr>
+<td>VPZ</td>
+<td>KVPZ</td>
+<td><a href=\"/wiki/Porter_County_Regional_Airport\" title=\"Porter County Regional Airport\">Porter County Regional Airport</a></td>
+<td><a href=\"/wiki/Valparaiso,_Indiana\" title=\"Valparaiso, Indiana\">Valparaiso</a>, <a href=\"/wiki/Indiana\" title=\"Indiana\">Indiana</a>, United States</td>
+</tr>
+<tr>
+<td>VQQ</td>
+<td>KVQQ</td>
+<td><a href=\"/wiki/Cecil_Airport\" title=\"Cecil Airport\">Cecil Airport</a><sup id=\"cite_ref-IATA_1-44\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Jacksonville,_Florida\" title=\"Jacksonville, Florida\">Jacksonville</a>, <a href=\"/wiki/Florida\" title=\"Florida\">Florida</a>, United States</td>
+</tr>
+<tr>
+<td>VQS</td>
+<td>TJVQ</td>
+<td><a href=\"/wiki/Antonio_Rivera_Rodr%C3%ADguez_Airport\" title=\"Antonio Rivera Rodr\u00edguez Airport\">Antonio Rivera Rodr\u00edguez Airport</a></td>
+<td><a href=\"/wiki/Vieques,_Puerto_Rico\" title=\"Vieques, Puerto Rico\">Vieques</a>, <a href=\"/wiki/Puerto_Rico\" title=\"Puerto Rico\">Puerto Rico</a>, United States</td>
+</tr>
+<tr>
+<td>VRA</td>
+<td>MUVR</td>
+<td><a href=\"/wiki/Juan_Gualberto_G%C3%B3mez_Airport\" title=\"Juan Gualberto G\u00f3mez Airport\">Juan Gualberto G\u00f3mez Airport</a></td>
+<td><a href=\"/wiki/Varadero\" title=\"Varadero\">Varadero</a>, <a href=\"/wiki/Cuba\" title=\"Cuba\">Cuba</a></td>
+</tr>
+<tr>
+<td>VRB</td>
+<td>KVRB</td>
+<td><a href=\"/wiki/Vero_Beach_Regional_Airport\" title=\"Vero Beach Regional Airport\">Vero Beach Regional Airport</a></td>
+<td><a href=\"/wiki/Vero_Beach,_Florida\" title=\"Vero Beach, Florida\">Vero Beach</a>, <a href=\"/wiki/Florida\" title=\"Florida\">Florida</a>, United States</td>
+</tr>
+<tr>
+<td>VRC</td>
+<td>RPUV</td>
+<td><a href=\"/wiki/Virac_Airport\" title=\"Virac Airport\">Virac Airport</a></td>
+<td><a href=\"/wiki/Virac,_Catanduanes\" title=\"Virac, Catanduanes\">Virac</a>, <a href=\"/wiki/Philippines\" title=\"Philippines\">Philippines</a></td>
+</tr>
+<tr>
+<td>VRE</td>
+<td>FAVR</td>
+<td><a href=\"/w/index.php?title=Vredendal_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Vredendal Airport (page does not exist)\">Vredendal Airport</a><sup id=\"cite_ref-IATA_1-45\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Vredendal\" title=\"Vredendal\">Vredendal</a>, <a href=\"/wiki/South_Africa\" title=\"South Africa\">South Africa</a></td>
+</tr>
+<tr>
+<td>VRI</td>
+<td>ULDW</td>
+<td><a href=\"/wiki/Varandey_Airport\" title=\"Varandey Airport\">Varandey Airport</a></td>
+<td><a href=\"/w/index.php?title=Varandey,_Nenets_Autonomous_Okrug&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Varandey, Nenets Autonomous Okrug (page does not exist)\">Varandey</a>, <a href=\"/wiki/Nenets_Autonomous_Okrug\" title=\"Nenets Autonomous Okrug\">Nenets Autonomous Okrug</a>, Russia</td>
+</tr>
+<tr>
+<td>VRK</td>
+<td>EFVR</td>
+<td><a href=\"/wiki/Varkaus_Airport\" title=\"Varkaus Airport\">Varkaus Airport</a></td>
+<td><a href=\"/wiki/Varkaus\" title=\"Varkaus\">Varkaus</a>, <a href=\"/wiki/Finland\" title=\"Finland\">Finland</a></td>
+</tr>
+<tr>
+<td>VRL</td>
+<td>LPVR</td>
+<td><a href=\"/wiki/Vila_Real_Airport\" title=\"Vila Real Airport\">Vila Real Airport</a></td>
+<td><a href=\"/wiki/Vila_Real,_Portugal\" class=\"mw-redirect\" title=\"Vila Real, Portugal\">Vila Real</a>, <a href=\"/wiki/Portugal\" title=\"Portugal\">Portugal</a></td>
+</tr>
+<tr>
+<td>VRN</td>
+<td>LIPX</td>
+<td><a href=\"/wiki/Verona_Villafranca_Airport\" title=\"Verona Villafranca Airport\">Verona Villafranca Airport</a></td>
+<td><a href=\"/wiki/Verona\" title=\"Verona\">Verona</a>, <a href=\"/wiki/Veneto\" title=\"Veneto\">Veneto</a>, Italy</td>
+</tr>
+<tr>
+<td>VRO</td>
+<td>MUKW</td>
+<td><a href=\"/wiki/Kawama_Airport\" title=\"Kawama Airport\">Kawama Airport</a></td>
+<td><a href=\"/wiki/Varadero\" title=\"Varadero\">Varadero</a>, <a href=\"/wiki/Cuba\" title=\"Cuba\">Cuba</a></td>
+</tr>
+<tr>
+<td>VRS</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Roy_Otten_Memorial_Airfield&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Roy Otten Memorial Airfield (page does not exist)\">Roy Otten Memorial Airfield</a> (FAA: 3VS)</td>
+<td><a href=\"/wiki/Versailles,_Missouri\" title=\"Versailles, Missouri\">Versailles</a>, <a href=\"/wiki/Missouri\" title=\"Missouri\">Missouri</a>, United States</td>
+</tr>
+<tr>
+<td>VRU</td>
+<td>FAVB</td>
+<td><a href=\"/wiki/Vryburg_Airport\" title=\"Vryburg Airport\">Vryburg Airport</a><sup id=\"cite_ref-IATA_1-46\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Vryburg\" title=\"Vryburg\">Vryburg</a>, <a href=\"/wiki/South_Africa\" title=\"South Africa\">South Africa</a></td>
+</tr>
+<tr>
+<td>VSA</td>
+<td>MMVA</td>
+<td><a href=\"/wiki/Carlos_Rovirosa_P%C3%A9rez_International_Airport\" class=\"mw-redirect\" title=\"Carlos Rovirosa P\u00e9rez International Airport\">Carlos Rovirosa P\u00e9rez International Airport</a></td>
+<td><a href=\"/wiki/Villahermosa\" title=\"Villahermosa\">Villahermosa</a>, <a href=\"/wiki/Tabasco\" title=\"Tabasco\">Tabasco</a>, Mexico</td>
+</tr>
+<tr>
+<td>VSE</td>
+<td>LPVZ</td>
+<td><a href=\"/wiki/Viseu_Airport\" title=\"Viseu Airport\">Viseu Airport</a><sup id=\"cite_ref-IATA_1-47\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Viseu\" title=\"Viseu\">Viseu</a>, <a href=\"/wiki/Portugal\" title=\"Portugal\">Portugal</a></td>
+</tr>
+<tr>
+<td>VSF</td>
+<td>KVSF</td>
+<td><a href=\"/wiki/Hartness_State_Airport\" title=\"Hartness State Airport\">Hartness State Airport</a></td>
+<td><a href=\"/wiki/Springfield,_Vermont\" title=\"Springfield, Vermont\">Springfield</a>, <a href=\"/wiki/Vermont\" title=\"Vermont\">Vermont</a>, United States</td>
+</tr>
+<tr>
+<td>VSG</td>
+<td>UKCW</td>
+<td><a href=\"/wiki/Luhansk_International_Airport\" title=\"Luhansk International Airport\">Luhansk International Airport</a></td>
+<td><a href=\"/wiki/Luhansk\" title=\"Luhansk\">Luhansk</a>, <a href=\"/wiki/Ukraine\" title=\"Ukraine\">Ukraine</a></td>
+</tr>
+<tr>
+<td>VST</td>
+<td>ESOW</td>
+<td><a href=\"/wiki/Stockholm_V%C3%A4ster%C3%A5s_Airport\" title=\"Stockholm V\u00e4ster\u00e5s Airport\">Stockholm V\u00e4ster\u00e5s Airport</a></td>
+<td><a href=\"/wiki/Stockholm\" title=\"Stockholm\">Stockholm</a> / <a href=\"/wiki/V%C3%A4ster%C3%A5s\" title=\"V\u00e4ster\u00e5s\">V\u00e4ster\u00e5s</a>, <a href=\"/wiki/Sweden\" title=\"Sweden\">Sweden</a></td>
+</tr>
+<tr>
+<td>VTB</td>
+<td>UMII</td>
+<td><a href=\"/wiki/Vitebsk_Vostochny_Airport\" title=\"Vitebsk Vostochny Airport\">Vitebsk Vostochny Airport</a><sup id=\"cite_ref-IATA_1-48\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Vitebsk\" title=\"Vitebsk\">Vitebsk</a>, <a href=\"/wiki/Belarus\" title=\"Belarus\">Belarus</a></td>
+</tr>
+<tr>
+<td>VTE</td>
+<td>VLVT</td>
+<td><a href=\"/wiki/Wattay_International_Airport\" title=\"Wattay International Airport\">Wattay International Airport</a></td>
+<td><a href=\"/wiki/Vientiane\" title=\"Vientiane\">Vientiane</a>, <a href=\"/wiki/Laos\" title=\"Laos\">Laos</a></td>
+</tr>
+<tr>
+<td>VTF</td>
+<td>NFVL</td>
+<td><a href=\"/w/index.php?title=Vatulele_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Vatulele Airport (page does not exist)\">Vatulele Airport</a><sup id=\"cite_ref-IATA_1-49\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Vatulele\" title=\"Vatulele\">Vatulele</a>, <a href=\"/wiki/Fiji\" title=\"Fiji\">Fiji</a></td>
+</tr>
+<tr>
+<td>VTG</td>
+<td>VVVT</td>
+<td><a href=\"/wiki/Vung_Tau_Airport\" title=\"Vung Tau Airport\">Vung Tau Airport</a></td>
+<td><a href=\"/wiki/V%C5%A9ng_T%C3%A0u\" title=\"V\u0169ng T\u00e0u\">Vung Tau</a> (V\u0169ng T\u00e0u), <a href=\"/wiki/Vietnam\" title=\"Vietnam\">Vietnam</a></td>
+</tr>
+<tr>
+<td>VTL</td>
+<td>LFSZ</td>
+<td><a href=\"/w/index.php?title=Vittel_-_Champ-de-Courses_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Vittel - Champ-de-Courses Airport (page does not exist)\">Vittel - Champ-de-Courses Airport</a><sup id=\"cite_ref-IATA_1-50\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Vittel\" title=\"Vittel\">Vittel</a>, <a href=\"/wiki/Lorraine\" title=\"Lorraine\">Lorraine</a>, France</td>
+</tr>
+<tr>
+<td>VTM</td>
+<td>LLNV</td>
+<td><a href=\"/wiki/Nevatim_Airbase\" title=\"Nevatim Airbase\">Nevatim Airbase</a><sup id=\"cite_ref-IATA_1-51\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Nevatim\" title=\"Nevatim\">Nevatim</a>, <a href=\"/wiki/Israel\" title=\"Israel\">Israel</a></td>
+</tr>
+<tr>
+<td>VTN</td>
+<td>KVTN</td>
+<td><a href=\"/wiki/Miller_Field_(airport)\" title=\"Miller Field (airport)\">Miller Field</a></td>
+<td><a href=\"/wiki/Valentine,_Nebraska\" title=\"Valentine, Nebraska\">Valentine</a>, <a href=\"/wiki/Nebraska\" title=\"Nebraska\">Nebraska</a>, United States</td>
+</tr>
+<tr>
+<td>VTU</td>
+<td>MUVT</td>
+<td><a href=\"/wiki/Hermanos_Ameijeiras_Airport\" title=\"Hermanos Ameijeiras Airport\">Hermanos Ameijeiras Airport</a><sup id=\"cite_ref-IATA_1-52\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Las_Tunas_(city)\" title=\"Las Tunas (city)\">Las Tunas</a>, <a href=\"/wiki/Cuba\" title=\"Cuba\">Cuba</a></td>
+</tr>
+<tr>
+<td>VTZ</td>
+<td>VEVZ</td>
+<td><a href=\"/wiki/Visakhapatnam_Airport\" title=\"Visakhapatnam Airport\">Visakhapatnam Airport</a></td>
+<td><a href=\"/wiki/Visakhapatnam\" title=\"Visakhapatnam\">Visakhapatnam</a> (Vishakhapatnam), <a href=\"/wiki/Andhra_Pradesh\" title=\"Andhra Pradesh\">Andhra Pradesh</a>, India</td>
+</tr>
+<tr>
+<td>VUP</td>
+<td>SKVP</td>
+<td><a href=\"/wiki/Alfonso_L%C3%B3pez_Pumarejo_Airport\" title=\"Alfonso L\u00f3pez Pumarejo Airport\">Alfonso L\u00f3pez Pumarejo Airport</a></td>
+<td><a href=\"/wiki/Valledupar\" title=\"Valledupar\">Valledupar</a>, <a href=\"/wiki/Colombia\" title=\"Colombia\">Colombia</a></td>
+</tr>
+<tr>
+<td>VUS</td>
+<td>ULWU</td>
+<td><a href=\"/wiki/Veliky_Ustyug_Airport\" title=\"Veliky Ustyug Airport\">Veliky Ustyug Airport</a></td>
+<td><a href=\"/wiki/Veliky_Ustyug\" title=\"Veliky Ustyug\">Veliky Ustyug</a>, <a href=\"/wiki/Vologda_Oblast\" title=\"Vologda Oblast\">Vologda Oblast</a>, Russia</td>
+</tr>
+<tr>
+<td>VUU</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Mvuu_Camp_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Mvuu Camp Airport (page does not exist)\">Mvuu Camp Airport</a><sup id=\"cite_ref-IATA_1-53\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Liwonde_National_Park\" title=\"Liwonde National Park\">Liwonde</a>, <a href=\"/wiki/Malawi\" title=\"Malawi\">Malawi</a></td>
+</tr>
+<tr>
+<td>VVB</td>
+<td>FMMH</td>
+<td><a href=\"/w/index.php?title=Mahanoro_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Mahanoro Airport (page does not exist)\">Mahanoro Airport</a><sup id=\"cite_ref-IATA_1-54\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Mahanoro\" title=\"Mahanoro\">Mahanoro</a>, <a href=\"/wiki/Madagascar\" title=\"Madagascar\">Madagascar</a></td>
+</tr>
+<tr>
+<td>VVC</td>
+<td>SKVV</td>
+<td><a href=\"/wiki/La_Vanguardia_Airport\" title=\"La Vanguardia Airport\">La Vanguardia Airport</a><sup id=\"cite_ref-IATA_1-55\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Villavicencio\" title=\"Villavicencio\">Villavicencio</a>, <a href=\"/wiki/Colombia\" title=\"Colombia\">Colombia</a></td>
+</tr>
+<tr>
+<td>VVI</td>
+<td>SLVR</td>
+<td><a href=\"/wiki/Viru_Viru_International_Airport\" title=\"Viru Viru International Airport\">Viru Viru International Airport</a></td>
+<td><a href=\"/wiki/Santa_Cruz_de_la_Sierra\" title=\"Santa Cruz de la Sierra\">Santa Cruz de la Sierra</a>, <a href=\"/wiki/Bolivia\" title=\"Bolivia\">Bolivia</a></td>
+</tr>
+<tr>
+<td>VVK</td>
+<td>ESSW</td>
+<td><a href=\"/w/index.php?title=V%C3%A4stervik_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"V\u00e4stervik Airport (page does not exist)\">V\u00e4stervik Airport</a><sup id=\"cite_ref-IATA_1-56\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/V%C3%A4stervik\" title=\"V\u00e4stervik\">V\u00e4stervik</a>, <a href=\"/wiki/Sweden\" title=\"Sweden\">Sweden</a></td>
+</tr>
+<tr>
+<td>VVN</td>
+<td></td>
+<td><a href=\"/wiki/Las_Malvinas_Airport\" title=\"Las Malvinas Airport\">Las Malvinas Airport</a><sup id=\"cite_ref-IATA_1-57\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Las_Malvinas,_Cusco_Province&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Las Malvinas, Cusco Province (page does not exist)\">Las Malvinas</a>, <a href=\"/wiki/Peru\" title=\"Peru\">Peru</a></td>
+</tr>
+<tr>
+<td>VVO</td>
+<td>UHWW</td>
+<td><a href=\"/wiki/Vladivostok_International_Airport\" title=\"Vladivostok International Airport\">Vladivostok International Airport</a></td>
+<td><a href=\"/wiki/Vladivostok\" title=\"Vladivostok\">Vladivostok</a>, <a href=\"/wiki/Primorsky_Krai\" title=\"Primorsky Krai\">Primorsky Krai</a>, Russia</td>
+</tr>
+<tr>
+<td>VVZ</td>
+<td>DAAP</td>
+<td><a href=\"/wiki/Takhamalt_Airport\" title=\"Takhamalt Airport\">Takhamalt Airport</a></td>
+<td><a href=\"/wiki/Illizi\" title=\"Illizi\">Illizi</a>, <a href=\"/wiki/Algeria\" title=\"Algeria\">Algeria</a></td>
+</tr>
+<tr>
+<td>VXC</td>
+<td>FQLC</td>
+<td><a href=\"/wiki/Lichinga_Airport\" title=\"Lichinga Airport\">Lichinga Airport</a></td>
+<td><a href=\"/wiki/Lichinga\" title=\"Lichinga\">Lichinga</a>, <a href=\"/wiki/Mozambique\" title=\"Mozambique\">Mozambique</a></td>
+</tr>
+<tr>
+<td>VXE</td>
+<td>GVSV</td>
+<td><a href=\"/wiki/Ces%C3%A1ria_%C3%89vora_Airport\" title=\"Ces\u00e1ria \u00c9vora Airport\">Ces\u00e1ria \u00c9vora Airport</a> (S\u00e3o Pedro Airport)</td>
+<td><a href=\"/wiki/S%C3%A3o_Vicente,_Cape_Verde\" title=\"S\u00e3o Vicente, Cape Verde\">S\u00e3o Vicente</a>, <a href=\"/wiki/Cape_Verde\" title=\"Cape Verde\">Cape Verde</a></td>
+</tr>
+<tr>
+<td>VXO</td>
+<td>ESMX</td>
+<td><a href=\"/wiki/V%C3%A4xj%C3%B6/Kronoberg_Airport\" title=\"V\u00e4xj\u00f6/Kronoberg Airport\">V\u00e4xj\u00f6/Kronoberg Airport</a></td>
+<td><a href=\"/wiki/V%C3%A4xj%C3%B6\" title=\"V\u00e4xj\u00f6\">V\u00e4xj\u00f6</a>, <a href=\"/wiki/Sweden\" title=\"Sweden\">Sweden</a></td>
+</tr>
+<tr>
+<td>VYD</td>
+<td>FAVY</td>
+<td><a href=\"/w/index.php?title=Vryheid_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Vryheid Airport (page does not exist)\">Vryheid Airport</a></td>
+<td><a href=\"/wiki/Vryheid\" title=\"Vryheid\">Vryheid</a>, <a href=\"/wiki/South_Africa\" title=\"South Africa\">South Africa</a></td>
+</tr>
+<tr>
+<td>VYI</td>
+<td>UENW</td>
+<td><a href=\"/wiki/Vilyuysk_Airport\" title=\"Vilyuysk Airport\">Vilyuysk Airport</a></td>
+<td><a href=\"/wiki/Vilyuysk\" title=\"Vilyuysk\">Vilyuysk</a>, <a href=\"/wiki/Sakha_Republic\" title=\"Sakha Republic\">Yakutia</a>, Russia</td>
+</tr>
+<tr>
+<td>VYS</td>
+<td>KVYS</td>
+<td><a href=\"/wiki/Illinois_Valley_Regional_Airport\" title=\"Illinois Valley Regional Airport\">Illinois Valley Regional Airport</a> (Walter A. Duncan Field)</td>
+<td><a href=\"/wiki/Peru,_Illinois\" title=\"Peru, Illinois\">Peru</a>, <a href=\"/wiki/Illinois\" title=\"Illinois\">Illinois</a>, United States</td>
+</tr>
