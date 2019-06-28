@@ -57,16 +57,6 @@ namespace CharterFlightsMVC.Services
             return await Client.SendAsync(request).ConfigureAwait(false);
         }
 
-        public async Task<FlightOffers> SendRequestForFlightsAsync(HttpRequestMessage request)
-        {
-            
-            var response = await Client.SendAsync(request).ConfigureAwait(false);            
-            response.EnsureSuccessStatusCode();
-            
-            var responseAsString = await response.Content.ReadAsStringAsync().ConfigureAwait(false);
-            return JsonConvert.DeserializeObject<FlightOffers>(responseAsString);
-        }
-
         public async Task SetNewAccessToken()
         {
             var accessToken = await Client.RequestClientCredentialsTokenAsync(new ClientCredentialsTokenRequest

@@ -11,8 +11,6 @@ namespace CharterFlightsMVC.Services
     {
         Task<HttpResponseMessage> QueryFlights(string origin, string destination, string departureDate, string currency);
 
-        Task<FlightOffers> SendRequestForFlightsAsync(HttpRequestMessage request);
-
         Task SetNewAccessToken();
     }
 }

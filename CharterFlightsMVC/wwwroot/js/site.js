@@ -8,7 +8,7 @@ $(function () {
     $('#spinner').hide();
     $('#btnSubmit').on('click', function () {
 
-        if ($('#origin').text() == "" || $('#destination').text() == "")
+        if ($('#origin').text() == "" || $('#destination').text() == "" || $('#departureDate').val() == "")
             return;
         $('#spinner').show();
         var data = {
