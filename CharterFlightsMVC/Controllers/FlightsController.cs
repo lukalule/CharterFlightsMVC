@@ -74,7 +74,11 @@ namespace CharterFlightsMVC.Controllers
 
         public JsonResult Select2Data(string searchTerm)
         {
-            searchTerm = NormalizeString(searchTerm);
+            if (!String.IsNullOrEmpty(searchTerm))
+                searchTerm = NormalizeString(searchTerm);
+            else
+                return Json("");
+
             JArray jArray = JArray.Parse(System.IO.File.ReadAllText("IataCodes/AllCodes.json"));
             IEnumerable<IataCodeDto> filteredItems = new List<IataCodeDto>();
 
@@ -88,7 +92,7 @@ namespace CharterFlightsMVC.Controllers
         }        
 
         public static string NormalizeString(string str)
-        {
+        {            
             string normal = str.Normalize(NormalizationForm.FormD);
             var withoutDiacritics = normal.Where(
                 c => CharUnicodeInfo.GetUnicodeCategory(c) != UnicodeCategory.NonSpacingMark);
