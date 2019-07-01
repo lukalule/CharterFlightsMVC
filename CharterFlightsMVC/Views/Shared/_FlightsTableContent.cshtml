@@ -5,22 +5,28 @@
         <th>Origin</th>
         <th>Destination</th>
         <th>Departure</th>
-        <th>Arrival</th>
+        @if(!string.IsNullOrEmpty(Model.FirstOrDefault().ReturnDate))
+        {
+            @:<th>Return date</th>
+        }
         <th>No. of stops</th>
         <th>Total price</th>
         <th>Currency</th>
     </tr>
     @foreach (var flightOffer in Model)
     {
-        <tr>
-            <td>@flightOffer.Origin</td>
-            <td>@flightOffer.Destination</td>
-            <td>@flightOffer.DepartureTime</td>
-            <td>@flightOffer.ArrivalTime</td>
-            <td>@flightOffer.Stops</td>
-            <td>@flightOffer.TotalPrice</td>
-            <td>@flightOffer.Currency</td>
-        </tr>
+<tr>
+    <td>@flightOffer.Origin</td>
+    <td>@flightOffer.Destination</td>
+    <td>@flightOffer.DepartureDate</td>
+    @if (!string.IsNullOrEmpty(flightOffer.ReturnDate))
+    {
+        <td>@flightOffer.ReturnDate</td>
+    }
+    <td>@flightOffer.Stops</td>
+    <td>@flightOffer.TotalPrice</td>
+    <td>@flightOffer.Currency</td>
+</tr>
 
     }
 </table>

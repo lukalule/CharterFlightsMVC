@@ -24,40 +24,38 @@ namespace CharterFlightsMVC.Controllers
             return View();
         }
 
-        [ResponseCache(Duration = 1200, VaryByQueryKeys = new string[] { "*" })] //cuva jedinstveni query 20 minuta
-        public async Task<IActionResult> FilterFlights(string origin, string destination, string departureDate, string returndate, string currency)
+        //[ResponseCache(Duration = 1200, VaryByQueryKeys = new string[] { "*" })] //cuva jedinstveni query 20 minuta
+        public async Task<IActionResult> FilterFlights(string origin, string destination, string departureDate, string returnDate, string currency, 
+                                                       string adults, string children, string infants, string seniors)
         {
             string originCode = origin.Trim().Substring(0, 3);
             string destinationCode = destination.Trim().Substring(0, 3);
             string departure = departureDate.Substring(6, 4) + "-" + departureDate.Substring(0, 2) + "-" + departureDate.Substring(3, 2);
-            string returnDate = returndate != null ? returnDate = returndate.Substring(6, 4) + "-" + returndate.Substring(0, 2) + "-" + returndate.Substring(3, 2) : null;
+            string returndate = DateTimeOffset.TryParse(returnDate, out DateTimeOffset rDate) ? 
+                                returndate = returnDate.Substring(6, 4) + "-" + returnDate.Substring(0, 2) + "-" + returnDate.Substring(3, 2) : null;
             
-            var httpRresponse = await amadeusService.QueryFlights(originCode, destinationCode, departure, currency);
+            var httpRresponse = await amadeusService.QueryFlights(originCode, destinationCode, departure, returndate, currency, adults, children, infants, seniors);
 
             if (httpRresponse.IsSuccessStatusCode)
             {
                 var responseAsString = await httpRresponse.Content.ReadAsStringAsync().ConfigureAwait(false);
-                var response =  JsonConvert.DeserializeObject<FlightOffers>(responseAsString);
-                DateTimeOffset.TryParse(returnDate, out DateTimeOffset dateOfReturn);
-                List<FlightOffer> pom = new List<FlightOffer>();
-                if (returnDate != null)
-                    response.Data = response.Data.Where(o => o.OfferItems.FirstOrDefault().Services.FirstOrDefault().Segments.LastOrDefault().FlightSegment.Arrival.At.Date == dateOfReturn.Date).ToList();
+                var response =  JsonConvert.DeserializeObject<FlightOffers>(responseAsString);                
 
                 List<FlightOfferViewModel> flightOffersViewModel = new List<FlightOfferViewModel>();
 
                 foreach (var flightOffer in response.Data)
                 {
-                    var segments = flightOffer.OfferItems.FirstOrDefault().Services.FirstOrDefault().Segments;
+                    var services = flightOffer.OfferItems.FirstOrDefault().Services;
                     flightOffersViewModel.Add(new FlightOfferViewModel()
                     {
-                        Origin = segments.FirstOrDefault().FlightSegment.Departure.IataCode,
-                        DepartureTime = segments.FirstOrDefault().FlightSegment.Departure.At.ToString("dddd, MMM dd yyyy HH:mm:ss(UTC) zzz"),
+                        Origin = services.FirstOrDefault().Segments.FirstOrDefault().FlightSegment.Departure.IataCode,
+                        DepartureDate = services.FirstOrDefault().Segments.FirstOrDefault().FlightSegment.Departure.At.ToString("dddd, MMM dd yyyy HH:mm:ss(UTC) zzz"),
 
-                        Destination = segments.LastOrDefault().FlightSegment.Arrival.IataCode,
-                        ArrivalTime = segments.LastOrDefault().FlightSegment.Arrival.At.ToString("dddd, MMM dd yyyy HH:mm:ss(UTC) zzz"),
-
+                        Destination = services.FirstOrDefault().Segments.LastOrDefault().FlightSegment.Arrival.IataCode,
+                        ReturnDate = !string.IsNullOrEmpty(returndate) ?
+                        services.LastOrDefault().Segments.LastOrDefault().FlightSegment.Departure.At.ToString("dddd, MMM dd yyyy HH:mm:ss(UTC) zzz") : "",
                         TotalPrice = flightOffer.OfferItems.FirstOrDefault().Price.Total,
-                        Stops = segments.Count - 1,
+                        Stops = services.Count() == 1? services.SelectMany(s => s.Segments).ToList().Count() - 1 : services.SelectMany(s => s.Segments).ToList().Count() - 2,
                         Currency = response.Meta.Currency
                     });
                 }
