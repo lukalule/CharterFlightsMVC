@@ -24,7 +24,7 @@ namespace CharterFlightsMVC.Controllers
             return View();
         }
 
-        //[ResponseCache(Duration = 1200, VaryByQueryKeys = new string[] { "*" })] //cuva jedinstveni query 20 minuta
+        [ResponseCache(Duration = 1200, VaryByQueryKeys = new string[] { "*" })] //cuva jedinstveni query 20 minuta
         public async Task<IActionResult> FilterFlights(string origin, string destination, string departureDate, string returnDate, string currency, 
                                                        string adults, string children, string infants, string seniors)
         {
