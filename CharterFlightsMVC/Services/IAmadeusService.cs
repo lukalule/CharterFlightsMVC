@@ -9,7 +9,8 @@ namespace CharterFlightsMVC.Services
 {
     public interface IAmadeusService
     {
-        Task<HttpResponseMessage> QueryFlights(string origin, string destination, string departureDate, string currency);
+        Task<HttpResponseMessage> QueryFlights(string origin, string destination, string departureDate, string returnDate, string currency,
+                                                       string adults, string children, string infants, string seniors);
 
         Task SetNewAccessToken();
     }

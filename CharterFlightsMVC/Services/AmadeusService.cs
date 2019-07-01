@@ -30,10 +30,22 @@ namespace CharterFlightsMVC.Services
             Cache = memoryCache;
         }        
 
-        public async Task<HttpResponseMessage> QueryFlights(string origin, string destination, string departureDate, string currency)
+        public async Task<HttpResponseMessage> QueryFlights(string origin, string destination, string departureDate, string returnDate, string currency,
+                                                       string adults, string children, string infants, string seniors)
         {
             var queryString = $"shopping/flight-offers?origin={origin}&destination={destination}&departureDate={departureDate}&currency={currency}";
 
+            if (DateTimeOffset.TryParse(returnDate, out DateTimeOffset dateOfReturn))
+                queryString += $"&returnDate={returnDate}";
+            if (int.TryParse(adults, out int noOfAdults))
+                queryString += $"&adults={adults}";
+            if (int.TryParse(children, out int noOfChildren))
+                queryString += $"&children={children}";
+            if (int.TryParse(infants, out int noOfInfants))
+                queryString += $"&infants={infants}";
+            if (int.TryParse(seniors, out int noOfSeniors))
+                queryString += $"&seniors={seniors}";
+            
             var request = new HttpRequestMessage()
             {
                 RequestUri = new Uri(queryString, UriKind.Relative),

@@ -10,8 +10,8 @@ namespace CharterFlightsMVC.ViewModels
 
         public string Origin { get; set; }
         public string Destination { get; set; }        
-        public string DepartureTime { get; set; }
-        public string ArrivalTime { get; set; }
+        public string DepartureDate { get; set; }
+        public string ReturnDate { get; set; }
         public int Stops { get; set; }
         public string Currency { get; set; }
         public string TotalPrice { get; set; }

@@ -16,7 +16,11 @@ $(function () {
             destination: $('#destination').text(),
             departureDate: $('#departureDate').val(),
             returndate: $('#returnDate').val(),
-            currency: $('#currency').val()
+            currency: $('#currency').val(),
+            adults: $('#adults').val(),
+            children: $('#children').val(),
+            infants: $('#infants').val(),
+            seniors: $('#seniors').val()
         };
 
         $.get('/Flights/FilterFlights', data, function (partial) { 
