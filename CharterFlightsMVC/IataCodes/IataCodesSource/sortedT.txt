@@ -1,0 +1,3006 @@
+<tr>
+<td>TAA</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Tarapaina_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tarapaina Airport (page does not exist)\">Tarapaina Airport</a><sup id=\"cite_ref-IATA_1-0\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Tarapaina&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tarapaina (page does not exist)\">Tarapaina</a>, <a href=\"/wiki/Solomon_Islands\" title=\"Solomon Islands\">Solomon Islands</a></td>
+</tr>
+<tr>
+<td>TAB</td>
+<td>TTCP</td>
+<td><a href=\"/wiki/Arthur_Napoleon_Raymond_Robinson_International_Airport\" title=\"Arthur Napoleon Raymond Robinson International Airport\">Arthur Napoleon Raymond Robinson International Airport</a></td>
+<td><a href=\"/wiki/Tobago\" title=\"Tobago\">Tobago</a>, <a href=\"/wiki/Trinidad_and_Tobago\" title=\"Trinidad and Tobago\">Trinidad and Tobago</a></td>
+</tr>
+<tr>
+<td>TAC</td>
+<td>RPVA</td>
+<td><a href=\"/wiki/Daniel_Z._Romualdez_Airport\" title=\"Daniel Z. Romualdez Airport\">Daniel Z. Romualdez Airport</a></td>
+<td><a href=\"/wiki/Tacloban\" title=\"Tacloban\">Tacloban</a>, <a href=\"/wiki/Philippines\" title=\"Philippines\">Philippines</a></td>
+</tr>
+<tr>
+<td>TAD</td>
+<td>KTAD</td>
+<td><a href=\"/wiki/Perry_Stokes_Airport\" title=\"Perry Stokes Airport\">Perry Stokes Airport</a></td>
+<td><a href=\"/wiki/Trinidad,_Colorado\" title=\"Trinidad, Colorado\">Trinidad</a>, <a href=\"/wiki/Colorado\" title=\"Colorado\">Colorado</a>, United States</td>
+</tr>
+<tr>
+<td>TAE</td>
+<td>RKTN</td>
+<td><a href=\"/wiki/Daegu_International_Airport\" title=\"Daegu International Airport\">Daegu International Airport</a></td>
+<td><a href=\"/wiki/Daegu\" title=\"Daegu\">Daegu</a>, <a href=\"/wiki/South_Korea\" title=\"South Korea\">South Korea</a></td>
+</tr>
+<tr>
+<td>TAF</td>
+<td>DAOL</td>
+<td><a href=\"/wiki/Oran_Tafraoui_Airport\" title=\"Oran Tafraoui Airport\">Oran Tafaraoui Airport</a></td>
+<td><a href=\"/wiki/Oran\" title=\"Oran\">Oran</a>, <a href=\"/wiki/Algeria\" title=\"Algeria\">Algeria</a></td>
+</tr>
+<tr>
+<td>TAG</td>
+<td>RPSP</td>
+<td><a href=\"/wiki/Bohol%E2%80%93Panglao_International_Airport\" title=\"Bohol\u2013Panglao International Airport\">Bohol\u2013Panglao International Airport</a></td>
+<td><a href=\"/wiki/Tagbilaran\" title=\"Tagbilaran\">Tagbilaran</a>, <a href=\"/wiki/Philippines\" title=\"Philippines\">Philippines</a></td>
+</tr>
+<tr>
+<td>TAH</td>
+<td>NVVW</td>
+<td><a href=\"/wiki/Whitegrass_Airport\" title=\"Whitegrass Airport\">Whitegrass Airport</a></td>
+<td><a href=\"/wiki/Tanna_(island)\" title=\"Tanna (island)\">Tanna Island</a>, <a href=\"/wiki/Vanuatu\" title=\"Vanuatu\">Vanuatu</a></td>
+</tr>
+<tr>
+<td>TAI</td>
+<td>OYTZ</td>
+<td><a href=\"/wiki/Taiz_International_Airport\" title=\"Taiz International Airport\">Taiz International Airport</a></td>
+<td><a href=\"/wiki/Taiz\" title=\"Taiz\">Taiz</a> (Ta'izz), <a href=\"/wiki/Yemen\" title=\"Yemen\">Yemen</a></td>
+</tr>
+<tr>
+<td>TAJ</td>
+<td></td>
+<td><a href=\"/wiki/Tadji_Airport\" title=\"Tadji Airport\">Tadji Airport</a></td>
+<td><a href=\"/wiki/Aitape\" title=\"Aitape\">Aitape</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>TAK</td>
+<td>RJOT</td>
+<td><a href=\"/wiki/Takamatsu_Airport\" title=\"Takamatsu Airport\">Takamatsu Airport</a></td>
+<td><a href=\"/wiki/Takamatsu,_Kagawa\" title=\"Takamatsu, Kagawa\">Takamatsu</a>, <a href=\"/wiki/Shikoku\" title=\"Shikoku\">Shikoku</a>, Japan</td>
+</tr>
+<tr>
+<td>TAL</td>
+<td>PATA</td>
+<td><a href=\"/wiki/Ralph_M._Calhoun_Memorial_Airport\" title=\"Ralph M. Calhoun Memorial Airport\">Ralph M. Calhoun Memorial Airport</a></td>
+<td><a href=\"/wiki/Tanana,_Alaska\" title=\"Tanana, Alaska\">Tanana</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>TAM</td>
+<td>MMTM</td>
+<td><a href=\"/wiki/General_Francisco_Javier_Mina_International_Airport\" class=\"mw-redirect\" title=\"General Francisco Javier Mina International Airport\">General Francisco Javier Mina International Airport</a></td>
+<td><a href=\"/wiki/Tampico\" title=\"Tampico\">Tampico</a>, <a href=\"/wiki/Tamaulipas\" title=\"Tamaulipas\">Tamaulipas</a>, Mexico</td>
+</tr>
+<tr>
+<td>TAN</td>
+<td>YTGA</td>
+<td><a href=\"/w/index.php?title=Tangalooma_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tangalooma Airport (page does not exist)\">Tangalooma Airport</a></td>
+<td><a href=\"/wiki/Tangalooma,_Queensland\" title=\"Tangalooma, Queensland\">Tangalooma</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+</tr>
+<tr>
+<td>TAO</td>
+<td>ZSQD</td>
+<td><a href=\"/wiki/Qingdao_Liuting_International_Airport\" title=\"Qingdao Liuting International Airport\">Qingdao Liuting International Airport</a></td>
+<td><a href=\"/wiki/Qingdao\" title=\"Qingdao\">Qingdao</a>, <a href=\"/wiki/Shandong\" title=\"Shandong\">Shandong</a>, China</td>
+</tr>
+<tr>
+<td>TAP</td>
+<td>MMTP</td>
+<td><a href=\"/wiki/Tapachula_International_Airport\" title=\"Tapachula International Airport\">Tapachula International Airport</a></td>
+<td><a href=\"/wiki/Tapachula\" title=\"Tapachula\">Tapachula</a>, <a href=\"/wiki/Chiapas\" title=\"Chiapas\">Chiapas</a>, Mexico</td>
+</tr>
+<tr>
+<td>TAQ</td>
+<td></td>
+<td><a href=\"/wiki/Tarcoola_Airport\" title=\"Tarcoola Airport\">Tarcoola Airport</a><sup id=\"cite_ref-IATA_1-1\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tarcoola,_South_Australia\" title=\"Tarcoola, South Australia\">Tarcoola</a>, <a href=\"/wiki/South_Australia\" title=\"South Australia\">South Australia</a>, Australia</td>
+</tr>
+<tr>
+<td>TAR</td>
+<td>LIBG</td>
+<td><a href=\"/wiki/Taranto-Grottaglie_Airport\" title=\"Taranto-Grottaglie Airport\">Taranto-Grottaglie Airport</a></td>
+<td><a href=\"/wiki/Taranto\" title=\"Taranto\">Taranto</a>, <a href=\"/wiki/Apulia\" title=\"Apulia\">Apulia</a>, Italy</td>
+</tr>
+<tr>
+<td>TAS</td>
+<td>UTTT</td>
+<td><a href=\"/wiki/Tashkent_International_Airport\" title=\"Tashkent International Airport\">Tashkent International Airport</a></td>
+<td><a href=\"/wiki/Tashkent\" title=\"Tashkent\">Tashkent</a>, <a href=\"/wiki/Uzbekistan\" title=\"Uzbekistan\">Uzbekistan</a></td>
+</tr>
+<tr>
+<td>TAT</td>
+<td>LZTT</td>
+<td><a href=\"/wiki/Poprad%E2%80%93Tatry_Airport\" title=\"Poprad\u2013Tatry Airport\">Poprad\u2013Tatry Airport</a></td>
+<td><a href=\"/wiki/Poprad\" title=\"Poprad\">Poprad</a>, <a href=\"/wiki/Slovakia\" title=\"Slovakia\">Slovakia</a></td>
+</tr>
+<tr>
+<td>TAU</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Tauramena_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tauramena Airport (page does not exist)\">Tauramena Airport</a><sup id=\"cite_ref-IATA_1-2\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tauramena\" title=\"Tauramena\">Tauramena</a>, <a href=\"/wiki/Colombia\" title=\"Colombia\">Colombia</a></td>
+</tr>
+<tr>
+<td>TAV</td>
+<td></td>
+<td><a href=\"/wiki/Tau_Airport\" title=\"Tau Airport\">Tau Airport</a> (FAA: HI36)</td>
+<td><a href=\"/wiki/Tau,_American_Samoa\" class=\"mw-redirect\" title=\"Tau, American Samoa\">Tau</a>, <a href=\"/wiki/American_Samoa\" title=\"American Samoa\">American Samoa</a></td>
+</tr>
+<tr>
+<td>TAW</td>
+<td>SUTB</td>
+<td><a href=\"/wiki/Tacuaremb%C3%B3_Airport\" title=\"Tacuaremb\u00f3 Airport\">Tacuaremb\u00f3 Airport</a></td>
+<td><a href=\"/wiki/Tacuaremb%C3%B3\" title=\"Tacuaremb\u00f3\">Tacuaremb\u00f3</a>, <a href=\"/wiki/Uruguay\" title=\"Uruguay\">Uruguay</a></td>
+</tr>
+<tr>
+<td>TAX</td>
+<td>WAPT</td>
+<td><a href=\"/w/index.php?title=Taliabu_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Taliabu Airport (page does not exist)\">Taliabu Airport</a></td>
+<td><a href=\"/wiki/Taliabu_Island_Regency\" title=\"Taliabu Island Regency\">Taliabu</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+</tr>
+<tr>
+<td>TAY</td>
+<td>EETU</td>
+<td><a href=\"/wiki/Tartu_Airport\" title=\"Tartu Airport\">Tartu Airport</a></td>
+<td><a href=\"/wiki/Tartu\" title=\"Tartu\">Tartu</a>, <a href=\"/wiki/Estonia\" title=\"Estonia\">Estonia</a></td>
+</tr>
+<tr>
+<td>TAZ</td>
+<td>UTAT</td>
+<td><a href=\"/wiki/Da%C5%9Foguz_Airport\" title=\"Da\u015foguz Airport\">Da\u015foguz Airport</a></td>
+<td><a href=\"/wiki/Da%C5%9Foguz\" title=\"Da\u015foguz\">Da\u015foguz</a> (Dashoguz), <a href=\"/wiki/Turkmenistan\" title=\"Turkmenistan\">Turkmenistan</a></td>
+</tr>
+<tr>
+<td>TBA</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Tabibuga_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tabibuga Airport (page does not exist)\">Tabibuga Airport</a><sup id=\"cite_ref-IATA_1-3\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tabibuga\" title=\"Tabibuga\">Tabibuga</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>TBB</td>
+<td>VVTH</td>
+<td><a href=\"/wiki/Dong_Tac_Airport\" title=\"Dong Tac Airport\">Dong Tac Airport</a><sup id=\"cite_ref-IATA_1-4\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tuy_H%C3%B2a\" title=\"Tuy H\u00f2a\">Tuy H\u00f2a</a>, <a href=\"/wiki/Vietnam\" title=\"Vietnam\">Vietnam</a></td>
+</tr>
+<tr>
+<td>TBC</td>
+<td></td>
+<td><a href=\"/wiki/Tuba_City_Airport\" title=\"Tuba City Airport\">Tuba City Airport</a><sup id=\"cite_ref-IATA_1-5\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (FAA: T03)</td>
+<td><a href=\"/wiki/Tuba_City,_Arizona\" title=\"Tuba City, Arizona\">Tuba City</a>, <a href=\"/wiki/Arizona\" title=\"Arizona\">Arizona</a>, United States</td>
+</tr>
+<tr>
+<td>TBD</td>
+<td>SKMB</td>
+<td><a href=\"/w/index.php?title=Timbiqu%C3%AD_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Timbiqu\u00ed Airport (page does not exist)\">Timbiqu\u00ed Airport</a><sup id=\"cite_ref-IATA_1-6\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Timbiqui,_Cauca\" class=\"mw-redirect\" title=\"Timbiqui, Cauca\">Timbiqui</a>, <a href=\"/wiki/Colombia\" title=\"Colombia\">Colombia</a></td>
+</tr>
+<tr>
+<td>TBE</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Timbunke_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Timbunke Airport (page does not exist)\">Timbunke Airport</a><sup id=\"cite_ref-IATA_1-7\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Timbunke&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Timbunke (page does not exist)\">Timbunke</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>TBF</td>
+<td>NGTE</td>
+<td><a href=\"/w/index.php?title=Tabiteuea_North_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tabiteuea North Airport (page does not exist)\">Tabiteuea North Airport</a><sup id=\"cite_ref-IATA_1-8\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tabiteuea\" title=\"Tabiteuea\">Tabiteuea North</a>, <a href=\"/wiki/Kiribati\" title=\"Kiribati\">Kiribati</a></td>
+</tr>
+<tr>
+<td>TBG</td>
+<td>AYTB</td>
+<td><a href=\"/wiki/Tabubil_Airport\" title=\"Tabubil Airport\">Tabubil Airport</a><sup id=\"cite_ref-IATA_1-9\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tabubil\" title=\"Tabubil\">Tabubil</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>TBH</td>
+<td>RPVU</td>
+<td><a href=\"/wiki/Tugdan_Airport\" title=\"Tugdan Airport\">Tugdan Airport</a></td>
+<td><a href=\"/wiki/Tablas_Island\" title=\"Tablas Island\">Tablas Island</a>, <a href=\"/wiki/Philippines\" title=\"Philippines\">Philippines</a></td>
+</tr>
+<tr>
+<td>TBI</td>
+<td>MYCB</td>
+<td><a href=\"/wiki/New_Bight_Airport\" title=\"New Bight Airport\">New Bight Airport</a></td>
+<td><a href=\"/w/index.php?title=New_Bight&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"New Bight (page does not exist)\">New Bight</a>, <a href=\"/wiki/Cat_Island,_Bahamas\" title=\"Cat Island, Bahamas\">Cat Island</a>, <a href=\"/wiki/The_Bahamas\" title=\"The Bahamas\">Bahamas</a></td>
+</tr>
+<tr>
+<td>TBJ</td>
+<td>DTKA</td>
+<td><a href=\"/wiki/Tabarka%E2%80%93A%C3%AFn_Draham_International_Airport\" title=\"Tabarka\u2013A\u00efn Draham International Airport\">Tabarka\u2013A\u00efn Draham International Airport</a></td>
+<td><a href=\"/wiki/Tabarka\" title=\"Tabarka\">Tabarka</a>, <a href=\"/wiki/Tunisia\" title=\"Tunisia\">Tunisia</a></td>
+</tr>
+<tr>
+<td>TBK</td>
+<td>YTBR</td>
+<td><a href=\"/wiki/Timber_Creek_Airport\" title=\"Timber Creek Airport\">Timber Creek Airport</a><sup id=\"cite_ref-IATA_1-10\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Timber_Creek,_Northern_Territory\" title=\"Timber Creek, Northern Territory\">Timber Creek</a>, <a href=\"/wiki/Northern_Territory\" title=\"Northern Territory\">Northern Territory</a>, Australia</td>
+</tr>
+<tr>
+<td>TBL</td>
+<td>YTAB</td>
+<td><a href=\"/w/index.php?title=Tableland_Homestead_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tableland Homestead Airport (page does not exist)\">Tableland Homestead Airport</a><sup id=\"cite_ref-IATA_1-11\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Tableland,_Western_Australia&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tableland, Western Australia (page does not exist)\">Tableland</a>, <a href=\"/wiki/Western_Australia\" title=\"Western Australia\">Western Australia</a>, Australia</td>
+</tr>
+<tr>
+<td>TBM</td>
+<td>WAOW</td>
+<td><a href=\"/w/index.php?title=Tumbang_Samba_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tumbang Samba Airport (page does not exist)\">Tumbang Samba Airport</a><sup id=\"cite_ref-IATA_1-12\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Tumbang_Samba&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tumbang Samba (page does not exist)\">Tumbang Samba</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+</tr>
+<tr>
+<td>TBN</td>
+<td>KTBN</td>
+<td><a href=\"/wiki/Waynesville-St._Robert_Regional_Airport\" title=\"Waynesville-St. Robert Regional Airport\">Waynesville-St. Robert Regional Airport</a> (Forney Field)</td>
+<td><a href=\"/wiki/Fort_Leonard_Wood,_Missouri\" class=\"mw-redirect\" title=\"Fort Leonard Wood, Missouri\">Fort Leonard Wood</a>, <a href=\"/wiki/Missouri\" title=\"Missouri\">Missouri</a>, United States</td>
+</tr>
+<tr>
+<td>TBO</td>
+<td>HTTB</td>
+<td><a href=\"/wiki/Tabora_Airport\" title=\"Tabora Airport\">Tabora Airport</a><sup id=\"cite_ref-IATA_1-13\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tabora\" title=\"Tabora\">Tabora</a>, <a href=\"/wiki/Tanzania\" title=\"Tanzania\">Tanzania</a></td>
+</tr>
+<tr>
+<td>TBP</td>
+<td>SPME</td>
+<td><a href=\"/wiki/Cap._FAP_Pedro_Canga_Rodr%C3%ADguez_Airport\" class=\"mw-redirect\" title=\"Cap. FAP Pedro Canga Rodr\u00edguez Airport\">Cap. FAP Pedro Canga Rodr\u00edguez Airport</a></td>
+<td><a href=\"/wiki/Tumbes,_Peru\" title=\"Tumbes, Peru\">Tumbes</a>, <a href=\"/wiki/Peru\" title=\"Peru\">Peru</a></td>
+</tr>
+<tr>
+<td>TBQ</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Tarabo_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tarabo Airport (page does not exist)\">Tarabo Airport</a><sup id=\"cite_ref-IATA_1-14\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Tarabo&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tarabo (page does not exist)\">Tarabo</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>TBR</td>
+<td>KTBR</td>
+<td><a href=\"/wiki/Statesboro%E2%80%93Bulloch_County_Airport\" title=\"Statesboro\u2013Bulloch County Airport\">Statesboro\u2013Bulloch County Airport</a></td>
+<td><a href=\"/wiki/Statesboro,_Georgia\" title=\"Statesboro, Georgia\">Statesboro</a>, <a href=\"/wiki/Georgia_(U.S._state)\" title=\"Georgia (U.S. state)\">Georgia</a>, United States</td>
+</tr>
+<tr>
+<td>TBS</td>
+<td>UGTB</td>
+<td><a href=\"/wiki/Tbilisi_International_Airport\" title=\"Tbilisi International Airport\">Tbilisi International Airport</a></td>
+<td><a href=\"/wiki/Tbilisi\" title=\"Tbilisi\">Tbilisi</a>, <a href=\"/wiki/Georgia_(country)\" title=\"Georgia (country)\">Georgia</a></td>
+</tr>
+<tr>
+<td>TBT</td>
+<td>SBTT</td>
+<td><a href=\"/wiki/Tabatinga_International_Airport\" title=\"Tabatinga International Airport\">Tabatinga International Airport</a></td>
+<td><a href=\"/wiki/Tabatinga\" title=\"Tabatinga\">Tabatinga</a>, <a href=\"/wiki/Amazonas_(Brazilian_state)\" title=\"Amazonas (Brazilian state)\">Amazonas</a>, Brazil</td>
+</tr>
+<tr>
+<td>TBU</td>
+<td>NFTF</td>
+<td><a href=\"/wiki/Fua%CA%BBamotu_International_Airport\" title=\"Fua\u02bbamotu International Airport\">Fua\u02bbamotu International Airport</a></td>
+<td><a href=\"/wiki/Nuku%CA%BBalofa\" title=\"Nuku\u02bbalofa\">Nuku\u02bbalofa</a>, <a href=\"/wiki/Tonga\" title=\"Tonga\">Tonga</a></td>
+</tr>
+<tr>
+<td>TBV</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Tabal_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tabal Airport (page does not exist)\">Tabal Airport</a><sup id=\"cite_ref-IATA_1-15\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Tabal_Island&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tabal Island (page does not exist)\">Tabal Island</a>, <a href=\"/wiki/Aur_Atoll\" title=\"Aur Atoll\">Aur Atoll</a>, <a href=\"/wiki/Marshall_Islands\" title=\"Marshall Islands\">Marshall Islands</a></td>
+</tr>
+<tr>
+<td>TBW</td>
+<td>UUOT</td>
+<td><a href=\"/wiki/Tambov_Donskoye_Airport\" title=\"Tambov Donskoye Airport\">Tambov Donskoye Airport</a></td>
+<td><a href=\"/wiki/Tambov\" title=\"Tambov\">Tambov</a>, <a href=\"/wiki/Tambov_Oblast\" title=\"Tambov Oblast\">Tambov Oblast</a>, Russia</td>
+</tr>
+<tr>
+<td>TBY</td>
+<td>FBTS</td>
+<td><a href=\"/wiki/Tshabong_Airport\" title=\"Tshabong Airport\">Tshabong Airport</a><sup id=\"cite_ref-IATA_1-16\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tsabong\" title=\"Tsabong\">Tsabong</a>, <a href=\"/wiki/Botswana\" title=\"Botswana\">Botswana</a></td>
+</tr>
+<tr>
+<td>TBZ</td>
+<td>OITT</td>
+<td><a href=\"/wiki/Tabriz_International_Airport\" title=\"Tabriz International Airport\">Tabriz International Airport</a></td>
+<td><a href=\"/wiki/Tabriz\" title=\"Tabriz\">Tabriz</a>, <a href=\"/wiki/Iran\" title=\"Iran\">Iran</a></td>
+</tr>
+<tr>
+<td>TCA</td>
+<td>YTNK</td>
+<td><a href=\"/wiki/Tennant_Creek_Airport\" title=\"Tennant Creek Airport\">Tennant Creek Airport</a></td>
+<td><a href=\"/wiki/Tennant_Creek\" title=\"Tennant Creek\">Tennant Creek</a>, <a href=\"/wiki/Northern_Territory\" title=\"Northern Territory\">Northern Territory</a>, Australia</td>
+</tr>
+<tr>
+<td>TCB</td>
+<td>MYAT</td>
+<td><a href=\"/wiki/Treasure_Cay_Airport\" title=\"Treasure Cay Airport\">Treasure Cay Airport</a></td>
+<td><a href=\"/wiki/Treasure_Cay\" title=\"Treasure Cay\">Treasure Cay</a>, <a href=\"/wiki/Abaco_Islands\" title=\"Abaco Islands\">Abaco Islands</a>, <a href=\"/wiki/The_Bahamas\" title=\"The Bahamas\">Bahamas</a></td>
+</tr>
+<tr>
+<td>TCC</td>
+<td>KTCC</td>
+<td><a href=\"/wiki/Tucumcari_Municipal_Airport\" title=\"Tucumcari Municipal Airport\">Tucumcari Municipal Airport</a></td>
+<td><a href=\"/wiki/Tucumcari,_New_Mexico\" title=\"Tucumcari, New Mexico\">Tucumcari</a>, <a href=\"/wiki/New_Mexico\" title=\"New Mexico\">New Mexico</a>, United States</td>
+</tr>
+<tr>
+<td>TCD</td>
+<td>SKRA</td>
+<td><a href=\"/wiki/Tarapac%C3%A1_Airport\" title=\"Tarapac\u00e1 Airport\">Tarapac\u00e1 Airport</a><sup id=\"cite_ref-IATA_1-17\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tarapac%C3%A1,_Amazonas\" title=\"Tarapac\u00e1, Amazonas\">Tarapac\u00e1</a>, <a href=\"/wiki/Colombia\" title=\"Colombia\">Colombia</a></td>
+</tr>
+<tr>
+<td>TCE</td>
+<td>LRTC</td>
+<td><a href=\"/wiki/Tulcea_Airport\" title=\"Tulcea Airport\">Tulcea Danube Delta Airport</a><sup id=\"cite_ref-IATA_1-18\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tulcea\" title=\"Tulcea\">Tulcea</a>, <a href=\"/wiki/Romania\" title=\"Romania\">Romania</a></td>
+</tr>
+<tr>
+<td>TCF</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Tocoa_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tocoa Airport (page does not exist)\">Tocoa Airport</a><sup id=\"cite_ref-IATA_1-19\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tocoa,_Col%C3%B3n\" title=\"Tocoa, Col\u00f3n\">Tocoa</a>, <a href=\"/wiki/Honduras\" title=\"Honduras\">Honduras</a></td>
+</tr>
+<tr>
+<td>TCG</td>
+<td>ZWTC</td>
+<td><a href=\"/wiki/Tacheng_Airport\" title=\"Tacheng Airport\">Tacheng Airport</a><sup id=\"cite_ref-IATA_1-20\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tacheng\" title=\"Tacheng\">Tacheng</a>, <a href=\"/wiki/Xinjiang\" title=\"Xinjiang\">Xinjiang</a>, China</td>
+</tr>
+<tr>
+<td>TCH</td>
+<td>FOOT</td>
+<td><a href=\"/wiki/Tchibanga_Airport\" title=\"Tchibanga Airport\">Tchibanga Airport</a><sup id=\"cite_ref-IATA_1-21\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tchibanga\" title=\"Tchibanga\">Tchibanga</a>, <a href=\"/wiki/Gabon\" title=\"Gabon\">Gabon</a></td>
+</tr>
+<tr>
+<td>TCI<sup id=\"cite_ref-IATA_1-22\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td></td>
+<td>metropolitan area<sup class=\"reference plainlinks nourlexpansion\" id=\"ref_1\"><a href=\"#endnote_1\">1</a></sup></td>
+<td><a href=\"/wiki/Tenerife\" title=\"Tenerife\">Tenerife</a>, <a href=\"/wiki/Canary_Islands\" title=\"Canary Islands\">Canary Islands</a>, Spain</td>
+</tr>
+<tr>
+<td>TCJ</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Torembi_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Torembi Airport (page does not exist)\">Torembi Airport</a><sup id=\"cite_ref-IATA_1-23\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Torembi&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Torembi (page does not exist)\">Torembi</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>TCK</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Tinboli_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tinboli Airport (page does not exist)\">Tinboli Airport</a><sup id=\"cite_ref-IATA_1-24\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Tinboli&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tinboli (page does not exist)\">Tinboli</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>TCL</td>
+<td>KTCL</td>
+<td><a href=\"/wiki/Tuscaloosa_Regional_Airport\" class=\"mw-redirect\" title=\"Tuscaloosa Regional Airport\">Tuscaloosa Regional Airport</a></td>
+<td><a href=\"/wiki/Tuscaloosa,_Alabama\" title=\"Tuscaloosa, Alabama\">Tuscaloosa</a>, <a href=\"/wiki/Alabama\" title=\"Alabama\">Alabama</a>, United States</td>
+</tr>
+<tr>
+<td>TCM</td>
+<td>KTCM</td>
+<td><a href=\"/wiki/McChord_Field\" title=\"McChord Field\">McChord Field</a></td>
+<td><a href=\"/wiki/Tacoma,_Washington\" title=\"Tacoma, Washington\">Tacoma</a>, <a href=\"/wiki/Washington_(state)\" title=\"Washington (state)\">Washington</a>, United States</td>
+</tr>
+<tr>
+<td>TCN</td>
+<td>MMHC</td>
+<td><a href=\"/wiki/Tehuac%C3%A1n_Airport\" title=\"Tehuac\u00e1n Airport\">Tehuac\u00e1n Airport</a></td>
+<td><a href=\"/wiki/Tehuac%C3%A1n\" title=\"Tehuac\u00e1n\">Tehuac\u00e1n</a>, <a href=\"/wiki/Puebla\" title=\"Puebla\">Puebla</a>, Mexico</td>
+</tr>
+<tr>
+<td>TCO</td>
+<td>SKCO</td>
+<td><a href=\"/wiki/La_Florida_Airport_(Colombia)\" title=\"La Florida Airport (Colombia)\">La Florida Airport</a><sup id=\"cite_ref-IATA_1-25\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tumaco\" title=\"Tumaco\">Tumaco</a>, <a href=\"/wiki/Colombia\" title=\"Colombia\">Colombia</a></td>
+</tr>
+<tr>
+<td>TCP</td>
+<td>HETB</td>
+<td><a href=\"/wiki/Taba_International_Airport\" title=\"Taba International Airport\">Taba International Airport</a></td>
+<td><a href=\"/wiki/Taba,_Egypt\" title=\"Taba, Egypt\">Taba</a>, <a href=\"/wiki/Egypt\" title=\"Egypt\">Egypt</a></td>
+</tr>
+<tr>
+<td>TCQ</td>
+<td>SPTN</td>
+<td><a href=\"/wiki/Coronel_FAP_Carlos_Ciriani_Santa_Rosa_International_Airport\" title=\"Coronel FAP Carlos Ciriani Santa Rosa International Airport\">Coronel FAP Carlos Ciriani Santa Rosa International Airport</a><sup id=\"cite_ref-IATA_1-26\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tacna\" title=\"Tacna\">Tacna</a>, <a href=\"/wiki/Peru\" title=\"Peru\">Peru</a></td>
+</tr>
+<tr>
+<td>TCR</td>
+<td>VOTK</td>
+<td><a href=\"/wiki/Tuticorin_Airport\" title=\"Tuticorin Airport\">Tuticorin Airport</a><sup id=\"cite_ref-IATA_1-27\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Thoothukudi\" title=\"Thoothukudi\">Thoothukudi</a> (Tuticorin), <a href=\"/wiki/Tamil_Nadu\" title=\"Tamil Nadu\">Tamil Nadu</a>, India</td>
+</tr>
+<tr>
+<td>TCS</td>
+<td>KTCS</td>
+<td><a href=\"/wiki/Truth_or_Consequences_Municipal_Airport\" title=\"Truth or Consequences Municipal Airport\">Truth or Consequences Municipal Airport</a></td>
+<td><a href=\"/wiki/Truth_or_Consequences,_New_Mexico\" title=\"Truth or Consequences, New Mexico\">Truth or Consequences</a>, <a href=\"/wiki/New_Mexico\" title=\"New Mexico\">New Mexico</a>, United States</td>
+</tr>
+<tr>
+<td>TCT</td>
+<td></td>
+<td><a href=\"/wiki/Takotna_Airport\" title=\"Takotna Airport\">Takotna Airport</a></td>
+<td><a href=\"/wiki/Takotna,_Alaska\" title=\"Takotna, Alaska\">Takotna</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>TCU</td>
+<td>FATN</td>
+<td><a href=\"/w/index.php?title=Thaba_Nchu_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Thaba Nchu Airport (page does not exist)\">Thaba Nchu Airport</a><sup id=\"cite_ref-IATA_1-28\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Thaba_%27Nchu\" title=\"Thaba &#39;Nchu\">Thaba 'Nchu</a>, <a href=\"/wiki/South_Africa\" title=\"South Africa\">South Africa</a></td>
+</tr>
+<tr>
+<td>TCW</td>
+<td>YTOC</td>
+<td><a href=\"/wiki/Tocumwal_Airport\" title=\"Tocumwal Airport\">Tocumwal Airport</a><sup id=\"cite_ref-IATA_1-29\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tocumwal\" title=\"Tocumwal\">Tocumwal</a>, <a href=\"/wiki/New_South_Wales\" title=\"New South Wales\">New South Wales</a>, Australia</td>
+</tr>
+<tr>
+<td>TCX</td>
+<td>OIMT</td>
+<td><a href=\"/wiki/Tabas_Airport\" title=\"Tabas Airport\">Tabas Airport</a></td>
+<td><a href=\"/wiki/Tabas\" title=\"Tabas\">Tabas</a>, <a href=\"/wiki/Iran\" title=\"Iran\">Iran</a></td>
+</tr>
+<tr>
+<td>TCY</td>
+<td>FYTE</td>
+<td><a href=\"/w/index.php?title=Terrace_Bay_Airport_(Namibia)&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Terrace Bay Airport (Namibia) (page does not exist)\">Terrace Bay Airport</a><sup id=\"cite_ref-IATA_1-30\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Terrace_Bay,_Namibia&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Terrace Bay, Namibia (page does not exist)\">Terrace Bay</a>, <a href=\"/wiki/Namibia\" title=\"Namibia\">Namibia</a></td>
+</tr>
+<tr>
+<td>TCZ</td>
+<td>ZUTC</td>
+<td><a href=\"/wiki/Tengchong_Tuofeng_Airport\" title=\"Tengchong Tuofeng Airport\">Tengchong Tuofeng Airport</a></td>
+<td><a href=\"/wiki/Tengchong\" title=\"Tengchong\">Tengchong</a>, <a href=\"/wiki/Yunnan\" title=\"Yunnan\">Yunnan</a>, China</td>
+</tr>
+<tr>
+<td>TDA</td>
+<td>SKTD</td>
+<td><a href=\"/wiki/Trinidad_Airport\" title=\"Trinidad Airport\">Trinidad Airport</a><sup id=\"cite_ref-IATA_1-31\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Trinidad,_Casanare\" title=\"Trinidad, Casanare\">Trinidad</a>, <a href=\"/wiki/Colombia\" title=\"Colombia\">Colombia</a></td>
+</tr>
+<tr>
+<td>TDB</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Tetebedi_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tetebedi Airport (page does not exist)\">Tetebedi Airport</a><sup id=\"cite_ref-IATA_1-32\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Tetebedi&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tetebedi (page does not exist)\">Tetebedi</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>TDD</td>
+<td>SLTR</td>
+<td><a href=\"/wiki/Teniente_Jorge_Henrich_Arauz_Airport\" title=\"Teniente Jorge Henrich Arauz Airport\">Teniente Jorge Henrich Arauz Airport</a></td>
+<td><a href=\"/wiki/Trinidad,_Bolivia\" title=\"Trinidad, Bolivia\">Trinidad</a>, <a href=\"/wiki/Bolivia\" title=\"Bolivia\">Bolivia</a></td>
+</tr>
+<tr>
+<td>TDG</td>
+<td>RPMW</td>
+<td><a href=\"/wiki/Tandag_Airport\" title=\"Tandag Airport\">Tandag Airport</a></td>
+<td><a href=\"/wiki/Tandag\" title=\"Tandag\">Tandag</a>, <a href=\"/wiki/Philippines\" title=\"Philippines\">Philippines</a></td>
+</tr>
+<tr>
+<td>TDJ</td>
+<td>HDTJ</td>
+<td><a href=\"/wiki/Tadjoura_Airport\" title=\"Tadjoura Airport\">Tadjoura Airport</a><sup id=\"cite_ref-IATA_1-33\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tadjoura\" title=\"Tadjoura\">Tadjoura</a>, <a href=\"/wiki/Djibouti\" title=\"Djibouti\">Djibouti</a></td>
+</tr>
+<tr>
+<td>TDK</td>
+<td></td>
+<td><a href=\"/wiki/Taldykorgan_Airport\" title=\"Taldykorgan Airport\">Taldykorgan Airport</a></td>
+<td><a href=\"/wiki/Taldykorgan\" class=\"mw-redirect\" title=\"Taldykorgan\">Taldykorgan</a>, <a href=\"/wiki/Kazakhstan\" title=\"Kazakhstan\">Kazakhstan</a></td>
+</tr>
+<tr>
+<td>TDL</td>
+<td>SAZT</td>
+<td><a href=\"/wiki/Tandil_Airport\" title=\"Tandil Airport\">Tandil Airport</a></td>
+<td><a href=\"/wiki/Tandil\" title=\"Tandil\">Tandil</a>, <a href=\"/wiki/Buenos_Aires_Province\" title=\"Buenos Aires Province\">Buenos Aires</a>, Argentina</td>
+</tr>
+<tr>
+<td>TDN</td>
+<td>YTHD</td>
+<td><a href=\"/w/index.php?title=Theda_Station_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Theda Station Airport (page does not exist)\">Theda Station Airport</a><sup id=\"cite_ref-IATA_1-34\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Theda_Station&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Theda Station (page does not exist)\">Theda Station</a>, <a href=\"/wiki/Western_Australia\" title=\"Western Australia\">Western Australia</a>, Australia</td>
+</tr>
+<tr>
+<td>TDO</td>
+<td>KTDO</td>
+<td><a href=\"/wiki/South_Lewis_County_Airport\" title=\"South Lewis County Airport\">South Lewis County Airport</a> (Ed Carlson Memorial Field)</td>
+<td><a href=\"/wiki/Toledo,_Washington\" title=\"Toledo, Washington\">Toledo</a>, <a href=\"/wiki/Washington_(state)\" title=\"Washington (state)\">Washington</a>, United States</td>
+</tr>
+<tr>
+<td>TDP</td>
+<td>SPDR</td>
+<td><a href=\"/wiki/Trompeteros_Airport\" title=\"Trompeteros Airport\">Trompeteros Airport</a><sup id=\"cite_ref-IATA_1-35\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Trompeteros_District\" title=\"Trompeteros District\">Trompeteros</a>, <a href=\"/wiki/Peru\" title=\"Peru\">Peru</a></td>
+</tr>
+<tr>
+<td>TDR</td>
+<td>YTDR</td>
+<td><a href=\"/w/index.php?title=Theodore_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Theodore Airport (page does not exist)\">Theodore Airport</a></td>
+<td><a href=\"/wiki/Theodore,_Queensland\" title=\"Theodore, Queensland\">Theodore</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+</tr>
+<tr>
+<td>TDS</td>
+<td>AYSS</td>
+<td><a href=\"/wiki/Sasereme_Airport\" title=\"Sasereme Airport\">Sasereme Airport</a></td>
+<td><a href=\"/w/index.php?title=Sasereme&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Sasereme (page does not exist)\">Sasereme</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>TDT</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Tanda_Tula_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tanda Tula Airport (page does not exist)\">Tanda Tula Airport</a><sup id=\"cite_ref-IATA_1-36\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Timbavati_Game_Reserve\" title=\"Timbavati Game Reserve\">Timbavati</a>, <a href=\"/wiki/South_Africa\" title=\"South Africa\">South Africa</a></td>
+</tr>
+<tr>
+<td>TDV</td>
+<td>FMSN</td>
+<td><a href=\"/w/index.php?title=Samangoky_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Samangoky Airport (page does not exist)\">Samangoky Airport</a></td>
+<td><a href=\"/wiki/Tanandava,_Bekily\" title=\"Tanandava, Bekily\">Tanandava</a>, <a href=\"/wiki/Madagascar\" title=\"Madagascar\">Madagascar</a></td>
+</tr>
+<tr>
+<td>TDW</td>
+<td>KTDW</td>
+<td><a href=\"/wiki/Tradewind_Airport\" title=\"Tradewind Airport\">Tradewind Airport</a></td>
+<td><a href=\"/wiki/Amarillo,_Texas\" title=\"Amarillo, Texas\">Amarillo</a>, <a href=\"/wiki/Texas\" title=\"Texas\">Texas</a>, United States</td>
+</tr>
+<tr>
+<td>TDX</td>
+<td>VTBO</td>
+<td><a href=\"/wiki/Trat_Airport\" title=\"Trat Airport\">Trat Airport</a></td>
+<td><a href=\"/wiki/Trat\" title=\"Trat\">Trat</a>, <a href=\"/wiki/Thailand\" title=\"Thailand\">Thailand</a></td>
+</tr>
+<tr>
+<td>TDZ</td>
+<td>KTDZ</td>
+<td><a href=\"/wiki/Toledo_Executive_Airport\" title=\"Toledo Executive Airport\">Toledo Executive Airport</a></td>
+<td><a href=\"/wiki/Toledo,_Ohio\" title=\"Toledo, Ohio\">Toledo</a>, <a href=\"/wiki/Ohio\" title=\"Ohio\">Ohio</a>, United States</td>
+</tr>
+<tr>
+<td>TEA</td>
+<td>MHTE</td>
+<td><a href=\"/wiki/Tela_Airport\" title=\"Tela Airport\">Tela Airport</a><sup id=\"cite_ref-IATA_1-37\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tela\" title=\"Tela\">Tela</a>, <a href=\"/wiki/Honduras\" title=\"Honduras\">Honduras</a></td>
+</tr>
+<tr>
+<td>TEB</td>
+<td>KTEB</td>
+<td><a href=\"/wiki/Teterboro_Airport\" title=\"Teterboro Airport\">Teterboro Airport</a></td>
+<td><a href=\"/wiki/Teterboro,_New_Jersey\" title=\"Teterboro, New Jersey\">Teterboro</a>, <a href=\"/wiki/New_Jersey\" title=\"New Jersey\">New Jersey</a>, United States</td>
+</tr>
+<tr>
+<td>TEC</td>
+<td>SBTL</td>
+<td><a href=\"/wiki/Tel%C3%AAmaco_Borba_Airport\" title=\"Tel\u00eamaco Borba Airport\">Tel\u00eamaco Borba Airport</a><sup id=\"cite_ref-IATA_1-38\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tel%C3%AAmaco_Borba\" title=\"Tel\u00eamaco Borba\">Tel\u00eamaco Borba</a>, <a href=\"/wiki/Paran%C3%A1_(state)\" title=\"Paran\u00e1 (state)\">Paran\u00e1</a>, Brazil</td>
+</tr>
+<tr>
+<td>TED</td>
+<td>EKTS</td>
+<td><a href=\"/wiki/Thisted_Airport\" title=\"Thisted Airport\">Thisted Airport</a></td>
+<td><a href=\"/wiki/Thisted\" title=\"Thisted\">Thisted</a>, <a href=\"/wiki/Denmark\" title=\"Denmark\">Denmark</a></td>
+</tr>
+<tr>
+<td>TEE</td>
+<td>DABS</td>
+<td><a href=\"/wiki/Cheikh_Larbi_T%C3%A9bessi_Airport\" class=\"mw-redirect\" title=\"Cheikh Larbi T\u00e9bessi Airport\">Cheikh Larbi T\u00e9bessi Airport</a><sup id=\"cite_ref-IATA_1-39\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/T%C3%A9bessa\" title=\"T\u00e9bessa\">T\u00e9bessa</a>, <a href=\"/wiki/Algeria\" title=\"Algeria\">Algeria</a></td>
+</tr>
+<tr>
+<td>TEF</td>
+<td>YTEF</td>
+<td><a href=\"/wiki/Telfer_Airport\" title=\"Telfer Airport\">Telfer Airport</a><sup id=\"cite_ref-IATA_1-40\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Telfer,_Western_Australia\" title=\"Telfer, Western Australia\">Telfer</a>, <a href=\"/wiki/Western_Australia\" title=\"Western Australia\">Western Australia</a>, Australia</td>
+</tr>
+<tr>
+<td>TEG</td>
+<td>DFET</td>
+<td><a href=\"/wiki/Tenkodogo_Airport\" title=\"Tenkodogo Airport\">Tenkodogo Airport</a></td>
+<td><a href=\"/wiki/Tenkodogo\" title=\"Tenkodogo\">Tenkodogo</a>, <a href=\"/wiki/Burkina_Faso\" title=\"Burkina Faso\">Burkina Faso</a></td>
+</tr>
+<tr>
+<td>TEH</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Tetlin_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tetlin Airport (page does not exist)\">Tetlin Airport</a><sup id=\"cite_ref-IATA_1-41\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (FAA: 3T4)</td>
+<td><a href=\"/wiki/Tetlin,_Alaska\" title=\"Tetlin, Alaska\">Tetlin</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>TEI</td>
+<td>VETJ</td>
+<td><a href=\"/wiki/Tezu_Airport\" title=\"Tezu Airport\">Tezu Airport</a></td>
+<td><a href=\"/wiki/Tezu\" title=\"Tezu\">Tezu</a>, <a href=\"/wiki/Arunachal_Pradesh\" title=\"Arunachal Pradesh\">Arunachal Pradesh</a>, India</td>
+</tr>
+<tr>
+<td>TEK</td>
+<td></td>
+<td><a href=\"/wiki/Tatitlek_Airport\" title=\"Tatitlek Airport\">Tatitlek Airport</a> (FAA: 7KA)</td>
+<td><a href=\"/wiki/Tatitlek,_Alaska\" title=\"Tatitlek, Alaska\">Tatitlek</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>TEL</td>
+<td>WBKE</td>
+<td><a href=\"/w/index.php?title=Telupid_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Telupid Airport (page does not exist)\">Telupid Airport</a><sup id=\"cite_ref-IATA_1-42\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Telupid\" title=\"Telupid\">Telupid</a>, <a href=\"/wiki/Sabah\" title=\"Sabah\">Sabah</a>, Malaysia</td>
+</tr>
+<tr>
+<td>TEM</td>
+<td>YTEM</td>
+<td><a href=\"/wiki/Temora_Airport\" title=\"Temora Airport\">Temora Airport</a><sup id=\"cite_ref-IATA_1-43\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Temora,_New_South_Wales\" title=\"Temora, New South Wales\">Temora</a>, <a href=\"/wiki/New_South_Wales\" title=\"New South Wales\">New South Wales</a>, Australia</td>
+</tr>
+<tr>
+<td>TEN</td>
+<td>ZUTR</td>
+<td><a href=\"/wiki/Tongren_Fenghuang_Airport\" title=\"Tongren Fenghuang Airport\">Tongren Fenghuang Airport</a></td>
+<td><a href=\"/wiki/Tongren\" title=\"Tongren\">Tongren</a>, <a href=\"/wiki/Guizhou\" title=\"Guizhou\">Guizhou</a>, China</td>
+</tr>
+<tr>
+<td>TEO</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Terapo_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Terapo Airport (page does not exist)\">Terapo Airport</a><sup id=\"cite_ref-IATA_1-44\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Terapo&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Terapo (page does not exist)\">Terapo</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>TEP</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Teptep_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Teptep Airport (page does not exist)\">Teptep Airport</a><sup id=\"cite_ref-IATA_1-45\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Teptep&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Teptep (page does not exist)\">Teptep</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>TEQ</td>
+<td>LTBU</td>
+<td><a href=\"/wiki/Tekirda%C4%9F_%C3%87orlu_Airport\" title=\"Tekirda\u011f \u00c7orlu Airport\">Tekirda\u011f \u00c7orlu Airport</a></td>
+<td><a href=\"/wiki/Tekirda%C4%9F\" title=\"Tekirda\u011f\">Tekirda\u011f</a>, <a href=\"/wiki/Turkey\" title=\"Turkey\">Turkey</a></td>
+</tr>
+<tr>
+<td>TER</td>
+<td>LPLA</td>
+<td><a href=\"/wiki/Lajes_Field\" title=\"Lajes Field\">Lajes Field</a></td>
+<td><a href=\"/wiki/Terceira_Island\" title=\"Terceira Island\">Terceira Island</a>, <a href=\"/wiki/Azores\" title=\"Azores\">Azores</a>, <a href=\"/wiki/Portugal\" title=\"Portugal\">Portugal</a></td>
+</tr>
+<tr>
+<td>TES</td>
+<td>HHTS</td>
+<td><a href=\"/wiki/Teseney_Airport\" title=\"Teseney Airport\">Teseney Airport</a><sup id=\"cite_ref-IATA_1-46\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Teseney\" title=\"Teseney\">Teseney</a>, <a href=\"/wiki/Eritrea\" title=\"Eritrea\">Eritrea</a></td>
+</tr>
+<tr>
+<td>TET</td>
+<td>FQTT</td>
+<td><a href=\"/wiki/Chingozi_Airport\" title=\"Chingozi Airport\">Chingozi Airport</a></td>
+<td><a href=\"/wiki/Tete,_Mozambique\" title=\"Tete, Mozambique\">Tete</a>, <a href=\"/wiki/Mozambique\" title=\"Mozambique\">Mozambique</a></td>
+</tr>
+<tr>
+<td>TEU</td>
+<td>NZMO</td>
+<td><a href=\"/wiki/Te_Anau_Airport\" title=\"Te Anau Airport\">Te Anau Airport</a><sup id=\"cite_ref-IATA_1-47\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (Manapouri Airport)</td>
+<td><a href=\"/wiki/Te_Anau\" title=\"Te Anau\">Te Anau</a>, <a href=\"/wiki/New_Zealand\" title=\"New Zealand\">New Zealand</a></td>
+</tr>
+<tr>
+<td>TEV</td>
+<td>LETL</td>
+<td><a href=\"/wiki/Teruel_Airport\" title=\"Teruel Airport\">Teruel Airport</a><sup id=\"cite_ref-IATA_1-48\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Teruel\" title=\"Teruel\">Teruel</a>, <a href=\"/wiki/Aragon\" title=\"Aragon\">Aragon</a>, Spain</td>
+</tr>
+<tr>
+<td>TEX</td>
+<td>KTEX</td>
+<td><a href=\"/wiki/Telluride_Regional_Airport\" title=\"Telluride Regional Airport\">Telluride Regional Airport</a></td>
+<td><a href=\"/wiki/Telluride,_Colorado\" title=\"Telluride, Colorado\">Telluride</a>, <a href=\"/wiki/Colorado\" title=\"Colorado\">Colorado</a>, United States</td>
+</tr>
+<tr>
+<td>TEY</td>
+<td>BITE</td>
+<td><a href=\"/wiki/%C3%9Eingeyri_Airport\" title=\"\u00deingeyri Airport\">Thingeyri Airport</a><sup id=\"cite_ref-IATA_1-49\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Thingeyri\" title=\"Thingeyri\">Thingeyri</a> (\u00deingeyri), <a href=\"/wiki/Iceland\" title=\"Iceland\">Iceland</a></td>
+</tr>
+<tr>
+<td>TEZ</td>
+<td>VETZ</td>
+<td><a href=\"/wiki/Tezpur_Airport\" title=\"Tezpur Airport\">Tezpur Airport</a></td>
+<td><a href=\"/wiki/Tezpur\" title=\"Tezpur\">Tezpur</a>, <a href=\"/wiki/Assam\" title=\"Assam\">Assam</a>, India</td>
+</tr>
+<tr>
+<td>TFB</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Tifalmin_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tifalmin Airport (page does not exist)\">Tifalmin Airport</a><sup id=\"cite_ref-IATA_1-50\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Tifalmin&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tifalmin (page does not exist)\">Tifalmin</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>TFF</td>
+<td>SBTF</td>
+<td><a href=\"/wiki/Tef%C3%A9_Airport\" title=\"Tef\u00e9 Airport\">Tef\u00e9 Airport</a></td>
+<td><a href=\"/wiki/Tef%C3%A9\" title=\"Tef\u00e9\">Tef\u00e9</a>, <a href=\"/wiki/Amazonas_(Brazilian_state)\" title=\"Amazonas (Brazilian state)\">Amazonas</a>, Brazil</td>
+</tr>
+<tr>
+<td>TFI</td>
+<td>AYTU</td>
+<td><a href=\"/wiki/Tufi_Airport\" title=\"Tufi Airport\">Tufi Airport</a><sup id=\"cite_ref-IATA_1-51\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tufi\" title=\"Tufi\">Tufi</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>TFL</td>
+<td>SNTO</td>
+<td><a href=\"/wiki/Te%C3%B3filo_Otoni_Airport\" title=\"Te\u00f3filo Otoni Airport\">Te\u00f3filo Otoni Airport</a><sup id=\"cite_ref-IATA_1-52\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (Juscelino Kubitscheck Airport)</td>
+<td><a href=\"/wiki/Te%C3%B3filo_Otoni\" title=\"Te\u00f3filo Otoni\">Te\u00f3filo Otoni</a>, <a href=\"/wiki/Minas_Gerais\" title=\"Minas Gerais\">Minas Gerais</a>, Brazil</td>
+</tr>
+<tr>
+<td>TFM</td>
+<td>AYTE</td>
+<td><a href=\"/wiki/Telefomin_Airport\" title=\"Telefomin Airport\">Telefomin Airport</a><sup id=\"cite_ref-IATA_1-53\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Telefomin\" title=\"Telefomin\">Telefomin</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>TFN</td>
+<td>GCXO</td>
+<td><a href=\"/wiki/Tenerife%E2%80%93North_Airport\" class=\"mw-redirect\" title=\"Tenerife\u2013North Airport\">Tenerife\u2013North Airport</a> (Los Rodeos Airport)</td>
+<td><a href=\"/wiki/Tenerife\" title=\"Tenerife\">Tenerife</a>, <a href=\"/wiki/Canary_Islands\" title=\"Canary Islands\">Canary Islands</a>, Spain</td>
+</tr>
+<tr>
+<td>TFR</td>
+<td>HE13</td>
+<td><a href=\"/w/index.php?title=Wadi_al_Jandali_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Wadi al Jandali Airport (page does not exist)\">Wadi al Jandali Airport</a><sup id=\"cite_ref-IATA_1-54\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/10th_of_Ramadan_City\" class=\"mw-redirect\" title=\"10th of Ramadan City\">10th of Ramadan City</a>, <a href=\"/wiki/Egypt\" title=\"Egypt\">Egypt</a></td>
+</tr>
+<tr>
+<td>TFS</td>
+<td>GCTS</td>
+<td><a href=\"/wiki/Tenerife%E2%80%93South_Airport\" class=\"mw-redirect\" title=\"Tenerife\u2013South Airport\">Tenerife\u2013South Airport</a> (Reina Sofia Airport)</td>
+<td><a href=\"/wiki/Tenerife\" title=\"Tenerife\">Tenerife</a>, <a href=\"/wiki/Canary_Islands\" title=\"Canary Islands\">Canary Islands</a>, Spain</td>
+</tr>
+<tr>
+<td>TFT</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Taftan_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Taftan Airport (page does not exist)\">Taftan Airport</a><sup id=\"cite_ref-IATA_1-55\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Taftan,_Balochistan\" title=\"Taftan, Balochistan\">Taftan</a>, <a href=\"/wiki/Pakistan\" title=\"Pakistan\">Pakistan</a></td>
+</tr>
+<tr>
+<td>TGA</td>
+<td>WSAT</td>
+<td><a href=\"/wiki/Tengah_Air_Base\" title=\"Tengah Air Base\">Tengah Air Base</a></td>
+<td><a href=\"/wiki/Singapore\" title=\"Singapore\">Singapore</a></td>
+</tr>
+<tr>
+<td>TGB</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Tagbita_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tagbita Airport (page does not exist)\">Tagbita Airport</a></td>
+<td><a href=\"/wiki/Rizal,_Palawan\" title=\"Rizal, Palawan\">Rizal</a>, <a href=\"/wiki/Philippines\" title=\"Philippines\">Philippines</a></td>
+</tr>
+<tr>
+<td>TGC</td>
+<td>WBTM</td>
+<td><a href=\"/wiki/Tanjung_Manis_Airport\" title=\"Tanjung Manis Airport\">Tanjung Manis Airport</a><sup id=\"cite_ref-IATA_1-56\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Tanjung_Manis&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tanjung Manis (page does not exist)\">Tanjung Manis</a>, <a href=\"/wiki/Sarawak\" title=\"Sarawak\">Sarawak</a>, Malaysia</td>
+</tr>
+<tr>
+<td>TGD</td>
+<td>LYPG</td>
+<td><a href=\"/wiki/Podgorica_Airport\" title=\"Podgorica Airport\">Podgorica Airport</a></td>
+<td><a href=\"/wiki/Podgorica\" title=\"Podgorica\">Podgorica</a>, <a href=\"/wiki/Montenegro\" title=\"Montenegro\">Montenegro</a></td>
+</tr>
+<tr>
+<td>TGE</td>
+<td></td>
+<td><a href=\"/wiki/Sharpe_Field\" title=\"Sharpe Field\">Sharpe Field</a> (FAA: AL73)</td>
+<td><a href=\"/wiki/Tuskegee,_Alabama\" title=\"Tuskegee, Alabama\">Tuskegee</a>, <a href=\"/wiki/Alabama\" title=\"Alabama\">Alabama</a>, United States</td>
+</tr>
+<tr>
+<td>TGG</td>
+<td>WMKN</td>
+<td><a href=\"/wiki/Sultan_Mahmud_Airport\" title=\"Sultan Mahmud Airport\">Sultan Mahmud Airport</a></td>
+<td><a href=\"/wiki/Kuala_Terengganu\" title=\"Kuala Terengganu\">Kuala Terengganu</a>, <a href=\"/wiki/Terengganu\" title=\"Terengganu\">Terengganu</a>, Malaysia</td>
+</tr>
+<tr>
+<td>TGH</td>
+<td>NVST</td>
+<td><a href=\"/wiki/Tongoa_Airport\" title=\"Tongoa Airport\">Tongoa Airport</a></td>
+<td><a href=\"/wiki/Tongoa\" title=\"Tongoa\">Tongoa</a>, <a href=\"/wiki/Shefa_Province\" title=\"Shefa Province\">Shefa</a>, <a href=\"/wiki/Vanuatu\" title=\"Vanuatu\">Vanuatu</a></td>
+</tr>
+<tr>
+<td>TGI</td>
+<td>SPGM</td>
+<td><a href=\"/wiki/Tingo_Mar%C3%ADa_Airport\" title=\"Tingo Mar\u00eda Airport\">Tingo Mar\u00eda Airport</a></td>
+<td><a href=\"/wiki/Tingo_Mar%C3%ADa\" title=\"Tingo Mar\u00eda\">Tingo Mar\u00eda</a>, <a href=\"/wiki/Peru\" title=\"Peru\">Peru</a></td>
+</tr>
+<tr>
+<td>TGJ</td>
+<td>NWWA</td>
+<td><a href=\"/wiki/Tiga_Airport\" title=\"Tiga Airport\">Tiga Airport</a><sup id=\"cite_ref-IATA_1-57\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tiga_Island\" title=\"Tiga Island\">Tiga Island</a>, <a href=\"/wiki/Loyalty_Islands\" class=\"mw-redirect\" title=\"Loyalty Islands\">Loyalty Islands</a>, <a href=\"/wiki/New_Caledonia\" title=\"New Caledonia\">New Caledonia</a></td>
+</tr>
+<tr>
+<td>TGK</td>
+<td>URRT</td>
+<td><a href=\"/w/index.php?title=Taganrog_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Taganrog Airport (page does not exist)\">Taganrog Airport</a><sup id=\"cite_ref-IATA_1-58\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Taganrog\" title=\"Taganrog\">Taganrog</a>, <a href=\"/wiki/Rostov_Oblast\" title=\"Rostov Oblast\">Rostov Oblast</a>, Russia</td>
+</tr>
+<tr>
+<td>TGL</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Tagula_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tagula Airport (page does not exist)\">Tagula Airport</a><sup id=\"cite_ref-IATA_1-59\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Vanatinai\" class=\"mw-redirect\" title=\"Vanatinai\">Vanatinai</a> (Tagula Island), <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>TGM</td>
+<td>LRTM</td>
+<td><a href=\"/wiki/T%C3%A2rgu_Mure%C8%99_International_Airport\" title=\"T\u00e2rgu Mure\u0219 International Airport\">T\u00e2rgu Mure\u0219 International Airport</a></td>
+<td><a href=\"/wiki/T%C3%A2rgu_Mure%C8%99\" title=\"T\u00e2rgu Mure\u0219\">T\u00e2rgu Mure\u0219</a>, <a href=\"/wiki/Romania\" title=\"Romania\">Romania</a></td>
+</tr>
+<tr>
+<td>TGN</td>
+<td>YLTV</td>
+<td><a href=\"/wiki/Latrobe_Regional_Airport\" title=\"Latrobe Regional Airport\">Latrobe Regional Airport</a><sup id=\"cite_ref-IATA_1-60\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Traralgon\" title=\"Traralgon\">Traralgon</a>, <a href=\"/wiki/Victoria_(Australia)\" title=\"Victoria (Australia)\">Victoria</a>, Australia</td>
+</tr>
+<tr>
+<td>TGO</td>
+<td>ZBTL</td>
+<td><a href=\"/wiki/Tongliao_Airport\" title=\"Tongliao Airport\">Tongliao Airport</a><sup id=\"cite_ref-IATA_1-61\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tongliao\" title=\"Tongliao\">Tongliao</a>, <a href=\"/wiki/Inner_Mongolia\" title=\"Inner Mongolia\">Inner Mongolia</a>, China</td>
+</tr>
+<tr>
+<td>TGP</td>
+<td>UNIP</td>
+<td><a href=\"/wiki/Podkamennaya_Tunguska_Airport\" title=\"Podkamennaya Tunguska Airport\">Podkamennaya Tunguska Airport</a></td>
+<td><a href=\"/wiki/Bor,_Turukhansky_District,_Krasnoyarsk_Krai\" title=\"Bor, Turukhansky District, Krasnoyarsk Krai\">Bor</a>, <a href=\"/wiki/Krasnoyarsk_Krai\" title=\"Krasnoyarsk Krai\">Krasnoyarsk Krai</a>, Russia</td>
+</tr>
+<tr>
+<td>TGQ</td>
+<td>SWTS</td>
+<td><a href=\"/w/index.php?title=Tangar%C3%A1_da_Serra_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tangar\u00e1 da Serra Airport (page does not exist)\">Tangar\u00e1 da Serra Airport</a><sup id=\"cite_ref-IATA_1-62\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tangar%C3%A1_da_Serra\" title=\"Tangar\u00e1 da Serra\">Tangar\u00e1 da Serra</a>, <a href=\"/wiki/Mato_Grosso\" title=\"Mato Grosso\">Mato Grosso</a>, Brazil</td>
+</tr>
+<tr>
+<td>TGR</td>
+<td>DAUK</td>
+<td><a href=\"/wiki/Sidi_Mahdi_Airport\" title=\"Sidi Mahdi Airport\">Sidi Mahdi Airport</a><sup id=\"cite_ref-IATA_1-63\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Touggourt\" title=\"Touggourt\">Touggourt</a>, <a href=\"/wiki/Algeria\" title=\"Algeria\">Algeria</a></td>
+</tr>
+<tr>
+<td>TGS</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Chokwe_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Chokwe Airport (page does not exist)\">Chokwe Airport</a><sup id=\"cite_ref-IATA_1-64\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Chokwe,_Mozambique\" title=\"Chokwe, Mozambique\">Chokwe</a>, <a href=\"/wiki/Mozambique\" title=\"Mozambique\">Mozambique</a></td>
+</tr>
+<tr>
+<td>TGT</td>
+<td>HTTG</td>
+<td><a href=\"/wiki/Tanga_Airport\" title=\"Tanga Airport\">Tanga Airport</a><sup id=\"cite_ref-IATA_1-65\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tanga,_Tanzania\" title=\"Tanga, Tanzania\">Tanga</a>, <a href=\"/wiki/Tanzania\" title=\"Tanzania\">Tanzania</a></td>
+</tr>
+<tr>
+<td>TGU</td>
+<td>MHTG</td>
+<td><a href=\"/wiki/Toncont%C3%ADn_International_Airport\" title=\"Toncont\u00edn International Airport\">Toncont\u00edn International Airport</a></td>
+<td><a href=\"/wiki/Tegucigalpa\" title=\"Tegucigalpa\">Tegucigalpa</a>, <a href=\"/wiki/Honduras\" title=\"Honduras\">Honduras</a></td>
+</tr>
+<tr>
+<td>TGV</td>
+<td>LBTG</td>
+<td><a href=\"/wiki/Targovishte_Airport\" title=\"Targovishte Airport\">Targovishte Airport</a><sup id=\"cite_ref-IATA_1-66\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (Buhovtsi Airfield)</td>
+<td><a href=\"/wiki/Targovishte\" title=\"Targovishte\">Targovishte</a>, <a href=\"/wiki/Bulgaria\" title=\"Bulgaria\">Bulgaria</a></td>
+</tr>
+<tr>
+<td>TGZ</td>
+<td>MMTG</td>
+<td><a href=\"/wiki/%C3%81ngel_Albino_Corzo_International_Airport\" class=\"mw-redirect\" title=\"\u00c1ngel Albino Corzo International Airport\">\u00c1ngel Albino Corzo International Airport</a></td>
+<td><a href=\"/wiki/Tuxtla_Guti%C3%A9rrez\" title=\"Tuxtla Guti\u00e9rrez\">Tuxtla Guti\u00e9rrez</a>, <a href=\"/wiki/Chiapas\" title=\"Chiapas\">Chiapas</a>, Mexico</td>
+</tr>
+<tr>
+<td>THA</td>
+<td>KTHA</td>
+<td><a href=\"/wiki/Tullahoma_Regional_Airport\" title=\"Tullahoma Regional Airport\">Tullahoma Regional Airport</a> (William Northern Field)</td>
+<td><a href=\"/wiki/Tullahoma,_Tennessee\" title=\"Tullahoma, Tennessee\">Tullahoma</a>, <a href=\"/wiki/Tennessee\" title=\"Tennessee\">Tennessee</a>, United States</td>
+</tr>
+<tr>
+<td>THB</td>
+<td>FXTA</td>
+<td><a href=\"/wiki/Thaba_Tseka_Airport\" title=\"Thaba Tseka Airport\">Thaba Tseka Airport</a><sup id=\"cite_ref-IATA_1-67\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Thaba-Tseka\" title=\"Thaba-Tseka\">Thaba-Tseka</a>, <a href=\"/wiki/Lesotho\" title=\"Lesotho\">Lesotho</a></td>
+</tr>
+<tr>
+<td>THC</td>
+<td>GLTN</td>
+<td><a href=\"/wiki/Tchien_Airport\" title=\"Tchien Airport\">Tchien Airport</a></td>
+<td><a href=\"/wiki/Tchien_District\" title=\"Tchien District\">Tchien</a>, <a href=\"/wiki/Liberia\" title=\"Liberia\">Liberia</a></td>
+</tr>
+<tr>
+<td>THD</td>
+<td>VVTX</td>
+<td><a href=\"/wiki/Tho_Xuan_Airport\" title=\"Tho Xuan Airport\">Tho Xuan Airport</a></td>
+<td><a href=\"/wiki/Thanh_H%C3%B3a\" title=\"Thanh H\u00f3a\">Thanh H\u00f3a</a>, <a href=\"/wiki/Vietnam\" title=\"Vietnam\">Vietnam</a></td>
+</tr>
+<tr>
+<td>THE</td>
+<td>SBTE</td>
+<td><a href=\"/wiki/Teresina_Airport\" title=\"Teresina Airport\">Teresina\u2013Senador Petr\u00f4nio Portella Airport</a></td>
+<td><a href=\"/wiki/Teresina\" title=\"Teresina\">Teresina</a>, <a href=\"/wiki/Piau%C3%AD\" title=\"Piau\u00ed\">Piau\u00ed</a>, Brazil</td>
+</tr>
+<tr>
+<td>THG</td>
+<td>YTNG</td>
+<td><a href=\"/wiki/Thangool_Airport\" title=\"Thangool Airport\">Thangool Airport</a><sup id=\"cite_ref-IATA_1-68\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Thangool\" title=\"Thangool\">Thangool</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+</tr>
+<tr>
+<td>THH</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Taharoa_Aerodrome&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Taharoa Aerodrome (page does not exist)\">Taharoa Aerodrome</a><sup id=\"cite_ref-IATA_1-69\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Taharoa\" title=\"Taharoa\">Taharoa</a>, <a href=\"/wiki/New_Zealand\" title=\"New Zealand\">New Zealand</a></td>
+</tr>
+<tr>
+<td>THI</td>
+<td>GQNC</td>
+<td><a href=\"/wiki/Tichitt_Airport\" title=\"Tichitt Airport\">Tichitt Airport</a></td>
+<td><a href=\"/wiki/Tichit\" title=\"Tichit\">Tichit</a>, <a href=\"/wiki/Mauritania\" title=\"Mauritania\">Mauritania</a></td>
+</tr>
+<tr>
+<td>THK</td>
+<td>VLTK</td>
+<td><a href=\"/w/index.php?title=Thakhek_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Thakhek Airport (page does not exist)\">Thakhek Airport</a><sup id=\"cite_ref-IATA_1-70\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Thakhek\" title=\"Thakhek\">Thakhek</a>, <a href=\"/wiki/Laos\" title=\"Laos\">Laos</a></td>
+</tr>
+<tr>
+<td>THL</td>
+<td>VYTL</td>
+<td><a href=\"/wiki/Tachilek_Airport\" title=\"Tachilek Airport\">Tachilek Airport</a></td>
+<td><a href=\"/wiki/Tachileik\" title=\"Tachileik\">Tachileik</a> (Tachilek), <a href=\"/wiki/Myanmar\" title=\"Myanmar\">Myanmar</a></td>
+</tr>
+<tr>
+<td>THM</td>
+<td>KTHM</td>
+<td><a href=\"/wiki/Thompson_Falls_Airport\" title=\"Thompson Falls Airport\">Thompson Falls Airport</a><sup id=\"cite_ref-IATA_1-71\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Thompson_Falls,_Montana\" title=\"Thompson Falls, Montana\">Thompson Falls</a>, <a href=\"/wiki/Montana\" title=\"Montana\">Montana</a>, United States</td>
+</tr>
+<tr>
+<td>THN</td>
+<td>ESGT</td>
+<td><a href=\"/wiki/Trollh%C3%A4ttan%E2%80%93V%C3%A4nersborg_Airport\" title=\"Trollh\u00e4ttan\u2013V\u00e4nersborg Airport\">Trollh\u00e4ttan\u2013V\u00e4nersborg Airport</a></td>
+<td><a href=\"/wiki/Trollh%C3%A4ttan\" title=\"Trollh\u00e4ttan\">Trollh\u00e4ttan</a> / <a href=\"/wiki/V%C3%A4nersborg\" title=\"V\u00e4nersborg\">V\u00e4nersborg</a>, <a href=\"/wiki/Sweden\" title=\"Sweden\">Sweden</a></td>
+</tr>
+<tr>
+<td>THO</td>
+<td>BITN</td>
+<td><a href=\"/wiki/%C3%9E%C3%B3rsh%C3%B6fn_Airport\" title=\"\u00de\u00f3rsh\u00f6fn Airport\">Thorshofn Airport</a></td>
+<td><a href=\"/wiki/%C3%9E%C3%B3rsh%C3%B6fn\" title=\"\u00de\u00f3rsh\u00f6fn\">Thorshofn</a> (\u00de\u00f3rsh\u00f6fn), <a href=\"/wiki/Iceland\" title=\"Iceland\">Iceland</a></td>
+</tr>
+<tr>
+<td>THP</td>
+<td>KTHP</td>
+<td><a href=\"/wiki/Hot_Springs_County%E2%80%93Thermopolis_Municipal_Airport\" title=\"Hot Springs County\u2013Thermopolis Municipal Airport\">Hot Springs County\u2013Thermopolis Municipal Airport</a></td>
+<td><a href=\"/wiki/Thermopolis,_Wyoming\" title=\"Thermopolis, Wyoming\">Thermopolis</a>, <a href=\"/wiki/Wyoming\" title=\"Wyoming\">Wyoming</a>, United States</td>
+</tr>
+<tr>
+<td>THQ</td>
+<td>ZLTS</td>
+<td><a href=\"/wiki/Tianshui_Maijishan_Airport\" title=\"Tianshui Maijishan Airport\">Tianshui Maijishan Airport</a><sup id=\"cite_ref-IATA_1-72\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tianshui\" title=\"Tianshui\">Tianshui</a>, <a href=\"/wiki/Gansu\" title=\"Gansu\">Gansu</a>, China</td>
+</tr>
+<tr>
+<td>THR</td>
+<td>OIII</td>
+<td><a href=\"/wiki/Mehrabad_International_Airport\" title=\"Mehrabad International Airport\">Mehrabad International Airport</a></td>
+<td><a href=\"/wiki/Tehran\" title=\"Tehran\">Tehran</a>, <a href=\"/wiki/Iran\" title=\"Iran\">Iran</a></td>
+</tr>
+<tr>
+<td>THS</td>
+<td>VTPO</td>
+<td><a href=\"/wiki/Sukhothai_Airport\" title=\"Sukhothai Airport\">Sukhothai Airport</a></td>
+<td><a href=\"/wiki/Sukhothai_Province\" title=\"Sukhothai Province\">Sukhothai</a>, <a href=\"/wiki/Thailand\" title=\"Thailand\">Thailand</a></td>
+</tr>
+<tr>
+<td>THT</td>
+<td>GQNT</td>
+<td><a href=\"/wiki/Tamchakett_Airport\" title=\"Tamchakett Airport\">Tamchakett Airport</a></td>
+<td><a href=\"/wiki/Tamchakett\" title=\"Tamchakett\">Tamchakett</a>, <a href=\"/wiki/Mauritania\" title=\"Mauritania\">Mauritania</a></td>
+</tr>
+<tr>
+<td>THU</td>
+<td>BGTL</td>
+<td><a href=\"/wiki/Thule_Air_Base\" title=\"Thule Air Base\">Thule Air Base</a></td>
+<td><a href=\"/wiki/Pituffik\" title=\"Pituffik\">Pituffik</a>, <a href=\"/wiki/Greenland\" title=\"Greenland\">Greenland</a></td>
+</tr>
+<tr>
+<td>THV</td>
+<td>KTHV</td>
+<td><a href=\"/wiki/York_Airport_(Pennsylvania)\" title=\"York Airport (Pennsylvania)\">York Airport</a></td>
+<td><a href=\"/wiki/York,_Pennsylvania\" title=\"York, Pennsylvania\">York</a>, <a href=\"/wiki/Pennsylvania\" title=\"Pennsylvania\">Pennsylvania</a>, United States</td>
+</tr>
+<tr>
+<td>THW</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Trincomalee_Harbour_Seaplane_Base&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Trincomalee Harbour Seaplane Base (page does not exist)\">Trincomalee Harbour Seaplane Base</a><sup id=\"cite_ref-IATA_1-73\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Trincomalee\" title=\"Trincomalee\">Trincomalee</a>, <a href=\"/wiki/Sri_Lanka\" title=\"Sri Lanka\">Sri Lanka</a></td>
+</tr>
+<tr>
+<td>THX</td>
+<td>UOTT</td>
+<td><a href=\"/wiki/Turukhansk_Airport\" title=\"Turukhansk Airport\">Turukhansk Airport</a></td>
+<td><a href=\"/wiki/Turukhansk\" title=\"Turukhansk\">Turukhansk</a>, <a href=\"/wiki/Krasnoyarsk_Krai\" title=\"Krasnoyarsk Krai\">Krasnoyarsk Krai</a>, Russia</td>
+</tr>
+<tr>
+<td>THY</td>
+<td>FATH</td>
+<td><a href=\"/w/index.php?title=P.R._Mphephu_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"P.R. Mphephu Airport (page does not exist)\">P.R. Mphephu Airport</a><sup id=\"cite_ref-IATA_1-74\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Thohoyandou\" title=\"Thohoyandou\">Thohoyandou</a>, <a href=\"/wiki/South_Africa\" title=\"South Africa\">South Africa</a></td>
+</tr>
+<tr>
+<td>THZ</td>
+<td>DRRT</td>
+<td><a href=\"/wiki/Tahoua_Airport\" title=\"Tahoua Airport\">Tahoua Airport</a></td>
+<td><a href=\"/wiki/Tahoua\" title=\"Tahoua\">Tahoua</a>, <a href=\"/wiki/Niger\" title=\"Niger\">Niger</a></td>
+</tr>
+<tr>
+<td>TIA</td>
+<td>LATI</td>
+<td><a href=\"/wiki/Tirana_International_Airport_N%C3%ABn%C3%AB_Tereza\" title=\"Tirana International Airport N\u00ebn\u00eb Tereza\">Tirana International Airport N\u00ebn\u00eb Tereza</a></td>
+<td><a href=\"/wiki/Tirana\" title=\"Tirana\">Tirana</a>, <a href=\"/wiki/Albania\" title=\"Albania\">Albania</a></td>
+</tr>
+<tr>
+<td>TIB</td>
+<td>SKTB</td>
+<td><a href=\"/wiki/Tib%C3%BA_Airport\" title=\"Tib\u00fa Airport\">Tib\u00fa Airport</a><sup id=\"cite_ref-IATA_1-75\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tib%C3%BA\" title=\"Tib\u00fa\">Tib\u00fa</a>, <a href=\"/wiki/Colombia\" title=\"Colombia\">Colombia</a></td>
+</tr>
+<tr>
+<td>TIC</td>
+<td></td>
+<td><a href=\"/wiki/Tinak_Airport\" title=\"Tinak Airport\">Tinak Airport</a> (FAA: N18)</td>
+<td><a href=\"/w/index.php?title=Tinak_Island&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tinak Island (page does not exist)\">Tinak Island</a>, <a href=\"/wiki/Arno_Atoll\" title=\"Arno Atoll\">Arno Atoll</a>, <a href=\"/wiki/Marshall_Islands\" title=\"Marshall Islands\">Marshall Islands</a></td>
+</tr>
+<tr>
+<td>TID</td>
+<td>DAOB</td>
+<td><a href=\"/wiki/Abdelhafid_Boussouf_Bou_Chekif_Airport\" title=\"Abdelhafid Boussouf Bou Chekif Airport\">Abdelhafid Boussouf Bou Chekif Airport</a><sup id=\"cite_ref-IATA_1-76\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tiaret\" title=\"Tiaret\">Tiaret</a>, <a href=\"/wiki/Algeria\" title=\"Algeria\">Algeria</a></td>
+</tr>
+<tr>
+<td>TIE</td>
+<td>HATP</td>
+<td><a href=\"/wiki/Tippi_Airport\" title=\"Tippi Airport\">Tippi Airport</a><sup id=\"cite_ref-IATA_1-77\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tepi\" title=\"Tepi\">Tepi</a> (Tippi), <a href=\"/wiki/Ethiopia\" title=\"Ethiopia\">Ethiopia</a></td>
+</tr>
+<tr>
+<td>TIF</td>
+<td>OETF</td>
+<td><a href=\"/wiki/Ta%27if_Regional_Airport\" title=\"Ta&#39;if Regional Airport\">Ta'if Regional Airport</a></td>
+<td><a href=\"/wiki/Ta%27if\" title=\"Ta&#39;if\">Ta'if</a>, <a href=\"/wiki/Saudi_Arabia\" title=\"Saudi Arabia\">Saudi Arabia</a></td>
+</tr>
+<tr>
+<td>TIG</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Tingwon_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tingwon Airport (page does not exist)\">Tingwon Airport</a><sup id=\"cite_ref-IATA_1-78\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Tingwon&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tingwon (page does not exist)\">Tingwon</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>TIH</td>
+<td>NTGC</td>
+<td><a href=\"/wiki/Tikehau_Airport\" title=\"Tikehau Airport\">Tikehau Airport</a><sup id=\"cite_ref-IATA_1-79\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tikehau\" title=\"Tikehau\">Tikehau</a>, <a href=\"/wiki/Tuamotus\" title=\"Tuamotus\">Tuamotus</a>, <a href=\"/wiki/French_Polynesia\" title=\"French Polynesia\">French Polynesia</a></td>
+</tr>
+<tr>
+<td>TII</td>
+<td>OATN</td>
+<td><a href=\"/wiki/Tarinkot_Airport\" title=\"Tarinkot Airport\">Tarinkot Airport</a></td>
+<td><a href=\"/wiki/Tarinkot\" title=\"Tarinkot\">Tarinkot</a> (Tarin Kowt), <a href=\"/wiki/Afghanistan\" title=\"Afghanistan\">Afghanistan</a></td>
+</tr>
+<tr>
+<td>TIJ</td>
+<td>MMTJ</td>
+<td><a href=\"/wiki/Tijuana_International_Airport\" title=\"Tijuana International Airport\">Tijuana International Airport</a></td>
+<td><a href=\"/wiki/Tijuana\" title=\"Tijuana\">Tijuana</a>, <a href=\"/wiki/Baja_California\" title=\"Baja California\">Baja California</a>, Mexico</td>
+</tr>
+<tr>
+<td>TIK</td>
+<td>KTIK</td>
+<td><a href=\"/wiki/Tinker_Air_Force_Base\" title=\"Tinker Air Force Base\">Tinker Air Force Base</a></td>
+<td><a href=\"/wiki/Oklahoma_City\" title=\"Oklahoma City\">Oklahoma City</a>, <a href=\"/wiki/Oklahoma\" title=\"Oklahoma\">Oklahoma</a>, United States</td>
+</tr>
+<tr>
+<td>TIL</td>
+<td></td>
+<td><a href=\"/wiki/Cheadle_Airport\" title=\"Cheadle Airport\">Cheadle Airport</a><sup id=\"cite_ref-IATA_1-80\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (TC: CFQ4)</td>
+<td><a href=\"/wiki/Cheadle,_Alberta\" title=\"Cheadle, Alberta\">Cheadle</a>, <a href=\"/wiki/Alberta\" title=\"Alberta\">Alberta</a>, Canada</td>
+</tr>
+<tr>
+<td>TIM</td>
+<td>WABP</td>
+<td><a href=\"/wiki/Timika_Airport\" class=\"mw-redirect\" title=\"Timika Airport\">Mozes Kilangin Airport</a></td>
+<td><a href=\"/wiki/Tembagapura\" title=\"Tembagapura\">Tembagapura</a> / <a href=\"/wiki/Timika\" title=\"Timika\">Timika</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+</tr>
+<tr>
+<td>TIN</td>
+<td>DAOF</td>
+<td><a href=\"/wiki/Tindouf_Airport\" title=\"Tindouf Airport\">Tindouf Airport</a><sup id=\"cite_ref-IATA_1-81\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tindouf\" title=\"Tindouf\">Tindouf</a>, <a href=\"/wiki/Algeria\" title=\"Algeria\">Algeria</a></td>
+</tr>
+<tr>
+<td>TIO</td>
+<td>VYHN</td>
+<td><a href=\"/w/index.php?title=Tilin_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tilin Airport (page does not exist)\">Tilin Airport</a><sup id=\"cite_ref-IATA_1-82\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Htilin\" title=\"Htilin\">Htilin</a> (Tilin), <a href=\"/wiki/Myanmar\" title=\"Myanmar\">Myanmar</a></td>
+</tr>
+<tr>
+<td>TIP</td>
+<td>HLLT</td>
+<td><a href=\"/wiki/Tripoli_International_Airport\" title=\"Tripoli International Airport\">Tripoli International Airport</a></td>
+<td><a href=\"/wiki/Tripoli\" title=\"Tripoli\">Tripoli</a>, <a href=\"/wiki/Libya\" title=\"Libya\">Libya</a></td>
+</tr>
+<tr>
+<td>TIQ</td>
+<td>PGWT</td>
+<td><a href=\"/wiki/Tinian_International_Airport\" title=\"Tinian International Airport\">Tinian International Airport</a> (West Tinian Airport) (FAA: TNI)</td>
+<td><a href=\"/wiki/Tinian\" title=\"Tinian\">Tinian</a>, <a href=\"/wiki/Northern_Mariana_Islands\" title=\"Northern Mariana Islands\">Northern Mariana Islands</a></td>
+</tr>
+<tr>
+<td>TIR</td>
+<td>VOTP</td>
+<td><a href=\"/wiki/Tirupati_Airport\" title=\"Tirupati Airport\">Tirupati Airport</a></td>
+<td><a href=\"/wiki/Tirupati\" title=\"Tirupati\">Tirupati</a>, <a href=\"/wiki/Andhra_Pradesh\" title=\"Andhra Pradesh\">Andhra Pradesh</a>, India</td>
+</tr>
+<tr>
+<td>TIU</td>
+<td>NZTU</td>
+<td><a href=\"/wiki/Richard_Pearse_Airport\" title=\"Richard Pearse Airport\">Richard Pearse Airport</a></td>
+<td><a href=\"/wiki/Timaru\" title=\"Timaru\">Timaru</a>, <a href=\"/wiki/New_Zealand\" title=\"New Zealand\">New Zealand</a></td>
+</tr>
+<tr>
+<td>TIV</td>
+<td>LYTV</td>
+<td><a href=\"/wiki/Tivat_Airport\" title=\"Tivat Airport\">Tivat Airport</a></td>
+<td><a href=\"/wiki/Tivat\" title=\"Tivat\">Tivat</a>, <a href=\"/wiki/Montenegro\" title=\"Montenegro\">Montenegro</a></td>
+</tr>
+<tr>
+<td>TIW</td>
+<td>KTIW</td>
+<td><a href=\"/wiki/Tacoma_Narrows_Airport\" title=\"Tacoma Narrows Airport\">Tacoma Narrows Airport</a></td>
+<td><a href=\"/wiki/Tacoma,_Washington\" title=\"Tacoma, Washington\">Tacoma</a>, <a href=\"/wiki/Washington_(state)\" title=\"Washington (state)\">Washington</a>, United States</td>
+</tr>
+<tr>
+<td>TIX</td>
+<td>KTIX</td>
+<td><a href=\"/wiki/Space_Coast_Regional_Airport\" title=\"Space Coast Regional Airport\">Space Coast Regional Airport</a></td>
+<td><a href=\"/wiki/Titusville,_Florida\" title=\"Titusville, Florida\">Titusville</a>, <a href=\"/wiki/Florida\" title=\"Florida\">Florida</a>, United States</td>
+</tr>
+<tr>
+<td>TIY</td>
+<td>GQND</td>
+<td><a href=\"/wiki/Tidjikja_Airport\" title=\"Tidjikja Airport\">Tidjikja Airport</a></td>
+<td><a href=\"/wiki/Tidjikja\" title=\"Tidjikja\">Tidjikja</a>, <a href=\"/wiki/Mauritania\" title=\"Mauritania\">Mauritania</a></td>
+</tr>
+<tr>
+<td>TIZ</td>
+<td>AYTA</td>
+<td><a href=\"/wiki/Tari_Airport\" title=\"Tari Airport\">Tari Airport</a><sup id=\"cite_ref-IATA_1-83\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tari,_Papua_New_Guinea\" title=\"Tari, Papua New Guinea\">Tari</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>TJA</td>
+<td>SLTJ</td>
+<td><a href=\"/wiki/Capit%C3%A1n_Oriel_Lea_Plaza_Airport\" title=\"Capit\u00e1n Oriel Lea Plaza Airport\">Capit\u00e1n Oriel Lea Plaza Airport</a></td>
+<td><a href=\"/wiki/Tarija\" title=\"Tarija\">Tarija</a>, <a href=\"/wiki/Bolivia\" title=\"Bolivia\">Bolivia</a></td>
+</tr>
+<tr>
+<td>TJB</td>
+<td>WIBT</td>
+<td><a href=\"/wiki/Sei_Bati_Airport\" class=\"mw-redirect\" title=\"Sei Bati Airport\">Sei Bati Airport</a><sup id=\"cite_ref-IATA_1-84\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tanjung_Balai_Karimun\" title=\"Tanjung Balai Karimun\">Tanjung Balai</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+</tr>
+<tr>
+<td>TJC</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Ticantiqu%C3%AD_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Ticantiqu\u00ed Airport (page does not exist)\">Ticantiqu\u00ed Airport</a><sup id=\"cite_ref-IATA_1-85\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Ticantiqu%C3%AD&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Ticantiqu\u00ed (page does not exist)\">Ticantiqu\u00ed</a>, <a href=\"/wiki/Panama\" title=\"Panama\">Panama</a></td>
+</tr>
+<tr>
+<td>TJG</td>
+<td>WAON</td>
+<td><a href=\"/w/index.php?title=Warukin_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Warukin Airport (page does not exist)\">Warukin Airport</a><sup id=\"cite_ref-IATA_1-86\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tanjung,_Tabalong\" title=\"Tanjung, Tabalong\">Tanjung</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+</tr>
+<tr>
+<td>TJH</td>
+<td>RJBT</td>
+<td><a href=\"/wiki/Tajima_Airport\" title=\"Tajima Airport\">Tajima Airport</a><sup id=\"cite_ref-IATA_1-87\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Toyooka,_Hy%C5%8Dgo\" title=\"Toyooka, Hy\u014dgo\">Toyooka</a>, <a href=\"/wiki/Honshu\" title=\"Honshu\">Honshu</a>, Japan</td>
+</tr>
+<tr>
+<td>TJI</td>
+<td>MHTJ</td>
+<td><a href=\"/wiki/Trujillo_Airport\" title=\"Trujillo Airport\">Trujillo Airport</a><sup id=\"cite_ref-IATA_1-88\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (Capiro Airport)</td>
+<td><a href=\"/wiki/Trujillo,_Honduras\" title=\"Trujillo, Honduras\">Trujillo</a>, <a href=\"/wiki/Honduras\" title=\"Honduras\">Honduras</a></td>
+</tr>
+<tr>
+<td>TJK</td>
+<td>LTAW</td>
+<td><a href=\"/wiki/Tokat_Airport\" title=\"Tokat Airport\">Tokat Airport</a></td>
+<td><a href=\"/wiki/Tokat\" title=\"Tokat\">Tokat</a>, <a href=\"/wiki/Turkey\" title=\"Turkey\">Turkey</a></td>
+</tr>
+<tr>
+<td>TJL</td>
+<td>SBTG</td>
+<td><a href=\"/wiki/Tr%C3%AAs_Lagoas_Airport\" title=\"Tr\u00eas Lagoas Airport\">Pl\u00ednio Alarcom Airport</a></td>
+<td><a href=\"/wiki/Tr%C3%AAs_Lagoas\" title=\"Tr\u00eas Lagoas\">Tr\u00eas Lagoas</a>, <a href=\"/wiki/Mato_Grosso_do_Sul\" title=\"Mato Grosso do Sul\">Mato Grosso do Sul</a>, Brazil</td>
+</tr>
+<tr>
+<td>TJM</td>
+<td>USTR</td>
+<td><a href=\"/wiki/Roshchino_International_Airport\" title=\"Roshchino International Airport\">Roshchino International Airport</a></td>
+<td><a href=\"/wiki/Tyumen\" title=\"Tyumen\">Tyumen</a>, <a href=\"/wiki/Tyumen_Oblast\" title=\"Tyumen Oblast\">Tyumen Oblast</a>, Russia</td>
+</tr>
+<tr>
+<td>TJN</td>
+<td>NTKM</td>
+<td><a href=\"/w/index.php?title=Takume_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Takume Airport (page does not exist)\">Takume Airport</a><sup id=\"cite_ref-IATA_1-89\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Takume\" title=\"Takume\">Takume</a>, <a href=\"/wiki/Tuamotus\" title=\"Tuamotus\">Tuamotus</a>, <a href=\"/wiki/French_Polynesia\" title=\"French Polynesia\">French Polynesia</a></td>
+</tr>
+<tr>
+<td>TJQ</td>
+<td>WIKD</td>
+<td><a href=\"/wiki/H.A.S._Hanandjoeddin_Airport\" class=\"mw-redirect\" title=\"H.A.S. Hanandjoeddin Airport\">H.A.S. Hanandjoeddin Airport</a> (Buluh Tumbang Airport)</td>
+<td><a href=\"/wiki/Tanjung_Pandan\" title=\"Tanjung Pandan\">Tanjung Pandan</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+</tr>
+<tr>
+<td>TJS</td>
+<td>WAGD</td>
+<td><a href=\"/wiki/Tanjung_Harapan_Airport\" title=\"Tanjung Harapan Airport\">Tanjung Harapan Airport</a><sup id=\"cite_ref-IATA_1-90\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tanjung_Selor\" title=\"Tanjung Selor\">Tanjung Selor</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+</tr>
+<tr>
+<td>TJU</td>
+<td>UTDK</td>
+<td><a href=\"/wiki/Kulob_Airport\" title=\"Kulob Airport\">Kulob Airport</a><sup id=\"cite_ref-IATA_1-91\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Kulob\" title=\"Kulob\">Kulob</a>, <a href=\"/wiki/Tajikistan\" title=\"Tajikistan\">Tajikistan</a></td>
+</tr>
+<tr>
+<td>TJV</td>
+<td>VOTJ</td>
+<td><a href=\"/wiki/Thanjavur_Air_Force_Station\" title=\"Thanjavur Air Force Station\">Thanjavur Air Force Station</a><sup id=\"cite_ref-IATA_1-92\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Thanjavur\" title=\"Thanjavur\">Thanjavur</a>, <a href=\"/wiki/Tamil_Nadu\" title=\"Tamil Nadu\">Tamil Nadu</a>, India</td>
+</tr>
+<tr>
+<td>TKA</td>
+<td>PATK</td>
+<td><a href=\"/wiki/Talkeetna_Airport\" title=\"Talkeetna Airport\">Talkeetna Airport</a></td>
+<td><a href=\"/wiki/Talkeetna,_Alaska\" title=\"Talkeetna, Alaska\">Talkeetna</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>TKB</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Tekadu_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tekadu Airport (page does not exist)\">Tekadu Airport</a><sup id=\"cite_ref-IATA_1-93\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Tekadu&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tekadu (page does not exist)\">Tekadu</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>TKC</td>
+<td>FKKC</td>
+<td><a href=\"/wiki/Tiko_Airport\" title=\"Tiko Airport\">Tiko Airport</a><sup id=\"cite_ref-IATA_1-94\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tiko\" title=\"Tiko\">Tiko</a>, <a href=\"/wiki/Cameroon\" title=\"Cameroon\">Cameroon</a></td>
+</tr>
+<tr>
+<td>TKD</td>
+<td>DGTK</td>
+<td><a href=\"/wiki/Takoradi_Airport\" title=\"Takoradi Airport\">Takoradi Airport</a></td>
+<td><a href=\"/wiki/Sekondi-Takoradi\" title=\"Sekondi-Takoradi\">Sekondi-Takoradi</a>, <a href=\"/wiki/Ghana\" title=\"Ghana\">Ghana</a></td>
+</tr>
+<tr>
+<td>TKE</td>
+<td></td>
+<td><a href=\"/wiki/Tenakee_Seaplane_Base\" title=\"Tenakee Seaplane Base\">Tenakee Seaplane Base</a><sup id=\"cite_ref-IATA_1-95\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tenakee_Springs,_Alaska\" title=\"Tenakee Springs, Alaska\">Tenakee Springs</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>TKF</td>
+<td>KTRK</td>
+<td><a href=\"/wiki/Truckee_Tahoe_Airport\" title=\"Truckee Tahoe Airport\">Truckee Tahoe Airport</a> (FAA: TRK)</td>
+<td><a href=\"/wiki/Truckee,_California\" title=\"Truckee, California\">Truckee</a>, <a href=\"/wiki/California\" title=\"California\">California</a>, United States</td>
+</tr>
+<tr>
+<td>TKG</td>
+<td>WILL</td>
+<td><a href=\"/wiki/Radin_Inten_II_Airport\" class=\"mw-redirect\" title=\"Radin Inten II Airport\">Radin Inten II Airport</a></td>
+<td><a href=\"/wiki/Bandar_Lampung\" title=\"Bandar Lampung\">Bandar Lampung</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+</tr>
+<tr>
+<td>TKH</td>
+<td>VTPI</td>
+<td><a href=\"/wiki/Takhli_Royal_Thai_Air_Force_Base\" title=\"Takhli Royal Thai Air Force Base\">Takhli Royal Thai Air Force Base</a><sup id=\"cite_ref-IATA_1-96\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Takhli\" title=\"Takhli\">Takhli</a>, <a href=\"/wiki/Thailand\" title=\"Thailand\">Thailand</a></td>
+</tr>
+<tr>
+<td>TKI</td>
+<td></td>
+<td><a href=\"/wiki/Tokeen_Seaplane_Base\" title=\"Tokeen Seaplane Base\">Tokeen Seaplane Base</a> (FAA: 57A)</td>
+<td><a href=\"/w/index.php?title=Tokeen,_Alaska&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tokeen, Alaska (page does not exist)\">Tokeen</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>TKJ</td>
+<td>PFTO</td>
+<td><a href=\"/wiki/Tok_Junction_Airport\" title=\"Tok Junction Airport\">Tok Junction Airport</a><sup id=\"cite_ref-IATA_1-97\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (FAA: 6K8)</td>
+<td><a href=\"/wiki/Tok,_Alaska\" title=\"Tok, Alaska\">Tok</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>TKK</td>
+<td>PTKK</td>
+<td><a href=\"/wiki/Chuuk_International_Airport\" title=\"Chuuk International Airport\">Chuuk International Airport</a></td>
+<td><a href=\"/wiki/Chuuk_State\" title=\"Chuuk State\">Chuuk</a>, <a href=\"/wiki/Federated_States_of_Micronesia\" title=\"Federated States of Micronesia\">Federated States of Micronesia</a></td>
+</tr>
+<tr>
+<td>TKL</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Taku_Lodge_Seaplane_Base&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Taku Lodge Seaplane Base (page does not exist)\">Taku Lodge Seaplane Base</a><sup id=\"cite_ref-IATA_1-98\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Taku_Lodge,_Alaska&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Taku Lodge, Alaska (page does not exist)\">Taku Lodge</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>TKN</td>
+<td>RJKN</td>
+<td><a href=\"/wiki/Tokunoshima_Airport\" title=\"Tokunoshima Airport\">Tokunoshima Airport</a><sup id=\"cite_ref-IATA_1-99\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tokunoshima\" title=\"Tokunoshima\">Tokunoshima</a>, <a href=\"/wiki/Amami_Islands\" title=\"Amami Islands\">Amami Islands</a>, Japan</td>
+</tr>
+<tr>
+<td>TKO</td>
+<td>FXTK</td>
+<td><a href=\"/wiki/Tlokoeng_Airport\" title=\"Tlokoeng Airport\">Tlokoeng Airport</a><sup id=\"cite_ref-IATA_1-100\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Tlokoeng&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tlokoeng (page does not exist)\">Tlokoeng</a>, <a href=\"/wiki/Lesotho\" title=\"Lesotho\">Lesotho</a></td>
+</tr>
+<tr>
+<td>TKP</td>
+<td>NTGT</td>
+<td><a href=\"/wiki/Takapoto_Airport\" title=\"Takapoto Airport\">Takapoto Airport</a><sup id=\"cite_ref-IATA_1-101\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Takapoto\" title=\"Takapoto\">Takapoto</a>, <a href=\"/wiki/Tuamotus\" title=\"Tuamotus\">Tuamotus</a>, <a href=\"/wiki/French_Polynesia\" title=\"French Polynesia\">French Polynesia</a></td>
+</tr>
+<tr>
+<td>TKQ</td>
+<td>HTKA</td>
+<td><a href=\"/wiki/Kigoma_Airport\" title=\"Kigoma Airport\">Kigoma Airport</a></td>
+<td><a href=\"/wiki/Kigoma\" title=\"Kigoma\">Kigoma</a>, <a href=\"/wiki/Tanzania\" title=\"Tanzania\">Tanzania</a></td>
+</tr>
+<tr>
+<td>TKR</td>
+<td>VGSG</td>
+<td><a href=\"/wiki/Thakurgaon_STOLport\" class=\"mw-redirect\" title=\"Thakurgaon STOLport\">Thakurgaon Airport</a><sup id=\"cite_ref-IATA_1-102\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Thakurgaon_District\" title=\"Thakurgaon District\">Thakurgaon</a>, <a href=\"/wiki/Bangladesh\" title=\"Bangladesh\">Bangladesh</a></td>
+</tr>
+<tr>
+<td>TKS</td>
+<td>RJOS</td>
+<td><a href=\"/wiki/Tokushima_Airport\" title=\"Tokushima Airport\">Tokushima Airport</a><sup id=\"cite_ref-IATA_1-103\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tokushima,_Tokushima\" class=\"mw-redirect\" title=\"Tokushima, Tokushima\">Tokushima</a>, <a href=\"/wiki/Shikoku\" title=\"Shikoku\">Shikoku</a>, Japan</td>
+</tr>
+<tr>
+<td>TKT</td>
+<td>VTPT</td>
+<td><a href=\"/wiki/Tak_Airport\" title=\"Tak Airport\">Tak Airport</a></td>
+<td><a href=\"/wiki/Tak_(town)\" class=\"mw-redirect\" title=\"Tak (town)\">Tak</a>, <a href=\"/wiki/Thailand\" title=\"Thailand\">Thailand</a></td>
+</tr>
+<tr>
+<td>TKU</td>
+<td>EFTU</td>
+<td><a href=\"/wiki/Turku_Airport\" title=\"Turku Airport\">Turku Airport</a></td>
+<td><a href=\"/wiki/Turku\" title=\"Turku\">Turku</a>, <a href=\"/wiki/Finland\" title=\"Finland\">Finland</a></td>
+</tr>
+<tr>
+<td>TKV</td>
+<td>NTGO</td>
+<td><a href=\"/wiki/Tatakoto_Airport\" title=\"Tatakoto Airport\">Tatakoto Airport</a><sup id=\"cite_ref-IATA_1-104\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tatakoto\" title=\"Tatakoto\">Tatakoto</a>, <a href=\"/wiki/Tuamotus\" title=\"Tuamotus\">Tuamotus</a>, <a href=\"/wiki/French_Polynesia\" title=\"French Polynesia\">French Polynesia</a></td>
+</tr>
+<tr>
+<td>TKW</td>
+<td>AYTN</td>
+<td><a href=\"/wiki/Tekin_Airport\" title=\"Tekin Airport\">Tekin Airport</a><sup id=\"cite_ref-IATA_1-105\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Tekin,_Papua_New_Guinea&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tekin, Papua New Guinea (page does not exist)\">Tekin</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>TKX</td>
+<td>NTKR</td>
+<td><a href=\"/wiki/Takaroa_Airport\" title=\"Takaroa Airport\">Takaroa Airport</a><sup id=\"cite_ref-IATA_1-106\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Takaroa\" title=\"Takaroa\">Takaroa</a>, <a href=\"/wiki/Tuamotus\" title=\"Tuamotus\">Tuamotus</a>, <a href=\"/wiki/French_Polynesia\" title=\"French Polynesia\">French Polynesia</a></td>
+</tr>
+<tr>
+<td>TKY</td>
+<td>YTKY</td>
+<td><a href=\"/w/index.php?title=Turkey_Creek_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Turkey Creek Airport (page does not exist)\">Turkey Creek Airport</a><sup id=\"cite_ref-IATA_1-107\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Warmun_Community,_Western_Australia\" title=\"Warmun Community, Western Australia\">Warmun</a> (Turkey Creek), <a href=\"/wiki/Western_Australia\" title=\"Western Australia\">Western Australia</a>, Australia</td>
+</tr>
+<tr>
+<td>TKZ</td>
+<td>NZTO</td>
+<td><a href=\"/wiki/Tokoroa_Aerodrome\" title=\"Tokoroa Aerodrome\">Tokoroa Aerodrome</a><sup id=\"cite_ref-IATA_1-108\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tokoroa\" title=\"Tokoroa\">Tokoroa</a>, <a href=\"/wiki/New_Zealand\" title=\"New Zealand\">New Zealand</a></td>
+</tr>
+<tr>
+<td>TLA</td>
+<td>PATE</td>
+<td><a href=\"/wiki/Teller_Airport\" title=\"Teller Airport\">Teller Airport</a> (FAA: TER)</td>
+<td><a href=\"/wiki/Teller,_Alaska\" title=\"Teller, Alaska\">Teller</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>TLB</td>
+<td>OPTA</td>
+<td><a href=\"/wiki/Tarbela_Dam_Airport\" title=\"Tarbela Dam Airport\">Tarbela Dam Airport</a><sup id=\"cite_ref-IATA_1-109\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tarbela_Dam\" title=\"Tarbela Dam\">Tarbela Dam</a>, <a href=\"/wiki/Pakistan\" title=\"Pakistan\">Pakistan</a></td>
+</tr>
+<tr>
+<td>TLC</td>
+<td>MMTO</td>
+<td><a href=\"/wiki/Toluca_International_Airport\" title=\"Toluca International Airport\">Licenciado Adolfo L\u00f3pez Mateos International Airport</a></td>
+<td><a href=\"/wiki/Toluca\" title=\"Toluca\">Toluca</a>, <a href=\"/wiki/State_of_Mexico\" title=\"State of Mexico\">State of Mexico</a>, Mexico</td>
+</tr>
+<tr>
+<td>TLD</td>
+<td>FBTL</td>
+<td><a href=\"/wiki/Tuli_Lodge_Airport\" title=\"Tuli Lodge Airport\">Tuli Lodge Airport</a><sup id=\"cite_ref-IATA_1-110\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Tuli_Lodge&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tuli Lodge (page does not exist)\">Tuli Lodge</a>, <a href=\"/wiki/Botswana\" title=\"Botswana\">Botswana</a></td>
+</tr>
+<tr>
+<td>TLE</td>
+<td>FMST</td>
+<td><a href=\"/wiki/Toliara_Airport\" title=\"Toliara Airport\">Toliara Airport</a><sup id=\"cite_ref-IATA_1-111\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Toliara\" title=\"Toliara\">Toliara</a>, <a href=\"/wiki/Madagascar\" title=\"Madagascar\">Madagascar</a></td>
+</tr>
+<tr>
+<td>TLF</td>
+<td></td>
+<td><a href=\"/wiki/Telida_Airport\" title=\"Telida Airport\">Telida Airport</a> (FAA: 2K5)</td>
+<td><a href=\"/wiki/Telida,_Alaska\" title=\"Telida, Alaska\">Telida</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>TLG</td>
+<td>AGTI</td>
+<td><a href=\"/w/index.php?title=Tulaghi_Heliport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tulaghi Heliport (page does not exist)\">Tulaghi Heliport</a><sup id=\"cite_ref-IATA_1-112\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tulagi\" title=\"Tulagi\">Tulagi</a>, <a href=\"/wiki/Solomon_Islands\" title=\"Solomon Islands\">Solomon Islands</a></td>
+</tr>
+<tr>
+<td>TLH</td>
+<td>KTLH</td>
+<td><a href=\"/wiki/Tallahassee_International_Airport\" title=\"Tallahassee International Airport\">Tallahassee International Airport</a></td>
+<td><a href=\"/wiki/Tallahassee,_Florida\" title=\"Tallahassee, Florida\">Tallahassee</a>, <a href=\"/wiki/Florida\" title=\"Florida\">Florida</a>, United States</td>
+</tr>
+<tr>
+<td>TLI</td>
+<td>WAMI</td>
+<td><a href=\"/wiki/Sultan_Bantilan_Airport\" title=\"Sultan Bantilan Airport\">Sultan Bantilan Airport</a><sup id=\"cite_ref-IATA_1-113\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (Lalos Airport)</td>
+<td><a href=\"/w/index.php?title=Tolitoli&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tolitoli (page does not exist)\">Tolitoli</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+</tr>
+<tr>
+<td>TLJ</td>
+<td>PATL</td>
+<td><a href=\"/wiki/Tatalina_LRRS_Airport\" title=\"Tatalina LRRS Airport\">Tatalina LRRS Airport</a></td>
+<td><a href=\"/wiki/Tatalina_Air_Force_Station\" title=\"Tatalina Air Force Station\">Tatalina</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>TLK</td>
+<td>UECT</td>
+<td><a href=\"/wiki/Talakan_Airport\" title=\"Talakan Airport\">Talakan Airport</a></td>
+<td><a href=\"/wiki/Talakan\" title=\"Talakan\">Talakan</a>, <a href=\"/wiki/Sakha_Republic\" title=\"Sakha Republic\">Yakutia</a>, Russia</td>
+</tr>
+<tr>
+<td>TLL</td>
+<td>EETN</td>
+<td><a href=\"/wiki/Tallinn_Airport\" title=\"Tallinn Airport\">Tallinn Airport</a> (Lennart Meri Tallinn Airport)</td>
+<td><a href=\"/wiki/Tallinn\" title=\"Tallinn\">Tallinn</a>, <a href=\"/wiki/Estonia\" title=\"Estonia\">Estonia</a></td>
+</tr>
+<tr>
+<td>TLM</td>
+<td>DAON</td>
+<td><a href=\"/wiki/Zenata_%E2%80%93_Messali_El_Hadj_Airport\" title=\"Zenata \u2013 Messali El Hadj Airport\">Zenata \u2013 Messali El Hadj Airport</a><sup id=\"cite_ref-IATA_1-114\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tlemcen\" title=\"Tlemcen\">Tlemcen</a>, <a href=\"/wiki/Algeria\" title=\"Algeria\">Algeria</a></td>
+</tr>
+<tr>
+<td>TLN</td>
+<td>LFTH</td>
+<td><a href=\"/wiki/Toulon%E2%80%93Hy%C3%A8res_Airport\" title=\"Toulon\u2013Hy\u00e8res Airport\">Toulon\u2013Hy\u00e8res Airport</a> (Hy\u00e8res Le Palyvestre Airport)</td>
+<td><a href=\"/wiki/Toulon\" title=\"Toulon\">Toulon</a> / <a href=\"/wiki/Hy%C3%A8res\" title=\"Hy\u00e8res\">Hy\u00e8res</a>, <a href=\"/wiki/Provence-Alpes-C%C3%B4te_d%27Azur\" title=\"Provence-Alpes-C\u00f4te d&#39;Azur\">Provence-Alpes-C\u00f4te d'Azur</a>, France</td>
+</tr>
+<tr>
+<td>TLO</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Tol_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tol Airport (page does not exist)\">Tol Airport</a><sup id=\"cite_ref-IATA_1-115\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Tol,_Papua_New_Guinea&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tol, Papua New Guinea (page does not exist)\">Tol</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>TLP</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Tumolbil_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tumolbil Airport (page does not exist)\">Tumolbil Airport</a><sup id=\"cite_ref-IATA_1-116\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Tumolbil&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tumolbil (page does not exist)\">Tumolbil</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>TLQ</td>
+<td>ZWTP</td>
+<td><a href=\"/wiki/Turpan_Jiaohe_Airport\" title=\"Turpan Jiaohe Airport\">Turpan Jiaohe Airport</a></td>
+<td><a href=\"/wiki/Turpan\" title=\"Turpan\">Turpan</a>, <a href=\"/wiki/Xinjiang\" title=\"Xinjiang\">Xinjiang</a>, China</td>
+</tr>
+<tr>
+<td>TLR</td>
+<td>KTLR</td>
+<td><a href=\"/wiki/Mefford_Field_Airport\" title=\"Mefford Field Airport\">Mefford Field Airport</a></td>
+<td><a href=\"/wiki/Tulare,_California\" title=\"Tulare, California\">Tulare</a>, <a href=\"/wiki/California\" title=\"California\">California</a>, United States</td>
+</tr>
+<tr>
+<td>TLS</td>
+<td>LFBO</td>
+<td><a href=\"/wiki/Toulouse%E2%80%93Blagnac_Airport\" title=\"Toulouse\u2013Blagnac Airport\">Toulouse\u2013Blagnac Airport</a></td>
+<td><a href=\"/wiki/Toulouse\" title=\"Toulouse\">Toulouse</a>, <a href=\"/wiki/Midi-Pyr%C3%A9n%C3%A9es\" title=\"Midi-Pyr\u00e9n\u00e9es\">Midi-Pyr\u00e9n\u00e9es</a>, France</td>
+</tr>
+<tr>
+<td>TLT</td>
+<td></td>
+<td><a href=\"/wiki/Tuluksak_Airport\" title=\"Tuluksak Airport\">Tuluksak Airport</a></td>
+<td><a href=\"/wiki/Tuluksak,_Alaska\" title=\"Tuluksak, Alaska\">Tuluksak</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>TLU</td>
+<td>SKTL</td>
+<td><a href=\"/wiki/Golfo_de_Morrosquillo_Airport\" title=\"Golfo de Morrosquillo Airport\">Golfo de Morrosquillo Airport</a><sup id=\"cite_ref-IATA_1-117\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tol%C3%BA\" title=\"Tol\u00fa\">Tol\u00fa</a>, <a href=\"/wiki/Colombia\" title=\"Colombia\">Colombia</a></td>
+</tr>
+<tr>
+<td>TLV</td>
+<td>LLBG</td>
+<td><a href=\"/wiki/Ben_Gurion_Airport\" title=\"Ben Gurion Airport\">Ben Gurion Airport</a></td>
+<td><a href=\"/wiki/Tel_Aviv\" title=\"Tel Aviv\">Tel Aviv</a>, <a href=\"/wiki/Israel\" title=\"Israel\">Israel</a></td>
+</tr>
+<tr>
+<td>TLW</td>
+<td>AYVL</td>
+<td><a href=\"/w/index.php?title=Talasea_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Talasea Airport (page does not exist)\">Talasea Airport</a><sup id=\"cite_ref-IATA_1-118\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Talasea\" title=\"Talasea\">Talasea</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>TLX</td>
+<td>SCTL</td>
+<td><a href=\"/wiki/Panguilemo_Airport\" title=\"Panguilemo Airport\">Panguilemo Airport</a><sup id=\"cite_ref-IATA_1-119\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Talca\" title=\"Talca\">Talca</a>, <a href=\"/wiki/Chile\" title=\"Chile\">Chile</a></td>
+</tr>
+<tr>
+<td>TLY</td>
+<td>UHWP</td>
+<td><a href=\"/w/index.php?title=Plastun_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Plastun Airport (page does not exist)\">Plastun Airport</a><sup id=\"cite_ref-IATA_1-120\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Plastun_(urban-type_settlement)\" title=\"Plastun (urban-type settlement)\">Plastun</a>, <a href=\"/wiki/Primorsky_Krai\" title=\"Primorsky Krai\">Primorsky Krai</a>, Russia</td>
+</tr>
+<tr>
+<td>TLZ</td>
+<td>SWKT</td>
+<td><a href=\"/w/index.php?title=Catal%C3%A3o_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Catal\u00e3o Airport (page does not exist)\">Catal\u00e3o Airport</a><sup id=\"cite_ref-IATA_1-121\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Catal%C3%A3o\" title=\"Catal\u00e3o\">Catal\u00e3o</a>, <a href=\"/wiki/Goi%C3%A1s\" title=\"Goi\u00e1s\">Goi\u00e1s</a>, Brazil</td>
+</tr>
+<tr>
+<td>TMA</td>
+<td>KTMA</td>
+<td><a href=\"/wiki/Henry_Tift_Myers_Airport\" title=\"Henry Tift Myers Airport\">Henry Tift Myers Airport</a></td>
+<td><a href=\"/wiki/Tifton,_Georgia\" title=\"Tifton, Georgia\">Tifton</a>, <a href=\"/wiki/Georgia_(U.S._state)\" title=\"Georgia (U.S. state)\">Georgia</a>, United States</td>
+</tr>
+<tr>
+<td>TMB</td>
+<td>KTMB</td>
+<td><a href=\"/wiki/Miami_Executive_Airport\" title=\"Miami Executive Airport\">Miami Executive Airport</a></td>
+<td><a href=\"/wiki/Miami\" title=\"Miami\">Miami</a>, <a href=\"/wiki/Florida\" title=\"Florida\">Florida</a>, United States</td>
+</tr>
+<tr>
+<td>TMC</td>
+<td>WADT</td>
+<td><a href=\"/wiki/Tambolaka_Airport\" title=\"Tambolaka Airport\">Tambolaka Airport</a><sup id=\"cite_ref-IATA_1-122\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (Waikabubak Airport)</td>
+<td><a href=\"/wiki/Tambolaka\" title=\"Tambolaka\">Tambolaka</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+</tr>
+<tr>
+<td>TMD</td>
+<td>GQNH</td>
+<td><a href=\"/wiki/Timbedra_Airport\" title=\"Timbedra Airport\">Timbedra Airport</a></td>
+<td><a href=\"/wiki/Timb%C3%A9dra\" title=\"Timb\u00e9dra\">Timb\u00e9dra</a>, <a href=\"/wiki/Mauritania\" title=\"Mauritania\">Mauritania</a></td>
+</tr>
+<tr>
+<td>TME</td>
+<td>SKTM</td>
+<td><a href=\"/wiki/Gabriel_Vargas_Santos_Airport\" title=\"Gabriel Vargas Santos Airport\">Gabriel Vargas Santos Airport</a></td>
+<td><a href=\"/wiki/Tame,_Arauca\" title=\"Tame, Arauca\">Tame</a>, <a href=\"/wiki/Colombia\" title=\"Colombia\">Colombia</a></td>
+</tr>
+<tr>
+<td>TMF</td>
+<td>VRNT</td>
+<td><a href=\"/wiki/Thimarafushi_Airport\" title=\"Thimarafushi Airport\">Thimarafushi Airport</a></td>
+<td><a href=\"/wiki/Thimarafushi_(Thaa_Atoll)\" title=\"Thimarafushi (Thaa Atoll)\">Thimarafushi</a>, <a href=\"/wiki/Kolhumadulu_Atoll\" title=\"Kolhumadulu Atoll\">Thaa Atoll</a>, <a href=\"/wiki/Maldives\" title=\"Maldives\">Maldives</a></td>
+</tr>
+<tr>
+<td>TMG</td>
+<td>WBKM</td>
+<td><a href=\"/wiki/Tommanggong_Airport\" title=\"Tommanggong Airport\">Tommanggong Airport</a><sup id=\"cite_ref-IATA_1-123\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Tommanggong&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tommanggong (page does not exist)\">Tommanggong</a>, <a href=\"/wiki/Sabah\" title=\"Sabah\">Sabah</a>, Malaysia</td>
+</tr>
+<tr>
+<td>TMH</td>
+<td>WAKT</td>
+<td><a href=\"/wiki/Tanah_Merah_Airport\" title=\"Tanah Merah Airport\">Tanah Merah Airport</a><sup id=\"cite_ref-IATA_1-124\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tanahmerah\" title=\"Tanahmerah\">Tanahmerah</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+</tr>
+<tr>
+<td>TMI</td>
+<td>VNTR</td>
+<td><a href=\"/wiki/Tumlingtar_Airport\" title=\"Tumlingtar Airport\">Tumlingtar Airport</a><sup id=\"cite_ref-IATA_1-125\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tumlingtar\" title=\"Tumlingtar\">Tumlingtar</a>, <a href=\"/wiki/Nepal\" title=\"Nepal\">Nepal</a></td>
+</tr>
+<tr>
+<td>TMJ</td>
+<td>UTST</td>
+<td><a href=\"/wiki/Termez_Airport\" title=\"Termez Airport\">Termez Airport</a></td>
+<td><a href=\"/wiki/Termez\" title=\"Termez\">Termez</a>, <a href=\"/wiki/Uzbekistan\" title=\"Uzbekistan\">Uzbekistan</a></td>
+</tr>
+<tr>
+<td>TMK</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Tam_K%E1%BB%B3_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tam K\u1ef3 Airport (page does not exist)\">Tam K\u1ef3 Airport</a><sup id=\"cite_ref-IATA_1-126\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tam_K%E1%BB%B3\" title=\"Tam K\u1ef3\">Tam K\u1ef3</a>, <a href=\"/wiki/Vietnam\" title=\"Vietnam\">Vietnam</a></td>
+</tr>
+<tr>
+<td>TML</td>
+<td>DGLE</td>
+<td><a href=\"/wiki/Tamale_Airport\" title=\"Tamale Airport\">Tamale Airport</a></td>
+<td><a href=\"/wiki/Tamale,_Ghana\" title=\"Tamale, Ghana\">Tamale</a>, <a href=\"/wiki/Ghana\" title=\"Ghana\">Ghana</a></td>
+</tr>
+<tr>
+<td>TMM</td>
+<td>FMMT</td>
+<td><a href=\"/wiki/Toamasina_Airport\" title=\"Toamasina Airport\">Toamasina Airport</a></td>
+<td><a href=\"/wiki/Toamasina\" title=\"Toamasina\">Toamasina</a>, <a href=\"/wiki/Madagascar\" title=\"Madagascar\">Madagascar</a></td>
+</tr>
+<tr>
+<td>TMN</td>
+<td>NGTM</td>
+<td><a href=\"/w/index.php?title=Tamana_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tamana Airport (page does not exist)\">Tamana Airport</a><sup id=\"cite_ref-IATA_1-127\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tamana,_Kiribati\" title=\"Tamana, Kiribati\">Tamana</a>, <a href=\"/wiki/Kiribati\" title=\"Kiribati\">Kiribati</a></td>
+</tr>
+<tr>
+<td>TMO</td>
+<td>SVTM</td>
+<td><a href=\"/wiki/Tumeremo_Airport\" title=\"Tumeremo Airport\">Tumeremo Airport</a><sup id=\"cite_ref-IATA_1-128\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tumeremo\" title=\"Tumeremo\">Tumeremo</a>, <a href=\"/wiki/Venezuela\" title=\"Venezuela\">Venezuela</a></td>
+</tr>
+<tr>
+<td>TMP</td>
+<td>EFTP</td>
+<td><a href=\"/wiki/Tampere%E2%80%93Pirkkala_Airport\" title=\"Tampere\u2013Pirkkala Airport\">Tampere\u2013Pirkkala Airport</a></td>
+<td><a href=\"/wiki/Tampere\" title=\"Tampere\">Tampere</a>, <a href=\"/wiki/Finland\" title=\"Finland\">Finland</a></td>
+</tr>
+<tr>
+<td>TMQ</td>
+<td>DFEM</td>
+<td><a href=\"/wiki/Tambao_Airport\" title=\"Tambao Airport\">Tambao Airport</a></td>
+<td><a href=\"/wiki/Tambao\" title=\"Tambao\">Tambao</a>, <a href=\"/wiki/Burkina_Faso\" title=\"Burkina Faso\">Burkina Faso</a></td>
+</tr>
+<tr>
+<td>TMR</td>
+<td>DAAT</td>
+<td><a href=\"/wiki/Aguenar_%E2%80%93_Hadj_Bey_Akhamok_Airport\" title=\"Aguenar \u2013 Hadj Bey Akhamok Airport\">Aguenar \u2013 Hadj Bey Akhamok Airport</a></td>
+<td><a href=\"/wiki/Tamanrasset\" title=\"Tamanrasset\">Tamanrasset</a>, <a href=\"/wiki/Algeria\" title=\"Algeria\">Algeria</a></td>
+</tr>
+<tr>
+<td>TMS</td>
+<td>FPST</td>
+<td><a href=\"/wiki/S%C3%A3o_Tom%C3%A9_International_Airport\" title=\"S\u00e3o Tom\u00e9 International Airport\">S\u00e3o Tom\u00e9 International Airport</a></td>
+<td><a href=\"/wiki/S%C3%A3o_Tom%C3%A9\" title=\"S\u00e3o Tom\u00e9\">S\u00e3o Tom\u00e9</a>, <a href=\"/wiki/S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe\" title=\"S\u00e3o Tom\u00e9 and Pr\u00edncipe\">S\u00e3o Tom\u00e9 and Pr\u00edncipe</a></td>
+</tr>
+<tr>
+<td>TMT</td>
+<td>SBTB</td>
+<td><a href=\"/wiki/Porto_Trombetas_Airport\" title=\"Porto Trombetas Airport\">Porto Trombetas Airport</a></td>
+<td><a href=\"/w/index.php?title=Porto_Trombetas&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Porto Trombetas (page does not exist)\">Porto Trombetas</a> / <a href=\"/wiki/Oriximin%C3%A1\" title=\"Oriximin\u00e1\">Oriximin\u00e1</a>, <a href=\"/wiki/Par%C3%A1\" title=\"Par\u00e1\">Par\u00e1</a>, Brazil</td>
+</tr>
+<tr>
+<td>TMU</td>
+<td>MRTR</td>
+<td><a href=\"/wiki/Tambor_Airport\" title=\"Tambor Airport\">Tambor Airport</a></td>
+<td><a href=\"/wiki/Tambor,_Costa_Rica\" title=\"Tambor, Costa Rica\">Tambor</a>, <a href=\"/wiki/Costa_Rica\" title=\"Costa Rica\">Costa Rica</a></td>
+</tr>
+<tr>
+<td>TMW</td>
+<td>YSTW</td>
+<td><a href=\"/wiki/Tamworth_Airport\" title=\"Tamworth Airport\">Tamworth Airport</a></td>
+<td><a href=\"/wiki/Tamworth,_New_South_Wales\" title=\"Tamworth, New South Wales\">Tamworth</a>, <a href=\"/wiki/New_South_Wales\" title=\"New South Wales\">New South Wales</a>, Australia</td>
+</tr>
+<tr>
+<td>TMX</td>
+<td>DAUT</td>
+<td><a href=\"/wiki/Timimoun_Airport\" title=\"Timimoun Airport\">Timimoun Airport</a><sup id=\"cite_ref-IATA_1-129\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Timimoun\" title=\"Timimoun\">Timimoun</a>, <a href=\"/wiki/Algeria\" title=\"Algeria\">Algeria</a></td>
+</tr>
+<tr>
+<td>TMY</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Tiom_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tiom Airport (page does not exist)\">Tiom Airport</a><sup id=\"cite_ref-IATA_1-130\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Tiom&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tiom (page does not exist)\">Tiom</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+</tr>
+<tr>
+<td>TMZ</td>
+<td>NZTH</td>
+<td><a href=\"/wiki/Thames_Aerodrome\" title=\"Thames Aerodrome\">Thames Aerodrome</a></td>
+<td><a href=\"/wiki/Thames,_New_Zealand\" title=\"Thames, New Zealand\">Thames</a>, <a href=\"/wiki/New_Zealand\" title=\"New Zealand\">New Zealand</a></td>
+</tr>
+<tr>
+<td>TNA</td>
+<td>ZSJN</td>
+<td><a href=\"/wiki/Jinan_Yaoqiang_International_Airport\" title=\"Jinan Yaoqiang International Airport\">Jinan Yaoqiang International Airport</a></td>
+<td><a href=\"/wiki/Jinan\" title=\"Jinan\">Jinan</a>, <a href=\"/wiki/Shandong\" title=\"Shandong\">Shandong</a>, China</td>
+</tr>
+<tr>
+<td>TNB</td>
+<td>WRLH</td>
+<td><a href=\"/w/index.php?title=Tanah_Grogot_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tanah Grogot Airport (page does not exist)\">Tanah Grogot Airport</a><sup id=\"cite_ref-IATA_1-131\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Tanah_Grogot&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tanah Grogot (page does not exist)\">Tanah Grogot</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+</tr>
+<tr>
+<td>TNC</td>
+<td>PATC</td>
+<td><a href=\"/wiki/Tin_City_LRRS_Airport\" title=\"Tin City LRRS Airport\">Tin City LRRS Airport</a></td>
+<td><a href=\"/wiki/Tin_City,_Alaska\" title=\"Tin City, Alaska\">Tin City</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>TND</td>
+<td>MUTD</td>
+<td><a href=\"/wiki/Alberto_Delgado_Airport\" title=\"Alberto Delgado Airport\">Alberto Delgado Airport</a><sup id=\"cite_ref-IATA_1-132\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Trinidad,_Cuba\" title=\"Trinidad, Cuba\">Trinidad</a>, <a href=\"/wiki/Cuba\" title=\"Cuba\">Cuba</a></td>
+</tr>
+<tr>
+<td>TNE</td>
+<td>RJFG</td>
+<td><a href=\"/wiki/New_Tanegashima_Airport\" title=\"New Tanegashima Airport\">New Tanegashima Airport</a><sup id=\"cite_ref-IATA_1-133\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tanegashima\" title=\"Tanegashima\">Tanegashima</a>, <a href=\"/wiki/%C5%8Csumi_Islands\" title=\"\u014csumi Islands\">\u014csumi Islands</a>, Japan</td>
+</tr>
+<tr>
+<td>TNF</td>
+<td>LFPN</td>
+<td><a href=\"/wiki/Toussus-le-Noble_Airport\" title=\"Toussus-le-Noble Airport\">Toussus-le-Noble Airport</a></td>
+<td><a href=\"/wiki/Toussus-le-Noble\" title=\"Toussus-le-Noble\">Toussus-le-Noble</a>, <a href=\"/wiki/%C3%8Ele-de-France\" title=\"\u00cele-de-France\">\u00cele-de-France</a>, France</td>
+</tr>
+<tr>
+<td>TNG</td>
+<td>GMTT</td>
+<td><a href=\"/wiki/Tangier_Ibn_Battouta_Airport\" title=\"Tangier Ibn Battouta Airport\">Tangier Ibn Battouta Airport</a></td>
+<td><a href=\"/wiki/Tangier\" title=\"Tangier\">Tangier</a>, <a href=\"/wiki/Morocco\" title=\"Morocco\">Morocco</a></td>
+</tr>
+<tr>
+<td>TNH</td>
+<td>ZYTN</td>
+<td><a href=\"/wiki/Tonghua_Sanyuanpu_Airport\" title=\"Tonghua Sanyuanpu Airport\">Tonghua Sanyuanpu Airport</a></td>
+<td><a href=\"/wiki/Tonghua\" title=\"Tonghua\">Tonghua</a>, <a href=\"/wiki/Jilin\" title=\"Jilin\">Jilin</a>, China</td>
+</tr>
+<tr>
+<td>TNI</td>
+<td>VIST</td>
+<td><a href=\"/wiki/Satna_Airport\" title=\"Satna Airport\">Satna Airport</a></td>
+<td><a href=\"/wiki/Satna\" title=\"Satna\">Satna</a>, <a href=\"/wiki/Madhya_Pradesh\" title=\"Madhya Pradesh\">Madhya Pradesh</a>, India</td>
+</tr>
+<tr>
+<td>TNJ</td>
+<td>WIDN</td>
+<td><a href=\"/wiki/Raja_Haji_Fisabilillah_Airport\" class=\"mw-redirect\" title=\"Raja Haji Fisabilillah Airport\">Raja Haji Fisabilillah Airport</a></td>
+<td><a href=\"/wiki/Tanjung_Pinang\" title=\"Tanjung Pinang\">Tanjung Pinang</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+</tr>
+<tr>
+<td>TNK</td>
+<td></td>
+<td><a href=\"/wiki/Tununak_Airport\" title=\"Tununak Airport\">Tununak Airport</a> (FAA: 4KA)</td>
+<td><a href=\"/wiki/Tununak,_Alaska\" title=\"Tununak, Alaska\">Tununak</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>TNL</td>
+<td>UKLT</td>
+<td><a href=\"/wiki/Ternopil_Airport\" title=\"Ternopil Airport\">Ternopil International Airport</a></td>
+<td><a href=\"/wiki/Ternopil\" title=\"Ternopil\">Ternopil</a>, <a href=\"/wiki/Ukraine\" title=\"Ukraine\">Ukraine</a></td>
+</tr>
+<tr>
+<td>TNM</td>
+<td>SCRM</td>
+<td><a href=\"/wiki/Teniente_R._Marsh_Airport\" title=\"Teniente R. Marsh Airport\">Teniente R. Marsh Airport</a></td>
+<td><a href=\"/wiki/King_George_Island_(South_Shetland_Islands)\" title=\"King George Island (South Shetland Islands)\">King George Island</a>, <a href=\"/wiki/Antarctica\" title=\"Antarctica\">Antarctica</a></td>
+</tr>
+<tr>
+<td>TNN</td>
+<td>RCNN</td>
+<td><a href=\"/wiki/Tainan_Airport\" title=\"Tainan Airport\">Tainan Airport</a></td>
+<td><a href=\"/wiki/Tainan\" title=\"Tainan\">Tainan</a>, <a href=\"/wiki/Taiwan\" title=\"Taiwan\">Taiwan</a></td>
+</tr>
+<tr>
+<td>TNO</td>
+<td>MRTM</td>
+<td><a href=\"/wiki/Tamarindo_Airport\" title=\"Tamarindo Airport\">Tamarindo Airport</a></td>
+<td><a href=\"/wiki/Tamarindo,_Costa_Rica\" title=\"Tamarindo, Costa Rica\">Tamarindo</a>, <a href=\"/wiki/Costa_Rica\" title=\"Costa Rica\">Costa Rica</a></td>
+</tr>
+<tr>
+<td>TNP</td>
+<td>KTNP</td>
+<td><a href=\"/wiki/Twentynine_Palms_Airport\" title=\"Twentynine Palms Airport\">Twentynine Palms Airport</a></td>
+<td><a href=\"/wiki/Twentynine_Palms,_California\" title=\"Twentynine Palms, California\">Twentynine Palms</a>, <a href=\"/wiki/California\" title=\"California\">California</a>, United States</td>
+</tr>
+<tr>
+<td>TNQ</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Teraina_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Teraina Airport (page does not exist)\">Teraina Airport</a></td>
+<td><a href=\"/wiki/Teraina\" title=\"Teraina\">Teraina</a>, <a href=\"/wiki/Kiribati\" title=\"Kiribati\">Kiribati</a></td>
+</tr>
+<tr>
+<td>TNR</td>
+<td>FMMI</td>
+<td><a href=\"/wiki/Ivato_International_Airport\" title=\"Ivato International Airport\">Ivato International Airport</a></td>
+<td><a href=\"/wiki/Antananarivo\" title=\"Antananarivo\">Antananarivo</a>, <a href=\"/wiki/Madagascar\" title=\"Madagascar\">Madagascar</a></td>
+</tr>
+<tr>
+<td>TNS</td>
+<td></td>
+<td><a href=\"/wiki/Tungsten_(Cantung)_Airport\" title=\"Tungsten (Cantung) Airport\">Tungsten (Cantung) Airport</a><sup id=\"cite_ref-IATA_1-134\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (TC: CBX5)</td>
+<td><a href=\"/wiki/Tungsten,_Northwest_Territories\" title=\"Tungsten, Northwest Territories\">Tungsten</a>, <a href=\"/wiki/Northwest_Territories\" title=\"Northwest Territories\">Northwest Territories</a>, Canada</td>
+</tr>
+<tr>
+<td>TNT</td>
+<td>KTNT</td>
+<td><a href=\"/wiki/Dade-Collier_Training_and_Transition_Airport\" title=\"Dade-Collier Training and Transition Airport\">Dade-Collier Training and Transition Airport</a></td>
+<td><a href=\"/wiki/Miami\" title=\"Miami\">Miami</a>, <a href=\"/wiki/Florida\" title=\"Florida\">Florida</a>, United States</td>
+</tr>
+<tr>
+<td>TNU</td>
+<td>KTNU</td>
+<td><a href=\"/wiki/Newton_Municipal_Airport_(Iowa)\" title=\"Newton Municipal Airport (Iowa)\">Newton Municipal Airport</a></td>
+<td><a href=\"/wiki/Newton,_Iowa\" title=\"Newton, Iowa\">Newton</a>, <a href=\"/wiki/Iowa\" title=\"Iowa\">Iowa</a>, United States</td>
+</tr>
+<tr>
+<td>TNV</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Tabuaeran_Island_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tabuaeran Island Airport (page does not exist)\">Tabuaeran Island Airport</a><sup id=\"cite_ref-IATA_1-135\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tabuaeran\" title=\"Tabuaeran\">Tabuaeran</a>, <a href=\"/wiki/Kiribati\" title=\"Kiribati\">Kiribati</a></td>
+</tr>
+<tr>
+<td>TNW</td>
+<td>SEJD</td>
+<td><a href=\"/wiki/Jumandy_Airport\" title=\"Jumandy Airport\">Jumandy Airport</a><sup id=\"cite_ref-IATA_1-136\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tena,_Ecuador\" title=\"Tena, Ecuador\">Tena</a>, <a href=\"/wiki/Ecuador\" title=\"Ecuador\">Ecuador</a></td>
+</tr>
+<tr>
+<td>TNX</td>
+<td>VDST</td>
+<td><a href=\"/wiki/Steung_Treng_Airport\" title=\"Steung Treng Airport\">Steung Treng Airport</a><sup id=\"cite_ref-IATA_1-137\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Stung_Treng\" title=\"Stung Treng\">Stung Treng</a>, <a href=\"/wiki/Cambodia\" title=\"Cambodia\">Cambodia</a></td>
+</tr>
+<tr>
+<td>TNZ</td>
+<td>ZMTL</td>
+<td><a href=\"/w/index.php?title=Tosontsengel_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tosontsengel Airport (page does not exist)\">Tosontsengel Airport</a><sup id=\"cite_ref-IATA_1-138\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tosontsengel,_Zavkhan\" title=\"Tosontsengel, Zavkhan\">Tosontsengel</a>, <a href=\"/wiki/Mongolia\" title=\"Mongolia\">Mongolia</a></td>
+</tr>
+<tr>
+<td>TOA</td>
+<td>KTOA</td>
+<td><a href=\"/wiki/Zamperini_Field\" title=\"Zamperini Field\">Zamperini Field</a></td>
+<td><a href=\"/wiki/Torrance,_California\" title=\"Torrance, California\">Torrance</a>, <a href=\"/wiki/California\" title=\"California\">California</a>, United States</td>
+</tr>
+<tr>
+<td>TOB</td>
+<td>HLGN</td>
+<td><a href=\"/wiki/Tobruk_Airport\" title=\"Tobruk Airport\">Tobruk Airport</a></td>
+<td><a href=\"/wiki/Tobruk\" title=\"Tobruk\">Tobruk</a>, <a href=\"/wiki/Libya\" title=\"Libya\">Libya</a></td>
+</tr>
+<tr>
+<td>TOC</td>
+<td>KTOC</td>
+<td><a href=\"/wiki/Toccoa_Airport\" title=\"Toccoa Airport\">Toccoa Airport</a> (R.G. LeTourneau Field)</td>
+<td><a href=\"/wiki/Toccoa,_Georgia\" title=\"Toccoa, Georgia\">Toccoa</a>, <a href=\"/wiki/Georgia_(U.S._state)\" title=\"Georgia (U.S. state)\">Georgia</a>, United States</td>
+</tr>
+<tr>
+<td>TOD</td>
+<td>WMBT</td>
+<td><a href=\"/wiki/Tioman_Airport\" title=\"Tioman Airport\">Tioman Airport</a></td>
+<td><a href=\"/wiki/Tioman_Island\" title=\"Tioman Island\">Tioman Island</a>, <a href=\"/wiki/Pahang\" title=\"Pahang\">Pahang</a>, Malaysia</td>
+</tr>
+<tr>
+<td>TOE</td>
+<td>DTTZ</td>
+<td><a href=\"/wiki/Tozeur%E2%80%93Nefta_International_Airport\" title=\"Tozeur\u2013Nefta International Airport\">Tozeur\u2013Nefta International Airport</a></td>
+<td><a href=\"/wiki/Tozeur\" title=\"Tozeur\">Tozeur</a>, <a href=\"/wiki/Tunisia\" title=\"Tunisia\">Tunisia</a></td>
+</tr>
+<tr>
+<td>TOF</td>
+<td>UNTT</td>
+<td><a href=\"/wiki/Bogashevo_Airport\" title=\"Bogashevo Airport\">Bogashevo Airport</a></td>
+<td><a href=\"/wiki/Tomsk\" title=\"Tomsk\">Tomsk</a>, <a href=\"/wiki/Tomsk_Oblast\" title=\"Tomsk Oblast\">Tomsk Oblast</a>, Russia</td>
+</tr>
+<tr>
+<td>TOG</td>
+<td>PATG</td>
+<td><a href=\"/wiki/Togiak_Airport\" title=\"Togiak Airport\">Togiak Airport</a></td>
+<td><a href=\"/wiki/Togiak,_Alaska\" title=\"Togiak, Alaska\">Togiak</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>TOH</td>
+<td>NVSD</td>
+<td><a href=\"/wiki/Torres_Airport\" title=\"Torres Airport\">Torres Airport</a><sup id=\"cite_ref-IATA_1-139\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Torres_Islands\" title=\"Torres Islands\">Torres Islands</a>, <a href=\"/wiki/Vanuatu\" title=\"Vanuatu\">Vanuatu</a></td>
+</tr>
+<tr>
+<td>TOI</td>
+<td>KTOI</td>
+<td><a href=\"/wiki/Troy_Municipal_Airport\" title=\"Troy Municipal Airport\">Troy Municipal Airport</a></td>
+<td><a href=\"/wiki/Troy,_Alabama\" title=\"Troy, Alabama\">Troy</a>, <a href=\"/wiki/Alabama\" title=\"Alabama\">Alabama</a>, United States</td>
+</tr>
+<tr>
+<td>TOJ</td>
+<td>LETO</td>
+<td><a href=\"/wiki/Madrid%E2%80%93Torrej%C3%B3n_Airport\" title=\"Madrid\u2013Torrej\u00f3n Airport\">Madrid\u2013Torrej\u00f3n Airport</a></td>
+<td><a href=\"/wiki/Madrid\" title=\"Madrid\">Madrid</a>, <a href=\"/wiki/Community_of_Madrid\" title=\"Community of Madrid\">Community of Madrid</a>, Spain</td>
+</tr>
+<tr>
+<td>TOK</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Torokina_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Torokina Airport (page does not exist)\">Torokina Airport</a><sup id=\"cite_ref-IATA_1-140\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Torokina\" title=\"Torokina\">Torokina</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>TOL</td>
+<td>KTOL</td>
+<td><a href=\"/wiki/Toledo_Express_Airport\" title=\"Toledo Express Airport\">Toledo Express Airport</a></td>
+<td><a href=\"/wiki/Toledo,_Ohio\" title=\"Toledo, Ohio\">Toledo</a>, <a href=\"/wiki/Ohio\" title=\"Ohio\">Ohio</a>, United States</td>
+</tr>
+<tr>
+<td>TOM</td>
+<td>GATB</td>
+<td><a href=\"/wiki/Timbuktu_Airport\" title=\"Timbuktu Airport\">Timbuktu Airport</a></td>
+<td><a href=\"/wiki/Timbuktu\" title=\"Timbuktu\">Timbuktu</a> (Tombouctou), <a href=\"/wiki/Mali\" title=\"Mali\">Mali</a></td>
+</tr>
+<tr>
+<td>TON</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Tonu_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tonu Airport (page does not exist)\">Tonu Airport</a><sup id=\"cite_ref-IATA_1-141\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Tonu,_Papua_New_Guinea&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tonu, Papua New Guinea (page does not exist)\">Tonu</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>TOO</td>
+<td>MRSV</td>
+<td><a href=\"/wiki/San_Vito_de_Java_Airport\" title=\"San Vito de Java Airport\">San Vito de Java Airport</a><sup id=\"cite_ref-IATA_1-142\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/San_Vito_(Costa_Rica)\" title=\"San Vito (Costa Rica)\">San Vito</a>, <a href=\"/wiki/Costa_Rica\" title=\"Costa Rica\">Costa Rica</a></td>
+</tr>
+<tr>
+<td>TOP</td>
+<td>KTOP</td>
+<td><a href=\"/wiki/Philip_Billard_Municipal_Airport\" title=\"Philip Billard Municipal Airport\">Philip Billard Municipal Airport</a></td>
+<td><a href=\"/wiki/Topeka,_Kansas\" title=\"Topeka, Kansas\">Topeka</a>, <a href=\"/wiki/Kansas\" title=\"Kansas\">Kansas</a>, United States</td>
+</tr>
+<tr>
+<td>TOQ</td>
+<td>SCBE</td>
+<td><a href=\"/wiki/Barriles_Airport\" title=\"Barriles Airport\">Barriles Airport</a><sup id=\"cite_ref-IATA_1-143\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tocopilla\" title=\"Tocopilla\">Tocopilla</a>, <a href=\"/wiki/Chile\" title=\"Chile\">Chile</a></td>
+</tr>
+<tr>
+<td>TOR</td>
+<td>KTOR</td>
+<td><a href=\"/wiki/Torrington_Municipal_Airport\" title=\"Torrington Municipal Airport\">Torrington Municipal Airport</a></td>
+<td><a href=\"/wiki/Torrington,_Wyoming\" title=\"Torrington, Wyoming\">Torrington</a>, <a href=\"/wiki/Wyoming\" title=\"Wyoming\">Wyoming</a>, United States</td>
+</tr>
+<tr>
+<td>TOS</td>
+<td>ENTC</td>
+<td><a href=\"/wiki/Troms%C3%B8_Airport,_Langnes\" title=\"Troms\u00f8 Airport, Langnes\">Troms\u00f8 Airport, Langnes</a></td>
+<td><a href=\"/wiki/Troms%C3%B8\" title=\"Troms\u00f8\">Troms\u00f8</a>, <a href=\"/wiki/Norway\" title=\"Norway\">Norway</a></td>
+</tr>
+<tr>
+<td>TOT</td>
+<td>SMCO</td>
+<td><a href=\"/wiki/Totness_Airstrip\" title=\"Totness Airstrip\">Totness Airstrip</a></td>
+<td><a href=\"/wiki/Totness,_Suriname\" title=\"Totness, Suriname\">Totness</a>, <a href=\"/wiki/Suriname\" title=\"Suriname\">Suriname</a></td>
+</tr>
+<tr>
+<td>TOU</td>
+<td>NWWU</td>
+<td><a href=\"/wiki/Touho_Airport\" title=\"Touho Airport\">Touho Airport</a><sup id=\"cite_ref-IATA_1-144\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Touho\" title=\"Touho\">Touho</a>, <a href=\"/wiki/New_Caledonia\" title=\"New Caledonia\">New Caledonia</a></td>
+</tr>
+<tr>
+<td>TOV</td>
+<td></td>
+<td><a href=\"/w/index.php?title=West_End_Seaplane_Base&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"West End Seaplane Base (page does not exist)\">West End Seaplane Base</a><sup id=\"cite_ref-IATA_1-145\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tortola\" title=\"Tortola\">Tortola</a>, <a href=\"/wiki/British_Overseas_Territory\" class=\"mw-redirect\" title=\"British Overseas Territory\">British Overseas Territory</a> of <a href=\"/wiki/British_Virgin_Islands\" title=\"British Virgin Islands\">Virgin Islands</a></td>
+</tr>
+<tr>
+<td>TOW</td>
+<td>SBTD</td>
+<td><a href=\"/wiki/Toledo_Airport_(Brazil)\" title=\"Toledo Airport (Brazil)\">Luiz dal Canalle Filho Airport</a><sup id=\"cite_ref-IATA_1-146\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Toledo,_Paran%C3%A1\" title=\"Toledo, Paran\u00e1\">Toledo</a>, <a href=\"/wiki/Paran%C3%A1_(state)\" title=\"Paran\u00e1 (state)\">Paran\u00e1</a>, Brazil</td>
+</tr>
+<tr>
+<td>TOX</td>
+<td>USTO</td>
+<td><a href=\"/w/index.php?title=Tobolsk_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tobolsk Airport (page does not exist)\">Tobolsk Airport</a><sup id=\"cite_ref-IATA_1-147\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tobolsk\" title=\"Tobolsk\">Tobolsk</a>, <a href=\"/wiki/Tyumen_Oblast\" title=\"Tyumen Oblast\">Tyumen Oblast</a>, Russia</td>
+</tr>
+<tr>
+<td>TOY</td>
+<td>RJNT</td>
+<td><a href=\"/wiki/Toyama_Airport\" title=\"Toyama Airport\">Toyama Airport</a></td>
+<td><a href=\"/wiki/Toyama,_Toyama\" class=\"mw-redirect\" title=\"Toyama, Toyama\">Toyama</a>, <a href=\"/wiki/Honshu\" title=\"Honshu\">Honshu</a>, Japan</td>
+</tr>
+<tr>
+<td>TOZ</td>
+<td>DITM</td>
+<td><a href=\"/wiki/Mahana_Airport\" title=\"Mahana Airport\">Mahana Airport</a><sup id=\"cite_ref-IATA_1-148\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Touba,_Ivory_Coast\" title=\"Touba, Ivory Coast\">Touba</a>, <a href=\"/wiki/Ivory_Coast\" title=\"Ivory Coast\">Ivory Coast</a></td>
+</tr>
+<tr>
+<td>TPA</td>
+<td>KTPA</td>
+<td><a href=\"/wiki/Tampa_International_Airport\" title=\"Tampa International Airport\">Tampa International Airport</a></td>
+<td><a href=\"/wiki/Tampa,_Florida\" title=\"Tampa, Florida\">Tampa</a>, <a href=\"/wiki/Florida\" title=\"Florida\">Florida</a>, United States</td>
+</tr>
+<tr>
+<td>TPC</td>
+<td>SETR</td>
+<td><a href=\"/wiki/Tarapoa_Airport\" title=\"Tarapoa Airport\">Tarapoa Airport</a><sup id=\"cite_ref-IATA_1-149\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tarapoa\" title=\"Tarapoa\">Tarapoa</a>, <a href=\"/wiki/Ecuador\" title=\"Ecuador\">Ecuador</a></td>
+</tr>
+<tr>
+<td>TPE</td>
+<td>RCTP</td>
+<td><a href=\"/wiki/Taoyuan_International_Airport\" title=\"Taoyuan International Airport\">Taiwan Taoyuan International Airport</a></td>
+<td><a href=\"/wiki/Taoyuan,_Taiwan\" title=\"Taoyuan, Taiwan\">Taoyuan</a>, <a href=\"/wiki/Taiwan\" title=\"Taiwan\">Taiwan</a></td>
+</tr>
+<tr>
+<td>TPF</td>
+<td>KTPF</td>
+<td><a href=\"/wiki/Peter_O._Knight_Airport\" title=\"Peter O. Knight Airport\">Peter O. Knight Airport</a></td>
+<td><a href=\"/wiki/Tampa,_Florida\" title=\"Tampa, Florida\">Tampa</a>, <a href=\"/wiki/Florida\" title=\"Florida\">Florida</a>, United States</td>
+</tr>
+<tr>
+<td>TPG</td>
+<td>WMBI</td>
+<td><a href=\"/wiki/Taiping_Airport\" title=\"Taiping Airport\">Taiping Airport</a><sup id=\"cite_ref-IATA_1-150\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Taiping,_Perak\" title=\"Taiping, Perak\">Taiping</a>, <a href=\"/wiki/Perak\" title=\"Perak\">Perak</a>, Malaysia</td>
+</tr>
+<tr>
+<td>TPH</td>
+<td>KTPH</td>
+<td><a href=\"/wiki/Tonopah_Airport\" title=\"Tonopah Airport\">Tonopah Airport</a></td>
+<td><a href=\"/wiki/Tonopah,_Nevada\" title=\"Tonopah, Nevada\">Tonopah</a>, <a href=\"/wiki/Nevada\" title=\"Nevada\">Nevada</a>, United States</td>
+</tr>
+<tr>
+<td>TPI</td>
+<td>AYTI</td>
+<td><a href=\"/wiki/Tapini_Airport\" title=\"Tapini Airport\">Tapini Airport</a><sup id=\"cite_ref-IATA_1-151\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Tapini&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tapini (page does not exist)\">Tapini</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>TPJ</td>
+<td>VNTJ</td>
+<td><a href=\"/wiki/Taplejung_Airport\" title=\"Taplejung Airport\">Taplejung Airport</a><sup id=\"cite_ref-IATA_1-152\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Taplejung\" title=\"Taplejung\">Taplejung</a>, <a href=\"/wiki/Nepal\" title=\"Nepal\">Nepal</a></td>
+</tr>
+<tr>
+<td>TPK</td>
+<td>WITA</td>
+<td><a href=\"/w/index.php?title=Teuku_Cut_Ali_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Teuku Cut Ali Airport (page does not exist)\">Teuku Cut Ali Airport</a><sup id=\"cite_ref-IATA_1-153\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tapaktuan\" title=\"Tapaktuan\">Tapaktuan</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+</tr>
+<tr>
+<td>TPL</td>
+<td>KTPL</td>
+<td><a href=\"/wiki/Draughon%E2%80%93Miller_Central_Texas_Regional_Airport\" title=\"Draughon\u2013Miller Central Texas Regional Airport\">Draughon\u2013Miller Central Texas Regional Airport</a></td>
+<td><a href=\"/wiki/Temple,_Texas\" title=\"Temple, Texas\">Temple</a>, <a href=\"/wiki/Texas\" title=\"Texas\">Texas</a>, United States</td>
+</tr>
+<tr>
+<td>TPN</td>
+<td>SETI</td>
+<td><a href=\"/wiki/Tiputini_Airport\" title=\"Tiputini Airport\">Tiputini Airport</a><sup id=\"cite_ref-IATA_1-154\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Tiputini&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tiputini (page does not exist)\">Tiputini</a>, <a href=\"/wiki/Ecuador\" title=\"Ecuador\">Ecuador</a></td>
+</tr>
+<tr>
+<td>TPP</td>
+<td>SPST</td>
+<td><a href=\"/wiki/Cad._FAP_Guillermo_del_Castillo_Paredes_Airport\" class=\"mw-redirect\" title=\"Cad. FAP Guillermo del Castillo Paredes Airport\">Cad. FAP Guillermo del Castillo Paredes Airport</a><sup id=\"cite_ref-IATA_1-155\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tarapoto\" title=\"Tarapoto\">Tarapoto</a>, <a href=\"/wiki/Peru\" title=\"Peru\">Peru</a></td>
+</tr>
+<tr>
+<td>TPQ</td>
+<td>MMEP</td>
+<td><a href=\"/wiki/Amado_Nervo_International_Airport\" class=\"mw-redirect\" title=\"Amado Nervo International Airport\">Amado Nervo International Airport</a></td>
+<td><a href=\"/wiki/Tepic\" title=\"Tepic\">Tepic</a>, <a href=\"/wiki/Nayarit\" title=\"Nayarit\">Nayarit</a>, Mexico</td>
+</tr>
+<tr>
+<td>TPR</td>
+<td>YTMP</td>
+<td><a href=\"/wiki/Tom_Price_Airport\" title=\"Tom Price Airport\">Tom Price Airport</a></td>
+<td><a href=\"/wiki/Tom_Price,_Western_Australia\" title=\"Tom Price, Western Australia\">Tom Price</a>, <a href=\"/wiki/Western_Australia\" title=\"Western Australia\">Western Australia</a>, Australia</td>
+</tr>
+<tr>
+<td>TPS</td>
+<td>LICT</td>
+<td><a href=\"/wiki/Vincenzo_Florio_Airport_Trapani%E2%80%93Birgi\" title=\"Vincenzo Florio Airport Trapani\u2013Birgi\">Vincenzo Florio Airport Trapani\u2013Birgi</a></td>
+<td><a href=\"/wiki/Trapani\" title=\"Trapani\">Trapani</a>, <a href=\"/wiki/Sicily\" title=\"Sicily\">Sicily</a>, Italy</td>
+</tr>
+<tr>
+<td>TPT</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Tapeta_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tapeta Airport (page does not exist)\">Tapeta Airport</a><sup id=\"cite_ref-IATA_1-156\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tapeta\" title=\"Tapeta\">Tapeta</a>, <a href=\"/wiki/Liberia\" title=\"Liberia\">Liberia</a></td>
+</tr>
+<tr>
+<td>TPU</td>
+<td>VNTP</td>
+<td><a href=\"/wiki/Tikapur_Airport\" title=\"Tikapur Airport\">Tikapur Airport</a><sup id=\"cite_ref-IATA_1-157\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tikapur\" title=\"Tikapur\">Tikapur</a>, <a href=\"/wiki/Nepal\" title=\"Nepal\">Nepal</a></td>
+</tr>
+<tr>
+<td>TPX</td>
+<td>NTTU</td>
+<td><a href=\"/w/index.php?title=Tupai_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tupai Airport (page does not exist)\">Tupai Airport</a><sup id=\"cite_ref-IATA_1-158\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/T%C5%ABpai\" title=\"T\u016bpai\">T\u016bpai</a>, <a href=\"/wiki/Society_Islands\" title=\"Society Islands\">Society Islands</a>, <a href=\"/wiki/French_Polynesia\" title=\"French Polynesia\">French Polynesia</a></td>
+</tr>
+<tr>
+<td>TQD</td>
+<td>ORAT</td>
+<td><a href=\"/wiki/Al-Taqaddum_Air_Base\" title=\"Al-Taqaddum Air Base\">Al-Taqaddum Air Base</a><sup id=\"cite_ref-IATA_1-159\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Fallujah\" title=\"Fallujah\">Fallujah</a>, <a href=\"/wiki/Iraq\" title=\"Iraq\">Iraq</a></td>
+</tr>
+<tr>
+<td>TQL</td>
+<td>USDS</td>
+<td><a href=\"/w/index.php?title=Tarko-Sale_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tarko-Sale Airport (page does not exist)\">Tarko-Sale Airport</a><sup id=\"cite_ref-IATA_1-160\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tarko-Sale\" title=\"Tarko-Sale\">Tarko-Sale</a>, <a href=\"/wiki/Yamalo-Nenets_Autonomous_Okrug\" title=\"Yamalo-Nenets Autonomous Okrug\">Yamalo-Nenets Autonomous Okrug</a>, Russia</td>
+</tr>
+<tr>
+<td>TQN</td>
+<td>OATQ</td>
+<td><a href=\"/wiki/Taloqan_Airport\" title=\"Taloqan Airport\">Taloqan Airport</a></td>
+<td><a href=\"/wiki/Taloqan\" title=\"Taloqan\">Taloqan</a>, <a href=\"/wiki/Afghanistan\" title=\"Afghanistan\">Afghanistan</a></td>
+</tr>
+<tr>
+<td>TQP</td>
+<td>YTEE</td>
+<td><a href=\"/wiki/Trepell_Airport\" title=\"Trepell Airport\">Trepell Airport</a></td>
+<td><a href=\"/w/index.php?title=Trepell&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Trepell (page does not exist)\">Trepell</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+</tr>
+<tr>
+<td>TQQ</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Maranggo_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Maranggo Airport (page does not exist)\">Maranggo Airport</a><sup id=\"cite_ref-IATA_1-161\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Tomia_Island&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tomia Island (page does not exist)\">Tomia Island</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+</tr>
+<tr>
+<td>TQS</td>
+<td>SKTQ</td>
+<td><a href=\"/wiki/Captain_Ernesto_Esguerra_Cubides_Air_Base\" title=\"Captain Ernesto Esguerra Cubides Air Base\">Captain Ernesto Esguerra Cubides Air Base</a><sup id=\"cite_ref-IATA_1-162\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Tres_Esquinas&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tres Esquinas (page does not exist)\">Tres Esquinas</a>, <a href=\"/wiki/Colombia\" title=\"Colombia\">Colombia</a></td>
+</tr>
+<tr>
+<td>TRA</td>
+<td>RORT</td>
+<td><a href=\"/wiki/Tarama_Airport\" title=\"Tarama Airport\">Tarama Airport</a><sup id=\"cite_ref-IATA_1-163\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tarama,_Okinawa\" title=\"Tarama, Okinawa\">Tarama</a>, <a href=\"/wiki/Miyako_Islands\" title=\"Miyako Islands\">Miyako Islands</a>, Japan</td>
+</tr>
+<tr>
+<td>TRB</td>
+<td>SKTU</td>
+<td><a href=\"/wiki/Gonzalo_Mej%C3%ADa_Airport\" title=\"Gonzalo Mej\u00eda Airport\">Gonzalo Mej\u00eda Airport</a><sup id=\"cite_ref-IATA_1-164\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Turbo,_Colombia\" title=\"Turbo, Colombia\">Turbo</a>, <a href=\"/wiki/Colombia\" title=\"Colombia\">Colombia</a></td>
+</tr>
+<tr>
+<td>TRC</td>
+<td>MMTC</td>
+<td><a href=\"/wiki/Francisco_Sarabia_International_Airport\" class=\"mw-redirect\" title=\"Francisco Sarabia International Airport\">Francisco Sarabia International Airport</a> (Torre\u00f3n Int'l)</td>
+<td><a href=\"/wiki/Torre%C3%B3n\" title=\"Torre\u00f3n\">Torre\u00f3n</a>, <a href=\"/wiki/Coahuila\" title=\"Coahuila\">Coahuila</a>, Mexico</td>
+</tr>
+<tr>
+<td>TRD</td>
+<td>ENVA</td>
+<td><a href=\"/wiki/Trondheim_Airport,_V%C3%A6rnes\" title=\"Trondheim Airport, V\u00e6rnes\">Trondheim Airport, V\u00e6rnes</a></td>
+<td><a href=\"/wiki/Trondheim\" title=\"Trondheim\">Trondheim</a>, <a href=\"/wiki/Norway\" title=\"Norway\">Norway</a></td>
+</tr>
+<tr>
+<td>TRE</td>
+<td>EGPU</td>
+<td><a href=\"/wiki/Tiree_Airport\" title=\"Tiree Airport\">Tiree Airport</a></td>
+<td><a href=\"/wiki/Tiree\" title=\"Tiree\">Tiree</a>, <a href=\"/wiki/Scotland\" title=\"Scotland\">Scotland</a>, United Kingdom</td>
+</tr>
+<tr>
+<td>TRF</td>
+<td>ENTO</td>
+<td><a href=\"/wiki/Sandefjord_Airport,_Torp\" title=\"Sandefjord Airport, Torp\">Sandefjord Airport, Torp</a></td>
+<td><a href=\"/wiki/Sandefjord\" title=\"Sandefjord\">Sandefjord</a> / <a href=\"/wiki/Oslo\" title=\"Oslo\">Oslo</a>, <a href=\"/wiki/Norway\" title=\"Norway\">Norway</a></td>
+</tr>
+<tr>
+<td>TRG</td>
+<td>NZTG</td>
+<td><a href=\"/wiki/Tauranga_Airport\" title=\"Tauranga Airport\">Tauranga Airport</a></td>
+<td><a href=\"/wiki/Tauranga\" title=\"Tauranga\">Tauranga</a>, <a href=\"/wiki/New_Zealand\" title=\"New Zealand\">New Zealand</a></td>
+</tr>
+<tr>
+<td>TRH</td>
+<td></td>
+<td><a href=\"/wiki/Trona_Airport\" title=\"Trona Airport\">Trona Airport</a> (FAA: L72)</td>
+<td><a href=\"/wiki/Trona,_Inyo_County,_California\" title=\"Trona, Inyo County, California\">Trona</a>, <a href=\"/wiki/California\" title=\"California\">California</a>, United States</td>
+</tr>
+<tr>
+<td>TRI</td>
+<td>KTRI</td>
+<td><a href=\"/wiki/Tri-Cities_Regional_Airport\" title=\"Tri-Cities Regional Airport\">Tri-Cities Regional Airport</a></td>
+<td><a href=\"/wiki/Bristol,_Tennessee\" title=\"Bristol, Tennessee\">Bristol</a> / <a href=\"/wiki/Johnson_City,_Tennessee\" title=\"Johnson City, Tennessee\">Johnson City</a> / <a href=\"/wiki/Kingsport,_Tennessee\" title=\"Kingsport, Tennessee\">Kingsport</a>, <a href=\"/wiki/Tennessee\" title=\"Tennessee\">Tennessee</a>, United States</td>
+</tr>
+<tr>
+<td>TRJ</td>
+<td>AYTT</td>
+<td><a href=\"/w/index.php?title=Tarakbits_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tarakbits Airport (page does not exist)\">Tarakbits Airport</a><sup id=\"cite_ref-IATA_1-165\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Tarakbits&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tarakbits (page does not exist)\">Tarakbits</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>TRK</td>
+<td>WALR</td>
+<td><a href=\"/wiki/Juwata_International_Airport\" title=\"Juwata International Airport\">Juwata International Airport</a></td>
+<td><a href=\"/wiki/Tarakan,_North_Kalimantan\" class=\"mw-redirect\" title=\"Tarakan, North Kalimantan\">Tarakan</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+</tr>
+<tr>
+<td>TRL</td>
+<td>KTRL</td>
+<td><a href=\"/wiki/Terrell_Municipal_Airport\" title=\"Terrell Municipal Airport\">Terrell Municipal Airport</a></td>
+<td><a href=\"/wiki/Terrell,_Texas\" title=\"Terrell, Texas\">Terrell</a>, <a href=\"/wiki/Texas\" title=\"Texas\">Texas</a>, United States</td>
+</tr>
+<tr>
+<td>TRM</td>
+<td>KTRM</td>
+<td><a href=\"/wiki/Jacqueline_Cochran_Regional_Airport\" title=\"Jacqueline Cochran Regional Airport\">Jacqueline Cochran Regional Airport</a></td>
+<td><a href=\"/wiki/Thermal,_California\" title=\"Thermal, California\">Thermal</a>, <a href=\"/wiki/California\" title=\"California\">California</a>, United States</td>
+</tr>
+<tr>
+<td>TRN</td>
+<td>LIMF</td>
+<td><a href=\"/wiki/Turin_Airport\" title=\"Turin Airport\">Turin Airport</a> (Caselle Airport)</td>
+<td><a href=\"/wiki/Turin\" title=\"Turin\">Turin</a>, <a href=\"/wiki/Piedmont\" title=\"Piedmont\">Piedmont</a>, Italy</td>
+</tr>
+<tr>
+<td>TRO</td>
+<td>YTRE</td>
+<td><a href=\"/wiki/Taree_Airport\" title=\"Taree Airport\">Taree Airport</a><sup id=\"cite_ref-IATA_1-166\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Taree,_New_South_Wales\" class=\"mw-redirect\" title=\"Taree, New South Wales\">Taree</a>, <a href=\"/wiki/New_South_Wales\" title=\"New South Wales\">New South Wales</a>, Australia</td>
+</tr>
+<tr>
+<td>TRQ</td>
+<td>SBTK</td>
+<td><a href=\"/wiki/Tarauac%C3%A1_Airport\" title=\"Tarauac\u00e1 Airport\">Jos\u00e9 Galera dos Santos Airport</a><sup id=\"cite_ref-IATA_1-167\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tarauac%C3%A1\" title=\"Tarauac\u00e1\">Tarauac\u00e1</a>, <a href=\"/wiki/Acre_(state)\" title=\"Acre (state)\">Acre</a>, Brazil</td>
+</tr>
+<tr>
+<td>TRR</td>
+<td>VCCT</td>
+<td><a href=\"/wiki/China_Bay_Airport\" title=\"China Bay Airport\">China Bay Airport</a></td>
+<td><a href=\"/wiki/Trincomalee\" title=\"Trincomalee\">Trincomalee</a>, <a href=\"/wiki/Sri_Lanka\" title=\"Sri Lanka\">Sri Lanka</a></td>
+</tr>
+<tr>
+<td>TRS</td>
+<td>LIPQ</td>
+<td><a href=\"/wiki/Trieste_%E2%80%93_Friuli_Venezia_Giulia_Airport\" title=\"Trieste \u2013 Friuli Venezia Giulia Airport\">Trieste \u2013 Friuli Venezia Giulia Airport</a> (Ronchi dei Legionari Airport)</td>
+<td><a href=\"/wiki/Trieste\" title=\"Trieste\">Trieste</a>, <a href=\"/wiki/Friuli-Venezia_Giulia\" class=\"mw-redirect\" title=\"Friuli-Venezia Giulia\">Friuli-Venezia Giulia</a>, Italy</td>
+</tr>
+<tr>
+<td>TRU</td>
+<td>SPRU</td>
+<td><a href=\"/wiki/FAP_Captain_Carlos_Mart%C3%ADnez_de_Pinillos_International_Airport\" title=\"FAP Captain Carlos Mart\u00ednez de Pinillos International Airport\">FAP Captain Carlos Mart\u00ednez de Pinillos International Airport</a></td>
+<td><a href=\"/wiki/Trujillo,_Peru\" title=\"Trujillo, Peru\">Trujillo</a>, <a href=\"/wiki/Peru\" title=\"Peru\">Peru</a></td>
+</tr>
+<tr>
+<td>TRV</td>
+<td>VOTV</td>
+<td><a href=\"/wiki/Trivandrum_International_Airport\" title=\"Trivandrum International Airport\">Trivandrum International Airport</a></td>
+<td><a href=\"/wiki/Thiruvananthapuram\" title=\"Thiruvananthapuram\">Thiruvananthapuram</a>, <a href=\"/wiki/Kerala\" title=\"Kerala\">Kerala</a>, India</td>
+</tr>
+<tr>
+<td>TRW</td>
+<td>NGTA</td>
+<td><a href=\"/wiki/Bonriki_International_Airport\" title=\"Bonriki International Airport\">Bonriki International Airport</a></td>
+<td><a href=\"/wiki/Tarawa\" title=\"Tarawa\">Tarawa</a>, <a href=\"/wiki/Kiribati\" title=\"Kiribati\">Kiribati</a></td>
+</tr>
+<tr>
+<td>TRX</td>
+<td>KTRX</td>
+<td><a href=\"/wiki/Trenton_Municipal_Airport_(Missouri)\" title=\"Trenton Municipal Airport (Missouri)\">Trenton Municipal Airport</a></td>
+<td><a href=\"/wiki/Trenton,_Missouri\" title=\"Trenton, Missouri\">Trenton</a>, <a href=\"/wiki/Missouri\" title=\"Missouri\">Missouri</a>, United States</td>
+</tr>
+<tr>
+<td>TRY</td>
+<td>HUTO</td>
+<td><a href=\"/wiki/Tororo_Airport\" title=\"Tororo Airport\">Tororo Airport</a><sup id=\"cite_ref-IATA_1-168\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tororo\" title=\"Tororo\">Tororo</a>, <a href=\"/wiki/Uganda\" title=\"Uganda\">Uganda</a></td>
+</tr>
+<tr>
+<td>TRZ</td>
+<td>VOTR</td>
+<td><a href=\"/wiki/Tiruchirappalli_International_Airport\" title=\"Tiruchirappalli International Airport\">Tiruchirappalli International Airport</a></td>
+<td><a href=\"/wiki/Tiruchirappalli\" title=\"Tiruchirappalli\">Tiruchirappalli</a> (Tiruchchirappalli), <a href=\"/wiki/Tamil_Nadu\" title=\"Tamil Nadu\">Tamil Nadu</a>, India</td>
+</tr>
+<tr>
+<td>TSA</td>
+<td>RCSS</td>
+<td><a href=\"/wiki/Taipei_Songshan_Airport\" class=\"mw-redirect\" title=\"Taipei Songshan Airport\">Taipei Songshan Airport</a></td>
+<td><a href=\"/wiki/Taipei\" title=\"Taipei\">Taipei</a>, <a href=\"/wiki/Taiwan\" title=\"Taiwan\">Taiwan</a></td>
+</tr>
+<tr>
+<td>TSB</td>
+<td>FYTM</td>
+<td><a href=\"/wiki/Tsumeb_Airport\" title=\"Tsumeb Airport\">Tsumeb Airport</a><sup id=\"cite_ref-IATA_1-169\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tsumeb\" title=\"Tsumeb\">Tsumeb</a>, <a href=\"/wiki/Namibia\" title=\"Namibia\">Namibia</a></td>
+</tr>
+<tr>
+<td>TSC</td>
+<td>SETH</td>
+<td><a href=\"/wiki/Taisha_Airport\" title=\"Taisha Airport\">Taisha Airport</a><sup id=\"cite_ref-IATA_1-170\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Taisha,_Ecuador&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Taisha, Ecuador (page does not exist)\">Taisha</a>, <a href=\"/wiki/Ecuador\" title=\"Ecuador\">Ecuador</a></td>
+</tr>
+<tr>
+<td>TSD</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Tshipise_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tshipise Airport (page does not exist)\">Tshipise Airport</a><sup id=\"cite_ref-IATA_1-171\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tshipise\" title=\"Tshipise\">Tshipise</a>, <a href=\"/wiki/South_Africa\" title=\"South Africa\">South Africa</a></td>
+</tr>
+<tr>
+<td>TSE</td>
+<td>UACC</td>
+<td><a href=\"/wiki/Astana_International_Airport\" class=\"mw-redirect\" title=\"Astana International Airport\">Astana International Airport</a></td>
+<td><a href=\"/wiki/Astana\" class=\"mw-redirect\" title=\"Astana\">Astana</a>, <a href=\"/wiki/Kazakhstan\" title=\"Kazakhstan\">Kazakhstan</a></td>
+</tr>
+<tr>
+<td>TSF</td>
+<td>LIPH</td>
+<td><a href=\"/wiki/Treviso_Airport\" title=\"Treviso Airport\">Treviso-Sant'Angelo Airport</a></td>
+<td><a href=\"/wiki/Treviso\" title=\"Treviso\">Treviso</a> / <a href=\"/wiki/Venice\" title=\"Venice\">Venice</a>, <a href=\"/wiki/Veneto\" title=\"Veneto\">Veneto</a>, Italy</td>
+</tr>
+<tr>
+<td>TSG</td>
+<td></td>
+<td><a href=\"/wiki/Tanacross_Airport\" title=\"Tanacross Airport\">Tanacross Airport</a></td>
+<td><a href=\"/wiki/Tanacross,_Alaska\" title=\"Tanacross, Alaska\">Tanacross</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>TSH</td>
+<td>FZUK</td>
+<td><a href=\"/wiki/Tshikapa_Airport\" title=\"Tshikapa Airport\">Tshikapa Airport</a><sup id=\"cite_ref-IATA_1-172\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tshikapa\" title=\"Tshikapa\">Tshikapa</a>, <a href=\"/wiki/Democratic_Republic_of_the_Congo\" title=\"Democratic Republic of the Congo\">Democratic Republic of the Congo</a></td>
+</tr>
+<tr>
+<td>TSI</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Tsile_Tsile_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tsile Tsile Airport (page does not exist)\">Tsile Tsile Airport</a><sup id=\"cite_ref-IATA_1-173\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tsili_Tsili\" class=\"mw-redirect\" title=\"Tsili Tsili\">Tsili Tsili</a> (Tsile Tsile), <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>TSJ</td>
+<td>RJDT</td>
+<td><a href=\"/wiki/Tsushima_Airport\" title=\"Tsushima Airport\">Tsushima Airport</a></td>
+<td><a href=\"/wiki/Tsushima,_Nagasaki\" title=\"Tsushima, Nagasaki\">Tsushima</a>, <a href=\"/wiki/Tsushima_Island\" title=\"Tsushima Island\">Tsushima Island</a>, Japan</td>
+</tr>
+<tr>
+<td>TSK</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Taskul_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Taskul Airport (page does not exist)\">Taskul Airport</a><sup id=\"cite_ref-IATA_1-174\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Taskul&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Taskul (page does not exist)\">Taskul</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>TSL</td>
+<td>MMTN</td>
+<td><a href=\"/wiki/Tamu%C3%ADn_National_Airport\" title=\"Tamu\u00edn National Airport\">Tamu\u00edn National Airport</a></td>
+<td><a href=\"/wiki/Tamu%C3%ADn\" title=\"Tamu\u00edn\">Tamu\u00edn</a>, <a href=\"/wiki/San_Luis_Potos%C3%AD\" title=\"San Luis Potos\u00ed\">San Luis Potos\u00ed</a>, Mexico</td>
+</tr>
+<tr>
+<td>TSM</td>
+<td>KSKX</td>
+<td><a href=\"/wiki/Taos_Regional_Airport\" title=\"Taos Regional Airport\">Taos Regional Airport</a> (FAA: SKX)</td>
+<td><a href=\"/wiki/Taos,_New_Mexico\" title=\"Taos, New Mexico\">Taos</a>, <a href=\"/wiki/New_Mexico\" title=\"New Mexico\">New Mexico</a>, United States</td>
+</tr>
+<tr>
+<td>TSN</td>
+<td>ZBTJ</td>
+<td><a href=\"/wiki/Tianjin_Binhai_International_Airport\" title=\"Tianjin Binhai International Airport\">Tianjin Binhai International Airport</a></td>
+<td><a href=\"/wiki/Tianjin\" title=\"Tianjin\">Tianjin</a>, China</td>
+</tr>
+<tr>
+<td>TSP</td>
+<td>KTSP</td>
+<td><a href=\"/wiki/Tehachapi_Municipal_Airport\" title=\"Tehachapi Municipal Airport\">Tehachapi Municipal Airport</a></td>
+<td><a href=\"/wiki/Tehachapi,_California\" title=\"Tehachapi, California\">Tehachapi</a>, <a href=\"/wiki/California\" title=\"California\">California</a>, United States</td>
+</tr>
+<tr>
+<td>TSQ</td>
+<td>SBTR</td>
+<td><a href=\"/w/index.php?title=Torres_Airport_(Brazil)&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Torres Airport (Brazil) (page does not exist)\">Torres Airport</a><sup id=\"cite_ref-IATA_1-175\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Torres,_Rio_Grande_do_Sul\" title=\"Torres, Rio Grande do Sul\">Torres</a>, <a href=\"/wiki/Rio_Grande_do_Sul\" title=\"Rio Grande do Sul\">Rio Grande do Sul</a>, Brazil</td>
+</tr>
+<tr>
+<td>TSR</td>
+<td>LRTR</td>
+<td><a href=\"/wiki/Timi%C8%99oara_Traian_Vuia_International_Airport\" title=\"Timi\u0219oara Traian Vuia International Airport\">Timi\u0219oara Traian Vuia International Airport</a></td>
+<td><a href=\"/wiki/Timi%C8%99oara\" title=\"Timi\u0219oara\">Timi\u0219oara</a>, <a href=\"/wiki/Romania\" title=\"Romania\">Romania</a></td>
+</tr>
+<tr>
+<td>TST</td>
+<td>VTST</td>
+<td><a href=\"/wiki/Trang_Airport\" title=\"Trang Airport\">Trang Airport</a></td>
+<td><a href=\"/wiki/Trang,_Thailand\" title=\"Trang, Thailand\">Trang</a>, <a href=\"/wiki/Thailand\" title=\"Thailand\">Thailand</a></td>
+</tr>
+<tr>
+<td>TSU</td>
+<td>NGTS</td>
+<td><a href=\"/w/index.php?title=Tabiteuea_South_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tabiteuea South Airport (page does not exist)\">Tabiteuea South Airport</a><sup id=\"cite_ref-IATA_1-176\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tabiteuea\" title=\"Tabiteuea\">Tabiteuea South</a>, <a href=\"/wiki/Kiribati\" title=\"Kiribati\">Kiribati</a></td>
+</tr>
+<tr>
+<td>TSV</td>
+<td>YBTL</td>
+<td><a href=\"/wiki/Townsville_Airport\" title=\"Townsville Airport\">Townsville Airport</a></td>
+<td><a href=\"/wiki/Townsville_City,_Queensland\" title=\"Townsville City, Queensland\">Townsville</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+</tr>
+<tr>
+<td>TSW</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Tsewi_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tsewi Airport (page does not exist)\">Tsewi Airport</a><sup id=\"cite_ref-IATA_1-177\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Tsewi&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tsewi (page does not exist)\">Tsewi</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>TSY</td>
+<td>WICM</td>
+<td><a href=\"/wiki/Tasikmalaya_Airport\" title=\"Tasikmalaya Airport\">Tasikmalaya Airport</a><sup id=\"cite_ref-IATA_1-178\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (Wiriadinata Airport)</td>
+<td><a href=\"/wiki/Tasikmalaya\" title=\"Tasikmalaya\">Tasikmalaya</a>, <a href=\"/wiki/West_Java\" title=\"West Java\">West Java</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+</tr>
+<tr>
+<td>TSX</td>
+<td>WRLT</td>
+<td><a href=\"/w/index.php?title=Tanjung_Santan_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tanjung Santan Airport (page does not exist)\">Tanjung Santan Airport</a><sup id=\"cite_ref-IATA_1-179\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Tanjung_Santan&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tanjung Santan (page does not exist)\">Tanjung Santan</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+</tr>
+<tr>
+<td>TSZ</td>
+<td>ZMTG</td>
+<td><a href=\"/w/index.php?title=Tsetserleg_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tsetserleg Airport (page does not exist)\">Tsetserleg Airport</a></td>
+<td><a href=\"/wiki/Tsetserleg_(city)\" title=\"Tsetserleg (city)\">Tsetserleg</a>, <a href=\"/wiki/Mongolia\" title=\"Mongolia\">Mongolia</a></td>
+</tr>
+<tr>
+<td>TTA</td>
+<td>GMAT</td>
+<td><a href=\"/wiki/Tan_Tan_Airport\" title=\"Tan Tan Airport\">Tan Tan Airport</a> (Plage Blanche Airport)</td>
+<td><a href=\"/wiki/Tan-Tan\" title=\"Tan-Tan\">Tan-Tan</a>, <a href=\"/wiki/Morocco\" title=\"Morocco\">Morocco</a></td>
+</tr>
+<tr>
+<td>TTB</td>
+<td>LIET</td>
+<td><a href=\"/wiki/Tortol%C3%AC_Airport\" title=\"Tortol\u00ec Airport\">Tortol\u00ec Airport</a> (Arbatax Airport)</td>
+<td><a href=\"/wiki/Tortol%C3%AC\" title=\"Tortol\u00ec\">Tortol\u00ec</a>, <a href=\"/wiki/Sardinia\" title=\"Sardinia\">Sardinia</a>, Italy</td>
+</tr>
+<tr>
+<td>TTC</td>
+<td>SCTT</td>
+<td><a href=\"/wiki/Las_Breas_Airport\" title=\"Las Breas Airport\">Las Breas Airport</a><sup id=\"cite_ref-IATA_1-180\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Taltal\" title=\"Taltal\">Taltal</a>, <a href=\"/wiki/Chile\" title=\"Chile\">Chile</a></td>
+</tr>
+<tr>
+<td>TTD</td>
+<td>KTTD</td>
+<td><a href=\"/wiki/Portland%E2%80%93Troutdale_Airport\" title=\"Portland\u2013Troutdale Airport\">Portland\u2013Troutdale Airport</a></td>
+<td><a href=\"/wiki/Portland,_Oregon\" title=\"Portland, Oregon\">Portland</a>, <a href=\"/wiki/Oregon\" title=\"Oregon\">Oregon</a>, United States</td>
+</tr>
+<tr>
+<td>TTE</td>
+<td>WAEE</td>
+<td><a href=\"/wiki/Sultan_Babullah_Airport\" title=\"Sultan Babullah Airport\">Sultan Babullah Airport</a><sup id=\"cite_ref-IATA_1-181\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Ternate\" title=\"Ternate\">Ternate</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+</tr>
+<tr>
+<td>TTG</td>
+<td>SAST</td>
+<td><a href=\"/wiki/Tartagal_%22General_Enrique_Mosconi%22_Airport\" class=\"mw-redirect\" title=\"Tartagal &quot;General Enrique Mosconi&quot; Airport\">Tartagal \"General Enrique Mosconi\" Airport</a></td>
+<td><a href=\"/wiki/Tartagal,_Salta\" title=\"Tartagal, Salta\">Tartagal</a>, <a href=\"/wiki/Salta_Province\" title=\"Salta Province\">Salta</a>, Argentina</td>
+</tr>
+<tr>
+<td>TTH</td>
+<td>OOTH</td>
+<td><a href=\"/wiki/RAFO_Thumrait\" title=\"RAFO Thumrait\">RAFO Thumrait</a><sup id=\"cite_ref-IATA_1-182\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Thumrait\" title=\"Thumrait\">Thumrait</a>, <a href=\"/wiki/Oman\" title=\"Oman\">Oman</a></td>
+</tr>
+<tr>
+<td>TTI</td>
+<td>NTTE</td>
+<td><a href=\"/w/index.php?title=Tetiaroa_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tetiaroa Airport (page does not exist)\">Tetiaroa Airport</a><sup id=\"cite_ref-IATA_1-183\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tetiaroa\" title=\"Tetiaroa\">Tetiaroa</a>, <a href=\"/wiki/Society_Islands\" title=\"Society Islands\">Society Islands</a>, <a href=\"/wiki/French_Polynesia\" title=\"French Polynesia\">French Polynesia</a></td>
+</tr>
+<tr>
+<td>TTJ</td>
+<td>RJOR</td>
+<td><a href=\"/wiki/Tottori_Airport\" title=\"Tottori Airport\">Tottori Airport</a><sup id=\"cite_ref-IATA_1-184\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tottori,_Tottori\" class=\"mw-redirect\" title=\"Tottori, Tottori\">Tottori</a>, <a href=\"/wiki/Honshu\" title=\"Honshu\">Honshu</a>, Japan</td>
+</tr>
+<tr>
+<td>TTL</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Turtle_Island_Seaplane_Base&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Turtle Island Seaplane Base (page does not exist)\">Turtle Island Seaplane Base</a><sup id=\"cite_ref-IATA_1-185\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Nanuya_Levu\" title=\"Nanuya Levu\">Nanuya Levu</a>, <a href=\"/wiki/Fiji\" title=\"Fiji\">Fiji</a></td>
+</tr>
+<tr>
+<td>TTM</td>
+<td></td>
+<td><a href=\"/wiki/Tabl%C3%B3n_de_Tamar%C3%A1_Airport\" title=\"Tabl\u00f3n de Tamar\u00e1 Airport\">Tabl\u00f3n de Tamar\u00e1 Airport</a></td>
+<td><a href=\"/w/index.php?title=Tabl%C3%B3n_de_Tamar%C3%A1&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tabl\u00f3n de Tamar\u00e1 (page does not exist)\">Tabl\u00f3n de Tamar\u00e1</a>, <a href=\"/wiki/Colombia\" title=\"Colombia\">Colombia</a></td>
+</tr>
+<tr>
+<td>TTN</td>
+<td>KTTN</td>
+<td><a href=\"/wiki/Trenton%E2%80%93Mercer_Airport\" title=\"Trenton\u2013Mercer Airport\">Trenton\u2013Mercer Airport</a></td>
+<td><a href=\"/wiki/Trenton,_New_Jersey\" title=\"Trenton, New Jersey\">Trenton</a>, <a href=\"/wiki/New_Jersey\" title=\"New Jersey\">New Jersey</a>, United States</td>
+</tr>
+<tr>
+<td>TTO</td>
+<td>KBTN</td>
+<td><a href=\"/wiki/Britton_Municipal_Airport\" title=\"Britton Municipal Airport\">Britton Municipal Airport</a> (FAA: BTN)</td>
+<td><a href=\"/wiki/Britton,_South_Dakota\" title=\"Britton, South Dakota\">Britton</a>, <a href=\"/wiki/South_Dakota\" title=\"South Dakota\">South Dakota</a>, United States</td>
+</tr>
+<tr>
+<td>TTQ</td>
+<td>MRBT</td>
+<td><a href=\"/wiki/Tortuguero_Airport\" title=\"Tortuguero Airport\">Tortuguero Airport</a> (Barra de Tortuguero Airport)</td>
+<td><a href=\"/wiki/Tortuguero,_Costa_Rica\" title=\"Tortuguero, Costa Rica\">Tortuguero</a>, <a href=\"/wiki/Costa_Rica\" title=\"Costa Rica\">Costa Rica</a></td>
+</tr>
+<tr>
+<td>TTR</td>
+<td>WAWT</td>
+<td><a href=\"/wiki/Pongtiku_Airport\" title=\"Pongtiku Airport\">Pongtiku Airport</a><sup id=\"cite_ref-IATA_1-186\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tana_Toraja_Regency\" title=\"Tana Toraja Regency\">Tana Toraja</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+</tr>
+<tr>
+<td>TTS</td>
+<td>FMNT</td>
+<td><a href=\"/wiki/Tsaratanana_Airport\" title=\"Tsaratanana Airport\">Tsaratanana Airport</a></td>
+<td><a href=\"/wiki/Tsaratanana\" title=\"Tsaratanana\">Tsaratanana</a>, <a href=\"/wiki/Madagascar\" title=\"Madagascar\">Madagascar</a></td>
+</tr>
+<tr>
+<td>TTT</td>
+<td>RCFN</td>
+<td><a href=\"/wiki/Taitung_Airport\" title=\"Taitung Airport\">Taitung Airport</a> (Taitung Fongnian Airport)</td>
+<td><a href=\"/wiki/Taitung_City\" title=\"Taitung City\">Taitung</a>, <a href=\"/wiki/Taiwan\" title=\"Taiwan\">Taiwan</a></td>
+</tr>
+<tr>
+<td>TTU</td>
+<td></td>
+<td><a href=\"/wiki/Sania_Ramel_Airport\" title=\"Sania Ramel Airport\">Sania Ramel Airport</a></td>
+<td><a href=\"/wiki/T%C3%A9touan\" title=\"T\u00e9touan\">T\u00e9touan</a>, <a href=\"/wiki/Morocco\" title=\"Morocco\">Morocco</a></td>
+</tr>
+<tr>
+<td>TTW</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Tissa_Tank_Waterdrome&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tissa Tank Waterdrome (page does not exist)\">Tissa Tank Waterdrome</a><sup id=\"cite_ref-IATA_1-187\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tissamaharama\" title=\"Tissamaharama\">Tissamaharama</a>, <a href=\"/wiki/Sri_Lanka\" title=\"Sri Lanka\">Sri Lanka</a></td>
+</tr>
+<tr>
+<td>TTX</td>
+<td>YTST</td>
+<td><a href=\"/wiki/Mungalalu_Truscott_Airbase\" title=\"Mungalalu Truscott Airbase\">Truscott-Mungalalu Airport</a><sup id=\"cite_ref-IATA_1-188\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Mungalalu,_Western_Australia&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Mungalalu, Western Australia (page does not exist)\">Mungalalu</a>, <a href=\"/wiki/Western_Australia\" title=\"Western Australia\">Western Australia</a>, Australia</td>
+</tr>
+<tr>
+<td>TUA</td>
+<td>SETU</td>
+<td><a href=\"/wiki/Teniente_Coronel_Luis_a_Mantilla_International_Airport\" class=\"mw-redirect\" title=\"Teniente Coronel Luis a Mantilla International Airport\">Teniente Coronel Luis a Mantilla International Airport</a></td>
+<td><a href=\"/wiki/Tulc%C3%A1n\" title=\"Tulc\u00e1n\">Tulc\u00e1n</a>, <a href=\"/wiki/Ecuador\" title=\"Ecuador\">Ecuador</a></td>
+</tr>
+<tr>
+<td>TUB</td>
+<td>NTAT</td>
+<td><a href=\"/wiki/Tubuai_%E2%80%93_Mataura_Airport\" title=\"Tubuai \u2013 Mataura Airport\">Tubuai \u2013 Mataura Airport</a><sup id=\"cite_ref-IATA_1-189\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tubuai\" title=\"Tubuai\">Tubuai</a>, <a href=\"/wiki/French_Polynesia\" title=\"French Polynesia\">French Polynesia</a></td>
+</tr>
+<tr>
+<td>TUC</td>
+<td>SANT</td>
+<td><a href=\"/wiki/Teniente_General_Benjam%C3%ADn_Matienzo_International_Airport\" title=\"Teniente General Benjam\u00edn Matienzo International Airport\">Teniente General Benjam\u00edn Matienzo International Airport</a></td>
+<td><a href=\"/wiki/San_Miguel_de_Tucum%C3%A1n\" title=\"San Miguel de Tucum\u00e1n\">San Miguel de Tucum\u00e1n</a>, <a href=\"/wiki/Tucum%C3%A1n_Province\" title=\"Tucum\u00e1n Province\">Tucum\u00e1n</a>, Argentina</td>
+</tr>
+<tr>
+<td>TUD</td>
+<td>GOTT</td>
+<td><a href=\"/wiki/Tambacounda_Airport\" title=\"Tambacounda Airport\">Tambacounda Airport</a></td>
+<td><a href=\"/wiki/Tambacounda\" title=\"Tambacounda\">Tambacounda</a>, <a href=\"/wiki/Senegal\" title=\"Senegal\">Senegal</a></td>
+</tr>
+<tr>
+<td>TUF</td>
+<td>LFOT</td>
+<td><a href=\"/wiki/Tours_Val_de_Loire_Airport\" title=\"Tours Val de Loire Airport\">Tours Val de Loire Airport</a></td>
+<td><a href=\"/wiki/Tours\" title=\"Tours\">Tours</a>, <a href=\"/wiki/Centre-Val_de_Loire\" title=\"Centre-Val de Loire\">Centre-Val de Loire</a>, France</td>
+</tr>
+<tr>
+<td>TUG</td>
+<td>RPUT</td>
+<td><a href=\"/wiki/Tuguegarao_Airport\" title=\"Tuguegarao Airport\">Tuguegarao Airport</a></td>
+<td><a href=\"/wiki/Tuguegarao\" title=\"Tuguegarao\">Tuguegarao</a>, <a href=\"/wiki/Philippines\" title=\"Philippines\">Philippines</a></td>
+</tr>
+<tr>
+<td>TUI</td>
+<td>OETR</td>
+<td><a href=\"/wiki/Turaif_Domestic_Airport\" title=\"Turaif Domestic Airport\">Turaif Domestic Airport</a><sup id=\"cite_ref-IATA_1-190\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Turaif\" class=\"mw-redirect\" title=\"Turaif\">Turaif</a>, <a href=\"/wiki/Saudi_Arabia\" title=\"Saudi Arabia\">Saudi Arabia</a></td>
+</tr>
+<tr>
+<td>TUJ</td>
+<td>HAMJ</td>
+<td><a href=\"/wiki/Tum_Airport\" title=\"Tum Airport\">Tum Airport</a><sup id=\"cite_ref-IATA_1-191\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Tum,_Ethiopia&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tum, Ethiopia (page does not exist)\">Tum</a>, <a href=\"/wiki/Ethiopia\" title=\"Ethiopia\">Ethiopia</a></td>
+</tr>
+<tr>
+<td>TUK</td>
+<td>OPTU</td>
+<td><a href=\"/wiki/Turbat_International_Airport\" title=\"Turbat International Airport\">Turbat International Airport</a></td>
+<td><a href=\"/wiki/Turbat\" title=\"Turbat\">Turbat</a>, <a href=\"/wiki/Pakistan\" title=\"Pakistan\">Pakistan</a></td>
+</tr>
+<tr>
+<td>TUL</td>
+<td>KTUL</td>
+<td><a href=\"/wiki/Tulsa_International_Airport\" title=\"Tulsa International Airport\">Tulsa International Airport</a></td>
+<td><a href=\"/wiki/Tulsa,_Oklahoma\" title=\"Tulsa, Oklahoma\">Tulsa</a>, <a href=\"/wiki/Oklahoma\" title=\"Oklahoma\">Oklahoma</a>, United States</td>
+</tr>
+<tr>
+<td>TUM</td>
+<td>YTMU</td>
+<td><a href=\"/wiki/Tumut_Airport\" title=\"Tumut Airport\">Tumut Airport</a><sup id=\"cite_ref-IATA_1-192\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tumut\" title=\"Tumut\">Tumut</a>, <a href=\"/wiki/New_South_Wales\" title=\"New South Wales\">New South Wales</a>, Australia</td>
+</tr>
+<tr>
+<td>TUN</td>
+<td>DTTA</td>
+<td><a href=\"/wiki/Tunis%E2%80%93Carthage_International_Airport\" title=\"Tunis\u2013Carthage International Airport\">Tunis\u2013Carthage International Airport</a></td>
+<td><a href=\"/wiki/Tunis\" title=\"Tunis\">Tunis</a>, <a href=\"/wiki/Tunisia\" title=\"Tunisia\">Tunisia</a></td>
+</tr>
+<tr>
+<td>TUO</td>
+<td>NZAP</td>
+<td><a href=\"/wiki/Taupo_Airport\" title=\"Taupo Airport\">Taupo Airport</a></td>
+<td><a href=\"/wiki/Taupo\" title=\"Taupo\">Taupo</a>, <a href=\"/wiki/New_Zealand\" title=\"New Zealand\">New Zealand</a></td>
+</tr>
+<tr>
+<td>TUP</td>
+<td>KTUP</td>
+<td><a href=\"/wiki/Tupelo_Regional_Airport\" title=\"Tupelo Regional Airport\">Tupelo Regional Airport</a></td>
+<td><a href=\"/wiki/Tupelo,_Mississippi\" title=\"Tupelo, Mississippi\">Tupelo</a>, <a href=\"/wiki/Mississippi\" title=\"Mississippi\">Mississippi</a>, United States</td>
+</tr>
+<tr>
+<td>TUQ</td>
+<td>DFOT</td>
+<td><a href=\"/wiki/Tougan_Airport\" title=\"Tougan Airport\">Tougan Airport</a></td>
+<td><a href=\"/wiki/Tougan\" title=\"Tougan\">Tougan</a>, <a href=\"/wiki/Burkina_Faso\" title=\"Burkina Faso\">Burkina Faso</a></td>
+</tr>
+<tr>
+<td>TUR</td>
+<td>SBTU</td>
+<td><a href=\"/wiki/Tucuru%C3%AD_Airport\" title=\"Tucuru\u00ed Airport\">Tucuru\u00ed Airport</a><sup id=\"cite_ref-IATA_1-193\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tucuru%C3%AD\" title=\"Tucuru\u00ed\">Tucuru\u00ed</a>, <a href=\"/wiki/Par%C3%A1\" title=\"Par\u00e1\">Par\u00e1</a>, Brazil</td>
+</tr>
+<tr>
+<td>TUS</td>
+<td>KTUS</td>
+<td><a href=\"/wiki/Tucson_International_Airport\" title=\"Tucson International Airport\">Tucson International Airport</a></td>
+<td><a href=\"/wiki/Tucson,_Arizona\" title=\"Tucson, Arizona\">Tucson</a>, <a href=\"/wiki/Arizona\" title=\"Arizona\">Arizona</a>, United States</td>
+</tr>
+<tr>
+<td>TUT</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Tauta_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tauta Airport (page does not exist)\">Tauta Airport</a><sup id=\"cite_ref-IATA_1-194\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tauta\" title=\"Tauta\">Tauta</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>TUU</td>
+<td>OETB</td>
+<td><a href=\"/wiki/Tabuk_Regional_Airport\" title=\"Tabuk Regional Airport\">Tabuk Regional Airport</a></td>
+<td><a href=\"/wiki/Tabuk,_Saudi_Arabia\" title=\"Tabuk, Saudi Arabia\">Tabuk</a>, <a href=\"/wiki/Saudi_Arabia\" title=\"Saudi Arabia\">Saudi Arabia</a></td>
+</tr>
+<tr>
+<td>TUV</td>
+<td>SVTC</td>
+<td><a href=\"/wiki/San_Rafael_Airport_(Venezuela)\" title=\"San Rafael Airport (Venezuela)\">San Rafael Airport</a><sup id=\"cite_ref-IATA_1-195\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tucupita\" title=\"Tucupita\">Tucupita</a>, <a href=\"/wiki/Venezuela\" title=\"Venezuela\">Venezuela</a></td>
+</tr>
+<tr>
+<td>TUW</td>
+<td></td>
+<td><a href=\"/wiki/Tubala_Airport\" class=\"mw-redirect\" title=\"Tubala Airport\">Tubala Airport</a><sup id=\"cite_ref-IATA_1-196\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Tubala,_Panama&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tubala, Panama (page does not exist)\">Tubala</a> (Tubual\u00e1), <a href=\"/wiki/Panama\" title=\"Panama\">Panama</a></td>
+</tr>
+<tr>
+<td>TUX</td>
+<td></td>
+<td><a href=\"/wiki/Tumbler_Ridge_Airport\" title=\"Tumbler Ridge Airport\">Tumbler Ridge Airport</a><sup id=\"cite_ref-IATA_1-197\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (TC: CBX7)</td>
+<td><a href=\"/wiki/Tumbler_Ridge\" title=\"Tumbler Ridge\">Tumbler Ridge</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>TUY</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Tulum_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tulum Airport (page does not exist)\">Tulum Airport</a></td>
+<td><a href=\"/wiki/Tulum\" title=\"Tulum\">Tulum</a>, <a href=\"/wiki/Quintana_Roo\" title=\"Quintana Roo\">Quintana Roo</a>, Mexico</td>
+</tr>
+<tr>
+<td>TUZ</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Tucum%C3%A3_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tucum\u00e3 Airport (page does not exist)\">Tucum\u00e3 Airport</a><sup id=\"cite_ref-IATA_1-198\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tucum%C3%A3,_Par%C3%A1\" title=\"Tucum\u00e3, Par\u00e1\">Tucum\u00e3</a>, <a href=\"/wiki/Par%C3%A1\" title=\"Par\u00e1\">Par\u00e1</a>, Brazil</td>
+</tr>
+<tr>
+<td>TVA</td>
+<td>FMMR</td>
+<td><a href=\"/wiki/Morafenobe_Airport\" title=\"Morafenobe Airport\">Morafenobe Airport</a><sup id=\"cite_ref-IATA_1-199\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Morafenobe\" title=\"Morafenobe\">Morafenobe</a>, <a href=\"/wiki/Madagascar\" title=\"Madagascar\">Madagascar</a></td>
+</tr>
+<tr>
+<td>TVC</td>
+<td>KTVC</td>
+<td><a href=\"/wiki/Cherry_Capital_Airport\" title=\"Cherry Capital Airport\">Cherry Capital Airport</a></td>
+<td><a href=\"/wiki/Traverse_City,_Michigan\" title=\"Traverse City, Michigan\">Traverse City</a>, <a href=\"/wiki/Michigan\" title=\"Michigan\">Michigan</a>, United States</td>
+</tr>
+<tr>
+<td>TVF</td>
+<td>KTVF</td>
+<td><a href=\"/wiki/Thief_River_Falls_Regional_Airport\" title=\"Thief River Falls Regional Airport\">Thief River Falls Regional Airport</a></td>
+<td><a href=\"/wiki/Thief_River_Falls,_Minnesota\" title=\"Thief River Falls, Minnesota\">Thief River Falls</a>, <a href=\"/wiki/Minnesota\" title=\"Minnesota\">Minnesota</a>, United States</td>
+</tr>
+<tr>
+<td>TVI</td>
+<td>KTVI</td>
+<td><a href=\"/wiki/Thomasville_Regional_Airport\" title=\"Thomasville Regional Airport\">Thomasville Regional Airport</a></td>
+<td><a href=\"/wiki/Thomasville,_Georgia\" title=\"Thomasville, Georgia\">Thomasville</a>, <a href=\"/wiki/Georgia_(U.S._state)\" title=\"Georgia (U.S. state)\">Georgia</a>, United States</td>
+</tr>
+<tr>
+<td>TVL</td>
+<td>KTVL</td>
+<td><a href=\"/wiki/Lake_Tahoe_Airport\" title=\"Lake Tahoe Airport\">Lake Tahoe Airport</a></td>
+<td><a href=\"/wiki/South_Lake_Tahoe,_California\" title=\"South Lake Tahoe, California\">South Lake Tahoe</a>, <a href=\"/wiki/California\" title=\"California\">California</a>, United States</td>
+</tr>
+<tr>
+<td>TVS</td>
+<td>ZBTS</td>
+<td><a href=\"/wiki/Tangshan_Sann%C3%BChe_Airport\" title=\"Tangshan Sann\u00fche Airport\">Tangshan Sann\u00fche Airport</a></td>
+<td><a href=\"/wiki/Tangshan\" title=\"Tangshan\">Tangshan</a>, <a href=\"/wiki/Hebei\" title=\"Hebei\">Hebei</a>, China</td>
+</tr>
+<tr>
+<td>TVU</td>
+<td>NFNM</td>
+<td><a href=\"/wiki/Matei_Airport\" title=\"Matei Airport\">Matei Airport</a></td>
+<td><a href=\"/wiki/Taveuni\" title=\"Taveuni\">Taveuni</a>, <a href=\"/wiki/Fiji\" title=\"Fiji\">Fiji</a></td>
+</tr>
+<tr>
+<td>TVY</td>
+<td>VYDW</td>
+<td><a href=\"/wiki/Dawei_Airport\" title=\"Dawei Airport\">Dawei Airport</a></td>
+<td><a href=\"/wiki/Dawei\" title=\"Dawei\">Dawei</a>, <a href=\"/wiki/Myanmar\" title=\"Myanmar\">Myanmar</a></td>
+</tr>
+<tr>
+<td>TWA</td>
+<td></td>
+<td><a href=\"/wiki/Twin_Hills_Airport\" title=\"Twin Hills Airport\">Twin Hills Airport</a> (FAA: A63)</td>
+<td><a href=\"/wiki/Twin_Hills,_Alaska\" title=\"Twin Hills, Alaska\">Twin Hills</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>TWB</td>
+<td>YTWB</td>
+<td><a href=\"/wiki/Toowoomba_City_Aerodrome\" title=\"Toowoomba City Aerodrome\">Toowoomba City Aerodrome</a><sup id=\"cite_ref-IATA_1-200\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Toowoomba\" title=\"Toowoomba\">Toowoomba</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+</tr>
+<tr>
+<td>TWD</td>
+<td></td>
+<td><a href=\"/wiki/Jefferson_County_International_Airport\" title=\"Jefferson County International Airport\">Jefferson County International Airport</a> (FAA: 0S9)</td>
+<td><a href=\"/wiki/Port_Townsend,_Washington\" title=\"Port Townsend, Washington\">Port Townsend</a>, <a href=\"/wiki/Washington_(state)\" title=\"Washington (state)\">Washington</a>, United States</td>
+</tr>
+<tr>
+<td>TWE</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Taylor_Airport_(Alaska)&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Taylor Airport (Alaska) (page does not exist)\">Taylor Airport</a> (FAA: AK49)</td>
+<td><a href=\"/w/index.php?title=Taylor,_Alaska&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Taylor, Alaska (page does not exist)\">Taylor</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>TWF</td>
+<td>KTWF</td>
+<td><a href=\"/wiki/Magic_Valley_Regional_Airport\" title=\"Magic Valley Regional Airport\">Magic Valley Regional Airport</a> (Joslin Field)</td>
+<td><a href=\"/wiki/Twin_Falls,_Idaho\" title=\"Twin Falls, Idaho\">Twin Falls</a>, <a href=\"/wiki/Idaho\" title=\"Idaho\">Idaho</a>, United States</td>
+</tr>
+<tr>
+<td>TWN</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Tewantin_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tewantin Airport (page does not exist)\">Tewantin Airport</a><sup id=\"cite_ref-IATA_1-201\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tewantin,_Queensland\" class=\"mw-redirect\" title=\"Tewantin, Queensland\">Tewantin</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+</tr>
+<tr>
+<td>TWP</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Torwood_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Torwood Airport (page does not exist)\">Torwood Airport</a><sup id=\"cite_ref-IATA_1-202\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Torwood,_Queensland&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Torwood, Queensland (page does not exist)\">Torwood</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+</tr>
+<tr>
+<td>TWT</td>
+<td>RPMN</td>
+<td><a href=\"/wiki/Sanga-Sanga_Airport\" title=\"Sanga-Sanga Airport\">Sanga-Sanga Airport</a></td>
+<td><a href=\"/wiki/Tawitawi_Island\" class=\"mw-redirect\" title=\"Tawitawi Island\">Tawitawi Island</a> (Tawi-Tawi), <a href=\"/wiki/Philippines\" title=\"Philippines\">Philippines</a></td>
+</tr>
+<tr>
+<td>TWU</td>
+<td>WBKW</td>
+<td><a href=\"/wiki/Tawau_Airport\" title=\"Tawau Airport\">Tawau Airport</a></td>
+<td><a href=\"/wiki/Tawau\" title=\"Tawau\">Tawau</a>, <a href=\"/wiki/Sabah\" title=\"Sabah\">Sabah</a>, Malaysia</td>
+</tr>
+<tr>
+<td>TWY</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Tawa_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tawa Airport (page does not exist)\">Tawa Airport</a><sup id=\"cite_ref-IATA_1-203\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Tawa,_Papua_New_Guinea&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tawa, Papua New Guinea (page does not exist)\">Tawa</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>TWZ</td>
+<td>NZUK</td>
+<td><a href=\"/wiki/Pukaki_Airport\" title=\"Pukaki Airport\">Pukaki Airport</a><sup id=\"cite_ref-IATA_1-204\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (Twizel Airport)</td>
+<td><a href=\"/wiki/Twizel\" title=\"Twizel\">Twizel</a>, <a href=\"/wiki/New_Zealand\" title=\"New Zealand\">New Zealand</a></td>
+</tr>
+<tr>
+<td>TXF</td>
+<td>SNTF</td>
+<td><a href=\"/wiki/Teixeira_de_Freitas_Airport\" title=\"Teixeira de Freitas Airport\">Teixeira de Freitas Airport</a><sup id=\"cite_ref-IATA_1-205\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (9 de maio Airport)</td>
+<td><a href=\"/wiki/Teixeira_de_Freitas\" title=\"Teixeira de Freitas\">Teixeira de Freitas</a>, <a href=\"/wiki/Bahia\" title=\"Bahia\">Bahia</a>, Brazil</td>
+</tr>
+<tr>
+<td>TXK</td>
+<td>KTXK</td>
+<td><a href=\"/wiki/Texarkana_Regional_Airport\" title=\"Texarkana Regional Airport\">Texarkana Regional Airport</a> (Webb Field)</td>
+<td><a href=\"/wiki/Texarkana,_Arkansas\" title=\"Texarkana, Arkansas\">Texarkana</a>, <a href=\"/wiki/Arkansas\" title=\"Arkansas\">Arkansas</a>, United States</td>
+</tr>
+<tr>
+<td>TXL</td>
+<td>EDDT</td>
+<td><a href=\"/wiki/Berlin_Tegel_Airport\" title=\"Berlin Tegel Airport\">Berlin Tegel Airport</a></td>
+<td><a href=\"/wiki/Berlin\" title=\"Berlin\">Berlin</a>, Germany</td>
+</tr>
+<tr>
+<td>TXM</td>
+<td>WAST</td>
+<td><a href=\"/w/index.php?title=Teminabuan_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Teminabuan Airport (page does not exist)\">Teminabuan Airport</a><sup id=\"cite_ref-IATA_1-206\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Teminabuan\" title=\"Teminabuan\">Teminabuan</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+</tr>
+<tr>
+<td>TXN</td>
+<td>ZSTX</td>
+<td><a href=\"/wiki/Huangshan_Tunxi_International_Airport\" title=\"Huangshan Tunxi International Airport\">Huangshan Tunxi International Airport</a><sup id=\"cite_ref-IATA_1-207\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Huangshan_City\" title=\"Huangshan City\">Huangshan</a>, <a href=\"/wiki/Anhui\" title=\"Anhui\">Anhui</a>, China</td>
+</tr>
+<tr>
+<td>TXR</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Tanbar_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tanbar Airport (page does not exist)\">Tanbar Airport</a><sup id=\"cite_ref-IATA_1-208\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tanbar\" class=\"mw-redirect\" title=\"Tanbar\">Tanbar</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+</tr>
+<tr>
+<td>TXU</td>
+<td>DITB</td>
+<td><a href=\"/wiki/Tabou_Airport\" title=\"Tabou Airport\">Tabou Airport</a><sup id=\"cite_ref-IATA_1-209\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tabou,_Ivory_Coast\" title=\"Tabou, Ivory Coast\">Tabou</a>, <a href=\"/wiki/Ivory_Coast\" title=\"Ivory Coast\">Ivory Coast</a></td>
+</tr>
+<tr>
+<td>TYA</td>
+<td>UUBT</td>
+<td><a href=\"/wiki/Klokovo\" title=\"Klokovo\">Klokovo Airport</a><sup id=\"cite_ref-IATA_1-210\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tula,_Russia\" title=\"Tula, Russia\">Tula</a>, <a href=\"/wiki/Tula_Oblast\" title=\"Tula Oblast\">Tula Oblast</a>, Russia</td>
+</tr>
+<tr>
+<td>TYB</td>
+<td>YTIB</td>
+<td><a href=\"/wiki/Tibooburra_Airport\" title=\"Tibooburra Airport\">Tibooburra Airport</a><sup id=\"cite_ref-IATA_1-211\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tibooburra,_New_South_Wales\" title=\"Tibooburra, New South Wales\">Tibooburra</a>, <a href=\"/wiki/New_South_Wales\" title=\"New South Wales\">New South Wales</a>, Australia</td>
+</tr>
+<tr>
+<td>TYD</td>
+<td>UHBW</td>
+<td><a href=\"/wiki/Tynda_Airport\" title=\"Tynda Airport\">Tynda Airport</a></td>
+<td><a href=\"/wiki/Tynda\" title=\"Tynda\">Tynda</a>, <a href=\"/wiki/Amur_Oblast\" title=\"Amur Oblast\">Amur Oblast</a>, Russia</td>
+</tr>
+<tr>
+<td>TYE</td>
+<td></td>
+<td><a href=\"/wiki/Tyonek_Airport\" title=\"Tyonek Airport\">Tyonek Airport</a></td>
+<td><a href=\"/wiki/Tyonek,_Alaska\" title=\"Tyonek, Alaska\">Tyonek</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>TYF</td>
+<td>ESST</td>
+<td><a href=\"/wiki/Torsby_Airport\" title=\"Torsby Airport\">Torsby Airport</a><sup id=\"cite_ref-IATA_1-212\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Torsby\" title=\"Torsby\">Torsby</a>, <a href=\"/wiki/Sweden\" title=\"Sweden\">Sweden</a></td>
+</tr>
+<tr>
+<td>TYG</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Thylungra_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Thylungra Airport (page does not exist)\">Thylungra Airport</a><sup id=\"cite_ref-IATA_1-213\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Thylungra\" title=\"Thylungra\">Thylungra</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+</tr>
+<tr>
+<td>TYL</td>
+<td>SPYL</td>
+<td><a href=\"/wiki/Capit%C3%A1n_FAP_V%C3%ADctor_Montes_Arias_International_Airport\" title=\"Capit\u00e1n FAP V\u00edctor Montes Arias International Airport\">Capit\u00e1n FAP V\u00edctor Montes Arias International Airport</a></td>
+<td><a href=\"/wiki/Talara\" title=\"Talara\">Talara</a>, <a href=\"/wiki/Peru\" title=\"Peru\">Peru</a></td>
+</tr>
+<tr>
+<td>TYM</td>
+<td>MYES</td>
+<td><a href=\"/wiki/Staniel_Cay_Airport\" title=\"Staniel Cay Airport\">Staniel Cay Airport</a><sup id=\"cite_ref-IATA_1-214\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Staniel_Cay\" title=\"Staniel Cay\">Staniel Cay</a>, <a href=\"/wiki/Exuma\" title=\"Exuma\">Exuma Islands</a>, <a href=\"/wiki/The_Bahamas\" title=\"The Bahamas\">Bahamas</a></td>
+</tr>
+<tr>
+<td>TYN</td>
+<td>ZBYN</td>
+<td><a href=\"/wiki/Taiyuan_Wusu_International_Airport\" title=\"Taiyuan Wusu International Airport\">Taiyuan Wusu International Airport</a></td>
+<td><a href=\"/wiki/Taiyuan\" title=\"Taiyuan\">Taiyuan</a>, <a href=\"/wiki/Shanxi\" title=\"Shanxi\">Shanxi</a>, China</td>
+</tr>
+<tr>
+<td>TYO<sup id=\"cite_ref-IATA_1-215\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td></td>
+<td>metropolitan area<sup class=\"reference plainlinks nourlexpansion\" id=\"ref_2\"><a href=\"#endnote_2\">2</a></sup></td>
+<td><a href=\"/wiki/Tokyo\" title=\"Tokyo\">Tokyo</a>, <a href=\"/wiki/Honshu\" title=\"Honshu\">Honshu</a>, Japan</td>
+</tr>
+<tr>
+<td>TYP</td>
+<td>YTMY</td>
+<td><a href=\"/w/index.php?title=Tobermorey_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tobermorey Airport (page does not exist)\">Tobermorey Airport</a><sup id=\"cite_ref-IATA_1-216\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tobermorey\" title=\"Tobermorey\">Tobermorey</a>, <a href=\"/wiki/Northern_Territory\" title=\"Northern Territory\">Northern Territory</a>, Australia</td>
+</tr>
+<tr>
+<td>TYR</td>
+<td>KTYR</td>
+<td><a href=\"/wiki/Tyler_Pounds_Regional_Airport\" title=\"Tyler Pounds Regional Airport\">Tyler Pounds Regional Airport</a></td>
+<td><a href=\"/wiki/Tyler,_Texas\" title=\"Tyler, Texas\">Tyler</a>, <a href=\"/wiki/Texas\" title=\"Texas\">Texas</a>, United States</td>
+</tr>
+<tr>
+<td>TYS</td>
+<td>KTYS</td>
+<td><a href=\"/wiki/McGhee_Tyson_Airport\" title=\"McGhee Tyson Airport\">McGhee Tyson Airport</a></td>
+<td><a href=\"/wiki/Knoxville,_Tennessee\" title=\"Knoxville, Tennessee\">Knoxville</a>, <a href=\"/wiki/Tennessee\" title=\"Tennessee\">Tennessee</a>, United States</td>
+</tr>
+<tr>
+<td>TYT</td>
+<td>SUTR</td>
+<td><a href=\"/wiki/Treinta_y_Tres_Airport\" title=\"Treinta y Tres Airport\">Treinta y Tres Airport</a></td>
+<td><a href=\"/wiki/Treinta_y_Tres\" title=\"Treinta y Tres\">Treinta y Tres</a>, <a href=\"/wiki/Uruguay\" title=\"Uruguay\">Uruguay</a></td>
+</tr>
+<tr>
+<td>TYZ</td>
+<td>KTYL</td>
+<td><a href=\"/wiki/Taylor_Airport_(Arizona)\" title=\"Taylor Airport (Arizona)\">Taylor Airport</a> (FAA: TYL)</td>
+<td><a href=\"/wiki/Taylor,_Arizona\" title=\"Taylor, Arizona\">Taylor</a>, <a href=\"/wiki/Arizona\" title=\"Arizona\">Arizona</a>, United States</td>
+</tr>
+<tr>
+<td>TZA</td>
+<td></td>
+<td><a href=\"/wiki/Belize_City_Municipal_Airport\" class=\"mw-redirect\" title=\"Belize City Municipal Airport\">Belize City Municipal Airport</a></td>
+<td><a href=\"/wiki/Belize_City\" title=\"Belize City\">Belize City</a>, <a href=\"/wiki/Belize\" title=\"Belize\">Belize</a></td>
+</tr>
+<tr>
+<td>TZC</td>
+<td>KCFS</td>
+<td><a href=\"/wiki/Tuscola_Area_Airport\" title=\"Tuscola Area Airport\">Tuscola Area Airport</a><sup id=\"cite_ref-IATA_1-217\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (FAA: CFS)</td>
+<td><a href=\"/wiki/Caro,_Michigan\" title=\"Caro, Michigan\">Caro</a>, <a href=\"/wiki/Michigan\" title=\"Michigan\">Michigan</a>, United States</td>
+</tr>
+<tr>
+<td>TZL</td>
+<td>LQTZ</td>
+<td><a href=\"/wiki/Tuzla_International_Airport\" title=\"Tuzla International Airport\">Tuzla International Airport</a></td>
+<td><a href=\"/wiki/Tuzla\" title=\"Tuzla\">Tuzla</a>, <a href=\"/wiki/Bosnia_and_Herzegovina\" title=\"Bosnia and Herzegovina\">Bosnia and Herzegovina</a></td>
+</tr>
+<tr>
+<td>TZM</td>
+<td></td>
+<td><a href=\"/wiki/Cupul_National_Airport\" title=\"Cupul National Airport\">Cupul National Airport</a></td>
+<td><a href=\"/wiki/Tizim%C3%ADn\" title=\"Tizim\u00edn\">Tizim\u00edn</a>, <a href=\"/wiki/Yucat%C3%A1n\" title=\"Yucat\u00e1n\">Yucat\u00e1n</a>, Mexico</td>
+</tr>
+<tr>
+<td>TZN</td>
+<td>MYAK</td>
+<td><a href=\"/wiki/South_Andros_Airport\" title=\"South Andros Airport\">South Andros Airport</a> (Congo Town Airport)</td>
+<td><a href=\"/wiki/South_Andros\" title=\"South Andros\">South Andros</a>, <a href=\"/wiki/Andros,_Bahamas\" title=\"Andros, Bahamas\">Andros Island</a>, <a href=\"/wiki/The_Bahamas\" title=\"The Bahamas\">Bahamas</a></td>
+</tr>
+<tr>
+<td>TZO</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Tsimiroro_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tsimiroro Airport (page does not exist)\">Tsimiroro Airport</a><sup id=\"cite_ref-IATA_1-218\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Ankisatra\" title=\"Ankisatra\">Ankisatra</a>, <a href=\"/wiki/Madagascar\" title=\"Madagascar\">Madagascar</a></td>
+</tr>
+<tr>
+<td>TZX</td>
+<td>LTCG</td>
+<td><a href=\"/wiki/Trabzon_Airport\" title=\"Trabzon Airport\">Trabzon Airport</a></td>
+<td><a href=\"/wiki/Trabzon\" title=\"Trabzon\">Trabzon</a>, <a href=\"/wiki/Turkey\" title=\"Turkey\">Turkey</a></td>
+</tr>

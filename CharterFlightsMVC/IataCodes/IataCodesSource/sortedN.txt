@@ -1,0 +1,3200 @@
+<tr>
+<td>NAA</td>
+<td>YNBR</td>
+<td><a href=\"/wiki/Narrabri_Airport\" title=\"Narrabri Airport\">Narrabri Airport</a><sup id=\"cite_ref-IATA_1-0\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Narrabri\" title=\"Narrabri\">Narrabri</a>, <a href=\"/wiki/New_South_Wales\" title=\"New South Wales\">New South Wales</a>, Australia</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NAC</td>
+<td>YNRC</td>
+<td><a href=\"/wiki/Naracoorte_Airport\" title=\"Naracoorte Airport\">Naracoorte Airport</a><sup id=\"cite_ref-IATA_1-1\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Naracoorte,_South_Australia\" title=\"Naracoorte, South Australia\">Naracoorte</a>, <a href=\"/wiki/South_Australia\" title=\"South Australia\">South Australia</a>, Australia</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NAD</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Macanal_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Macanal Airport (page does not exist)\">Macanal Airport</a><sup id=\"cite_ref-IATA_1-2\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Macanal\" title=\"Macanal\">Macanal</a>, <a href=\"/wiki/Colombia\" title=\"Colombia\">Colombia</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NAE</td>
+<td>DBBN</td>
+<td><a href=\"/wiki/Bound%C3%A9tingou_Airport\" title=\"Bound\u00e9tingou Airport\">Bound\u00e9tingou Airport</a></td>
+<td><a href=\"/wiki/Natitingou\" title=\"Natitingou\">Natitingou</a>, <a href=\"/wiki/Benin\" title=\"Benin\">Benin</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NAF</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Banaina_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Banaina Airport (page does not exist)\">Banaina Airport</a><sup id=\"cite_ref-IATA_1-3\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Banaina&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Banaina (page does not exist)\">Banaina</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NAG</td>
+<td>VANP</td>
+<td><a href=\"/wiki/Dr._Babasaheb_Ambedkar_International_Airport\" title=\"Dr. Babasaheb Ambedkar International Airport\">Dr. Babasaheb Ambedkar International Airport</a></td>
+<td><a href=\"/wiki/Nagpur\" title=\"Nagpur\">Nagpur</a>, <a href=\"/wiki/Maharashtra\" title=\"Maharashtra\">Maharashtra</a>, India</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NAH</td>
+<td>WAMH</td>
+<td><a href=\"/wiki/Naha_Airport_(Indonesia)\" title=\"Naha Airport (Indonesia)\">Naha Airport</a></td>
+<td><a href=\"/w/index.php?title=Tahuna,_Indonesia&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tahuna, Indonesia (page does not exist)\">Tahuna</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NAI</td>
+<td>SYAN</td>
+<td><a href=\"/wiki/Annai_Airport\" title=\"Annai Airport\">Annai Airport</a></td>
+<td><a href=\"/wiki/Annai,_Guyana\" title=\"Annai, Guyana\">Annai</a>, <a href=\"/wiki/Guyana\" title=\"Guyana\">Guyana</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NAJ</td>
+<td>UBBN</td>
+<td><a href=\"/wiki/Nakhchivan_International_Airport\" title=\"Nakhchivan International Airport\">Nakhchivan International Airport</a></td>
+<td><a href=\"/wiki/Nakhchivan_(city)\" title=\"Nakhchivan (city)\">Nakhchivan</a>, <a href=\"/wiki/Azerbaijan\" title=\"Azerbaijan\">Azerbaijan</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NAK</td>
+<td>VTUQ</td>
+<td><a href=\"/wiki/Nakhon_Ratchasima_Airport\" title=\"Nakhon Ratchasima Airport\">Nakhon Ratchasima Airport</a></td>
+<td><a href=\"/wiki/Nakhon_Ratchasima\" title=\"Nakhon Ratchasima\">Nakhon Ratchasima</a>, <a href=\"/wiki/Thailand\" title=\"Thailand\">Thailand</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NAL</td>
+<td>URMN</td>
+<td><a href=\"/wiki/Nalchik_Airport\" title=\"Nalchik Airport\">Nalchik Airport</a></td>
+<td><a href=\"/wiki/Nalchik\" title=\"Nalchik\">Nalchik</a>, <a href=\"/wiki/Kabardino-Balkaria\" title=\"Kabardino-Balkaria\">Kabardino-Balkaria</a>, Russia</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NAM</td>
+<td>WAPR</td>
+<td><a href=\"/wiki/Namlea_Airport\" class=\"mw-redirect\" title=\"Namlea Airport\">Namlea Airport</a><sup id=\"cite_ref-IATA_1-4\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Namlea\" title=\"Namlea\">Namlea</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NAN</td>
+<td>NFFN</td>
+<td><a href=\"/wiki/Nadi_International_Airport\" title=\"Nadi International Airport\">Nadi International Airport</a></td>
+<td><a href=\"/wiki/Nadi\" title=\"Nadi\">Nadi</a>, <a href=\"/wiki/Fiji\" title=\"Fiji\">Fiji</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NAO</td>
+<td>ZUNC</td>
+<td><a href=\"/wiki/Nanchong_Gaoping_Airport\" title=\"Nanchong Gaoping Airport\">Nanchong Gaoping Airport</a></td>
+<td><a href=\"/wiki/Nanchong\" title=\"Nanchong\">Nanchong</a>, <a href=\"/wiki/Sichuan\" title=\"Sichuan\">Sichuan</a>, China</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NAP</td>
+<td>LIRN</td>
+<td><a href=\"/wiki/Naples_International_Airport\" title=\"Naples International Airport\">Naples International Airport</a></td>
+<td><a href=\"/wiki/Naples\" title=\"Naples\">Naples</a>, <a href=\"/wiki/Campania\" title=\"Campania\">Campania</a>, Italy</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NAQ</td>
+<td>BGQQ</td>
+<td><a href=\"/wiki/Qaanaaq_Airport\" title=\"Qaanaaq Airport\">Qaanaaq Airport</a><sup id=\"cite_ref-IATA_1-5\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Qaanaaq\" title=\"Qaanaaq\">Qaanaaq</a>, <a href=\"/wiki/Greenland\" title=\"Greenland\">Greenland</a></td>
+
+<td><a href=\"/wiki/UTC-04:00\" class=\"mw-redirect\" title=\"UTC-04:00\">UTC-04:00</a></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NAR</td>
+<td>SKPN</td>
+<td><a href=\"/wiki/Puerto_Nare_Airport\" title=\"Puerto Nare Airport\">Puerto Nare Airport</a><sup id=\"cite_ref-IATA_1-6\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Puerto_Nare\" title=\"Puerto Nare\">Puerto Nare</a>, <a href=\"/wiki/Colombia\" title=\"Colombia\">Colombia</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NAS</td>
+<td>MYNN</td>
+<td><a href=\"/wiki/Lynden_Pindling_International_Airport\" title=\"Lynden Pindling International Airport\">Lynden Pindling International Airport</a></td>
+<td><a href=\"/wiki/Nassau,_Bahamas\" title=\"Nassau, Bahamas\">Nassau</a>, <a href=\"/wiki/New_Providence\" title=\"New Providence\">New Providence</a>, <a href=\"/wiki/The_Bahamas\" title=\"The Bahamas\">Bahamas</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NAT</td>
+<td>SBNT</td>
+<td><a href=\"/wiki/Greater_Natal_International_Airport\" title=\"Greater Natal International Airport\">S\u00e3o Gon\u00e7alo do Amarante\u2013Governador Alu\u00edzio Alves International Airport</a></td>
+<td><a href=\"/wiki/Natal,_Rio_Grande_do_Norte\" title=\"Natal, Rio Grande do Norte\">Natal</a>, <a href=\"/wiki/Rio_Grande_do_Norte\" title=\"Rio Grande do Norte\">Rio Grande do Norte</a>, Brazil</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NAU</td>
+<td>NTGN</td>
+<td><a href=\"/wiki/Napuka_Airport\" title=\"Napuka Airport\">Napuka Airport</a><sup id=\"cite_ref-IATA_1-7\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Napuka\" title=\"Napuka\">Napuka</a>, <a href=\"/wiki/Tuamotus\" title=\"Tuamotus\">Tuamotus</a>, <a href=\"/wiki/French_Polynesia\" title=\"French Polynesia\">French Polynesia</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NAV</td>
+<td>LTAZ</td>
+<td><a href=\"/wiki/Nev%C5%9Fehir_Kapadokya_Airport\" title=\"Nev\u015fehir Kapadokya Airport\">Nev\u015fehir Kapadokya Airport</a></td>
+<td><a href=\"/wiki/Nev%C5%9Fehir\" title=\"Nev\u015fehir\">Nev\u015fehir</a>, <a href=\"/wiki/Turkey\" title=\"Turkey\">Turkey</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NAW</td>
+<td>VTSC</td>
+<td><a href=\"/wiki/Narathiwat_Airport\" title=\"Narathiwat Airport\">Narathiwat Airport</a><sup id=\"cite_ref-IATA_1-8\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Narathiwat\" title=\"Narathiwat\">Narathiwat</a>, <a href=\"/wiki/Thailand\" title=\"Thailand\">Thailand</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NAY</td>
+<td>ZBNY</td>
+<td><a href=\"/wiki/Beijing_Nanyuan_Airport\" title=\"Beijing Nanyuan Airport\">Beijing Nanyuan Airport</a></td>
+<td><a href=\"/wiki/Beijing\" title=\"Beijing\">Beijing</a>, China</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NAZ</td>
+<td>AGNA</td>
+<td><a href=\"/w/index.php?title=Nana_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Nana Airport (page does not exist)\">Nana Airport</a><sup id=\"cite_ref-IATA_1-9\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Star_Harbour,_Solomon_Islands&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Star Harbour, Solomon Islands (page does not exist)\">Star Harbour</a>, <a href=\"/wiki/Solomon_Islands\" title=\"Solomon Islands\">Solomon Islands</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NBA</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Nambaiyufa_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Nambaiyufa Airport (page does not exist)\">Nambaiyufa Airport</a><sup id=\"cite_ref-IATA_1-10\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Nambaiyufa&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Nambaiyufa (page does not exist)\">Nambaiyufa</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NBB</td>
+<td>SKBM</td>
+<td><a href=\"/wiki/Barranco_Minas_Airport\" title=\"Barranco Minas Airport\">Barranco Minas Airport</a><sup id=\"cite_ref-IATA_1-11\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Barranco_Minas\" title=\"Barranco Minas\">Barranco Minas</a>, <a href=\"/wiki/Colombia\" title=\"Colombia\">Colombia</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NBC</td>
+<td>UWKE</td>
+<td><a href=\"/wiki/Begishevo_Airport\" title=\"Begishevo Airport\">Begishevo Airport</a></td>
+<td><a href=\"/wiki/Nizhnekamsk\" title=\"Nizhnekamsk\">Nizhnekamsk</a> / <a href=\"/wiki/Naberezhnye_Chelny\" title=\"Naberezhnye Chelny\">Naberezhnye Chelny</a>, <a href=\"/wiki/Tatarstan\" title=\"Tatarstan\">Tatarstan</a>, Russia</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NBE</td>
+<td>DTNH</td>
+<td><a href=\"/wiki/Enfidha-Hammamet_International_Airport\" class=\"mw-redirect\" title=\"Enfidha-Hammamet International Airport\">Enfidha-Hammamet International Airport</a></td>
+<td><a href=\"/wiki/Enfidha\" title=\"Enfidha\">Enfidha</a>, <a href=\"/wiki/Tunisia\" title=\"Tunisia\">Tunisia</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NBG</td>
+<td>KNBG</td>
+<td><a href=\"/wiki/Naval_Air_Station_Joint_Reserve_Base_New_Orleans\" title=\"Naval Air Station Joint Reserve Base New Orleans\">NAS JRB New Orleans</a> (Alvin Callender Field)</td>
+<td><a href=\"/wiki/New_Orleans\" title=\"New Orleans\">New Orleans</a>, <a href=\"/wiki/Louisiana\" title=\"Louisiana\">Louisiana</a>, United States</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NBH</td>
+<td>YNHS</td>
+<td><a href=\"/w/index.php?title=Nambucca_Heads_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Nambucca Heads Airport (page does not exist)\">Nambucca Heads Airport</a><sup id=\"cite_ref-IATA_1-12\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Nambucca_Heads,_New_South_Wales\" title=\"Nambucca Heads, New South Wales\">Nambucca Heads</a>, <a href=\"/wiki/New_South_Wales\" title=\"New South Wales\">New South Wales</a>, Australia</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NBL</td>
+<td>MPWN</td>
+<td><a href=\"/wiki/Wannukandi_Airport\" title=\"Wannukandi Airport\">Wannukandi Airport</a><sup id=\"cite_ref-IATA_1-13\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Guna_Yala\" title=\"Guna Yala\">San Blas</a>, <a href=\"/wiki/Panama\" title=\"Panama\">Panama</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NBN</td>
+<td>FGAB</td>
+<td><a href=\"/wiki/Annob%C3%B3n_Airport\" title=\"Annob\u00f3n Airport\">Annob\u00f3n Airport</a></td>
+<td><a href=\"/wiki/Annob%C3%B3n_Province\" class=\"mw-redirect\" title=\"Annob\u00f3n Province\">Annob\u00f3n</a>, <a href=\"/wiki/Equatorial_Guinea\" title=\"Equatorial Guinea\">Equatorial Guinea</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NBO</td>
+<td>HKJK</td>
+<td><a href=\"/wiki/Jomo_Kenyatta_International_Airport\" title=\"Jomo Kenyatta International Airport\">Jomo Kenyatta International Airport</a></td>
+<td><a href=\"/wiki/Nairobi\" title=\"Nairobi\">Nairobi</a>, <a href=\"/wiki/Kenya\" title=\"Kenya\">Kenya</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NBS</td>
+<td>ZYBS</td>
+<td><a href=\"/wiki/Changbaishan_Airport\" title=\"Changbaishan Airport\">Changbaishan Airport</a></td>
+<td><a href=\"/wiki/Baishan\" title=\"Baishan\">Baishan</a>, <a href=\"/wiki/Jilin\" title=\"Jilin\">Jilin</a>, China</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NBW</td>
+<td>KNBW</td>
+<td><a href=\"/wiki/Guantanamo_Bay_Naval_Base\" title=\"Guantanamo Bay Naval Base\">Guantanamo Bay Naval Base</a></td>
+<td><a href=\"/wiki/Guant%C3%A1namo_Bay\" title=\"Guant\u00e1namo Bay\">Guant\u00e1namo Bay</a>, <a href=\"/wiki/Cuba\" title=\"Cuba\">Cuba</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NBX</td>
+<td>WABI</td>
+<td><a href=\"/wiki/Nabire_Airport\" title=\"Nabire Airport\">Nabire Airport</a></td>
+<td><a href=\"/wiki/Nabire\" title=\"Nabire\">Nabire</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NCA</td>
+<td>MBNC</td>
+<td><a href=\"/wiki/North_Caicos_Airport\" title=\"North Caicos Airport\">North Caicos Airport</a></td>
+<td><a href=\"/wiki/North_Caicos\" title=\"North Caicos\">North Caicos</a>, <a href=\"/wiki/British_Overseas_Territory\" class=\"mw-redirect\" title=\"British Overseas Territory\">British Overseas Territory</a><br />of <a href=\"/wiki/Turks_and_Caicos_Islands\" title=\"Turks and Caicos Islands\">Turks and Caicos Islands</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NCE</td>
+<td>LFMN</td>
+<td><a href=\"/wiki/Nice_C%C3%B4te_d%27Azur_Airport\" title=\"Nice C\u00f4te d&#39;Azur Airport\">Nice C\u00f4te d'Azur Airport</a></td>
+<td><a href=\"/wiki/Nice\" title=\"Nice\">Nice</a>, <a href=\"/wiki/Provence-Alpes-C%C3%B4te_d%27Azur\" title=\"Provence-Alpes-C\u00f4te d&#39;Azur\">Provence-Alpes-C\u00f4te d'Azur</a>, France</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NCG</td>
+<td>MMCG</td>
+<td><a href=\"/wiki/Nuevo_Casas_Grandes_Municipal_Airport\" title=\"Nuevo Casas Grandes Municipal Airport\">Nuevo Casas Grandes Municipal Airport</a></td>
+<td><a href=\"/wiki/Nuevo_Casas_Grandes\" title=\"Nuevo Casas Grandes\">Nuevo Casas Grandes</a>, <a href=\"/wiki/Chihuahua_(state)\" title=\"Chihuahua (state)\">Chihuahua</a>, Mexico</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NCH</td>
+<td>HTNA</td>
+<td><a href=\"/wiki/Nachingwea_Airport\" title=\"Nachingwea Airport\">Nachingwea Airport</a><sup id=\"cite_ref-IATA_1-14\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Nachingwea,_Tanzania\" title=\"Nachingwea, Tanzania\">Nachingwea</a>, <a href=\"/wiki/Tanzania\" title=\"Tanzania\">Tanzania</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NCI</td>
+<td>SKNC</td>
+<td><a href=\"/w/index.php?title=Antioquia_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Antioquia Airport (page does not exist)\">Antioquia Airport</a><sup id=\"cite_ref-IATA_1-15\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Necocl%C3%AD\" title=\"Necocl\u00ed\">Necocl\u00ed</a>, <a href=\"/wiki/Colombia\" title=\"Colombia\">Colombia</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NCJ</td>
+<td>SAFS</td>
+<td><a href=\"/w/index.php?title=Sunchales_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Sunchales Airport (page does not exist)\">Sunchales Airport</a><sup id=\"cite_ref-IATA_1-16\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Sunchales,_Santa_Fe\" title=\"Sunchales, Santa Fe\">Sunchales</a>, <a href=\"/wiki/Santa_Fe_Province\" title=\"Santa Fe Province\">Santa Fe</a>, Argentina</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NCL</td>
+<td>EGNT</td>
+<td><a href=\"/wiki/Newcastle_International_Airport\" title=\"Newcastle International Airport\">Newcastle Airport</a></td>
+<td><a href=\"/wiki/Newcastle_upon_Tyne\" title=\"Newcastle upon Tyne\">Newcastle upon Tyne</a>, <a href=\"/wiki/England\" title=\"England\">England</a>, United Kingdom</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NCN</td>
+<td>PFCB</td>
+<td><a href=\"/wiki/Chenega_Bay_Airport\" title=\"Chenega Bay Airport\">Chenega Bay Airport</a> (FAA: C05)</td>
+<td><a href=\"/wiki/Chenega,_Alaska\" title=\"Chenega, Alaska\">Chenega</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NCO</td>
+<td>KOQU</td>
+<td><a href=\"/wiki/Quonset_State_Airport\" title=\"Quonset State Airport\">Quonset State Airport</a><sup id=\"cite_ref-IATA_1-17\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (FAA: OQU)</td>
+<td><a href=\"/wiki/North_Kingstown,_Rhode_Island\" title=\"North Kingstown, Rhode Island\">North Kingstown</a>, <a href=\"/wiki/Rhode_Island\" title=\"Rhode Island\">Rhode Island</a>, United States</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NCR</td>
+<td>MNSC</td>
+<td><a href=\"/wiki/San_Carlos_Airport_(Nicaragua)\" title=\"San Carlos Airport (Nicaragua)\">San Carlos Airport</a><sup id=\"cite_ref-IATA_1-18\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/San_Carlos,_R%C3%ADo_San_Juan\" title=\"San Carlos, R\u00edo San Juan\">San Carlos</a>, <a href=\"/wiki/Nicaragua\" title=\"Nicaragua\">Nicaragua</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NCS</td>
+<td>FANC</td>
+<td><a href=\"/wiki/Newcastle_Airport_(South_Africa)\" title=\"Newcastle Airport (South Africa)\">Newcastle Airport</a><sup id=\"cite_ref-IATA_1-19\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Newcastle,_KwaZulu-Natal\" title=\"Newcastle, KwaZulu-Natal\">Newcastle</a>, <a href=\"/wiki/South_Africa\" title=\"South Africa\">South Africa</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NCT</td>
+<td>MRNC</td>
+<td><a href=\"/wiki/Nicoya_Guanacaste_Airport\" class=\"mw-redirect\" title=\"Nicoya Guanacaste Airport\">Nicoya Guanacaste Airport</a><sup id=\"cite_ref-IATA_1-20\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Nicoya\" title=\"Nicoya\">Nicoya</a>, <a href=\"/wiki/Costa_Rica\" title=\"Costa Rica\">Costa Rica</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NCU</td>
+<td>UTNN</td>
+<td><a href=\"/wiki/Nukus_Airport\" title=\"Nukus Airport\">Nukus Airport</a></td>
+<td><a href=\"/wiki/Nukus\" title=\"Nukus\">Nukus</a>, <a href=\"/wiki/Uzbekistan\" title=\"Uzbekistan\">Uzbekistan</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NCY</td>
+<td>LFLP</td>
+<td><a href=\"/wiki/Annecy_%E2%80%93_Haute-Savoie_%E2%80%93_Mont_Blanc_Airport\" title=\"Annecy \u2013 Haute-Savoie \u2013 Mont Blanc Airport\">Annecy \u2013 Haute-Savoie \u2013 Mont Blanc Airport</a></td>
+<td><a href=\"/wiki/Annecy\" title=\"Annecy\">Annecy</a>, <a href=\"/wiki/Rh%C3%B4ne-Alpes\" title=\"Rh\u00f4ne-Alpes\">Rh\u00f4ne-Alpes</a>, France</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NDA</td>
+<td>WAPC</td>
+<td><a href=\"/wiki/Bandanaira_Airport\" title=\"Bandanaira Airport\">Bandanaira Airport</a><sup id=\"cite_ref-IATA_1-21\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Banda_Islands\" title=\"Banda Islands\">Banda Islands</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NDB</td>
+<td>GQPP</td>
+<td><a href=\"/wiki/Nouadhibou_International_Airport\" title=\"Nouadhibou International Airport\">Nouadhibou International Airport</a></td>
+<td><a href=\"/wiki/Nouadhibou\" title=\"Nouadhibou\">Nouadhibou</a>, <a href=\"/wiki/Mauritania\" title=\"Mauritania\">Mauritania</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NDC</td>
+<td>VAND</td>
+<td><a href=\"/wiki/Shri_Guru_Gobind_Singh_Ji_Airport\" title=\"Shri Guru Gobind Singh Ji Airport\">Shri Guru Gobind Singh Ji Airport</a></td>
+<td><a href=\"/wiki/Nanded\" title=\"Nanded\">Nanded</a>, <a href=\"/wiki/Maharashtra\" title=\"Maharashtra\">Maharashtra</a>, India</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NDD</td>
+<td>FNSU</td>
+<td><a href=\"/wiki/Sumbe_Airport\" title=\"Sumbe Airport\">Sumbe Airport</a><sup id=\"cite_ref-IATA_1-22\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Sumbe\" title=\"Sumbe\">Sumbe</a>, <a href=\"/wiki/Angola\" title=\"Angola\">Angola</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NDE</td>
+<td>HKMA</td>
+<td><a href=\"/wiki/Mandera_Airport\" title=\"Mandera Airport\">Mandera Airport</a><sup id=\"cite_ref-IATA_1-23\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Mandera\" title=\"Mandera\">Mandera</a>, <a href=\"/wiki/Kenya\" title=\"Kenya\">Kenya</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NDF</td>
+<td></td>
+<td><a href=\"/wiki/N%27dalatando_Airport\" title=\"N&#39;dalatando Airport\">N'dalatando Airport</a><sup id=\"cite_ref-IATA_1-24\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/N%27dalatando\" title=\"N&#39;dalatando\">N'dalatando</a>, <a href=\"/wiki/Angola\" title=\"Angola\">Angola</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NDG</td>
+<td>ZYQQ</td>
+<td><a href=\"/wiki/Qiqihar_Sanjiazi_Airport\" title=\"Qiqihar Sanjiazi Airport\">Qiqihar Sanjiazi Airport</a><sup id=\"cite_ref-IATA_1-25\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Qiqihar\" title=\"Qiqihar\">Qiqihar</a>, <a href=\"/wiki/Heilongjiang\" title=\"Heilongjiang\">Heilongjiang</a>, China</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NDI</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Namudi_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Namudi Airport (page does not exist)\">Namudi Airport</a><sup id=\"cite_ref-IATA_1-26\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Namudi&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Namudi (page does not exist)\">Namudi</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NDJ</td>
+<td>FTTJ</td>
+<td><a href=\"/wiki/N%27Djamena_International_Airport\" title=\"N&#39;Djamena International Airport\">N'Djamena International Airport</a></td>
+<td><a href=\"/wiki/N%27Djamena\" title=\"N&#39;Djamena\">N'Djamena</a>, <a href=\"/wiki/Chad\" title=\"Chad\">Chad</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NDK</td>
+<td></td>
+<td><a href=\"/wiki/Namorik_Airport\" title=\"Namorik Airport\">Namorik Airport</a> (Namdrik Airport) (FAA: 3N0)</td>
+<td><a href=\"/wiki/Namdrik_Atoll\" title=\"Namdrik Atoll\">Namdrik Atoll</a>, <a href=\"/wiki/Marshall_Islands\" title=\"Marshall Islands\">Marshall Islands</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NDL</td>
+<td>FEFN</td>
+<td><a href=\"/wiki/N%27D%C3%A9l%C3%A9_Airport\" title=\"N&#39;D\u00e9l\u00e9 Airport\">N'D\u00e9l\u00e9 Airport</a><sup id=\"cite_ref-IATA_1-27\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/N%27D%C3%A9l%C3%A9\" title=\"N&#39;D\u00e9l\u00e9\">N'D\u00e9l\u00e9</a> (Ndele), <a href=\"/wiki/Central_African_Republic\" title=\"Central African Republic\">Central African Republic</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NDM</td>
+<td>HAMN</td>
+<td><a href=\"/w/index.php?title=Mendi_Airport_(Ethiopia)&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Mendi Airport (Ethiopia) (page does not exist)\">Mendi Airport</a></td>
+<td><a href=\"/wiki/Mendi,_Ethiopia\" title=\"Mendi, Ethiopia\">Mendi</a>, <a href=\"/wiki/Ethiopia\" title=\"Ethiopia\">Ethiopia</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NDN</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Nadunumu_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Nadunumu Airport (page does not exist)\">Nadunumu Airport</a><sup id=\"cite_ref-IATA_1-28\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Nadunumu&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Nadunumu (page does not exist)\">Nadunumu</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NDR</td>
+<td>GMMW</td>
+<td><a href=\"/wiki/Nador_International_Airport\" title=\"Nador International Airport\">Nador International Airport</a></td>
+<td><a href=\"/wiki/Nador\" title=\"Nador\">Nador</a>, <a href=\"/wiki/Morocco\" title=\"Morocco\">Morocco</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NDS</td>
+<td>YSAN</td>
+<td><a href=\"/w/index.php?title=Sandstone_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Sandstone Airport (page does not exist)\">Sandstone Airport</a><sup id=\"cite_ref-IATA_1-29\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Sandstone,_Western_Australia\" title=\"Sandstone, Western Australia\">Sandstone</a>, <a href=\"/wiki/Western_Australia\" title=\"Western Australia\">Western Australia</a>, Australia</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NDU</td>
+<td>FYRU</td>
+<td><a href=\"/wiki/Rundu_Airport\" title=\"Rundu Airport\">Rundu Airport</a></td>
+<td><a href=\"/wiki/Rundu\" title=\"Rundu\">Rundu</a>, <a href=\"/wiki/Namibia\" title=\"Namibia\">Namibia</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NDY</td>
+<td>EGES</td>
+<td><a href=\"/wiki/Sanday_Airport\" title=\"Sanday Airport\">Sanday Airport</a></td>
+<td><a href=\"/wiki/Sanday,_Orkney\" title=\"Sanday, Orkney\">Sanday</a>, <a href=\"/wiki/Scotland\" title=\"Scotland\">Scotland</a>, United Kingdom</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NEA</td>
+<td>KNEA</td>
+<td><a href=\"/wiki/Naval_Air_Station_Glynco\" title=\"Naval Air Station Glynco\">Naval Air Station Glynco</a><sup id=\"cite_ref-IATA_1-30\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Glynco,_Georgia\" title=\"Glynco, Georgia\">Glynco, Georgia</a>, <a href=\"/wiki/Georgia_(U.S._state)\" title=\"Georgia (U.S. state)\">Georgia</a>, United States</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NEC</td>
+<td>SAZO</td>
+<td><a href=\"/wiki/Necochea_Airport\" title=\"Necochea Airport\">Necochea Airport</a></td>
+<td><a href=\"/wiki/Necochea\" title=\"Necochea\">Necochea</a>, <a href=\"/wiki/Buenos_Aires_Province\" title=\"Buenos Aires Province\">Buenos Aires</a>, Argentina</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NEF</td>
+<td>UWUF</td>
+<td><a href=\"/wiki/Neftekamsk_Airport\" title=\"Neftekamsk Airport\">Neftekamsk Airport</a></td>
+<td><a href=\"/wiki/Neftekamsk\" title=\"Neftekamsk\">Neftekamsk</a>, <a href=\"/wiki/Bashkortostan\" title=\"Bashkortostan\">Bashkortostan</a>, Russia</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NEG</td>
+<td>MKNG</td>
+<td><a href=\"/wiki/Negril_Aerodrome\" title=\"Negril Aerodrome\">Negril Aerodrome</a></td>
+<td><a href=\"/wiki/Negril\" title=\"Negril\">Negril</a>, <a href=\"/wiki/Jamaica\" title=\"Jamaica\">Jamaica</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NEJ</td>
+<td>HANJ</td>
+<td><a href=\"/wiki/Nejjo_Airport\" title=\"Nejjo Airport\">Nejjo Airport</a><sup id=\"cite_ref-IATA_1-31\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Nejo\" title=\"Nejo\">Nejo</a>, <a href=\"/wiki/Ethiopia\" title=\"Ethiopia\">Ethiopia</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NEK</td>
+<td>HANK</td>
+<td><a href=\"/wiki/Nekemte_Airport\" title=\"Nekemte Airport\">Nekemte Airport</a><sup id=\"cite_ref-IATA_1-32\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Nekemte\" title=\"Nekemte\">Nekemte</a>, <a href=\"/wiki/Ethiopia\" title=\"Ethiopia\">Ethiopia</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NEL</td>
+<td>KNEL</td>
+<td><a href=\"/wiki/Naval_Air_Engineering_Station_Lakehurst\" class=\"mw-redirect\" title=\"Naval Air Engineering Station Lakehurst\">NAES Lakehurst</a> (Maxfield Field)</td>
+<td><a href=\"/wiki/Lakehurst,_New_Jersey\" title=\"Lakehurst, New Jersey\">Lakehurst</a>, <a href=\"/wiki/New_Jersey\" title=\"New Jersey\">New Jersey</a>, United States</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NEN</td>
+<td>KNEN</td>
+<td><a href=\"/w/index.php?title=Naval_Outlying_Field_Whitehouse&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Naval Outlying Field Whitehouse (page does not exist)\">NOLF Whitehouse</a></td>
+<td><a href=\"/wiki/Jacksonville,_Florida\" title=\"Jacksonville, Florida\">Jacksonville</a>, <a href=\"/wiki/Florida\" title=\"Florida\">Florida</a>, United States</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NER</td>
+<td>UELL</td>
+<td><a href=\"/wiki/Chulman_Airport\" class=\"mw-redirect\" title=\"Chulman Airport\">Chulman Neryungri Airport</a></td>
+<td><a href=\"/wiki/Neryungri\" title=\"Neryungri\">Neryungri</a>, <a href=\"/wiki/Sakha_Republic\" title=\"Sakha Republic\">Yakutia</a>, Russia</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NEU</td>
+<td>VLSN</td>
+<td><a href=\"/w/index.php?title=Sam_Neua_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Sam Neua Airport (page does not exist)\">Sam Neua Airport</a><sup id=\"cite_ref-IATA_1-33\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Xam_Neua\" title=\"Xam Neua\">Sam Neua</a>, <a href=\"/wiki/Laos\" title=\"Laos\">Laos</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NEV</td>
+<td>TKPN</td>
+<td><a href=\"/wiki/Vance_W._Amory_International_Airport\" title=\"Vance W. Amory International Airport\">Vance W. Amory International Airport</a></td>
+<td><a href=\"/wiki/Nevis\" title=\"Nevis\">Nevis</a>, <a href=\"/wiki/Saint_Kitts_and_Nevis\" title=\"Saint Kitts and Nevis\">Saint Kitts and Nevis</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NEW</td>
+<td>KNEW</td>
+<td><a href=\"/wiki/Lakefront_Airport\" title=\"Lakefront Airport\">Lakefront Airport</a></td>
+<td><a href=\"/wiki/New_Orleans\" title=\"New Orleans\">New Orleans</a>, <a href=\"/wiki/Louisiana\" title=\"Louisiana\">Louisiana</a>, United States</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NFG</td>
+<td>USRN</td>
+<td><a href=\"/wiki/Nefteyugansk_Airport\" title=\"Nefteyugansk Airport\">Nefteyugansk Airport</a></td>
+<td><a href=\"/wiki/Nefteyugansk\" title=\"Nefteyugansk\">Nefteyugansk</a>, <a href=\"/wiki/Khanty-Mansi_Autonomous_Okrug\" title=\"Khanty-Mansi Autonomous Okrug\">Khanty-Mansi Autonomous Okrug</a>, Russia</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NFL</td>
+<td>KNFL</td>
+<td><a href=\"/wiki/Naval_Air_Station_Fallon\" title=\"Naval Air Station Fallon\">NAS Fallon</a> (Van Voorhis Field)</td>
+<td><a href=\"/wiki/Fallon,_Nevada\" title=\"Fallon, Nevada\">Fallon</a>, <a href=\"/wiki/Nevada\" title=\"Nevada\">Nevada</a>, United States</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NFO</td>
+<td>NFTO</td>
+<td><a href=\"/wiki/Niuafo%CA%BBou_Airport\" title=\"Niuafo\u02bbou Airport\">Niuafo'ou Airport</a></td>
+<td><a href=\"/wiki/Niuafo%CA%BBou\" title=\"Niuafo\u02bbou\">Niuafo'ou</a>, <a href=\"/wiki/Tonga\" title=\"Tonga\">Tonga</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NFR</td>
+<td>HLNR</td>
+<td><a href=\"/w/index.php?title=Nafoora_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Nafoora Airport (page does not exist)\">Nafoora Airport</a></td>
+<td><a href=\"/w/index.php?title=Nafoora&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Nafoora (page does not exist)\">Nafoora</a>, <a href=\"/wiki/Libya\" title=\"Libya\">Libya</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NGA</td>
+<td>YYNG</td>
+<td><a href=\"/wiki/Young_Airport\" title=\"Young Airport\">Young Airport</a><sup id=\"cite_ref-IATA_1-34\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Young,_New_South_Wales\" title=\"Young, New South Wales\">Young</a>, <a href=\"/wiki/New_South_Wales\" title=\"New South Wales\">New South Wales</a>, Australia</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NGB</td>
+<td>ZSNB</td>
+<td><a href=\"/wiki/Ningbo_Lishe_International_Airport\" title=\"Ningbo Lishe International Airport\">Ningbo Lishe International Airport</a></td>
+<td><a href=\"/wiki/Ningbo\" title=\"Ningbo\">Ningbo</a>, <a href=\"/wiki/Zhejiang\" title=\"Zhejiang\">Zhejiang</a>, China</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NGD</td>
+<td>TUPA</td>
+<td><a href=\"/wiki/Auguste_George_Airport\" title=\"Auguste George Airport\">Auguste George Airport</a></td>
+<td><a href=\"/wiki/Anegada\" title=\"Anegada\">Anegada</a>, <a href=\"/wiki/British_Overseas_Territory\" class=\"mw-redirect\" title=\"British Overseas Territory\">British Overseas Territory</a> of <a href=\"/wiki/British_Virgin_Islands\" title=\"British Virgin Islands\">Virgin Islands</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NGE</td>
+<td>FKKN</td>
+<td><a href=\"/wiki/Ngaound%C3%A9r%C3%A9_Airport\" title=\"Ngaound\u00e9r\u00e9 Airport\">Ngaound\u00e9r\u00e9 Airport</a><sup id=\"cite_ref-IATA_1-35\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Ngaound%C3%A9r%C3%A9\" title=\"Ngaound\u00e9r\u00e9\">Ngaound\u00e9r\u00e9</a>, <a href=\"/wiki/Cameroon\" title=\"Cameroon\">Cameroon</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NGF</td>
+<td>PHNG</td>
+<td><a href=\"/wiki/Marine_Corps_Air_Station_Kaneohe_Bay\" title=\"Marine Corps Air Station Kaneohe Bay\">MCAS Kaneohe Bay</a><sup id=\"cite_ref-IATA_1-36\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Kaneohe,_Hawaii\" title=\"Kaneohe, Hawaii\">Kaneohe</a>, <a href=\"/wiki/Hawaii\" title=\"Hawaii\">Hawaii</a>, United States</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NGI</td>
+<td>NFNG</td>
+<td><a href=\"/wiki/Gau_Airport\" title=\"Gau Airport\">Gau Airport</a><sup id=\"cite_ref-IATA_1-37\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Gau_Island\" title=\"Gau Island\">Gau Island</a>, <a href=\"/wiki/Fiji\" title=\"Fiji\">Fiji</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NGK</td>
+<td>UHSN</td>
+<td><a href=\"/wiki/Nogliki_Airport\" title=\"Nogliki Airport\">Nogliki Airport</a><sup id=\"cite_ref-IATA_1-38\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Nogliki\" title=\"Nogliki\">Nogliki</a>, <a href=\"/wiki/Sakhalin_Oblast\" title=\"Sakhalin Oblast\">Sakhalin Oblast</a>, Russia</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NGL</td>
+<td>FANG</td>
+<td><a href=\"/w/index.php?title=Ngala_Airfield&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Ngala Airfield (page does not exist)\">Ngala Airfield</a><sup id=\"cite_ref-IATA_1-39\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Ngala,_South_Africa&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Ngala, South Africa (page does not exist)\">Ngala</a>, <a href=\"/wiki/South_Africa\" title=\"South Africa\">South Africa</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NGN</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Nargan%C3%A1_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Nargan\u00e1 Airport (page does not exist)\">Nargan\u00e1 Airport</a><sup id=\"cite_ref-IATA_1-40\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Nargan%C3%A1\" title=\"Nargan\u00e1\">Nargan\u00e1</a>, <a href=\"/wiki/Panama\" title=\"Panama\">Panama</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NGO</td>
+<td>RJGG</td>
+<td><a href=\"/wiki/Ch%C5%ABbu_Centrair_International_Airport\" class=\"mw-redirect\" title=\"Ch\u016bbu Centrair International Airport\">Ch\u016bbu Centrair International Airport</a></td>
+<td><a href=\"/wiki/Nagoya\" title=\"Nagoya\">Nagoya</a>, <a href=\"/wiki/Honshu\" title=\"Honshu\">Honshu</a>, Japan</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NGP</td>
+<td>KNGP</td>
+<td><a href=\"/wiki/Naval_Air_Station_Corpus_Christi\" title=\"Naval Air Station Corpus Christi\">NAS Corpus Christi</a> (Truax Field)</td>
+<td><a href=\"/wiki/Corpus_Christi,_Texas\" title=\"Corpus Christi, Texas\">Corpus Christi</a>, <a href=\"/wiki/Texas\" title=\"Texas\">Texas</a>, United States</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NGQ</td>
+<td>ZUAL</td>
+<td><a href=\"/wiki/Ngari_Gunsa_Airport\" title=\"Ngari Gunsa Airport\">Ngari Gunsa Airport</a></td>
+<td><a href=\"/wiki/Shiquanhe\" title=\"Shiquanhe\">Shiquanhe</a>, <a href=\"/wiki/Tibet_Autonomous_Region\" title=\"Tibet Autonomous Region\">Tibet Autonomous Region</a>, China</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NGR</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Ningerum_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Ningerum Airport (page does not exist)\">Ningerum Airport</a><sup id=\"cite_ref-IATA_1-41\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Ningerum\" title=\"Ningerum\">Ningerum</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NGS</td>
+<td>RJFU</td>
+<td><a href=\"/wiki/Nagasaki_Airport\" title=\"Nagasaki Airport\">Nagasaki Airport</a></td>
+<td><a href=\"/wiki/Nagasaki\" title=\"Nagasaki\">Nagasaki</a>, <a href=\"/wiki/Kyushu\" title=\"Kyushu\">Kyushu</a>, Japan</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NGU</td>
+<td>KNGU</td>
+<td><a href=\"/wiki/Naval_Station_Norfolk\" title=\"Naval Station Norfolk\">NS Norfolk</a> (Chambers Field)</td>
+<td><a href=\"/wiki/Norfolk,_Virginia\" title=\"Norfolk, Virginia\">Norfolk</a>, <a href=\"/wiki/Virginia\" title=\"Virginia\">Virginia</a>, United States</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NGW</td>
+<td>KNGW</td>
+<td><a href=\"/w/index.php?title=Naval_Outlying_Field_Cabaniss_Field&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Naval Outlying Field Cabaniss Field (page does not exist)\">NOLF Cabaniss Field</a></td>
+<td><a href=\"/wiki/Corpus_Christi,_Texas\" title=\"Corpus Christi, Texas\">Corpus Christi</a>, <a href=\"/wiki/Texas\" title=\"Texas\">Texas</a>, United States</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NGX</td>
+<td>VNMA</td>
+<td><a href=\"/wiki/Manang_Airport\" title=\"Manang Airport\">Manang Airport</a><sup id=\"cite_ref-IATA_1-42\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Manang\" title=\"Manang\">Manang</a>, <a href=\"/wiki/Nepal\" title=\"Nepal\">Nepal</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NHA</td>
+<td>VVNT</td>
+<td><a href=\"/wiki/Nha_Trang_Air_Base\" title=\"Nha Trang Air Base\">Nha Trang Air Base</a><sup id=\"cite_ref-IATA_1-43\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Nha_Trang\" title=\"Nha Trang\">Nha Trang</a>, <a href=\"/wiki/Vietnam\" title=\"Vietnam\">Vietnam</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NHD</td>
+<td>OMDM</td>
+<td><a href=\"/wiki/Al_Minhad_Air_Base\" title=\"Al Minhad Air Base\">Al Minhad Air Base</a><sup id=\"cite_ref-IATA_1-44\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Dubai\" title=\"Dubai\">Dubai</a>, <a href=\"/wiki/United_Arab_Emirates\" title=\"United Arab Emirates\">United Arab Emirates</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NHF</td>
+<td>HSNW</td>
+<td><a href=\"/wiki/New_Halfa_Airport\" title=\"New Halfa Airport\">New Halfa Airport</a><sup id=\"cite_ref-IATA_1-45\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/New_Halfa_Scheme\" title=\"New Halfa Scheme\">New Halfa</a>, <a href=\"/wiki/Sudan\" title=\"Sudan\">Sudan</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NHK</td>
+<td>KNHK</td>
+<td><a href=\"/wiki/Naval_Air_Station_Patuxent_River\" title=\"Naval Air Station Patuxent River\">NAS Patuxent River</a> (Trapnell Field)</td>
+<td><a href=\"/wiki/Patuxent_River\" title=\"Patuxent River\">Patuxent River</a>, <a href=\"/wiki/Maryland\" title=\"Maryland\">Maryland</a>, United States</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NHS</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Nushki_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Nushki Airport (page does not exist)\">Nushki Airport</a><sup id=\"cite_ref-IATA_1-46\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Nushki\" title=\"Nushki\">Nushki</a>, <a href=\"/wiki/Pakistan\" title=\"Pakistan\">Pakistan</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NHT</td>
+<td>EGWU</td>
+<td><a href=\"/wiki/RAF_Northolt\" title=\"RAF Northolt\">RAF Northolt</a></td>
+<td><a href=\"/wiki/Northolt\" title=\"Northolt\">Northolt</a>, <a href=\"/wiki/England\" title=\"England\">England</a>, United Kingdom</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NHV</td>
+<td>NTMD</td>
+<td><a href=\"/wiki/Nuku_Hiva_Airport\" title=\"Nuku Hiva Airport\">Nuku Hiva Airport</a><sup id=\"cite_ref-IATA_1-47\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Nuku_Hiva\" title=\"Nuku Hiva\">Nuku Hiva</a>, <a href=\"/wiki/Marquesas_Islands\" title=\"Marquesas Islands\">Marquesas Islands</a>, <a href=\"/wiki/French_Polynesia\" title=\"French Polynesia\">French Polynesia</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NHX</td>
+<td>KNBJ</td>
+<td><a href=\"/wiki/Naval_Outlying_Field_Barin\" title=\"Naval Outlying Field Barin\">NOLF Barin</a> (FAA: NBJ)</td>
+<td><a href=\"/wiki/Foley,_Alabama\" title=\"Foley, Alabama\">Foley</a>, <a href=\"/wiki/Alabama\" title=\"Alabama\">Alabama</a>, United States</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NHZ</td>
+<td>KBXM</td>
+<td><a href=\"/wiki/Brunswick_Executive_Airport\" title=\"Brunswick Executive Airport\">Brunswick Executive Airport</a></td>
+<td><a href=\"/wiki/Brunswick,_Maine\" title=\"Brunswick, Maine\">Brunswick</a>, <a href=\"/wiki/Maine\" title=\"Maine\">Maine</a>, United States</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NIA</td>
+<td>GLNA</td>
+<td><a href=\"/wiki/Nimba_Airport\" title=\"Nimba Airport\">Nimba Airport</a></td>
+<td><a href=\"/wiki/Nimba_County\" title=\"Nimba County\">Nimba</a>, <a href=\"/wiki/Liberia\" title=\"Liberia\">Liberia</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NIB</td>
+<td>PAFS</td>
+<td><a href=\"/wiki/Nikolai_Airport\" title=\"Nikolai Airport\">Nikolai Airport</a> (FAA: FSP)</td>
+<td><a href=\"/wiki/Nikolai,_Alaska\" title=\"Nikolai, Alaska\">Nikolai</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NIC</td>
+<td>LCNC</td>
+<td><a href=\"/wiki/Nicosia_International_Airport\" title=\"Nicosia International Airport\">Nicosia International Airport</a><sup class=\"reference plainlinks nourlexpansion\" id=\"ref_1\"><a href=\"#endnote_1\">1</a></sup></td>
+<td><a href=\"/wiki/Nicosia\" title=\"Nicosia\">Nicosia</a>, <a href=\"/wiki/Cyprus\" title=\"Cyprus\">Cyprus</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NIF</td>
+<td>YCNF</td>
+<td><a href=\"/wiki/Nifty_Airport\" title=\"Nifty Airport\">Nifty Airport</a><sup id=\"cite_ref-IATA_1-48\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Nifty,_Western_Australia&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Nifty, Western Australia (page does not exist)\">Nifty</a>, <a href=\"/wiki/Western_Australia\" title=\"Western Australia\">Western Australia</a>, Australia</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NIG</td>
+<td>NGNU</td>
+<td><a href=\"/wiki/Nikunau_Airport\" title=\"Nikunau Airport\">Nikunau Airport</a><sup id=\"cite_ref-IATA_1-49\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Nikunau\" title=\"Nikunau\">Nikunau</a>, <a href=\"/wiki/Kiribati\" title=\"Kiribati\">Kiribati</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NIK</td>
+<td></td>
+<td><a href=\"/wiki/Niokolo-Koba_Airport\" title=\"Niokolo-Koba Airport\">Niokolo-Koba Airport</a><sup id=\"cite_ref-IATA_1-50\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Niokolo-Koba_National_Park\" title=\"Niokolo-Koba National Park\">Niokolo-Koba</a>, <a href=\"/wiki/Senegal\" title=\"Senegal\">Senegal</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NIM</td>
+<td>DRRN</td>
+<td><a href=\"/wiki/Diori_Hamani_International_Airport\" title=\"Diori Hamani International Airport\">Diori Hamani International Airport</a></td>
+<td><a href=\"/wiki/Niamey\" title=\"Niamey\">Niamey</a>, <a href=\"/wiki/Niger\" title=\"Niger\">Niger</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NIN</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Ninilchik_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Ninilchik Airport (page does not exist)\">Ninilchik Airport</a></td>
+<td><a href=\"/wiki/Ninilchik,_Alaska\" title=\"Ninilchik, Alaska\">Ninilchik</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NIO</td>
+<td>FZBI</td>
+<td><a href=\"/wiki/Nioki_Airport\" title=\"Nioki Airport\">Nioki Airport</a></td>
+<td><a href=\"/wiki/Nioki\" title=\"Nioki\">Nioki</a>, <a href=\"/wiki/Democratic_Republic_of_the_Congo\" title=\"Democratic Republic of the Congo\">Democratic Republic of the Congo</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NIP</td>
+<td>KNIP</td>
+<td><a href=\"/wiki/Naval_Air_Station_Jacksonville\" title=\"Naval Air Station Jacksonville\">NAS Jacksonville</a> (Towers Field)</td>
+<td><a href=\"/wiki/Jacksonville,_Florida\" title=\"Jacksonville, Florida\">Jacksonville</a>, <a href=\"/wiki/Florida\" title=\"Florida\">Florida</a>, United States</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NIR</td>
+<td></td>
+<td><a href=\"/wiki/Chase_Field_Industrial_Complex\" title=\"Chase Field Industrial Complex\">Chase Field Industrial Complex</a><sup id=\"cite_ref-IATA_1-51\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (FAA: 1XA2)</td>
+<td><a href=\"/wiki/Beeville,_Texas\" title=\"Beeville, Texas\">Beeville</a>, <a href=\"/wiki/Texas\" title=\"Texas\">Texas</a>, United States</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NIS</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Simberi_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Simberi Airport (page does not exist)\">Simberi Airport</a></td>
+<td><a href=\"/wiki/Simberi_Island\" title=\"Simberi Island\">Simberi Island</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NIT</td>
+<td>LFBN</td>
+<td><a href=\"/w/index.php?title=Niort_-_Souch%C3%A9_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Niort - Souch\u00e9 Airport (page does not exist)\">Niort - Souch\u00e9 Airport</a><sup id=\"cite_ref-IATA_1-52\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Niort\" title=\"Niort\">Niort</a>, <a href=\"/wiki/Poitou-Charentes\" title=\"Poitou-Charentes\">Poitou-Charentes</a>, France</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NIU</td>
+<td>NTKN</td>
+<td><a href=\"/wiki/Niau_Airport\" title=\"Niau Airport\">Niau Airport</a><sup id=\"cite_ref-IATA_1-53\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Niau\" title=\"Niau\">Niau</a>, <a href=\"/wiki/Tuamotus\" title=\"Tuamotus\">Tuamotus</a>, <a href=\"/wiki/French_Polynesia\" title=\"French Polynesia\">French Polynesia</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NIX</td>
+<td>GANR</td>
+<td><a href=\"/wiki/Nioro_Airport\" title=\"Nioro Airport\">Nioro Airport</a></td>
+<td><a href=\"/wiki/Nioro_du_Sahel\" title=\"Nioro du Sahel\">Nioro du Sahel</a>, <a href=\"/wiki/Mali\" title=\"Mali\">Mali</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NJA</td>
+<td>RJTA</td>
+<td><a href=\"/wiki/Naval_Air_Facility_Atsugi\" title=\"Naval Air Facility Atsugi\">Naval Air Facility Atsugi</a><sup id=\"cite_ref-IATA_1-54\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Atsugi,_Kanagawa\" class=\"mw-redirect\" title=\"Atsugi, Kanagawa\">Atsugi</a>, <a href=\"/wiki/Honshu\" title=\"Honshu\">Honshu</a>, Japan</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NJC</td>
+<td>USNN</td>
+<td><a href=\"/wiki/Nizhnevartovsk_Airport\" title=\"Nizhnevartovsk Airport\">Nizhnevartovsk Airport</a></td>
+<td><a href=\"/wiki/Nizhnevartovsk\" title=\"Nizhnevartovsk\">Nizhnevartovsk</a>, <a href=\"/wiki/Khanty-Mansi_Autonomous_Okrug\" title=\"Khanty-Mansi Autonomous Okrug\">Khanty-Mansi Autonomous Okrug</a>, Russia</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NJF</td>
+<td>ORNI</td>
+<td><a href=\"/wiki/Al_Najaf_International_Airport\" title=\"Al Najaf International Airport\">Al Najaf International Airport</a></td>
+<td><a href=\"/wiki/Najaf\" title=\"Najaf\">Al Najaf</a>, <a href=\"/wiki/Iraq\" title=\"Iraq\">Iraq</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NJK</td>
+<td>KNJK</td>
+<td><a href=\"/wiki/Naval_Air_Facility_El_Centro\" title=\"Naval Air Facility El Centro\">NAF El Centro</a></td>
+<td><a href=\"/wiki/El_Centro,_California\" title=\"El Centro, California\">El Centro</a>, <a href=\"/wiki/California\" title=\"California\">California</a>, United States</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NKA</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Nkan_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Nkan Airport (page does not exist)\">Nkan Airport</a><sup id=\"cite_ref-IATA_1-55\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Ntoum\" title=\"Ntoum\">Ntoum</a> (Nkan), <a href=\"/wiki/Gabon\" title=\"Gabon\">Gabon</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NKB</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Noonkanbah_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Noonkanbah Airport (page does not exist)\">Noonkanbah Airport</a><sup id=\"cite_ref-IATA_1-56\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Noonkanbah_Station\" title=\"Noonkanbah Station\">Noonkanbah Station</a>, <a href=\"/wiki/Western_Australia\" title=\"Western Australia\">Western Australia</a>, Australia</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NKC</td>
+<td>GQNO</td>
+<td><a href=\"/wiki/Nouakchott%E2%80%93Oumtounsy_International_Airport\" title=\"Nouakchott\u2013Oumtounsy International Airport\">Nouakchott\u2013Oumtounsy International Airport</a></td>
+<td><a href=\"/wiki/Nouakchott\" title=\"Nouakchott\">Nouakchott</a>, <a href=\"/wiki/Mauritania\" title=\"Mauritania\">Mauritania</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NKD</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Sinak_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Sinak Airport (page does not exist)\">Sinak Airport</a><sup id=\"cite_ref-IATA_1-57\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Sinak,_Indonesia&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Sinak, Indonesia (page does not exist)\">Sinak</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NKG</td>
+<td>ZSNJ</td>
+<td><a href=\"/wiki/Nanjing_Lukou_International_Airport\" title=\"Nanjing Lukou International Airport\">Nanjing Lukou International Airport</a></td>
+<td><a href=\"/wiki/Nanjing\" title=\"Nanjing\">Nanjing</a>, <a href=\"/wiki/Jiangsu\" title=\"Jiangsu\">Jiangsu</a>, China</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NKI</td>
+<td></td>
+<td><a href=\"/wiki/Naukati_Bay_Seaplane_Base\" title=\"Naukati Bay Seaplane Base\">Naukati Bay Seaplane Base</a><sup id=\"cite_ref-IATA_1-58\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (FAA: AK62)</td>
+<td><a href=\"/wiki/Naukati_Bay,_Alaska\" title=\"Naukati Bay, Alaska\">Naukati Bay</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NKL</td>
+<td>FZAR</td>
+<td><a href=\"/wiki/Nkolo-Fuma_Airport\" title=\"Nkolo-Fuma Airport\">Nkolo-Fuma Airport</a></td>
+<td><a href=\"/wiki/Kolo_Fuma\" title=\"Kolo Fuma\">Kolo Fuma</a>, <a href=\"/wiki/Democratic_Republic_of_the_Congo\" title=\"Democratic Republic of the Congo\">Democratic Republic of the Congo</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NKM</td>
+<td>RJNA</td>
+<td><a href=\"/wiki/Nagoya_Airfield\" title=\"Nagoya Airfield\">Nagoya Airfield</a> (Komaki Airport)</td>
+<td><a href=\"/wiki/Nagoya\" title=\"Nagoya\">Nagoya</a>, <a href=\"/wiki/Honshu\" title=\"Honshu\">Honshu</a>, Japan</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NKN</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Nankina_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Nankina Airport (page does not exist)\">Nankina Airport</a><sup id=\"cite_ref-IATA_1-59\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Nankina\" class=\"mw-redirect\" title=\"Nankina\">Nankina</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NKO</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Ankokoambo_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Ankokoambo Airport (page does not exist)\">Ankokoambo Airport</a><sup id=\"cite_ref-IATA_1-60\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Ankokoambo&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Ankokoambo (page does not exist)\">Ankokoambo</a>, <a href=\"/wiki/Madagascar\" title=\"Madagascar\">Madagascar</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NKP</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Nukutepipi_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Nukutepipi Airport (page does not exist)\">Nukutepipi Airport</a><sup id=\"cite_ref-IATA_1-61\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Nukutepipi\" title=\"Nukutepipi\">Nukutepipi</a>, <a href=\"/wiki/Tuamotus\" title=\"Tuamotus\">Tuamotus</a>, <a href=\"/wiki/French_Polynesia\" title=\"French Polynesia\">French Polynesia</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NKS</td>
+<td>FKAN</td>
+<td><a href=\"/wiki/Nkongsamba_Airport\" title=\"Nkongsamba Airport\">Nkongsamba Airport</a></td>
+<td><a href=\"/wiki/Nkongsamba\" title=\"Nkongsamba\">Nkongsamba</a>, <a href=\"/wiki/Cameroon\" title=\"Cameroon\">Cameroon</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NKT</td>
+<td>LTCV</td>
+<td><a href=\"/wiki/%C5%9E%C4%B1rnak_Airport\" title=\"\u015e\u0131rnak Airport\">\u015e\u0131rnak Airport</a></td>
+<td><a href=\"/wiki/%C5%9E%C4%B1rnak\" title=\"\u015e\u0131rnak\">\u015e\u0131rnak</a> / <a href=\"/wiki/Cizre\" title=\"Cizre\">Cizre</a>, <a href=\"/wiki/Turkey\" title=\"Turkey\">Turkey</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NKU</td>
+<td>FXNK</td>
+<td><a href=\"/wiki/Nkaus_Airport\" title=\"Nkaus Airport\">Nkaus Airport</a><sup id=\"cite_ref-IATA_1-62\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Nkau\" title=\"Nkau\">Nkau</a>, <a href=\"/wiki/Lesotho\" title=\"Lesotho\">Lesotho</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NKX</td>
+<td>KNKX</td>
+<td><a href=\"/wiki/Marine_Corps_Air_Station_Miramar\" title=\"Marine Corps Air Station Miramar\">MCAS Miramar</a></td>
+<td><a href=\"/wiki/San_Diego\" title=\"San Diego\">San Diego</a>, <a href=\"/wiki/California\" title=\"California\">California</a>, United States</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NKY</td>
+<td>FCBY</td>
+<td><a href=\"/wiki/Yokangassi_Airport\" title=\"Yokangassi Airport\">Yokangassi Airport</a></td>
+<td><a href=\"/wiki/Nkayi,_Republic_of_the_Congo\" title=\"Nkayi, Republic of the Congo\">Nkayi</a> (N'kayi), <a href=\"/wiki/Republic_of_the_Congo\" title=\"Republic of the Congo\">Republic of the Congo</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NLA</td>
+<td>FLND</td>
+<td><a href=\"/wiki/Simon_Mwansa_Kapwepwe_International_Airport\" title=\"Simon Mwansa Kapwepwe International Airport\">Simon Mwansa Kapwepwe International Airport</a></td>
+<td><a href=\"/wiki/Ndola\" title=\"Ndola\">Ndola</a>, <a href=\"/wiki/Zambia\" title=\"Zambia\">Zambia</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NLC</td>
+<td>KNLC</td>
+<td><a href=\"/wiki/Naval_Air_Station_Lemoore\" title=\"Naval Air Station Lemoore\">NAS Lemoore</a> (Reeves Field)</td>
+<td><a href=\"/wiki/Lemoore,_California\" title=\"Lemoore, California\">Lemoore</a>, <a href=\"/wiki/California\" title=\"California\">California</a>, United States</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NLD</td>
+<td>MMNL</td>
+<td><a href=\"/wiki/Quetzalc%C3%B3atl_International_Airport\" class=\"mw-redirect\" title=\"Quetzalc\u00f3atl International Airport\">Quetzalc\u00f3atl International Airport</a></td>
+<td><a href=\"/wiki/Nuevo_Laredo\" title=\"Nuevo Laredo\">Nuevo Laredo</a>, <a href=\"/wiki/Tamaulipas\" title=\"Tamaulipas\">Tamaulipas</a>, Mexico</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NLE</td>
+<td></td>
+<td><a href=\"/wiki/Jerry_Tyler_Memorial_Airport\" title=\"Jerry Tyler Memorial Airport\">Jerry Tyler Memorial Airport</a> (FAA: 3TR)</td>
+<td><a href=\"/wiki/Niles,_Michigan\" title=\"Niles, Michigan\">Niles</a>, <a href=\"/wiki/Michigan\" title=\"Michigan\">Michigan</a>, United States</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NLF</td>
+<td>YDNI</td>
+<td><a href=\"/wiki/Darnley_Island_Airport\" title=\"Darnley Island Airport\">Darnley Island Airport</a><sup id=\"cite_ref-IATA_1-63\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Darnley_Island_(Queensland)\" title=\"Darnley Island (Queensland)\">Darnley Island</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NLG</td>
+<td>PAOU</td>
+<td><a href=\"/wiki/Nelson_Lagoon_Airport\" title=\"Nelson Lagoon Airport\">Nelson Lagoon Airport</a> (FAA: OUL)</td>
+<td><a href=\"/wiki/Nelson_Lagoon,_Alaska\" title=\"Nelson Lagoon, Alaska\">Nelson Lagoon</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NLH</td>
+<td></td>
+<td><a href=\"/wiki/Ninglang_Luguhu_Airport\" title=\"Ninglang Luguhu Airport\">Ninglang Luguhu Airport</a><sup id=\"cite_ref-IATA_1-64\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Ninglang_Yi_Autonomous_County\" title=\"Ninglang Yi Autonomous County\">Ninglang</a>, <a href=\"/wiki/Yunnan\" title=\"Yunnan\">Yunnan</a>, China</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NLI</td>
+<td>UHNN</td>
+<td><a href=\"/wiki/Nikolayevsk-on-Amur_Airport\" title=\"Nikolayevsk-on-Amur Airport\">Nikolayevsk-on-Amur Airport</a></td>
+<td><a href=\"/wiki/Nikolayevsk-on-Amur\" title=\"Nikolayevsk-on-Amur\">Nikolayevsk-on-Amur</a>, <a href=\"/wiki/Khabarovsk_Krai\" title=\"Khabarovsk Krai\">Khabarovsk Krai</a>, Russia</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NLK</td>
+<td>YSNF</td>
+<td><a href=\"/wiki/Norfolk_Island_Airport\" title=\"Norfolk Island Airport\">Norfolk Island Airport</a></td>
+<td><a href=\"/wiki/Norfolk_Island\" title=\"Norfolk Island\">Norfolk Island</a>, Australia</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NLL</td>
+<td>YNUL</td>
+<td><a href=\"/w/index.php?title=Nullagine_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Nullagine Airport (page does not exist)\">Nullagine Airport</a><sup id=\"cite_ref-IATA_1-65\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Nullagine,_Western_Australia\" title=\"Nullagine, Western Australia\">Nullagine</a>, <a href=\"/wiki/Western_Australia\" title=\"Western Australia\">Western Australia</a>, Australia</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NLN</td>
+<td></td>
+<td><a href=\"/wiki/Kneeland_Airport\" title=\"Kneeland Airport\">Kneeland Airport</a><sup id=\"cite_ref-IATA_1-66\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (FAA: O19)</td>
+<td><a href=\"/wiki/Arcata,_California\" title=\"Arcata, California\">Arcata</a> / <a href=\"/wiki/Eureka,_California\" title=\"Eureka, California\">Eureka</a>, <a href=\"/wiki/California\" title=\"California\">California</a>, United States</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NLO</td>
+<td>FZAB</td>
+<td><a href=\"/wiki/N%27Dolo_Airport\" title=\"N&#39;Dolo Airport\">N'Dolo Airport</a><sup id=\"cite_ref-IATA_1-67\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Kinshasa\" title=\"Kinshasa\">Kinshasa</a>, <a href=\"/wiki/Democratic_Republic_of_the_Congo\" title=\"Democratic Republic of the Congo\">Democratic Republic of the Congo</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NLP</td>
+<td>FANS</td>
+<td><a href=\"/wiki/Nelspruit_Airport\" title=\"Nelspruit Airport\">Nelspruit Airport</a><sup id=\"cite_ref-IATA_1-68\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Mbombela\" title=\"Mbombela\">Mbombela</a>, <a href=\"/wiki/South_Africa\" title=\"South Africa\">South Africa</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NLS</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Nicholson_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Nicholson Airport (page does not exist)\">Nicholson Airport</a><sup id=\"cite_ref-IATA_1-69\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Nicholson,_Western_Australia&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Nicholson, Western Australia (page does not exist)\">Nicholson</a>, <a href=\"/wiki/Western_Australia\" title=\"Western Australia\">Western Australia</a>, Australia</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NLT</td>
+<td>ZWNL</td>
+<td><a href=\"/wiki/Xinyuan_Nalati_Airport\" title=\"Xinyuan Nalati Airport\">Xinyuan Nalati Airport</a></td>
+<td><a href=\"/wiki/Xinyuan_County\" title=\"Xinyuan County\">Xinyuan</a>, <a href=\"/wiki/Xinjiang\" title=\"Xinjiang\">Xinjiang</a>, China</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NLU</td>
+<td>MMSM</td>
+<td><a href=\"/wiki/Santa_Luc%C3%ADa_Air_Force_Base_Num_1\" class=\"mw-redirect\" title=\"Santa Luc\u00eda Air Force Base Num 1\">Santa Luc\u00eda Air Force Base Num 1</a></td>
+<td><a href=\"/wiki/Zumpango\" title=\"Zumpango\">Zumpango</a>, <a href=\"/wiki/State_of_Mexico\" title=\"State of Mexico\">State of Mexico</a>, Mexico</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NLV</td>
+<td>UKON</td>
+<td><a href=\"/wiki/Mykolaiv_Airport\" title=\"Mykolaiv Airport\">Mykolaiv International Airport</a></td>
+<td><a href=\"/wiki/Mykolaiv\" title=\"Mykolaiv\">Mykolaiv</a>, <a href=\"/wiki/Ukraine\" title=\"Ukraine\">Ukraine</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NMA</td>
+<td>UTFN</td>
+<td><a href=\"/wiki/Namangan_Airport\" title=\"Namangan Airport\">Namangan Airport</a><sup id=\"cite_ref-IATA_1-70\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Namangan\" title=\"Namangan\">Namangan</a>, <a href=\"/wiki/Uzbekistan\" title=\"Uzbekistan\">Uzbekistan</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NMB</td>
+<td>VADN</td>
+<td><a href=\"/wiki/Daman_Airport\" title=\"Daman Airport\">Daman Airport</a></td>
+<td><a href=\"/wiki/Daman,_Daman_and_Diu\" title=\"Daman, Daman and Diu\">Daman</a>, <a href=\"/wiki/Daman_and_Diu\" title=\"Daman and Diu\">Daman and Diu</a>, India</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NMC</td>
+<td>MYEN</td>
+<td><a href=\"/wiki/Norman%27s_Cay_Airport\" title=\"Norman&#39;s Cay Airport\">Norman's Cay Airport</a><sup id=\"cite_ref-IATA_1-71\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Norman%27s_Cay\" title=\"Norman&#39;s Cay\">Norman's Cay</a>, <a href=\"/wiki/Exuma\" title=\"Exuma\">Exuma Islands</a>, <a href=\"/wiki/The_Bahamas\" title=\"The Bahamas\">Bahamas</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NME</td>
+<td>PAGT</td>
+<td><a href=\"/wiki/Nightmute_Airport\" title=\"Nightmute Airport\">Nightmute Airport</a> (FAA: IGT)</td>
+<td><a href=\"/wiki/Nightmute,_Alaska\" title=\"Nightmute, Alaska\">Nightmute</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NMG</td>
+<td></td>
+<td><a href=\"/wiki/San_Miguel_Airport,_Panama\" class=\"mw-redirect\" title=\"San Miguel Airport, Panama\">San Miguel Airport</a><sup id=\"cite_ref-IATA_1-72\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/San_Miguel,_Panam%C3%A1_Province\" title=\"San Miguel, Panam\u00e1 Province\">San Miguel</a>, <a href=\"/wiki/Panama\" title=\"Panama\">Panama</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NML</td>
+<td></td>
+<td><a href=\"/wiki/Fort_McMurray/Mildred_Lake_Airport\" title=\"Fort McMurray/Mildred Lake Airport\">Fort McMurray/Mildred Lake Airport</a><sup id=\"cite_ref-IATA_1-73\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (TC: CAJ3)</td>
+<td><a href=\"/wiki/Fort_McMurray\" title=\"Fort McMurray\">Fort McMurray</a>, <a href=\"/wiki/Alberta\" title=\"Alberta\">Alberta</a>, Canada</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NMN</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Nomane_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Nomane Airport (page does not exist)\">Nomane Airport</a><sup id=\"cite_ref-IATA_1-74\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Nomane,_Papua_New_Guinea&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Nomane, Papua New Guinea (page does not exist)\">Nomane</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NMP</td>
+<td></td>
+<td><a href=\"/w/index.php?title=New_Moon_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"New Moon Airport (page does not exist)\">New Moon Airport</a><sup id=\"cite_ref-IATA_1-75\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=New_Moon,_Queensland&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"New Moon, Queensland (page does not exist)\">New Moon</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NMR</td>
+<td>YNAP</td>
+<td><a href=\"/w/index.php?title=Nappa_Merrie_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Nappa Merrie Airport (page does not exist)\">Nappa Merrie Airport</a><sup id=\"cite_ref-IATA_1-76\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Nappa_Merrie\" title=\"Nappa Merrie\">Nappa Merrie</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NMS</td>
+<td>VYNS</td>
+<td><a href=\"/w/index.php?title=Nansang_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Nansang Airport (page does not exist)\">Nansang Airport</a><sup id=\"cite_ref-IATA_1-77\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Nansang\" title=\"Nansang\">Nansang</a> (Namsang), <a href=\"/wiki/Myanmar\" title=\"Myanmar\">Myanmar</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NMT</td>
+<td>VYNT</td>
+<td><a href=\"/w/index.php?title=Namtu_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Namtu Airport (page does not exist)\">Namtu Airport</a><sup id=\"cite_ref-IATA_1-78\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Namtu\" title=\"Namtu\">Namtu</a>, <a href=\"/wiki/Myanmar\" title=\"Myanmar\">Myanmar</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NNA</td>
+<td>GMMY</td>
+<td><a href=\"/wiki/Kenitra_Air_Base\" title=\"Kenitra Air Base\">Kenitra Air Base</a></td>
+<td><a href=\"/wiki/Kenitra\" title=\"Kenitra\">Kenitra</a>, <a href=\"/wiki/Morocco\" title=\"Morocco\">Morocco</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NNB</td>
+<td>AGGT</td>
+<td><a href=\"/wiki/Santa_Ana_Airport_(Solomon_Islands)\" title=\"Santa Ana Airport (Solomon Islands)\">Santa Ana Airport</a><sup id=\"cite_ref-IATA_1-79\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Owaraha\" title=\"Owaraha\">Santa Ana Island</a> (Owaraha), <a href=\"/wiki/Solomon_Islands\" title=\"Solomon Islands\">Solomon Islands</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NND</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Nangade_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Nangade Airport (page does not exist)\">Nangade Airport</a><sup id=\"cite_ref-IATA_1-80\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Nangade&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Nangade (page does not exist)\">Nangade</a>, <a href=\"/wiki/Mozambique\" title=\"Mozambique\">Mozambique</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NNG</td>
+<td>ZGNN</td>
+<td><a href=\"/wiki/Nanning_Wuxu_International_Airport\" title=\"Nanning Wuxu International Airport\">Nanning Wuxu International Airport</a></td>
+<td><a href=\"/wiki/Nanning\" title=\"Nanning\">Nanning</a>, <a href=\"/wiki/Guangxi\" title=\"Guangxi\">Guangxi</a>, China</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NNI</td>
+<td>FYNA</td>
+<td><a href=\"/wiki/Namutoni_Airport\" title=\"Namutoni Airport\">Namutoni Airport</a><sup id=\"cite_ref-IATA_1-81\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Namutoni\" title=\"Namutoni\">Namutoni</a>, <a href=\"/wiki/Namibia\" title=\"Namibia\">Namibia</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NNK</td>
+<td></td>
+<td><a href=\"/wiki/Naknek_Airport\" title=\"Naknek Airport\">Naknek Airport</a> (FAA: 5NK)</td>
+<td><a href=\"/wiki/Naknek,_Alaska\" title=\"Naknek, Alaska\">Naknek</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NNL</td>
+<td>PANO</td>
+<td><a href=\"/wiki/Nondalton_Airport\" title=\"Nondalton Airport\">Nondalton Airport</a> (FAA: 5NN)</td>
+<td><a href=\"/wiki/Nondalton,_Alaska\" title=\"Nondalton, Alaska\">Nondalton</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NNM</td>
+<td>ULAM</td>
+<td><a href=\"/wiki/Naryan-Mar_Airport\" title=\"Naryan-Mar Airport\">Naryan-Mar Airport</a></td>
+<td><a href=\"/wiki/Naryan-Mar\" title=\"Naryan-Mar\">Naryan-Mar</a>, <a href=\"/wiki/Nenets_Autonomous_Okrug\" title=\"Nenets Autonomous Okrug\">Nenets Autonomous Okrug</a>, Russia</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NNR</td>
+<td>EICA</td>
+<td><a href=\"/wiki/Connemara_Airport\" title=\"Connemara Airport\">Connemara Airport</a></td>
+<td><a href=\"/wiki/Spiddal\" title=\"Spiddal\">Spiddal</a>, <a href=\"/wiki/Republic_of_Ireland\" title=\"Republic of Ireland\">Ireland</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NNT</td>
+<td>VTCN</td>
+<td><a href=\"/wiki/Nan_Nakhon_Airport\" title=\"Nan Nakhon Airport\">Nan Nakhon Airport</a><sup id=\"cite_ref-IATA_1-82\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Nan,_Thailand\" title=\"Nan, Thailand\">Nan</a>, <a href=\"/wiki/Thailand\" title=\"Thailand\">Thailand</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NNU</td>
+<td>SNNU</td>
+<td><a href=\"/w/index.php?title=Nanuque_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Nanuque Airport (page does not exist)\">Nanuque Airport</a><sup id=\"cite_ref-IATA_1-83\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Nanuque\" title=\"Nanuque\">Nanuque</a>, <a href=\"/wiki/Minas_Gerais\" title=\"Minas Gerais\">Minas Gerais</a>, Brazil</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NNX</td>
+<td>WRLF</td>
+<td><a href=\"/wiki/Nunukan_Airport\" title=\"Nunukan Airport\">Nunukan Airport</a></td>
+<td><a href=\"/wiki/Nunukan_Regency\" title=\"Nunukan Regency\">Nunukan</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NNY</td>
+<td>ZHNY</td>
+<td><a href=\"/wiki/Nanyang_Jiangying_Airport\" title=\"Nanyang Jiangying Airport\">Nanyang Jiangying Airport</a></td>
+<td><a href=\"/wiki/Nanyang,_Henan\" title=\"Nanyang, Henan\">Nanyang</a>, <a href=\"/wiki/Henan\" title=\"Henan\">Henan</a>, China</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NOA</td>
+<td>YSNW</td>
+<td><a href=\"/wiki/HMAS_Albatross_(air_station)\" title=\"HMAS Albatross (air station)\">NAS Nowra</a><sup id=\"cite_ref-IATA_1-84\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Nowra,_New_South_Wales\" title=\"Nowra, New South Wales\">Nowra</a>, <a href=\"/wiki/New_South_Wales\" title=\"New South Wales\">New South Wales</a>, Australia</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NOB</td>
+<td>MRNS</td>
+<td><a href=\"/wiki/Nosara_Airport\" title=\"Nosara Airport\">Nosara Airport</a></td>
+<td><a href=\"/wiki/Nosara\" title=\"Nosara\">Nosara</a>, <a href=\"/wiki/Costa_Rica\" title=\"Costa Rica\">Costa Rica</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NOC</td>
+<td>EIKN</td>
+<td><a href=\"/wiki/Ireland_West_Airport_Knock\" class=\"mw-redirect\" title=\"Ireland West Airport Knock\">Ireland West Airport Knock</a></td>
+<td><a href=\"/wiki/Knock,_County_Mayo\" title=\"Knock, County Mayo\">Knock</a>, <a href=\"/wiki/Republic_of_Ireland\" title=\"Republic of Ireland\">Ireland</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NOD</td>
+<td>EDWS</td>
+<td><a href=\"/w/index.php?title=Norddeich_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Norddeich Airport (page does not exist)\">Norddeich Airport</a></td>
+<td><a href=\"/wiki/Norden,_Lower_Saxony\" title=\"Norden, Lower Saxony\">Norden</a>, <a href=\"/wiki/Lower_Saxony\" title=\"Lower Saxony\">Lower Saxony</a>, Germany</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NOG</td>
+<td>MMNG</td>
+<td><a href=\"/wiki/Nogales_International_Airport_(Mexico)\" title=\"Nogales International Airport (Mexico)\">Nogales International Airport</a></td>
+<td><a href=\"/wiki/Nogales,_Sonora\" title=\"Nogales, Sonora\">Nogales</a>, <a href=\"/wiki/Sonora\" title=\"Sonora\">Sonora</a>, Mexico</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NOI</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Novorossiysk_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Novorossiysk Airport (page does not exist)\">Novorossiysk Airport</a><sup id=\"cite_ref-IATA_1-85\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Novorossiysk\" title=\"Novorossiysk\">Novorossiysk</a>, <a href=\"/wiki/Krasnodar_Krai\" title=\"Krasnodar Krai\">Krasnodar Krai</a>, Russia</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NOJ</td>
+<td>USRO</td>
+<td><a href=\"/wiki/Noyabrsk_Airport\" title=\"Noyabrsk Airport\">Noyabrsk Airport</a></td>
+<td><a href=\"/wiki/Noyabrsk\" title=\"Noyabrsk\">Noyabrsk</a>, <a href=\"/wiki/Yamalo-Nenets_Autonomous_Okrug\" title=\"Yamalo-Nenets Autonomous Okrug\">Yamalo-Nenets Autonomous Okrug</a>, Russia</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NOK</td>
+<td>SWXV</td>
+<td><a href=\"/w/index.php?title=Nova_Xavantina_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Nova Xavantina Airport (page does not exist)\">Nova Xavantina Airport</a><sup id=\"cite_ref-IATA_1-86\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Nova_Xavantina\" title=\"Nova Xavantina\">Nova Xavantina</a>, <a href=\"/wiki/Mato_Grosso\" title=\"Mato Grosso\">Mato Grosso</a>, Brazil</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NOM</td>
+<td>ATNR</td>
+<td><a href=\"/w/index.php?title=Nomad_River_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Nomad River Airport (page does not exist)\">Nomad River Airport</a><sup id=\"cite_ref-IATA_1-87\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Nomad_River&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Nomad River (page does not exist)\">Nomad River</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NON</td>
+<td>NGTO</td>
+<td><a href=\"/w/index.php?title=Nonouti_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Nonouti Airport (page does not exist)\">Nonouti Airport</a><sup id=\"cite_ref-IATA_1-88\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Nonouti\" title=\"Nonouti\">Nonouti</a>, <a href=\"/wiki/Kiribati\" title=\"Kiribati\">Kiribati</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NOO</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Naoro_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Naoro Airport (page does not exist)\">Naoro Airport</a><sup id=\"cite_ref-IATA_1-89\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Naoro&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Naoro (page does not exist)\">Naoro</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NOP</td>
+<td>LTCM</td>
+<td><a href=\"/wiki/Sinop_Airport\" title=\"Sinop Airport\">Sinop Airport</a></td>
+<td><a href=\"/wiki/Sinop,_Turkey\" title=\"Sinop, Turkey\">Sinop</a>, <a href=\"/wiki/Turkey\" title=\"Turkey\">Turkey</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NOR</td>
+<td>BINF</td>
+<td><a href=\"/wiki/Nor%C3%B0fj%C3%B6r%C3%B0ur_Airport\" title=\"Nor\u00f0fj\u00f6r\u00f0ur Airport\">Nor\u00f0fj\u00f6r\u00f0ur Airport</a><sup id=\"cite_ref-IATA_1-90\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Neskaupsta%C3%B0ur\" title=\"Neskaupsta\u00f0ur\">Nordfjordur</a>, <a href=\"/wiki/Iceland\" title=\"Iceland\">Iceland</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NOS</td>
+<td>FMNN</td>
+<td><a href=\"/wiki/Fascene_Airport\" title=\"Fascene Airport\">Fascene Airport</a><sup id=\"cite_ref-IATA_1-91\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Nosy_Be\" title=\"Nosy Be\">Nosy Be</a>, <a href=\"/wiki/Madagascar\" title=\"Madagascar\">Madagascar</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NOT</td>
+<td>KDVO</td>
+<td><a href=\"/wiki/Marin_County_Airport\" title=\"Marin County Airport\">Marin County Airport</a> (Gnoss Field) (FAA: DVO)</td>
+<td><a href=\"/wiki/Novato,_California\" title=\"Novato, California\">Novato</a>, <a href=\"/wiki/California\" title=\"California\">California</a>, United States</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NOU</td>
+<td>NWWW</td>
+<td><a href=\"/wiki/La_Tontouta_International_Airport\" title=\"La Tontouta International Airport\">La Tontouta International Airport</a></td>
+<td><a href=\"/wiki/Noum%C3%A9a\" title=\"Noum\u00e9a\">Noum\u00e9a</a>, <a href=\"/wiki/New_Caledonia\" title=\"New Caledonia\">New Caledonia</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NOV</td>
+<td>FNHU</td>
+<td><a href=\"/wiki/Albano_Machado_Airport\" title=\"Albano Machado Airport\">Albano Machado Airport</a></td>
+<td><a href=\"/wiki/Huambo\" title=\"Huambo\">Huambo</a>, <a href=\"/wiki/Angola\" title=\"Angola\">Angola</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NOZ</td>
+<td>UNWW</td>
+<td><a href=\"/wiki/Spichenkovo_Airport\" title=\"Spichenkovo Airport\">Spichenkovo Airport</a></td>
+<td><a href=\"/wiki/Novokuznetsk\" title=\"Novokuznetsk\">Novokuznetsk</a>, <a href=\"/wiki/Kemerovo_Oblast\" title=\"Kemerovo Oblast\">Kemerovo Oblast</a>, Russia</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NPA</td>
+<td>KNPA</td>
+<td><a href=\"/wiki/Naval_Air_Station_Pensacola\" title=\"Naval Air Station Pensacola\">NAS Pensacola</a> (Forrest Sherman Field)</td>
+<td><a href=\"/wiki/Pensacola,_Florida\" title=\"Pensacola, Florida\">Pensacola</a>, <a href=\"/wiki/Florida\" title=\"Florida\">Florida</a>, United States</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NPE</td>
+<td>NZNR</td>
+<td><a href=\"/wiki/Hawke%27s_Bay_Airport\" title=\"Hawke&#39;s Bay Airport\">Hawke's Bay Airport</a></td>
+<td><a href=\"/wiki/Napier,_New_Zealand\" title=\"Napier, New Zealand\">Napier</a> / <a href=\"/wiki/Hastings,_New_Zealand\" title=\"Hastings, New Zealand\">Hastings</a>, <a href=\"/wiki/New_Zealand\" title=\"New Zealand\">New Zealand</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NPG</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Nipa_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Nipa Airport (page does not exist)\">Nipa Airport</a><sup id=\"cite_ref-IATA_1-92\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Nipa,_Papua_New_Guinea&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Nipa, Papua New Guinea (page does not exist)\">Nipa</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NPH</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Nephi_Municipal_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Nephi Municipal Airport (page does not exist)\">Nephi Municipal Airport</a> (FAA: U14)</td>
+<td><a href=\"/wiki/Nephi,_Utah\" title=\"Nephi, Utah\">Nephi</a>, <a href=\"/wiki/Utah\" title=\"Utah\">Utah</a>, United States</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NPL</td>
+<td>NZNP</td>
+<td><a href=\"/wiki/New_Plymouth_Airport\" title=\"New Plymouth Airport\">New Plymouth Airport</a></td>
+<td><a href=\"/wiki/New_Plymouth\" title=\"New Plymouth\">New Plymouth</a>, <a href=\"/wiki/New_Zealand\" title=\"New Zealand\">New Zealand</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NPO</td>
+<td>WIOG</td>
+<td><a href=\"/wiki/Nanga_Pinoh_Airport\" title=\"Nanga Pinoh Airport\">Nanga Pinoh Airport</a><sup id=\"cite_ref-IATA_1-93\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Nanga_Pinoh\" title=\"Nanga Pinoh\">Nanga Pinoh</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NPP</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Napperby_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Napperby Airport (page does not exist)\">Napperby Airport</a><sup id=\"cite_ref-IATA_1-94\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Napperby,_Northern_Territory&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Napperby, Northern Territory (page does not exist)\">Napperby</a>, <a href=\"/wiki/Northern_Territory\" title=\"Northern Territory\">Northern Territory</a>, Australia</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NPR</td>
+<td>SJNP</td>
+<td><a href=\"/wiki/Novo_Progresso_Airport\" title=\"Novo Progresso Airport\">Novo Progresso Airport</a><sup id=\"cite_ref-IATA_1-95\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Novo_Progresso\" title=\"Novo Progresso\">Novo Progresso</a>, <a href=\"/wiki/Par%C3%A1\" title=\"Par\u00e1\">Par\u00e1</a>, Brazil</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NPT</td>
+<td>KUUU</td>
+<td><a href=\"/wiki/Newport_State_Airport_(Rhode_Island)\" title=\"Newport State Airport (Rhode Island)\">Newport State Airport</a> (FAA: UUU)</td>
+<td><a href=\"/wiki/Newport,_Rhode_Island\" title=\"Newport, Rhode Island\">Newport</a>, <a href=\"/wiki/Rhode_Island\" title=\"Rhode Island\">Rhode Island</a>, United States</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NPU</td>
+<td></td>
+<td><a href=\"/w/index.php?title=San_Pedro_de_Urab%C3%A1_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"San Pedro de Urab\u00e1 Airport (page does not exist)\">San Pedro de Urab\u00e1 Airport</a><sup id=\"cite_ref-IATA_1-96\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/San_Pedro_de_Urab%C3%A1\" title=\"San Pedro de Urab\u00e1\">San Pedro de Urab\u00e1</a>, <a href=\"/wiki/Colombia\" title=\"Colombia\">Colombia</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NQA</td>
+<td>KNQA</td>
+<td><a href=\"/wiki/Millington_Regional_Jetport\" class=\"mw-redirect\" title=\"Millington Regional Jetport\">Millington Regional Jetport</a></td>
+<td><a href=\"/wiki/Millington,_Tennessee\" title=\"Millington, Tennessee\">Millington</a>, <a href=\"/wiki/Tennessee\" title=\"Tennessee\">Tennessee</a>, United States</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NQI</td>
+<td>KNQI</td>
+<td><a href=\"/wiki/Naval_Air_Station_Kingsville\" title=\"Naval Air Station Kingsville\">NAS Kingsville</a></td>
+<td><a href=\"/wiki/Kingsville,_Texas\" title=\"Kingsville, Texas\">Kingsville</a>, <a href=\"/wiki/Texas\" title=\"Texas\">Texas</a>, United States</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NQL</td>
+<td>SWNQ</td>
+<td><a href=\"/w/index.php?title=Niquel%C3%A2ndia_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Niquel\u00e2ndia Airport (page does not exist)\">Niquel\u00e2ndia Airport</a><sup id=\"cite_ref-IATA_1-97\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Niquel%C3%A2ndia\" title=\"Niquel\u00e2ndia\">Niquel\u00e2ndia</a>, <a href=\"/wiki/Goi%C3%A1s\" title=\"Goi\u00e1s\">Goi\u00e1s</a>, Brazil</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NQN</td>
+<td>SAZN</td>
+<td><a href=\"/wiki/Presidente_Per%C3%B3n_International_Airport\" title=\"Presidente Per\u00f3n International Airport\">Presidente Per\u00f3n International Airport</a></td>
+<td><a href=\"/wiki/Neuqu%C3%A9n\" title=\"Neuqu\u00e9n\">Neuqu\u00e9n</a>, <a href=\"/wiki/Neuqu%C3%A9n_Province\" title=\"Neuqu\u00e9n Province\">Neuqu\u00e9n</a>, Argentina</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NQT</td>
+<td>EGBN</td>
+<td><a href=\"/wiki/Nottingham_Airport\" title=\"Nottingham Airport\">Nottingham Airport</a><sup id=\"cite_ref-IATA_1-98\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Nottingham\" title=\"Nottingham\">Nottingham</a>, <a href=\"/wiki/England\" title=\"England\">England</a>, United Kingdom</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NQU</td>
+<td>SKNQ</td>
+<td><a href=\"/wiki/Reyes_Murillo_Airport\" title=\"Reyes Murillo Airport\">Reyes Murillo Airport</a></td>
+<td><a href=\"/wiki/Nuqu%C3%AD\" title=\"Nuqu\u00ed\">Nuqu\u00ed</a>, <a href=\"/wiki/Colombia\" title=\"Colombia\">Colombia</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NQX</td>
+<td>KNQX</td>
+<td><a href=\"/wiki/Naval_Air_Station_Key_West\" title=\"Naval Air Station Key West\">NAS Key West</a> (Boca Chica Field)</td>
+<td><a href=\"/wiki/Key_West,_Florida\" class=\"mw-redirect\" title=\"Key West, Florida\">Key West</a>, <a href=\"/wiki/Florida\" title=\"Florida\">Florida</a>, United States</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NQY</td>
+<td>EGDG</td>
+<td><a href=\"/wiki/Newquay_Airport\" title=\"Newquay Airport\">Newquay Airport</a></td>
+<td><a href=\"/wiki/Newquay\" title=\"Newquay\">Newquay</a>, <a href=\"/wiki/England\" title=\"England\">England</a>, United Kingdom</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NRA</td>
+<td>YNAR</td>
+<td><a href=\"/wiki/Narrandera_Airport\" title=\"Narrandera Airport\">Narrandera Airport</a><sup id=\"cite_ref-IATA_1-99\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Narrandera\" title=\"Narrandera\">Narrandera</a>, <a href=\"/wiki/New_South_Wales\" title=\"New South Wales\">New South Wales</a>, Australia</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NRB</td>
+<td>KNRB</td>
+<td><a href=\"/wiki/Naval_Station_Mayport\" title=\"Naval Station Mayport\">NS Mayport</a> (Admiral David L. McDonald Field)</td>
+<td><a href=\"/wiki/Mayport,_Florida\" class=\"mw-redirect\" title=\"Mayport, Florida\">Mayport</a>, <a href=\"/wiki/Florida\" title=\"Florida\">Florida</a>, United States</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NRC</td>
+<td>KNRC</td>
+<td><a href=\"/wiki/NASA_Crows_Landing_Airport\" title=\"NASA Crows Landing Airport\">NASA Crows Landing Airport</a></td>
+<td><a href=\"/wiki/Crows_Landing,_California\" title=\"Crows Landing, California\">Crows Landing</a>, <a href=\"/wiki/California\" title=\"California\">California</a>, United States</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NRD</td>
+<td>EDWY</td>
+<td><a href=\"/w/index.php?title=Norderney_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Norderney Airport (page does not exist)\">Norderney Airport</a></td>
+<td><a href=\"/wiki/Norderney\" title=\"Norderney\">Norderney</a>, <a href=\"/wiki/Lower_Saxony\" title=\"Lower Saxony\">Lower Saxony</a>, Germany</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NRE</td>
+<td>WAPG</td>
+<td><a href=\"/wiki/Namrole_Airport\" title=\"Namrole Airport\">Namrole Airport</a></td>
+<td><a href=\"/w/index.php?title=Namrole&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Namrole (page does not exist)\">Namrole</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NRG</td>
+<td>YNRG</td>
+<td><a href=\"/w/index.php?title=Narrogin_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Narrogin Airport (page does not exist)\">Narrogin Airport</a></td>
+<td><a href=\"/wiki/Narrogin,_Western_Australia\" title=\"Narrogin, Western Australia\">Narrogin</a>, <a href=\"/wiki/Western_Australia\" title=\"Western Australia\">Western Australia</a>, Australia</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NRI</td>
+<td></td>
+<td><a href=\"/wiki/Grand_Lake_Regional_Airport\" title=\"Grand Lake Regional Airport\">Grand Lake Regional Airport</a><sup id=\"cite_ref-IATA_1-100\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (FAA: 3O9)</td>
+<td><a href=\"/wiki/Afton,_Oklahoma\" title=\"Afton, Oklahoma\">Afton</a>, <a href=\"/wiki/Oklahoma\" title=\"Oklahoma\">Oklahoma</a>, United States</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NRK</td>
+<td>ESSP</td>
+<td><a href=\"/wiki/Norrk%C3%B6ping_Airport\" title=\"Norrk\u00f6ping Airport\">Norrk\u00f6ping Airport</a></td>
+<td><a href=\"/wiki/Norrk%C3%B6ping\" title=\"Norrk\u00f6ping\">Norrk\u00f6ping</a>, <a href=\"/wiki/Sweden\" title=\"Sweden\">Sweden</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NRL</td>
+<td>EGEN</td>
+<td><a href=\"/wiki/North_Ronaldsay_Airport\" title=\"North Ronaldsay Airport\">North Ronaldsay Airport</a><sup id=\"cite_ref-IATA_1-101\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/North_Ronaldsay\" title=\"North Ronaldsay\">North Ronaldsay</a>, <a href=\"/wiki/Scotland\" title=\"Scotland\">Scotland</a>, United Kingdom</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NRM</td>
+<td>GANK</td>
+<td><a href=\"/wiki/Keibane_Airport\" title=\"Keibane Airport\">Keibane Airport</a></td>
+<td><a href=\"/wiki/Nara,_Mali\" title=\"Nara, Mali\">Nara</a>, <a href=\"/wiki/Mali\" title=\"Mali\">Mali</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NRN</td>
+<td>EDLV</td>
+<td><a href=\"/wiki/Weeze_Airport\" title=\"Weeze Airport\">Weeze Airport</a> (Niederrhein Airport)</td>
+<td><a href=\"/wiki/Weeze\" title=\"Weeze\">Weeze</a>, <a href=\"/wiki/North_Rhine-Westphalia\" title=\"North Rhine-Westphalia\">North Rhine-Westphalia</a>, Germany</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NRR</td>
+<td>TJRV</td>
+<td><a href=\"/wiki/Jos%C3%A9_Aponte_de_la_Torre_Airport\" title=\"Jos\u00e9 Aponte de la Torre Airport\">Jos\u00e9 Aponte de la Torre Airport</a><sup id=\"cite_ref-IATA_1-102\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (FAA: RVR)</td>
+<td><a href=\"/wiki/Ceiba,_Puerto_Rico\" title=\"Ceiba, Puerto Rico\">Ceiba</a>, <a href=\"/wiki/Puerto_Rico\" title=\"Puerto Rico\">Puerto Rico</a>, United States</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NRS</td>
+<td>KNRS</td>
+<td><a href=\"/wiki/Naval_Outlying_Landing_Field_Imperial_Beach\" title=\"Naval Outlying Landing Field Imperial Beach\">NOLF Imperial Beach</a> (Ream Field)</td>
+<td><a href=\"/wiki/Imperial_Beach,_California\" title=\"Imperial Beach, California\">Imperial Beach</a>, <a href=\"/wiki/California\" title=\"California\">California</a>, United States</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NRT</td>
+<td>RJAA</td>
+<td><a href=\"/wiki/Narita_International_Airport\" title=\"Narita International Airport\">Narita International Airport</a></td>
+<td><a href=\"/wiki/Tokyo\" title=\"Tokyo\">Tokyo</a>, <a href=\"/wiki/Honshu\" title=\"Honshu\">Honshu</a>, Japan</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NRY</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Newry_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Newry Airport (page does not exist)\">Newry Airport</a><sup id=\"cite_ref-IATA_1-103\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Newry_Station\" title=\"Newry Station\">Newry Station</a>, <a href=\"/wiki/Northern_Territory\" title=\"Northern Territory\">Northern Territory</a>, Australia</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NSB</td>
+<td></td>
+<td><a href=\"/wiki/North_Seaplane_Base\" class=\"mw-redirect\" title=\"North Seaplane Base\">North Seaplane Base</a><sup id=\"cite_ref-IATA_1-104\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Bimini\" title=\"Bimini\">Bimini</a>, <a href=\"/wiki/The_Bahamas\" title=\"The Bahamas\">Bahamas</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NSE</td>
+<td>KNSE</td>
+<td><a href=\"/wiki/Naval_Air_Station_Whiting_Field_%E2%80%93_North\" title=\"Naval Air Station Whiting Field \u2013 North\">NAS Whiting Field \u2013 North</a></td>
+<td><a href=\"/wiki/Milton,_Florida\" title=\"Milton, Florida\">Milton</a>, <a href=\"/wiki/Florida\" title=\"Florida\">Florida</a>, United States</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NSH</td>
+<td>OINN</td>
+<td><a href=\"/wiki/Noshahr_Airport\" title=\"Noshahr Airport\">Noshahr Airport</a><sup id=\"cite_ref-IATA_1-105\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Nowshahr\" title=\"Nowshahr\">Nowshahr</a>, <a href=\"/wiki/Iran\" title=\"Iran\">Iran</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NSI</td>
+<td>FKYS</td>
+<td><a href=\"/wiki/Yaound%C3%A9_Nsimalen_International_Airport\" title=\"Yaound\u00e9 Nsimalen International Airport\">Yaound\u00e9 Nsimalen International Airport</a></td>
+<td><a href=\"/wiki/Yaound%C3%A9\" title=\"Yaound\u00e9\">Yaound\u00e9</a>, <a href=\"/wiki/Cameroon\" title=\"Cameroon\">Cameroon</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NSK</td>
+<td>UOOO</td>
+<td><a href=\"/wiki/Alykel_Airport\" title=\"Alykel Airport\">Alykel Airport</a></td>
+<td><a href=\"/wiki/Norilsk\" title=\"Norilsk\">Norilsk</a>, <a href=\"/wiki/Krasnoyarsk_Krai\" title=\"Krasnoyarsk Krai\">Krasnoyarsk Krai</a>, Russia</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NSL</td>
+<td>KDVP</td>
+<td><a href=\"/w/index.php?title=Slayton_Municipal_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Slayton Municipal Airport (page does not exist)\">Slayton Municipal Airport</a><sup id=\"cite_ref-IATA_1-106\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (FAA: DVP)</td>
+<td><a href=\"/wiki/Slayton,_Minnesota\" title=\"Slayton, Minnesota\">Slayton</a>, <a href=\"/wiki/Minnesota\" title=\"Minnesota\">Minnesota</a>, United States</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NSM</td>
+<td>YNSM</td>
+<td><a href=\"/wiki/Norseman_Airport\" title=\"Norseman Airport\">Norseman Airport</a><sup id=\"cite_ref-IATA_1-107\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Norseman,_Western_Australia\" title=\"Norseman, Western Australia\">Norseman</a>, <a href=\"/wiki/Western_Australia\" title=\"Western Australia\">Western Australia</a>, Australia</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NSN</td>
+<td>NZNS</td>
+<td><a href=\"/wiki/Nelson_Airport_(New_Zealand)\" title=\"Nelson Airport (New Zealand)\">Nelson Airport</a></td>
+<td><a href=\"/wiki/Nelson,_New_Zealand\" title=\"Nelson, New Zealand\">Nelson</a>, <a href=\"/wiki/New_Zealand\" title=\"New Zealand\">New Zealand</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NSO</td>
+<td>YSCO</td>
+<td><a href=\"/wiki/Scone_Airport\" title=\"Scone Airport\">Scone Airport</a><sup id=\"cite_ref-IATA_1-108\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Scone,_New_South_Wales\" title=\"Scone, New South Wales\">Scone</a>, <a href=\"/wiki/New_South_Wales\" title=\"New South Wales\">New South Wales</a>, Australia</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NST</td>
+<td>VTSF</td>
+<td><a href=\"/wiki/Nakhon_Si_Thammarat_Airport\" title=\"Nakhon Si Thammarat Airport\">Nakhon Si Thammarat Airport</a></td>
+<td><a href=\"/wiki/Nakhon_Si_Thammarat\" title=\"Nakhon Si Thammarat\">Nakhon Si Thammarat</a>, <a href=\"/wiki/Thailand\" title=\"Thailand\">Thailand</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NSV</td>
+<td>YNSH</td>
+<td><a href=\"/w/index.php?title=Noosa_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Noosa Airport (page does not exist)\">Noosa Airport</a><sup id=\"cite_ref-IATA_1-109\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Noosaville,_Queensland\" title=\"Noosaville, Queensland\">Noosaville</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NSY</td>
+<td>LICZ</td>
+<td><a href=\"/wiki/Naval_Air_Station_Sigonella\" title=\"Naval Air Station Sigonella\">Naval Air Station Sigonella</a></td>
+<td><a href=\"/wiki/Catania\" title=\"Catania\">Catania</a>, <a href=\"/wiki/Sicily\" title=\"Sicily\">Sicily</a>, Italy</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NTA</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Natadola_Seaplane_Base&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Natadola Seaplane Base (page does not exist)\">Natadola Seaplane Base</a><sup id=\"cite_ref-IATA_1-110\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Natadola_Bay&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Natadola Bay (page does not exist)\">Natadola Bay</a>, <a href=\"/wiki/Fiji\" title=\"Fiji\">Fiji</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NTB</td>
+<td>ENNO</td>
+<td><a href=\"/wiki/Notodden_Airport,_Tuven\" title=\"Notodden Airport, Tuven\">Notodden Airport, Tuven</a></td>
+<td><a href=\"/wiki/Notodden\" title=\"Notodden\">Notodden</a>, <a href=\"/wiki/Norway\" title=\"Norway\">Norway</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NTC</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Santa_Carolina_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Santa Carolina Airport (page does not exist)\">Santa Carolina Airport</a><sup id=\"cite_ref-IATA_1-111\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Santa_Carolina\" title=\"Santa Carolina\">Santa Carolina</a>, <a href=\"/wiki/Mozambique\" title=\"Mozambique\">Mozambique</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NTD</td>
+<td>KNTD</td>
+<td><a href=\"/wiki/Naval_Air_Station_Point_Mugu\" title=\"Naval Air Station Point Mugu\">NAS Point Mugu</a> (Naval Base Ventura County)</td>
+<td><a href=\"/wiki/Point_Mugu,_California\" title=\"Point Mugu, California\">Point Mugu</a>, <a href=\"/wiki/California\" title=\"California\">California</a>, United States</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NTE</td>
+<td>LFRS</td>
+<td><a href=\"/wiki/Nantes_Atlantique_Airport\" title=\"Nantes Atlantique Airport\">Nantes Atlantique Airport</a></td>
+<td><a href=\"/wiki/Nantes\" title=\"Nantes\">Nantes</a>, <a href=\"/wiki/Pays_de_la_Loire\" title=\"Pays de la Loire\">Pays de la Loire</a>, France</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NTG</td>
+<td>ZSNT</td>
+<td><a href=\"/wiki/Nantong_Xingdong_Airport\" title=\"Nantong Xingdong Airport\">Nantong Xingdong Airport</a></td>
+<td><a href=\"/wiki/Nantong\" title=\"Nantong\">Nantong</a>, <a href=\"/wiki/Jiangsu\" title=\"Jiangsu\">Jiangsu</a>, China</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NTI</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Stenkol_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Stenkol Airport (page does not exist)\">Stenkol Airport</a><sup id=\"cite_ref-IATA_1-112\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Bintuni\" title=\"Bintuni\">Bintuni</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NTJ</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Manti-Ephraim_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Manti-Ephraim Airport (page does not exist)\">Manti-Ephraim Airport</a> (FAA: 41U)</td>
+<td><a href=\"/wiki/Manti,_Utah\" title=\"Manti, Utah\">Manti</a>, <a href=\"/wiki/Utah\" title=\"Utah\">Utah</a>,  United States</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NTL</td>
+<td>YWLM</td>
+<td><a href=\"/wiki/Newcastle_Airport_(New_South_Wales)\" title=\"Newcastle Airport (New South Wales)\">Newcastle Airport</a> / <a href=\"/wiki/RAAF_Base_Williamtown\" title=\"RAAF Base Williamtown\">RAAF Base Williamtown</a></td>
+<td><a href=\"/wiki/Newcastle,_New_South_Wales\" title=\"Newcastle, New South Wales\">Newcastle</a>, <a href=\"/wiki/New_South_Wales\" title=\"New South Wales\">New South Wales</a>, Australia</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NTM</td>
+<td>SNRW</td>
+<td><a href=\"/w/index.php?title=Miracema_do_Tocantins_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Miracema do Tocantins Airport (page does not exist)\">Miracema do Tocantins Airport</a><sup id=\"cite_ref-IATA_1-113\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Miracema_do_Tocantins\" title=\"Miracema do Tocantins\">Miracema do Tocantins</a>, <a href=\"/wiki/Tocantins\" title=\"Tocantins\">Tocantins</a>, Brazil</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NTN</td>
+<td>YNTN</td>
+<td><a href=\"/wiki/Normanton_Airport\" title=\"Normanton Airport\">Normanton Airport</a><sup id=\"cite_ref-IATA_1-114\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Normanton,_Queensland\" title=\"Normanton, Queensland\">Normanton</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NTO</td>
+<td>GVAN</td>
+<td><a href=\"/wiki/Agostinho_Neto_Airport\" title=\"Agostinho Neto Airport\">Agostinho Neto Airport</a></td>
+<td><a href=\"/wiki/Santo_Ant%C3%A3o,_Cape_Verde\" title=\"Santo Ant\u00e3o, Cape Verde\">Santo Ant\u00e3o</a>, <a href=\"/wiki/Cape_Verde\" title=\"Cape Verde\">Cape Verde</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NTQ</td>
+<td>RJNW</td>
+<td><a href=\"/wiki/Noto_Airport\" title=\"Noto Airport\">Noto Airport</a><sup id=\"cite_ref-IATA_1-115\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Wajima,_Ishikawa\" title=\"Wajima, Ishikawa\">Wajima</a>, <a href=\"/wiki/Honshu\" title=\"Honshu\">Honshu</a>, Japan</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NTR</td>
+<td>MMAN</td>
+<td><a href=\"/wiki/Del_Norte_International_Airport\" title=\"Del Norte International Airport\">Del Norte International Airport</a><sup id=\"cite_ref-IATA_1-116\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Monterrey\" title=\"Monterrey\">Monterrey</a>, <a href=\"/wiki/Nuevo_Le%C3%B3n\" title=\"Nuevo Le\u00f3n\">Nuevo Le\u00f3n</a>, Mexico</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NTT</td>
+<td>NFTP</td>
+<td><a href=\"/wiki/Niuatoputapu_Airport\" title=\"Niuatoputapu Airport\">Niuatoputapu Airport</a></td>
+<td><a href=\"/wiki/Niuatoputapu\" title=\"Niuatoputapu\">Niuatoputapu</a>, <a href=\"/wiki/Tonga\" title=\"Tonga\">Tonga</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NTU</td>
+<td>KNTU</td>
+<td><a href=\"/wiki/Naval_Air_Station_Oceana\" title=\"Naval Air Station Oceana\">NAS Oceana</a> (Apollo Soucek Field)</td>
+<td><a href=\"/wiki/Virginia_Beach,_Virginia\" title=\"Virginia Beach, Virginia\">Virginia Beach</a>, <a href=\"/wiki/Virginia\" title=\"Virginia\">Virginia</a>, United States</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NTX</td>
+<td>WION</td>
+<td><a href=\"/wiki/Ranai_Airport\" title=\"Ranai Airport\">Ranai Airport</a></td>
+<td><a href=\"/wiki/Natuna_Islands\" class=\"mw-redirect\" title=\"Natuna Islands\">Natuna Islands</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NTY</td>
+<td>FAPN</td>
+<td><a href=\"/wiki/Pilanesberg_International_Airport\" title=\"Pilanesberg International Airport\">Pilanesberg International Airport</a></td>
+<td><a href=\"/wiki/Sun_City,_North_West\" class=\"mw-redirect\" title=\"Sun City, North West\">Sun City</a>, <a href=\"/wiki/South_Africa\" title=\"South Africa\">South Africa</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NUA</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Gregory_Lake_Seaplane_Base&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Gregory Lake Seaplane Base (page does not exist)\">Gregory Lake Seaplane Base</a><sup id=\"cite_ref-IATA_1-117\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Nuwara_Eliya\" title=\"Nuwara Eliya\">Nuwara Eliya</a>, <a href=\"/wiki/Sri_Lanka\" title=\"Sri Lanka\">Sri Lanka</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NUB</td>
+<td>YNUM</td>
+<td><a href=\"/wiki/Numbulwar_Airport\" title=\"Numbulwar Airport\">Numbulwar Airport</a><sup id=\"cite_ref-IATA_1-118\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Numbulwar\" title=\"Numbulwar\">Numbulwar</a>, <a href=\"/wiki/Northern_Territory\" title=\"Northern Territory\">Northern Territory</a>, Australia</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NUD</td>
+<td>HSNH</td>
+<td><a href=\"/wiki/En_Nahud_Airport\" title=\"En Nahud Airport\">En Nahud Airport</a><sup id=\"cite_ref-IATA_1-119\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/En_Nahud\" title=\"En Nahud\">En Nahud</a>, <a href=\"/wiki/Sudan\" title=\"Sudan\">Sudan</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NUE</td>
+<td>EDDN</td>
+<td><a href=\"/wiki/Nuremberg_Airport\" title=\"Nuremberg Airport\">Nuremberg Airport</a></td>
+<td><a href=\"/wiki/Nuremberg\" title=\"Nuremberg\">Nuremberg</a>, <a href=\"/wiki/Bavaria\" title=\"Bavaria\">Bavaria</a>, Germany</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NUF</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Castlereigh_Reservoir_Seaplane_Base&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Castlereigh Reservoir Seaplane Base (page does not exist)\">Castlereigh Reservoir Seaplane Base</a><sup id=\"cite_ref-IATA_1-120\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Hatton,_Sri_Lanka\" title=\"Hatton, Sri Lanka\">Hatton</a>, <a href=\"/wiki/Sri_Lanka\" title=\"Sri Lanka\">Sri Lanka</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NUG</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Nuguria_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Nuguria Airport (page does not exist)\">Nuguria Airport</a><sup id=\"cite_ref-IATA_1-121\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Nuguria\" title=\"Nuguria\">Nuguria</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NUH</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Nunch%C3%ADa_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Nunch\u00eda Airport (page does not exist)\">Nunch\u00eda Airport</a><sup id=\"cite_ref-IATA_1-122\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Nunch%C3%ADa\" title=\"Nunch\u00eda\">Nunch\u00eda</a>, <a href=\"/wiki/Colombia\" title=\"Colombia\">Colombia</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NUI</td>
+<td>PAQT</td>
+<td><a href=\"/wiki/Nuiqsut_Airport\" title=\"Nuiqsut Airport\">Nuiqsut Airport</a> (FAA: AQT)</td>
+<td><a href=\"/wiki/Nuiqsut,_Alaska\" title=\"Nuiqsut, Alaska\">Nuiqsut</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NUJ</td>
+<td>OIHS</td>
+<td><a href=\"/wiki/Hamedan_Air_Base\" class=\"mw-redirect\" title=\"Hamedan Air Base\">Hamedan Air Base</a><sup id=\"cite_ref-IATA_1-123\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (Nogeh Airport)</td>
+<td><a href=\"/wiki/Hamadan\" title=\"Hamadan\">Hamadan</a>, <a href=\"/wiki/Iran\" title=\"Iran\">Iran</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NUK</td>
+<td>NTGW</td>
+<td><a href=\"/wiki/Nukutavake_Airport\" title=\"Nukutavake Airport\">Nukutavake Airport</a></td>
+<td><a href=\"/wiki/Nukutavake\" title=\"Nukutavake\">Nukutavake</a>, <a href=\"/wiki/Tuamotus\" title=\"Tuamotus\">Tuamotus</a>, <a href=\"/wiki/French_Polynesia\" title=\"French Polynesia\">French Polynesia</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NUL</td>
+<td>PANU</td>
+<td><a href=\"/wiki/Nulato_Airport\" title=\"Nulato Airport\">Nulato Airport</a></td>
+<td><a href=\"/wiki/Nulato,_Alaska\" title=\"Nulato, Alaska\">Nulato</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NUN</td>
+<td>KNUN</td>
+<td><a href=\"/wiki/Saufley_Field\" title=\"Saufley Field\">NOLF Saufley Field</a></td>
+<td><a href=\"/wiki/Pensacola,_Florida\" title=\"Pensacola, Florida\">Pensacola</a>, <a href=\"/wiki/Florida\" title=\"Florida\">Florida</a>, United States</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NUP</td>
+<td></td>
+<td><a href=\"/wiki/Nunapitchuk_Airport\" title=\"Nunapitchuk Airport\">Nunapitchuk Airport</a> (FAA: 16A)</td>
+<td><a href=\"/wiki/Nunapitchuk,_Alaska\" title=\"Nunapitchuk, Alaska\">Nunapitchuk</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NUQ</td>
+<td>KNUQ</td>
+<td><a href=\"/wiki/Moffett_Federal_Airfield\" title=\"Moffett Federal Airfield\">Moffett Federal Airfield</a></td>
+<td><a href=\"/wiki/Mountain_View,_California\" title=\"Mountain View, California\">Mountain View</a>, <a href=\"/wiki/California\" title=\"California\">California</a>, United States</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NUR</td>
+<td>YNUB</td>
+<td><a href=\"/w/index.php?title=Nullabor_Motel_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Nullabor Motel Airport (page does not exist)\">Nullabor Motel Airport</a><sup id=\"cite_ref-IATA_1-124\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Nullarbor,_South_Australia\" title=\"Nullarbor, South Australia\">Nullarbor</a>, <a href=\"/wiki/South_Australia\" title=\"South Australia\">South Australia</a>, Australia</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NUS</td>
+<td>NVSP</td>
+<td><a href=\"/wiki/Norsup_Airport\" title=\"Norsup Airport\">Norsup Airport</a></td>
+<td><a href=\"/wiki/Norsup\" title=\"Norsup\">Norsup</a>, <a href=\"/wiki/Malakula\" title=\"Malakula\">Malakula</a>, <a href=\"/wiki/Vanuatu\" title=\"Vanuatu\">Vanuatu</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NUT</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Nutuve_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Nutuve Airport (page does not exist)\">Nutuve Airport</a><sup id=\"cite_ref-IATA_1-125\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Nutuve&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Nutuve (page does not exist)\">Nutuve</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NUU</td>
+<td>HKNK</td>
+<td><a href=\"/wiki/Nakuru_Airport\" title=\"Nakuru Airport\">Nakuru Airport</a><sup id=\"cite_ref-IATA_1-126\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Nakuru\" title=\"Nakuru\">Nakuru</a>, <a href=\"/wiki/Kenya\" title=\"Kenya\">Kenya</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NUW</td>
+<td>KNUW</td>
+<td><a href=\"/wiki/Naval_Air_Station_Whidbey_Island\" title=\"Naval Air Station Whidbey Island\">NAS Whidbey Island</a> (Ault Field)</td>
+<td><a href=\"/wiki/Oak_Harbor,_Washington\" title=\"Oak Harbor, Washington\">Oak Harbor</a>, <a href=\"/wiki/Washington_(state)\" title=\"Washington (state)\">Washington</a>, United States</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NUX</td>
+<td>USMU</td>
+<td><a href=\"/wiki/Novy_Urengoy_Airport\" title=\"Novy Urengoy Airport\">Novy Urengoy Airport</a></td>
+<td><a href=\"/wiki/Novy_Urengoy\" title=\"Novy Urengoy\">Novy Urengoy</a>, <a href=\"/wiki/Yamalo-Nenets_Autonomous_Okrug\" title=\"Yamalo-Nenets Autonomous Okrug\">Yamalo-Nenets Autonomous Okrug</a>, Russia</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NVA</td>
+<td>SKNV</td>
+<td><a href=\"/wiki/Benito_Salas_Airport\" title=\"Benito Salas Airport\">Benito Salas Airport</a></td>
+<td><a href=\"/wiki/Neiva,_Huila\" title=\"Neiva, Huila\">Neiva</a>, <a href=\"/wiki/Colombia\" title=\"Colombia\">Colombia</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NVD</td>
+<td>KNVD</td>
+<td><a href=\"/w/index.php?title=Nevada_Municipal_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Nevada Municipal Airport (page does not exist)\">Nevada Municipal Airport</a></td>
+<td><a href=\"/wiki/Nevada,_Missouri\" title=\"Nevada, Missouri\">Nevada</a>, <a href=\"/wiki/Missouri\" title=\"Missouri\">Missouri</a>, United States</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NVG</td>
+<td>MNNG</td>
+<td><a href=\"/wiki/Nueva_Guinea_Airport\" title=\"Nueva Guinea Airport\">Nueva Guinea Airport</a><sup id=\"cite_ref-IATA_1-127\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Nueva_Guinea\" title=\"Nueva Guinea\">Nueva Guinea</a>, <a href=\"/wiki/Nicaragua\" title=\"Nicaragua\">Nicaragua</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NVI</td>
+<td>UTSA</td>
+<td><a href=\"/wiki/Navoi_International_Airport\" title=\"Navoi International Airport\">Navoi International Airport</a><sup id=\"cite_ref-IATA_1-128\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Navoiy\" title=\"Navoiy\">Navoiy</a>, <a href=\"/wiki/Uzbekistan\" title=\"Uzbekistan\">Uzbekistan</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NVK</td>
+<td>ENNK</td>
+<td><a href=\"/wiki/Narvik_Airport,_Framnes\" title=\"Narvik Airport, Framnes\">Narvik Airport, Framnes</a></td>
+<td><a href=\"/wiki/Narvik\" title=\"Narvik\">Narvik</a>, <a href=\"/wiki/Norway\" title=\"Norway\">Norway</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NVN</td>
+<td></td>
+<td><a href=\"/wiki/Nervino_Airport\" title=\"Nervino Airport\">Nervino Airport</a> (FAA: O02)</td>
+<td><a href=\"/wiki/Beckwourth,_California\" title=\"Beckwourth, California\">Beckwourth</a>, <a href=\"/wiki/California\" title=\"California\">California</a>, United States</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NVP</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Novo_Aripuan%C3%A3_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Novo Aripuan\u00e3 Airport (page does not exist)\">Novo Aripuan\u00e3 Airport</a><sup id=\"cite_ref-IATA_1-129\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Novo_Aripuan%C3%A3\" title=\"Novo Aripuan\u00e3\">Novo Aripuan\u00e3</a>, <a href=\"/wiki/Amazonas_(Brazilian_state)\" title=\"Amazonas (Brazilian state)\">Amazonas</a>, Brazil</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NVR</td>
+<td>ULNN</td>
+<td><a href=\"/wiki/Novgorod_Airport\" title=\"Novgorod Airport\">Novgorod Airport</a></td>
+<td><a href=\"/wiki/Veliky_Novgorod\" title=\"Veliky Novgorod\">Veliky Novgorod</a>, <a href=\"/wiki/Novgorod_Oblast\" title=\"Novgorod Oblast\">Novgorod Oblast</a>, Russia</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NVS</td>
+<td>LFQG</td>
+<td><a href=\"/w/index.php?title=Nevers_-_Fourchambault_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Nevers - Fourchambault Airport (page does not exist)\">Nevers - Fourchambault Airport</a><sup id=\"cite_ref-IATA_1-130\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Nevers\" title=\"Nevers\">Nevers</a>, <a href=\"/wiki/Burgundy\" title=\"Burgundy\">Burgundy</a>, France</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NVT</td>
+<td>SBNF</td>
+<td><a href=\"/wiki/Navegantes_Airport\" title=\"Navegantes Airport\">Navegantes\u2013Ministro Victor Konder International Airport</a></td>
+<td><a href=\"/wiki/Navegantes\" title=\"Navegantes\">Navegantes</a>, <a href=\"/wiki/Santa_Catarina_(state)\" title=\"Santa Catarina (state)\">Santa Catarina</a>, Brazil</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NVY</td>
+<td>VONV</td>
+<td><a href=\"/wiki/Neyveli_Airport\" title=\"Neyveli Airport\">Neyveli Airport</a></td>
+<td><a href=\"/wiki/Neyveli\" title=\"Neyveli\">Neyveli</a>, <a href=\"/wiki/Tamil_Nadu\" title=\"Tamil Nadu\">Tamil Nadu</a>, India</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NWA</td>
+<td>FMCI</td>
+<td><a href=\"/wiki/Moh%C3%A9li_Bandar_Es_Eslam_Airport\" title=\"Moh\u00e9li Bandar Es Eslam Airport\">Moh\u00e9li Bandar Es Eslam Airport</a><sup id=\"cite_ref-IATA_1-131\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Moh%C3%A9li\" title=\"Moh\u00e9li\">Moh\u00e9li</a>, <a href=\"/wiki/Comoros\" title=\"Comoros\">Comoros</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NWH</td>
+<td></td>
+<td><a href=\"/wiki/Parlin_Field\" title=\"Parlin Field\">Parlin Field</a> (FAA: 2B3)</td>
+<td><a href=\"/wiki/Newport,_New_Hampshire\" title=\"Newport, New Hampshire\">Newport</a>, <a href=\"/wiki/New_Hampshire\" title=\"New Hampshire\">New Hampshire</a>, United States</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NWI</td>
+<td>EGSH</td>
+<td><a href=\"/wiki/Norwich_International_Airport\" class=\"mw-redirect\" title=\"Norwich International Airport\">Norwich International Airport</a></td>
+<td><a href=\"/wiki/Norwich\" title=\"Norwich\">Norwich</a>, <a href=\"/wiki/England\" title=\"England\">England</a>, United Kingdom</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NWT</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Nowata_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Nowata Airport (page does not exist)\">Nowata Airport</a><sup id=\"cite_ref-IATA_1-132\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Nowata,_Papua_New_Guinea&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Nowata, Papua New Guinea (page does not exist)\">Nowata</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NYA</td>
+<td>USHN</td>
+<td><a href=\"/wiki/Nyagan_Airport\" title=\"Nyagan Airport\">Nyagan Airport</a></td>
+<td><a href=\"/wiki/Nyagan\" title=\"Nyagan\">Nyagan</a>, <a href=\"/wiki/Khanty-Mansi_Autonomous_Okrug\" title=\"Khanty-Mansi Autonomous Okrug\">Khanty-Mansi Autonomous Okrug</a>, Russia</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NYC<sup id=\"cite_ref-IATA_1-133\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td></td>
+<td>metropolitan area<sup class=\"reference plainlinks nourlexpansion\" id=\"ref_2\"><a href=\"#endnote_2\">2</a></sup></td>
+<td><a href=\"/wiki/New_York_City\" title=\"New York City\">New York City</a>, <a href=\"/wiki/New_York_(state)\" title=\"New York (state)\">New York</a>, United States</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NYE</td>
+<td>HKNI</td>
+<td><a href=\"/wiki/Nyeri_Airport\" title=\"Nyeri Airport\">Nyeri Airport</a><sup id=\"cite_ref-IATA_1-134\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Nyeri\" title=\"Nyeri\">Nyeri</a>, <a href=\"/wiki/Kenya\" title=\"Kenya\">Kenya</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NYG</td>
+<td>KNYG</td>
+<td><a href=\"/wiki/Marine_Corps_Air_Facility_Quantico\" title=\"Marine Corps Air Facility Quantico\">MCAF Quantico</a> (Turner Field)</td>
+<td><a href=\"/wiki/Quantico,_Virginia\" title=\"Quantico, Virginia\">Quantico</a>, <a href=\"/wiki/Virginia\" title=\"Virginia\">Virginia</a>, United States</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NYI</td>
+<td>DGSN</td>
+<td><a href=\"/wiki/Sunyani_Airport\" title=\"Sunyani Airport\">Sunyani Airport</a></td>
+<td><a href=\"/wiki/Sunyani\" title=\"Sunyani\">Sunyani</a>, <a href=\"/wiki/Ghana\" title=\"Ghana\">Ghana</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NYK</td>
+<td>HKNY</td>
+<td><a href=\"/wiki/Nanyuki_Airport\" title=\"Nanyuki Airport\">Nanyuki Airport</a></td>
+<td><a href=\"/wiki/Nanyuki\" title=\"Nanyuki\">Nanyuki</a>, <a href=\"/wiki/Kenya\" title=\"Kenya\">Kenya</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NYM</td>
+<td>USMM</td>
+<td><a href=\"/wiki/Nadym_Airport\" title=\"Nadym Airport\">Nadym Airport</a></td>
+<td><a href=\"/wiki/Nadym\" title=\"Nadym\">Nadym</a>, <a href=\"/wiki/Yamalo-Nenets_Autonomous_Okrug\" title=\"Yamalo-Nenets Autonomous Okrug\">Yamalo-Nenets Autonomous Okrug</a>, Russia</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NYN</td>
+<td>YNYN</td>
+<td><a href=\"/wiki/Nyngan_Airport\" title=\"Nyngan Airport\">Nyngan Airport</a><sup id=\"cite_ref-IATA_1-135\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Nyngan\" title=\"Nyngan\">Nyngan</a>, <a href=\"/wiki/New_South_Wales\" title=\"New South Wales\">New South Wales</a>, Australia</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NYO</td>
+<td>ESKN</td>
+<td><a href=\"/wiki/Stockholm_Skavsta_Airport\" title=\"Stockholm Skavsta Airport\">Stockholm Skavsta Airport</a></td>
+<td><a href=\"/wiki/Stockholm\" title=\"Stockholm\">Stockholm</a> / <a href=\"/wiki/Nyk%C3%B6ping\" title=\"Nyk\u00f6ping\">Nyk\u00f6ping</a>, <a href=\"/wiki/Sweden\" title=\"Sweden\">Sweden</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NYR</td>
+<td>UENN</td>
+<td><a href=\"/wiki/Nyurba_Airport\" title=\"Nyurba Airport\">Nyurba Airport</a></td>
+<td><a href=\"/wiki/Nyurba\" title=\"Nyurba\">Nyurba</a>, <a href=\"/wiki/Sakha_Republic\" title=\"Sakha Republic\">Yakutia</a>, Russia</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NYT</td>
+<td>VYNT</td>
+<td><a href=\"/wiki/Naypyidaw_Airport\" class=\"mw-redirect\" title=\"Naypyidaw Airport\">Naypyidaw Airport</a></td>
+<td><a href=\"/wiki/Naypyidaw\" title=\"Naypyidaw\">Naypyidaw</a> (Nay Pyi Taw), <a href=\"/wiki/Myanmar\" title=\"Myanmar\">Myanmar</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NYU</td>
+<td>VYBG</td>
+<td><a href=\"/wiki/Nyaung_U_Airport\" title=\"Nyaung U Airport\">Nyaung U Airport</a></td>
+<td><a href=\"/wiki/Bagan\" title=\"Bagan\">Bagan</a> / <a href=\"/wiki/Nyaung-U\" title=\"Nyaung-U\">Nyaung-U</a>, <a href=\"/wiki/Myanmar\" title=\"Myanmar\">Myanmar</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NYW</td>
+<td>VYMY</td>
+<td><a href=\"/w/index.php?title=Monywa_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Monywa Airport (page does not exist)\">Monywa Airport</a><sup id=\"cite_ref-IATA_1-136\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Monywa\" title=\"Monywa\">Monywa</a>, <a href=\"/wiki/Myanmar\" title=\"Myanmar\">Myanmar</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NZA</td>
+<td>FNZG</td>
+<td><a href=\"/wiki/Nzagi_Airport\" title=\"Nzagi Airport\">Nzagi Airport</a></td>
+<td><a href=\"/wiki/Nzagi_(Andrada)\" title=\"Nzagi (Andrada)\">Nzagi</a>, <a href=\"/wiki/Angola\" title=\"Angola\">Angola</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NZC</td>
+<td>SPZA</td>
+<td><a href=\"/wiki/Maria_Reiche_Neuman_Airport\" title=\"Maria Reiche Neuman Airport\">Maria Reiche Neuman Airport</a></td>
+<td><a href=\"/wiki/Nazca\" title=\"Nazca\">Nazca</a>, <a href=\"/wiki/Peru\" title=\"Peru\">Peru</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NZE</td>
+<td>GUNZ</td>
+<td><a href=\"/wiki/Nz%C3%A9r%C3%A9kor%C3%A9_Airport\" title=\"Nz\u00e9r\u00e9kor\u00e9 Airport\">Nz\u00e9r\u00e9kor\u00e9 Airport</a></td>
+<td><a href=\"/wiki/Nz%C3%A9r%C3%A9kor%C3%A9\" title=\"Nz\u00e9r\u00e9kor\u00e9\">Nz\u00e9r\u00e9kor\u00e9</a>, <a href=\"/wiki/Guinea\" title=\"Guinea\">Guinea</a></td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NZH</td>
+<td>ZBMZ</td>
+<td><a href=\"/wiki/Manzhouli_Xijiao_Airport\" title=\"Manzhouli Xijiao Airport\">Manzhouli Xijiao Airport</a><sup id=\"cite_ref-IATA_1-137\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Manzhouli\" title=\"Manzhouli\">Manzhouli</a>, <a href=\"/wiki/Inner_Mongolia\" title=\"Inner Mongolia\">Inner Mongolia</a>, China</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NZL</td>
+<td></td>
+<td><a href=\"/wiki/Zhalantun_Airport\" class=\"mw-redirect\" title=\"Zhalantun Airport\">Zhalantun Chengjisihan Airport</a><sup id=\"cite_ref-IATA_1-138\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Zhalantun\" class=\"mw-redirect\" title=\"Zhalantun\">Zhalantun</a>, <a href=\"/wiki/Inner_Mongolia\" title=\"Inner Mongolia\">Inner Mongolia</a>, China</td>
+
+<td></td>
+
+<td>
+</td></tr>
+<tr>
+<td>NZY</td>
+<td>KNZY</td>
+<td><a href=\"/wiki/Naval_Air_Station_North_Island\" title=\"Naval Air Station North Island\">NAS North Island</a> (Halsey Field)</td>
+<td><a href=\"/wiki/San_Diego\" title=\"San Diego\">San Diego</a>, <a href=\"/wiki/California\" title=\"California\">California</a>, United States</td>
+
+<td></td>
+
+<td>
+</td></tr>

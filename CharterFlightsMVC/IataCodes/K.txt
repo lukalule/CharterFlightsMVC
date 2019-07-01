@@ -1,0 +1,505 @@
+KAA, Kasama, Zambia
+KAB, Kariba, Zimbabwe
+KAC, (Kamishly), Syria
+KAD,Kaduna, Nigeria
+KAE, Kake, Alaska, United States
+KAF, Karato, Papua New Guinea
+KAG,Gangneung, South Korea
+KAI,Kaieteur, Guyana
+KAJ,Kajaani, Finland
+KAK, Kar, Papua New Guinea
+KAL, Kaltag, Alaska, United States
+KAM,Kamaran, Yemen
+KAN,Kano, Nigeria
+KAO,Kuusamo, Finland
+KAP,Kapanga, Democratic Republic of the Congo
+KAQ,Kamulai, Papua New Guinea
+KAR,Kamarang, Guyana
+KAS,Karasburg, Namibia
+KAT,Kaitaia, New Zealand
+KAU,Kauhava, Finland
+KAV,Kavanay\u00e9n, Venezuela
+KAW,Kawthaung, Myanmar
+KAX, Kalbarri, Western Australia, Australia
+KAY,Wakaya Island, Fiji
+KAZ, Kao, Indonesia
+KBA, Kabala, Sierra Leone
+KBB,Kirkimbie Station, Northern Territory, Australia
+KBC, Birch Creek, Alaska, United States
+KBD,Kimberley Downs, Western Australia, Australia
+KBE,Bell Island, Alaska, United States
+KBF,Karubaga, Indonesia
+KBG,Kabalega Falls, Uganda
+KBI,Kribi, Cameroon
+KBJ,Kings Canyon, Northern Territory, Australia
+KBL,Kabul, Afghanistan
+KBM,Kabwum, Papua New Guinea
+KBN,Kabinda, Democratic Republic of the Congo
+KBO,Kabalo, Democratic Republic of the Congo
+KBP,Kiev, Ukraine
+KBQ,Kasungu, Malawi
+KBR,Kota Bharu, Kelantan, Malaysia
+KBS, Bo, Sierra Leone
+KBT,Kaben, Maloelap Atoll, Marshall Islands
+KBU,Kotabaru, Indonesia
+KBV,Krabi, Thailand
+KBW, Chignik, Alaska, United States
+KBX,Ayamaru, Indonesia
+KBY, Streaky Bay, South Australia, Australia
+KBZ,Kaikoura, New Zealand
+KCA,Kuqa, Xinjiang, China
+KCB,Kasikasima, Suriname
+KCC, Coffman Cove, Alaska, United States
+KCD,Kamur, Indonesia
+KCE, Collinsville, Queensland, Australia
+KCF,Kadanwari, Pakistan
+<s>, Chignik, Alaska, United States
+KCH,Kuching, Sarawak, Malaysia
+KCI, Kon, East Timor
+KCJ,Komaio, Papua New Guinea
+KCK,Kirensk, Irkutsk Oblast, Russia
+KCL, Chignik Lagoon, Alaska, United States
+KCM,Kahramanmara\u015f, Turkey
+KCN,Chernofski Harbor, Alaska, United States
+KCO,\u0130zmit, Turkey
+KCP,Kamianets-Podilskyi, Ukraine
+KCQ, Chignik Lake, Alaska, United States
+KCR, Colorado Creek, Alaska, United States
+KCS,Kings Creek Station, Northern Territory, Australia
+KCT,Koggala, Sri Lanka
+KCU,Masindi, Uganda
+KCZ, K\u014dchi, Shikoku, Japan
+KDA,Kolda, Senegal
+KDB, Kambalda, Western Australia, Australia
+KDC, Kandi, Benin
+KDD,Khuzdar, Pakistan
+KDE,Koroba, Papua New Guinea
+KDH,Kandahar, Afghanistan
+KDI,Kendari, Indonesia
+KDJ,Ndjol\u00e9, Gabon
+KDK, Kodiak, Alaska, United States
+KDL,K\u00e4rdla, Estonia
+KDM,Kaadedhdhoo Island, Gaafu Dhaalu Atoll, Maldives
+KDN,Ndend\u00e9, Gabon
+KDO,Kadhdhoo Island, Laamu Atoll, Maldives
+KDP,Kandep, Papua New Guinea
+KDQ,Kamberatoro, Papua New Guinea
+KDR,Kandrian, Papua New Guinea
+KDS,Kamaran Downs, Queensland, Australia
+KDT,Kamphaeng Saen, Thailand
+KDU,Skardu, Pakistan
+KDV,Vunisea, Kadavu Island, Fiji
+KDW,Kandy, Sri Lanka
+KDX, (Kadugli), Sudan
+KDY,Khandyga, Yakutia, Russia
+KDZ,Kandy, Sri Lanka
+KEB, Nanwalek, Alaska, United States
+KEC,Kasenga, Democratic Republic of the Congo
+KED,Ka\u00e9di, Mauritania
+KEE,Kell\u00e9, Republic of the Congo
+KEF,Reykjav\u00edk, Iceland
+KEG,Keglsugl, Papua New Guinea
+KEH, Kenmore, Washington, United States
+KEI, Kepi, Indonesia
+KEJ,Kemerovo, Kemerovo Oblast, Russia
+KEK, Ekwok, Alaska, United States
+KEL,Kiel, Schleswig-Holstein, Germany
+KEM,Tornio, Finland
+KEN,Kenema, Sierra Leone
+KEO,Odienn\u00e9, Ivory Coast
+KEP,Nepalgunj, Nepal
+KEQ, Kebar, Indonesia
+KER,Kerman, Iran
+KES, Kelsey, Manitoba, Canada
+KET,Kengtung, Myanmar
+KEU,Keekorok, Kenya
+KEV,Kuorevesi, Finland
+KEW,Keewaywin, Ontario, Canada
+KEX,Kanabea, Papua New Guinea
+KEY,Kericho, Kenya
+KEZ,Colombo, Sri Lanka
+KFA,Kiffa, Mauritania
+KFE,Cloudbreak, Western Australia, Australia
+KFG,Kalkarindji, Northern Territory, Australia
+KFP, False Pass, Alaska, United States
+KFS,Kastamonu, Turkey
+KGA,Kananga, Democratic Republic of the Congo
+KGB, Konge, Papua New Guinea
+KGC, Kingscote, South Australia, Australia
+KGD,Kaliningrad, Kaliningrad Oblast, Russia
+KGE,Kaghau Island, Solomon Islands
+KGF,Karaganda, Kazakhstan
+KGG,K\u00e9dougou, Senegal
+KGH,Yongai, Papua New Guinea
+KGI,Kalgoorlie, Western Australia, Australia
+KGJ,Karonga, Malawi
+KGK, Koliganek, Alaska, United States
+KGL,Kigali, Rwanda
+KGM,Kungim, Papua New Guinea
+KGN,Kasongo Lunda, Democratic Republic of the Congo
+KGO,Kropyvnytskyi, Ukraine
+KGP,Kogalym, Khanty-Mansi Autonomous Okrug, Russia
+KGR, Kulgera, Northern Territory, Australia
+KGS,Kos, Greece
+KGT,Kangding, Sichuan, China
+KGU,Keningau, Sabah, Malaysia
+KGW, Kagi, Papua New Guinea
+KGX, Grayling, Alaska, United States
+KGY,Kingaroy, Queensland, Australia
+KGZ, Glacier Creek, Alaska, United States
+KHA, (Khaneh), Iran
+KHC,Kerch, Ukraine
+KHD,Khorramabad, Iran
+KHE,Kherson, Ukraine
+KHG,Kashgar, Xinjiang, China
+KHH,Kaohsiung, Taiwan
+KHI,Karachi, Pakistan
+KHJ,Kauhajoki, Finland
+KHK,Kharg Island, Iran
+KHM,Khamti, Myanmar
+KHN,Nanchang, Jiangxi, China
+KHO,Manyeleti, South Africa
+KHR,Kharkhorin, Mongolia
+KHS,Khasab, Oman
+KHT,Khost, Afghanistan
+KHU,Kremenchuk, Ukraine
+KHV,Khabarovsk, Khabarovsk Krai, Russia
+KHW,Khwai River Lodge, Botswana
+KHX,Kihihi, Uganda
+KHY,Khoy, Iran
+KHZ,Kauehi, Tuamotus, French Polynesia
+KIA,Kaiapit, Papua New Guinea
+KIB, Ivanof Bay, Alaska, United States
+KIC, King City, California, United States
+KID,Kristianstad, Sweden
+KIE,Kieta, Papua New Guinea
+KIF,Kingfisher Lake, Ontario, Canada
+KIG,Koingnaas, South Africa
+KIH,Kish Island, Iran
+KII, Kibuli, Papua New Guinea
+KIJ, Niigata, Honshu, Japan
+KIK,Kirkuk, Iraq
+KIL, Kilwa, Democratic Republic of the Congo
+KIM, Kimberley, South Africa
+KIN, Kingston, Jamaica
+KIO,Kili Island, Marshall Islands
+KIP, Wichita Falls, Texas, United States
+KIQ, Kira, Papua New Guinea
+KIR,Kerry, Ireland
+KIS,Kisumu, Kenya
+KIT,Kythira, Greece
+KIU, Kiunga, Kiunga, Kenya
+KIV,Chi\u0219in\u0103u, Moldova
+KIW,Kitwe, Zambia
+KIX,Osaka, Honshu, Japan
+KIY,Kilwa Masoko, Tanzania
+KIZ,Kikinonda, Papua New Guinea
+KJA,Krasnoyarsk, Krasnoyarsk Krai, Russia
+KJH,Kaili, Guizhou, China
+KJI,Burqin, Xinjiang, China
+KJK,Kortrijk, Belgium
+KJP,Fukaji Island, Kerama Islands, Japan
+KJT,Majalengka, West Java, Indonesia
+KJU,Kamiraba, Papua New Guinea
+KJX,Blangpidie, Southwest Aceh Regency, Indonesia
+KKA, Koyuk, Alaska, United States
+KKB, Kitoi Bay, Alaska, United States
+KKC,Khon Kaen, Thailand
+KKD,Kokoda, Papua New Guinea
+KKE,Kerikeri, New Zealand
+KKG,Konawaruk, Guyana
+KKH, Kongiganak, Alaska, United States
+KKI, Akiachak, Alaska, United States
+KKJ,Kitakyushu, Kyushu, Japan
+KKK, Google Earth view
+KKL, Karluk Lake, Alaska, United States
+KKM,Lopburi, Thailand
+KKN,Kirkenes, Norway
+KKO,Kaikohe, New Zealand
+KKP, Koolburra, Queensland, Australia
+KKQ,Krasnoselkup, Yamalo-Nenets Autonomous Okrug, Russia
+KKR,Kaukura Atoll, Tuamotus, French Polynesia
+KKT, Kentland, Indiana, United States
+KKU, Ekuk, Alaska, United States
+KKW,Kikwit, Democratic Republic of the Congo
+KKX, Kikai, Satsunan Islands, Japan
+KKY,Kilkenny, Ireland
+KKZ,Koh Kong, Cambodia
+KLB,Kalabo, Zambia
+KLC,Kaolack, Senegal
+KLD,Tver, Tver Oblast, Russia
+KLE,Ka\u00e9l\u00e9, Cameroon
+KLF,Kaluga, Kaluga Oblast, Russia
+KLG, Kalskag, Alaska, United States
+KLH,Kolhapur, Maharashtra, India
+KLI,Kotakoli, Democratic Republic of the Congo
+KLK,Kalokol, Kenya
+KLL, Levelock, Alaska, United States
+KLM,Kalaleh, Iran
+KLN, Larsen Bay, Alaska, United States
+KLO,Kalibo, Philippines
+KLQ,Keluang, Indonesia
+KLR,Kalmar, Sweden
+KLS, Kelso, Washington, United States
+KLU,Klagenfurt, Austria
+KLV,Karlovy Vary, Czech Republic
+KLW, Klawock, Alaska, United States
+KLX,Kalamata, Greece
+KLY, Kalima, Democratic Republic of the Congo
+KLZ,Kleinzee, South Africa
+KMA,Kerema, Papua New Guinea
+KMB,Koinambe, Papua New Guinea
+KMC,King Khalid Military City, Saudi Arabia
+KME,Cyangugu, Rwanda
+KMF, Kamina, Papua New Guinea
+KMG,Kunming, Yunnan, China
+KMH,Kuruman, South Africa
+KMI, Miyazaki, Kyushu, Japan
+KMJ, Mashiki, Kyushu, Japan
+KMK,Makabana, Republic of the Congo
+KML,Kamileroi, Queensland, Australia
+KMM,Kimam, Indonesia
+KMN,Kamina, Democratic Republic of the Congo
+KMO, Manokotak, Alaska, United States
+KMP,Keetmanshoop, Namibia
+KMQ, Komatsu, Honshu, Japan
+KMR,Karimui, Papua New Guinea
+KMS,Kumasi, Ghana
+KMT,Kampot, Cambodia
+KMU,Kismayo, Somalia
+KMV,Kalaymyo, Myanmar
+KMW,Kostroma, Kostroma Oblast, Russia
+KMX,Khamis Mushait, Saudi Arabia
+KMY, Moser Bay, Alaska, United States
+KMZ, Kaoma, Zambia
+KNA,Vi\u00f1a del Mar, Chile
+KNB, Kanab, Utah, United States
+KND,Kindu, Democratic Republic of the Congo
+KNE,Kanainj, Papua New Guinea
+KNF,King's Lynn, England, United Kingdom
+KNG,Kaimana, Indonesia
+KNH,Kinmen, Taiwan
+KNI, Katanning, Western Australia, Australia
+KNJ,Kindamba, Republic of the Congo
+KNK, Kokhanok, Alaska, United States
+KNL,Kelanoa, Papua New Guinea
+KNM,Kaniama, Democratic Republic of the Congo
+KNN,Kankan, Guinea
+KNO,Medan, Indonesia
+KNP,Capanda, Angola
+KNQ, Kon\u00e9, New Caledonia
+KNR,Kangan, Iran
+KNS,King Island, Tasmania, Australia
+KNT, Kennett, Missouri, United States
+KNU,Kanpur, Uttar Pradesh, India
+KNW, New Stuyahok, Alaska, United States
+KNX, Kununurra, Western Australia, Australia
+KNZ,K\u00e9ni\u00e9ba, Mali
+KOA, Kona, Hawaii, United States
+KOC,Koumac, New Caledonia
+KOD,Kotabangun, Indonesia
+KOE,Kupang, Indonesia
+KOF,Komatipoort, South Africa
+KOG,Khong, Laos
+KOH, Koolatah, Queensland, Australia
+KOI,Kirkwall, Scotland, United Kingdom
+KOJ,Kagoshima, Kyushu, Japan
+KOK,Jakobstad, Finland
+KOL,Koumala, Central African Republic
+KOM,Komo-Manda, Papua New Guinea
+KON,Kon Tum, Vietnam
+KOO, Kongolo, Democratic Republic of the Congo
+KOP,Nakhon Phanom, Thailand
+KOQ,K\u00f6then, Saxony-Anhalt, Germany
+KOR, Kakoro, Papua New Guinea
+KOS,Sihanoukville, Cambodia
+KOT, Kotlik, Alaska, United States
+KOU,Koulamoutou, Gabon
+KOV,Kokshetau, Kazakhstan
+KOW,Ganzhou, Jiangxi, China
+KOX,Kokonao, Indonesia
+KOY, Olga Bay, Alaska, United States
+KOZ, Ouzinkie, Alaska, United States
+KPA,Kopiago, Papua New Guinea
+KPB, Point Baker, Alaska, United States
+KPC, Port Clarence, Alaska, United States
+KPE,Yapsiei, Papua New Guinea
+KPF,Kondubol, Papua New Guinea
+KPG,Kurupung, Guyana
+KPI,Kapit, Sarawak, Malaysia
+KPL, Kapal, Papua New Guinea
+KPM,Kompiam, Papua New Guinea
+KPN, Kipnuk, Alaska, United States
+KPO,Pohang, South Korea
+KPP, Kalpowar, Queensland, Australia
+KPR, Port Williams, Alaska, United States
+KPS, Kempsey, New South Wales, Australia
+KPT, Jackpot, Nevada, United States
+KPV, Perryville, Alaska, United States
+KPW,Keperveyem, Chukotka, Russia
+KPY, Port Bailey, Alaska, United States
+KQA, Akutan, Alaska, United States
+KQH,Kishangarh, Rajasthan, India
+KQL, Kol, Papua New Guinea
+KQR, Karara, Western Australia, Australia
+KQT,Qurghonteppa, Tajikistan
+KRA,Kerang, Victoria, Australia
+KRB, Karumba, Queensland, Australia
+KRC,Kerinci, Indonesia
+KRD, Kurundi Station, Northern Territory, Australia
+KRE,Kirundo, Burundi
+KRF,Sollefte\u00e5, Sweden
+KRG,Karasabai, Guyana
+KRI,Kikori, Papua New Guinea
+KRJ,Karawari, Papua New Guinea
+KRK,Krak\u00f3w, Poland
+KRL,Korla, Xinjiang, China
+KRM,Karanambo, Guyana
+KRN,Kiruna, Sweden
+KRO, Kurgan, Kurgan Oblast, Russia
+KRP,Karup, Denmark
+KRQ,Kramatorsk, Ukraine
+KRR,Krasnodar, Krasnodar Krai, Russia
+KRS,Kristiansand, Norway
+KRT,Khartoum, Sudan
+KRU,Kerau, Papua New Guinea
+KRV,Kimwarer, Kenya
+KRW, T\u00fcrkmenba\u015fy, Turkmenistan
+KRX,Karkar Island, Papua New Guinea
+KRY,Karamay, Xinjiang, China
+KRZ, Kiri, Democratic Republic of the Congo
+KSA,Kosrae, Federated States of Micronesia
+KSB,Kasanombe, Papua New Guinea
+KSC,Ko\u0161ice, Slovakia
+KSD,Karlstad, Sweden
+KSE,Kasese, Uganda
+KSF,Kassel, Hesse, Germany
+KSG,Kisengam, Papua New Guinea
+KSH,Kermanshah, Iran
+KSI,Kissidougou, Guinea
+KSJ,Kasos Island, Greece
+KSK,Karlskoga, Sweden
+KSL,Kassala, Sudan
+KSM, St. Mary's, Alaska, United States
+KSN,Kostanay, Kazakhstan
+KSO,Kastoria, Greece
+KSP,Kosipe, Papua New Guinea
+KSQ,Karshi, Uzbekistan
+KSS,Sikasso, Mali
+KST, Kosti, Sudan
+KSU,Kristiansund, Norway
+KSV, Springvale, Queensland, Australia
+KSW,Kiryat Shmona, Israel
+KSX,Yasuru, Papua New Guinea
+KSY,Kars, Turkey
+KSZ,Kotlas, Arkhangelsk Oblast, Russia
+KTA, Karratha, Western Australia, Australia
+KTB, Thorne Bay, Alaska, United States
+KTC,Katiola, Ivory Coast
+KTD, Kitadaito, Dait\u014d Islands, Japan
+KTE,Kerteh, Terengganu, Malaysia
+KTF, Takaka, New Zealand
+KTG,Ketapang, Indonesia
+KTH, Tikchik, Alaska, United States
+KTI,Krati\u00e9, Cambodia
+KTJ,Kichwa Tembo, Kenya
+KTK, Kunua, Papua New Guinea
+KTL,Kitale, Kenya
+KTM,Kathmandu, Nepal
+KTN, Ketchikan, Alaska, United States
+KTO, Kato, Guyana
+KTP, Kingston, Jamaica
+KTQ,Kitee, Finland
+KTR, Katherine, Northern Territory, Australia
+KTS, Brevig Mission, Alaska, United States
+KTT,Kittil\u00e4, Finland
+KTU, Kota, Rajasthan, India
+KTV,Kamarata, Venezuela
+KTW,Katowice, Poland
+KTX,Koutiala, Mali
+KTY,Kalutara, Sri Lanka
+KUA,Kuantan, Pahang, Malaysia
+KUC,Kuria, Kiribati
+KUD,Kudat, Sabah, Malaysia
+KUE,Kolombangara, Western Province, Solomon Islands
+KUF, Samara, Samara Oblast, Russia
+KUG,Moa Island, Queensland, Australia
+KUH, Kushiro, Hokkaido, Japan
+KUK, Kasigluk, Alaska, United States
+KUL,Kuala Lumpur, Malaysia
+KUM, Yakushima, \u014csumi Islands, Japan
+KUN,Kaunas, Lithuania
+KUO,Kuopio, Finland
+KUP,Kupiano, Papua New Guinea
+KUQ, Kuri, Papua New Guinea
+KUR, (Kiran wa Munjan), Afghanistan
+KUS,Kulusuk, Greenland
+KUT,Kutaisi, Georgia
+KUU,Kullu, Himachal Pradesh, India
+KUV,Gunsan, South Korea
+KUX, Kuyol, Papua New Guinea
+KUY,Kamusi, Papua New Guinea
+KVA,Kavala, Greece
+KVB,Sk\u00f6vde, Sweden
+KVC, King Cove, Alaska, United States
+KVD, Ganja, Azerbaijan
+KVE,Kitava Island, Papua New Guinea
+KVG,Kavieng, Papua New Guinea
+KVK, Apatity, Murmansk Oblast, Russia
+KVL, Kivalina, Alaska, United States
+KVM, Markovo, Chukotka, Russia
+KVR,Kavalerovo, Primorsky Krai, Russia
+KVU,Korolevu, Fiji
+KVX, Kirov, Kirov Oblast, Russia
+KWA,Kwajalein, Marshall Islands
+KWB,Karimun Java, Indonesia
+KWD,Kavadja, Central African Republic
+KWE,Guiyang, Guizhou, China
+KWF, Waterfall, Alaska, United States
+KWG, (Krivoi Rog), Ukraine
+KWH, Khwahan, Afghanistan
+KWI,Kuwait City, Kuwait
+KWJ, (Kwangju), South Korea
+KWK, Kwigillingok, Alaska, United States
+KWL,Guilin, Guangxi, China
+KWM, Kowanyama, Queensland, Australia
+KWN, Quinhagak, Alaska, United States
+KWO,Kawito, Papua New Guinea
+KWP, West Point, Alaska, United States
+KWR,Kwai Harbour, Solomon Islands
+KWS,Kwailabesi, Solomon Islands
+KWT, Kwethluk, Alaska, United States
+KWV,Kurwina, Papua New Guinea
+KWX,Kiwai Island, Papua New Guinea
+KWY,Kiwayu, Kenya
+KWZ,Kolwezi, Democratic Republic of the Congo
+KXA, Kasaan, Alaska, United States
+KXD, Kondinskoye, Khanty-Mansi Autonomous Okrug, Russia
+KXE,Klerksdorp, South Africa
+KXF,Koro Island, Fiji
+KXK,Komsomolsk-on-Amur, Khabarovsk Krai, Russia
+KXR,Karoola, Papua New Guinea
+KXU,Katiu, Tuamotus, French Polynesia
+KYA,Konya, Turkey
+KYD,Orchid Island, Taiwan
+KYE, Tripoli, Lebanon
+KYF,Yeelirrie, Western Australia, Australia
+KYI, Yalata Mission, South Australia, Australia
+KYK, Karluk, Alaska, United States
+KYO, Tampa, Florida, United States
+KYP,Kyaukpyu, Myanmar
+KYS,Kayes, Mali
+KYT,Kyaukhtu, Myanmar
+KYU, Koyukuk, Alaska, United States
+KYX,Yalumet, Papua New Guinea
+KYZ,Kyzyl, Tuva, Russia
+KZB, Zachar Bay, Alaska, United States
+KZC,Kampong Chhnang, Cambodia
+KZD,Krakor, Cambodia
+KZF,Kaintiba, Papua New Guinea
+KZG,Kitzingen, Bavaria, Germany
+KZI,Kozani, Greece
+KZN,Kazan, Tatarstan, Russia
+KZO,Kyzylorda, Kazakhstan
+KZR,K\u00fctahya, Turkey
+KZS,Kastellorizo, Greece

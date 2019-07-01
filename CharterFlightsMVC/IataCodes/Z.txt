@@ -1,0 +1,117 @@
+ZAA, Alice Arm, British Columbia, Canada
+ZAC,York Landing, Manitoba, Canada
+ZAD,Zadar, Croatia
+ZAG,Zagreb, Croatia
+ZAH,Zahedan, Iran
+ZAJ,Zaranj, Afghanistan
+ZAL,Valdivia, Chile
+ZAM,Zamboanga City, Philippines
+ZAO,Cahors, Midi-Pyr\u00e9n\u00e9es, France
+ZAR,Zaria, Nigeria
+ZAT,Zhaotong, Yunnan, China
+ZAZ,Zaragoza, Aragon, Spain
+ZBE,Doln\u00ed Bene\u0161ov, Czech Republic
+ZBF, Bathurst, New Brunswick, Canada
+ZBK,\u017dabljak, Montenegro
+ZBL,Biloela, Queensland, Australia
+ZBM, Bromont, Quebec, Canada
+ZBO, Bowen, Queensland, Australia
+ZBR, (Chah Bahar), Iran
+ZBY, (Sayaboury), Laos
+ZCL,Zacatecas City, Zacatecas, Mexico
+ZCO,Temuco, Chile
+ZDY, (Delma Island), United Arab Emirates
+ZEC, Secunda, South Africa
+ZEG,Senggo, Indonesia
+ZEL, Bella Bella, British Columbia, Canada
+ZEM, Eastmain, Quebec, Canada
+ZEN,Zenag, Papua New Guinea
+ZER,Ziro, Arunachal Pradesh, India
+ZFA, Faro, Yukon, Canada
+ZFD,Fond-du-Lac, Saskatchewan, Canada
+ZFM, Fort McPherson, Northwest Territories, Canada
+ZFN,Tulita, Northwest Territories, Canada
+ZFW, Fairview, Alberta, Canada
+ZGF, Grand Forks, British Columbia, Canada
+ZGI, Gods River, Manitoba, Canada
+ZGL,South Galway Station, Queensland, Australia
+ZGM, Ngoma, Zambia
+ZGR,Little Grand Rapids, Manitoba, Canada
+ZGS, La Romaine, Quebec, Canada
+ZGU,Gaua, Vanuatu
+ZHA,Zhanjiang, Guangdong, China
+ZHM,Shamshernagar, Bangladesh
+ZHP,High Prairie, Alberta, Canada
+ZHY,Zhongwei, Ningxia, China
+ZHZ,Oppin, Saxony-Anhalt, Germany
+ZIA, Zhukovsky, Moscow Oblast, Russia
+ZIC, Victoria, Chile
+ZIG,Ziguinchor, Senegal
+ZIH,Zihuatanejo, Guerrero, Mexico
+ZIS,Zintan, Libya
+ZIX,Zhigansk, Yakutia, Russia
+ZIZ, Zamzama, Pakistan
+ZJG, Jenpeg, Manitoba, Canada
+ZJN, Swan River, Manitoba, Canada
+ZJT,Tanjung Pelepas, Johor, Malaysia
+ZKB,Kasaba Bay, Zambia
+ZKE,Kashechewan, Ontario, Canada
+ZKG,  (Kegashka), Quebec, Canada
+ZKP, Zyryanka, Yakutia, Russia
+ZLO, Manzanillo, Colima, Mexico
+ZLT,  (La Tabati\u00e8re), Quebec, Canada
+ZLW,Pasir Gudang, Johor, Malaysia
+ZLX, (Zalengei), Sudan
+ZMD,Sena Madureira, Acre, Brazil
+ZMH,108 Mile Ranch, British Columbia, Canada
+ZMM, Zamora, Michoac\u00e1n, Mexico
+ZMT,Masset, British Columbia, Canada
+ZNA,Nanaimo, British Columbia, Canada
+ZNC, Nyac, Alaska, United States
+ZND,Zinder, Niger
+ZNE, Newman, Western Australia, Australia
+ZNU, Namu, British Columbia, Canada
+ZNZ,Zanzibar, Tanzania
+ZOF,Ocean Falls, British Columbia, Canada
+ZOS, Osorno, Chile
+ZPB,Sachigo Lake, Ontario, Canada
+ZPC,Puc\u00f3n, Chile
+ZPH, Zephyrhills, Florida, United States
+ZPO,Pinehouse, Saskatchewan, Canada
+ZQN, Queenstown, New Zealand
+ZQS, Queen Charlotte, British Columbia, Canada
+ZQW,Zweibr\u00fccken, Rhineland-Palatinate, Germany
+ZQZ,Zhangjiakou, Hebei, China
+ZRH,Z\u00fcrich, Switzerland
+ZRI,Serui, Indonesia
+ZRJ, (Round Lake), Ontario, Canada
+ZRM,Sarmi, Indonesia
+ZSA,San Salvador Island, Bahamas
+ZSE, Saint-Pierre, R\u00e9union, France
+ZSJ,Sandy Lake, Ontario, Canada
+ZSS,Sassandra, Ivory Coast
+ZST, Stewart, British Columbia, Canada
+ZSW, Prince Rupert, British Columbia, Canada
+ZTA,Tureia, Tuamotus, French Polynesia
+ZTB, T\u00eate-\u00e0-la-Baleine, Quebec, Canada
+ZTH,Zakynthos, Greece
+ZTM, Shamattawa, Manitoba, Canada
+ZTR,Zhytomyr, Ukraine
+ZTS,Tahsis, British Columbia, Canada
+ZTU,Zaqatala, Azerbaijan
+ZUC,Ignace, Ontario, Canada
+ZUD,Ancud, Chile
+ZUH,Zhuhai, Guangdong, China
+ZUL, (Zilfi), Saudi Arabia
+ZUM,Churchill Falls, Newfoundland and Labrador, Canada
+ZVA,Miandrivazo, Madagascar
+ZVG, Springvale, Western Australia, Australia
+ZVK,Savannakhet, Laos
+ZWA,Andapa, Madagascar
+ZWL,Wollaston Lake, Saskatchewan, Canada
+ZXT,Baku, Azerbaijan
+ZYI,Zunyi, Guizhou, China
+ZYL,Sylhet, Bangladesh
+ZZO,Tymovskoye, Sakhalin Oblast, Russia
+ZZU,Mzuzu, Malawi
+ZZV, Zanesville, Ohio, United States

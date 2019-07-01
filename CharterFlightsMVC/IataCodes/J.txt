@@ -1,0 +1,162 @@
+JAA,Jalalabad, Afghanistan
+JAB, Jabiru, Northern Territory, Australia
+JAC, Jackson, Wyoming, United States
+JAD,Perth, Western Australia, Australia
+JAE, Ja\u00e9n, Peru
+JAF,Jaffna, Sri Lanka
+JAG,Jacobabad, Pakistan
+JAI,Jaipur, Rajasthan, India
+JAK,Jacmel, Haiti
+JAL, (Jalapa), Veracruz, Mexico
+JAM,Yambol, Bulgaria
+JAN, Jackson, Mississippi, United States
+JAP,Puntarenas, Costa Rica
+JAQ,Jacquinot Bay, Papua New Guinea
+JAR,Jahrom, Iran
+JAS, Jasper, Texas, United States
+JAT,Jabat Island, Marshall Islands
+JAU,Jauja, Peru
+JAV,Ilulissat, Greenland
+JAX, Jacksonville, Florida, United States
+JBB,Jember, Indonesia
+JBQ,La Isabela, Dominican Republic
+JBR, Jonesboro, Arkansas, United States
+JBT, Bethel, Alaska, United States
+JCB,Joa\u00e7aba, Santa Catarina, Brazil
+JCH,Qasigiannguit, Greenland
+JCI, Olathe, Kansas, United States
+JCK, Julia Creek, Queensland, Australia
+JCM,Jacobina, Bahia, Brazil
+JCR,Jacareacanga, Par\u00e1, Brazil
+JCT, Junction, Texas, United States
+JCY, Johnson City, Texas, United States
+JDA, John Day, Oregon, United States
+JDF,Juiz de Fora, Minas Gerais, Brazil
+JDG,Seogwipo, South Korea
+JDH,Jodhpur, Rajasthan, India
+JDN, Jordan, Montana, United States
+JDO,Juazeiro do Norte, Cear\u00e1, Brazil
+JDR,S\u00e3o Jo\u00e3o del Rei, Minas Gerais, Brazil
+JDZ,Jingdezhen, Jiangxi, China
+JED,Jeddah, Saudi Arabia
+JEE,J\u00e9r\u00e9mie, Haiti
+JEF, Jefferson City, Missouri, United States
+JEG,Aasiaat, Greenland
+JEJ,Jeh Island, Ailinglaplap Atoll, Marshall Islands
+JEK,Jeki, Zambia
+JEQ,Jequi\u00e9, Bahia, Brazil
+JER,Jersey, Channel Islands, United Kingdom
+JFK,New York City, New York, United States
+JFN, Ashtabula, Ohio, United States
+JFR,Paamiut, Greenland
+JGA,Jamnagar, Gujarat, India
+JGB,Jagdalpur, Chhattisgarh, India
+JGD,Jiagedaqi, Heilongjiang, China
+JGN,Jiayuguan, Gansu, China
+JGS,Ji'an, Jiangxi, China
+JHB,Johor Bahru, Johor, Malaysia
+JHG,Jinghong, Yunnan, China
+JHL,Fort McKay, Alberta, Canada
+JHM, Kapalua, Hawaii, United States
+JHS,Sisimiut, Greenland
+JHW, Jamestown, New York, United States
+JIA,Ju\u00edna, Mato Grosso, Brazil
+JIB,Djibouti, Djibouti
+JIC,Jinchang, Gansu, China
+JIJ,Jijiga, Ethiopia
+JIK,Ikaria Island, Greece
+JIL,Jilin City, Jilin, China
+JIM,Jimma, Ethiopia
+JIN, Jinja, Uganda
+JIP, Jipijapa, Ecuador
+JIQ,Qianjiang, Chongqing, China
+JIR,Jiri, Nepal
+JIU,Jiujiang, Jiangxi, China
+JIW,Jiwani, Pakistan
+JJA,Jajao, Isabel Province, Solomon Islands
+JJG,Jaguaruna, Santa Catarina, Brazil
+JJI,Juanju\u00ed, Peru
+JJM,Meru National Park, Kenya
+JJN,Quanzhou, Fujian, China
+JKG,J\u00f6nk\u00f6ping, Sweden
+JKH,Chios, Greece
+JKL,Kalymnos, Greece
+JKR,Janakpur, Nepal
+JKT,Jakarta, Indonesia
+JKV, Jacksonville, Texas, United States
+JLA, Cooper Landing, Alaska, United States
+JLG,Jalgaon, Maharashtra, India
+JLN, Joplin, Missouri, United States
+JLR,Jabalpur, Madhya Pradesh, India
+JLS,Jales, S\u00e3o Paulo, Brazil
+JMB, Jamba, Angola
+JMJ,Donghui Township, Yunnan, China
+JMK,Mykonos, Greece
+JMO,Jomsom, Nepal
+JMS, Jamestown, North Dakota, United States
+JMU,Jiamusi, Heilongjiang, China
+JNA,Janu\u00e1ria, Minas Gerais, Brazil
+JNB,Johannesburg, South Africa
+JNG,Jining, Shandong, China
+JNI, Jun\u00edn, Buenos Aires, Argentina
+JNJ,Duqm, Oman
+JNU, Juneau, Alaska, United States
+JNX,Naxos, Greece
+JNZ,Jinzhou, Liaoning, China
+JOE,Joensuu, Finland
+JOG,Yogyakarta, Indonesia
+JOH,Port St. Johns, South Africa
+JOI,Joinville, Santa Catarina, Brazil
+JOJ,Doris Lake, Nunavut, Canada
+JOK,Yoshkar-Ola, Mari El, Russia
+JOL, Jolo, Philippines
+JOM,Njombe, Tanzania
+JOP,Josephstaal, Papua New Guinea
+JOS,Jos, Nigeria
+JOT, Joliet, Illinois, United States
+JPA, Jo\u00e3o Pessoa, Para\u00edba, Brazil
+JPR,Ji-Paran\u00e1, Rond\u00f4nia, Brazil
+JQA,Qaarsut, Greenland
+JQE,Jaqu\u00e9, Panama
+JRF, Kapalua, Hawaii, United States
+JRH,Jorhat, Assam, India
+JRN,Juruena, Mato Grosso, Brazil
+JRO,Kilimanjaro, Tanzania
+JRS,Jerusalem, Israel
+JSA,Jaisalmer, Rajasthan, India
+JSH,Sitia, Greece
+JSI,Skiathos, Greece
+JSJ,Jiansanjiang, Jiansanjiang Heilongjiang, China
+JSM, Jos\u00e9 de San Mart\u00edn, Chubut, Argentina
+JSR,Jessore, Bangladesh
+JST, Johnstown, Pennsylvania, United States
+JSU,Maniitsoq, Greenland
+JSY,Syros, Greece
+JTC,Bauru, S\u00e3o Paulo, Brazil
+JTI,Jata\u00ed, Goi\u00e1s, Brazil
+JTR, (Thira), Greece
+JTY,Astypalaia, Greece
+JUA,Juara, Mato Grosso, Brazil
+JUB,Juba, South Sudan
+JUH,Tongling, Anhui, China
+JUI,Juist, Lower Saxony, Germany
+JUJ,San Salvador de Jujuy, Jujuy, Argentina
+JUL,Juliaca, Peru
+JUM,Jumla, Nepal
+JUN, Jundah, Queensland, Australia
+JUO,Jurad\u00f3, Colombia
+JUR, Jurien Bay, Western Australia, Australia
+JUT, Juticalpa, Honduras
+JUV,Upernavik, Greenland
+JUZ,Quzhou, Zhejiang, China
+JVA,Ankavandra, Madagascar
+JVI, Manville, New Jersey, United States
+JVL, Janesville, Wisconsin, United States
+JWA,Jwaneng, Botswana
+JWN, Zanjan, Iran
+JWO,Chungju, South Korea
+JXA,Jixi, Heilongjiang, China
+JXN, Jackson, Michigan, United States
+JYR,Jiroft, Iran
+JYV,Jyv\u00e4skyl\u00e4, Finland
+JZH,Jiuzhaigou, Sichuan, China

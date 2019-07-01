@@ -1,0 +1,34 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "jquery@3.4.1",
+      "destination": "wwwroot/lib/jquery/"
+    },
+    {
+      "library": "select2@4.0.7",
+      "destination": "wwwroot/lib/select2/"
+    },
+    {
+      "library": "datatable@2.0.1",
+      "destination": "wwwroot/lib/datatable/",
+      "files": [
+        "js/datatable.min.js",
+        "css/datatable-bootstrap.min.css",
+        "css/datatable.min.css",
+        "img/sort_asc.png",
+        "img/sort_both.png",
+        "img/sort_desc.png",
+        "js/datatable.jquery.min.js"
+      ]
+    },
+    {
+      "library": "datepicker@0.6.5",
+      "destination": "wwwroot/lib/jquery/datepicker/",
+      "files": [
+        "datepicker.min.js"
+      ]
+    }
+  ]
+}

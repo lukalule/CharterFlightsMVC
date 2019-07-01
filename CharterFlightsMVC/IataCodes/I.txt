@@ -1,0 +1,263 @@
+IAA,Igarka, Krasnoyarsk Krai, Russia
+IAB, Wichita, Kansas, United States
+IAD, Washington, Washington D.C., United States
+IAG, Niagara Falls, New York, United States
+IAH,Houston, Texas, United States
+IAM,In Amenas, Algeria
+IAN, Kiana, Alaska, United States
+IAO, Del Carmen, Philippines
+IAQ,Bahregan, Iran
+IAR,Yaroslavl, Yaroslavl Oblast, Russia
+IAS,Ia\u0219i, Romania
+IAU,Iaura, Papua New Guinea
+IBA,Ibadan, Nigeria
+IBB,Isabela Island, Gal\u00e1pagos Islands, Ecuador
+IBE,Ibagu\u00e9, Colombia
+IBI,Iboki, Papua New Guinea
+IBL,Bazaruto Island, Mozambique
+IBO,Ibo Island, Mozambique
+IBP, Iberia, Peru
+IBR,Omitama, Honshu, Japan
+IBZ,Ibiza, Balearic Islands, Spain
+ICA,Icabar\u00fa, Venezuela
+ICC,Coche Island, Venezuela
+ICI,Cicia Island, Fiji
+ICK,Nieuw Nickerie, Suriname
+ICL, Clarinda, Iowa, United States
+ICN,Seoul, South Korea
+ICO,Sicogon, Philippines
+ICS, Cascade, Idaho, United States
+ICT, Wichita, Kansas, United States
+ICY,Icy Bay, Alaska, United States
+IDA, Idaho Falls, Idaho, United States
+IDB,Idre, Sweden
+IDC,Chilonzuine Island, Mozambique
+IDF,Idiofa, Democratic Republic of the Congo
+IDG, Ida Grove, Iowa, United States
+IDH, Grangeville, Idaho, United States
+IDI, Indiana, Pennsylvania, United States
+IDK,Indulkana, South Australia, Australia
+IDN,Indagen, Papua New Guinea
+IDO,Santa Isabel do Morro, Tocantins, Brazil
+IDP, Independence, Kansas, United States
+IDR,Indore, Madhya Pradesh, India
+IDY,\u00cele d'Yeu, Pays de la Loire, France
+IEG,Zielona G\u00f3ra, Poland
+IEJ,Iejima, Okinawa, Japan
+IES,Riesa, Saxony, Germany
+IEV,Kiev, Ukraine
+IFA, Iowa Falls, Iowa, United States
+IFF,Iffley, Queensland, Australia
+IFH,Shahin Shahr, Iran
+IFJ,\u00cdsafj\u00f6r\u00f0ur, Iceland
+IFL, Innisfail, Queensland, Australia
+IFN,Isfahan, Iran
+IFO,Ivano-Frankivsk, Ukraine
+IFP, Bullhead City, Arizona, United States
+IFU,Ifuru, Raa Atoll, Maldives
+IGA,Inagua Islands, Bahamas
+IGB,Ingeniero Jacobacci, R\u00edo Negro, Argentina
+IGD,I\u011fd\u0131r, Turkey
+IGE,Iguela, Gabon
+IGG, Igiugig, Alaska, United States
+IGH, Ingham, Queensland, Australia
+IGL,\u0130zmir, Turkey
+IGM, Kingman, Arizona, United States
+IGN,Iligan, Philippines
+IGO,Chigorod\u00f3, Colombia
+IGR,Puerto Iguaz\u00fa, Misiones, Argentina
+IGS,Ingolstadt, Bavaria, Germany
+IGT,Nazran, Ingushetia, Russia
+IGU,Foz do Igua\u00e7u, Paran\u00e1, Brazil
+IHC,Inhaca Island, Mozambique
+IHN,Qishn, Yemen
+IHO,Ihosy, Madagascar
+IHR,Iranshahr, Iran
+IHU, Ihu, Papua New Guinea
+IIA,Inishmaan, Ireland
+IIL, Ilam, Iran
+IIS,Nissan Island, Papua New Guinea
+IJK,Izhevsk, Udmurtia, Russia
+IJU,Iju\u00ed, Rio Grande do Sul, Brazil
+IJX, Jacksonville, Illinois, United States
+IKA,Tehran, Iran
+IKB, North Wilkesboro, North Carolina, United States
+IKI, Iki, Iki Island, Japan
+IKK, Kankakee, Illinois, United States
+IKL,Ikela, Democratic Republic of the Congo
+IKO, Nikolski, Alaska, United States
+IKP, Inkerman, Queensland, Australia
+IKS,Tiksi, Yakutia, Russia
+IKT,Irkutsk, Irkutsk Oblast, Russia
+ILA,Illaga, Indonesia
+ILD,Lleida, Catalonia, Spain
+ILE, Killeen, Texas, United States
+ILF, Ilford, Manitoba, Canada
+ILG, Wilmington, Delaware, United States
+ILH,Illesheim, Bavaria, Germany
+ILI, Iliamna, Alaska, United States
+ILK, Ilaka, Madagascar
+ILL, Willmar, Minnesota, United States
+ILM, Wilmington, North Carolina, United States
+ILN, Wilmington, Ohio, United States
+ILO,Iloilo, Philippines
+ILP,\u00cele des Pins, New Caledonia
+ILQ, Ilo, Peru
+ILR,Ilorin, Nigeria
+ILU,Kilaguni, Kenya
+ILX,Ileg, Papua New Guinea
+ILY,Islay, Scotland, United Kingdom
+ILZ,\u017dilina, Slovakia
+IMA,Iamalele, Papua New Guinea
+IMB,Imbaimadai, Guyana
+IMD, Imonda, Papua New Guinea
+IMF,Imphal, Manipur, India
+IMG,Inhaminga, Mozambique
+IMI, Ine, Arno Atoll, Marshall Islands
+IMK,Simikot, Nepal
+IML, Imperial, Nebraska, United States
+IMM, Immokalee, Florida, United States
+IMN,Imane, Papua New Guinea
+IMO,Zemio, Central African Republic
+IMP,Imperatriz, Maranh\u00e3o, Brazil
+IMQ, Maku, West Azerbaijan Province, Iran
+IMT, Kingsford, Michigan, United States
+INA,Inta, Komi Republic, Russia
+INB,Independence, Belize
+INC,Yinchuan, Ningxia, China
+IND,Indianapolis, Indiana, United States
+INE,Chinde, Mozambique
+INF,In Guezzam, Algeria
+INH,Inhambane, Mozambique
+INI,Ni\u0161, Serbia
+INJ,Injune, Queensland, Australia
+INK, Wink, Texas, United States
+INL, International Falls, Minnesota, United States
+INM, Innamincka, South Australia, Australia
+INN,Innsbruck, Austria
+INO,Inongo, Democratic Republic of the Congo
+INQ,Inisheer, Ireland
+INS, Indian Springs, Nevada, United States
+INT, Winston-Salem, North Carolina, United States
+INU,Yaren, Nauru
+INV,Inverness, Scotland, United Kingdom
+INW, Winslow, Arizona, United States
+INX,Inanwatan, Indonesia
+INY,Inyati, South Africa
+INZ,In Salah, Algeria
+IOA,Ioannina, Greece
+IOK,Iokea, Papua New Guinea
+IOM,Isle of Man, United Kingdom
+ION,Impfondo, Republic of the Congo
+IOP,Ioma, Papua New Guinea
+IOR,Inishmore, Ireland
+IOS,Ilh\u00e9us, Bahia, Brazil
+IOW, Iowa City, Iowa, United States
+IPA,Erromango, Tafea, Vanuatu
+IPC,Easter Island, Chile
+IPE, Ipil, Philippines
+IPG,Santo Ant\u00f4nio do I\u00e7\u00e1, Amazonas, Brazil
+IPH,Ipoh, Perak, Malaysia
+IPI,Ipiales, Colombia
+IPL, El Centro, California, United States
+IPN,Ipatinga, Minas Gerais, Brazil
+IPT, Williamsport, Pennsylvania, United States
+IPU,Ipia\u00fa, Bahia, Brazil
+IQA,Anbar Province, Iraq
+IQM,Qiemo, Xinjiang, China
+IQN,Qingyang, Gansu, China
+IQQ,Iquique, Chile
+IQT,Iquitos, Peru
+IRA,Kirakira, Makira Island, Solomon Islands
+IRB, Iraan, Texas, United States
+IRC, Circle, Alaska, United States
+IRD,Ishwardi, Bangladesh
+IRE,Irec\u00ea, Bahia, Brazil
+IRG, Lockhart River, Queensland, Australia
+IRI,Iringa, Tanzania
+IRJ, La Rioja, Argentina
+IRK, Kirksville, Missouri, United States
+IRM,Igrim, Khanty-Mansi Autonomous Okrug, Russia
+IRN,Iriona, Honduras
+IRO,Birao, Central African Republic
+IRP,Isiro, Democratic Republic of the Congo
+IRS, Sturgis, Michigan, United States
+IRU,Kilinochchi, Sri Lanka
+IRZ,Santa Isabel do Rio Negro, Amazonas, Brazil
+ISA,Mount Isa, Queensland, Australia
+ISB,Rawalpindi, Pakistan
+ISC, St Mary's, Isles of Scilly, United Kingdom
+ISD,Iscuande, Colombia
+ISE,Isparta, Turkey
+ISG, Ishigaki, Yaeyama Islands, Japan
+ISI, Isisford, Queensland, Australia
+ISJ,Isla Mujeres, Quintana Roo, Mexico
+ISK,Nashik, Maharashtra, India
+ISL,Istanbul, Turkey
+ISM, Orlando, Florida, United States
+ISN, Williston, North Dakota, United States
+ISO, Kinston, North Carolina, United States
+ISP, Islip, New York, United States
+ISQ, Manistique, Michigan, United States
+ISS, Wiscasset, Maine, United States
+IST,Istanbul, Turkey
+ISU,Sulaymaniyah, Iraq
+ISW, Wisconsin Rapids, Wisconsin, United States
+ITA, Itacoatiara, Amazonas, Brazil
+ITB,Itaituba, Par\u00e1, Brazil
+ITE,Ituber\u00e1, Bahia, Brazil
+ITH, Ithaca, New York, United States
+ITI,Itambacuri, Minas Gerais, Brazil
+ITK,Itokama, Papua New Guinea
+ITM,Osaka, Honshu, Japan
+ITN,Itabuna, Bahia, Brazil
+ITO, Hilo, Hawaii, United States
+ITP,Itaperuna, Rio de Janeiro, Brazil
+ITQ,Itaqui, Rio Grande do Sul, Brazil
+ITR,Itumbiara, Goi\u00e1s, Brazil
+ITU,Kurilsk, Sakhalin Oblast, Russia
+IUE, Alofi, Niue
+IUL, Ilu, Indonesia
+IUS, Inus, Papua New Guinea
+IVA,Ambanja, Madagascar
+IVC,Invercargill, New Zealand
+IVG,Berane, Montenegro
+IVI,Viveros Island, Panama
+IVL,Ivalo, Finland
+IVO,Chibolo, Colombia
+IVR,Inverell, New South Wales, Australia
+IVW,Inverway, Northern Territory, Australia
+IWA,Ivanovo, Ivanovo Oblast, Russia
+IWD, Ironwood, Michigan, United States
+IWJ, Masuda, Honshu, Japan
+IWK,Iwakuni, Honshu, Japan
+IWO,Iwo Jima, Bonin Islands, Japan
+IWS,Houston, Texas, United States
+IXA,Agartala, Tripura, India
+IXB,Siliguri, West Bengal, India
+IXC,Chandigarh, India
+IXD,Allahabad, Uttar Pradesh, India
+IXE,Mangalore, Karnataka, India
+IXG,Belgaum, Karnataka, India
+IXH,Kailashahar, Tripura, India
+IXI,North Lakhimpur, Assam, India
+IXJ,Jammu, Jammu and Kashmir, India
+IXK,Keshod, Gujarat, India
+IXL,Leh, Jammu and Kashmir, India
+IXM,Madurai, Tamil Nadu, India
+IXN,Khowai, Tripura, India
+IXP,Pathankot,   Punjab, India
+IXQ, Kamalpur, Tripura, India
+IXR,Ranchi, Jharkhand, India
+IXS,Silchar, Assam, India
+IXT,Pasighat, Arunachal Pradesh, India
+IXU, Aurangabad, Maharashtra, India
+IXV,  (Aalo), Arunachal Pradesh, India
+IXW,Jamshedpur, Jharkhand, India
+IXY,Gandhidham, Gujarat, India
+IXZ,Port Blair, Andaman and Nicobar Islands, India
+IYK, Inyokern, California, United States
+IZA,Juiz de Fora, Minas Gerais, Brazil
+IZM,\u0130zmir, Turkey
+IZO, Izumo, Honshu, Japan
+IZT, Ixtepec, Oaxaca, Mexico

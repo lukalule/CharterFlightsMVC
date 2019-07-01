@@ -1,0 +1,11 @@
+Za debug aplikacije potreban je .Net Core 2.2 SDK
+
+U opisu zadatka bilo je potrebno napraviti pretragu prema putnicima i ispis istih ali u Swagger specifikaciji
+i rezultatima pretrage nisu navedeni nikakvi putnici(bar ja nisam uspio pronaci nikakve informacije o njima).
+Jedina slicna stvar bila je broj slobodnih mijesta ali ne vjerujem da se to zahtjevalo u zadatku..
+
+Update(1.7.2019 1:50 AM): 
+Upravo sam nešto rovario po Amadeus API-u i slučajno naletio na listu dodatnih parametara za upit letova...
+Bila je "sakrivena" pod nekim padajućim link-om -.-
+
+Na osnovu toga ću ujutru dodati i datum povratka i broj putnika po letu..

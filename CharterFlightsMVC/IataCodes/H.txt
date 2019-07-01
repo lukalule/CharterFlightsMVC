@@ -1,0 +1,297 @@
+HAA,Hasvik, Norway
+HAB, Hamilton, Alabama, United States
+HAC, (Hachijojima), Izu Islands, Japan
+HAD,Halmstad, Sweden
+HAF, Half Moon Bay, California, United States
+HAH, Moroni, Comoros
+HAI, Three Rivers, Michigan, United States
+HAJ,Hanover, Lower Saxony, Germany
+HAK,Haikou, Hainan, China
+HAL, Halali, Namibia
+HAM,Hamburg, Germany
+HAN,Hanoi, Vietnam
+HAO, Hamilton, Ohio, United States
+HAQ,Hanimaadhoo, Haa Dhaalu Atoll, Maldives
+HAR, Harrisburg, Pennsylvania, United States
+HAS, (Hail), Saudi Arabia
+HAT, Heathlands, Queensland, Australia
+HAU,Haugesund, Norway
+HAV,Havana, Cuba
+HAW,Haverfordwest, Wales, United Kingdom
+HAZ,Hatzfeldthaven, Papua New Guinea
+HBA,Hobart, Tasmania, Australia
+HBB, Hobbs, New Mexico, United States
+HBD,Habi, Papua New Guinea
+HBE,Borg El Arab, Egypt
+HBG, Hattiesburg, Mississippi, United States
+HBH, Entrance Island, Alaska, United States
+HBK, Holbrook, Arizona, United States
+HBR, Hobart, Oklahoma, United States
+HBT,Hambantota, Sri Lanka
+HBU, Bulgan (Khovd Province), Mongolia
+HBX,Dharwad, Karnataka, India
+HCA, Big Spring, Texas, United States
+HCC, Hudson, New York, United States
+HCJ,Hechi, Guangxi, China
+HCM,Eyl, Somalia
+HCN,Hengchun, Taiwan
+HCQ, Halls Creek, Western Australia, Australia
+HCR, Holy Cross, Alaska, United States
+HCW, Cheraw, South Carolina, United States
+HDB,Heidelberg, Baden-W\u00fcrttemberg, Germany
+HDD, Hyderabad, Pakistan
+HDE, Holdrege, Nebraska, United States
+HDF, Heringsdorf, Mecklenburg-Vorpommern, Germany
+HDG,Handan, Hebei, China
+HDH, Mokul\u0113ia, Hawaii, United States
+HDM,Hamadan, Iran
+HDN, Hayden, Colorado, United States
+HDR,Bandar Abbas, Iran
+HDS,Hoedspruit, South Africa
+HDY,Hat Yai, Thailand
+HEA,Herat, Afghanistan
+HEB,Hinthada, Myanmar
+HED, Herendeen Bay, Alaska, United States
+HEE, Helena-West Helena, Arkansas, United States
+HEH,Heho, Myanmar
+HEI,B\u00fcsum, Schleswig-Holstein, Germany
+HEK,Heihe, Heilongjiang, China
+HEL,Helsinki, Finland
+HEM,Helsinki, Finland
+HEO,Haelogo, Papua New Guinea
+HER,Heraklion, Greece
+HES, Hermiston, Oregon, United States
+HET,Hohhot, Inner Mongolia, China
+HEZ, Natchez, Mississippi, United States
+HFA,Haifa, Israel
+HFD, Hartford, Connecticut, United States
+HFE,Hefei, Anhui, China
+HFF, Hoffman, North Carolina, United States
+HFN,H\u00f6fn, Iceland
+HFS,Hagfors, Sweden
+HFT,Hammerfest, Norway
+HGA,Hargeisa, Somalia
+HGD, Hughenden, Queensland, Australia
+HGE,Higuerote, Venezuela
+HGH,Hangzhou, Zhejiang, China
+HGI,Higlieg, Sudan
+HGL,Heligoland, Schleswig-Holstein, Germany
+HGN,Mae Hong Son, Thailand
+HGO,Korhogo, Ivory Coast
+HGR, Hagerstown, Maryland, United States
+HGS,Freetown, Sierra Leone
+HGU,Mount Hagen, Papua New Guinea
+HGZ, Hogatza, Alaska, United States
+HHE, Hachinohe, Honshu, Japan
+HHH, Hilton Head Island, South Carolina, United States
+HHI, Wahiawa, Hawaii, United States
+HHN, Hahn, Rhineland-Palatinate, Germany
+HHQ,Hua Hin, Thailand
+HHR, Hawthorne, California, United States
+HHZ,Hikueru Atoll, French Polynesia
+HIA,Huai'an, Jiangsu, China
+HIB, Hibbing, Minnesota, United States
+HID, Horn Island, Queensland, Australia
+HIE, Whitefield, New Hampshire, United States
+HIF, Ogden, Utah, United States
+HIG, Highbury, Queensland, Australia
+HII, Lake Havasu City, Arizona, United States
+HIJ,Hiroshima, Honshu, Japan
+HIL,Shilavo, Ethiopia
+HIM, Hingurakgoda, Sri Lanka
+HIN,Jinju, South Korea
+HIO, Portland, Oregon, United States
+HIP,Headingly, Queensland, Australia
+HIR,Honiara, Guadalcanal, Solomon Islands
+HIT,Haivaro, Papua New Guinea
+HIW,Hiroshima, Honshu, Japan
+HJJ,Huaihua, Hunan, China
+HJR,Khajuraho, Madhya Pradesh, India
+HJT,Khujirt, Mongolia
+HKA, Blytheville, Arkansas, United States
+HKB, Healy Lake, Alaska, United States
+HKD, Hakodate, Hokkaido, Japan
+HKG,Hong Kong
+HKK,Hokitika, New Zealand
+HKN,Kimbe, Papua New Guinea
+HKS, Jackson, Mississippi, United States
+HKT,Phuket, Thailand
+HKV,Haskovo, Bulgaria
+HKY, Hickory, North Carolina, United States
+HLA,Johannesburg, South Africa
+HLB, Batesville, Indiana, United States
+HLC, Hill City, Kansas, United States
+HLD,Hailar, Inner Mongolia, China
+HLE, Saint Helena, Saint Helena, Ascension and Tristan da Cunha
+HLF,Vimmerby, Sweden
+HLG, Wheeling, West Virginia, United States
+HLH,Ulanhot, Inner Mongolia, China
+HLI, Hollister, California, United States
+HLL, Hillside, Western Australia, Australia
+HLM, Holland, Michigan, United States
+HLN, Helena, Montana, United States
+HLP,Jakarta, Indonesia
+HLR,Killeen, Texas, United States
+HLS, St Helens, Tasmania, Australia
+HLT, Hamilton, Victoria, Australia
+HLV, Helenvale, Queensland, Australia
+HLW,Hluhluwe, South Africa
+HLZ, Hamilton, New Zealand
+HMA,Khanty-Mansiysk, Khanty-Mansi Autonomous Okrug, Russia
+HMB,Sohag, Egypt
+HME,Hassi Messaoud, Algeria
+HMG, Hermannsburg, Northern Territory, Australia
+HMI,Hami, Xinjiang, China
+HMJ, Khmelnytsky, Ukraine
+HMN, Alamogordo, New Mexico, United States
+HMO,Hermosillo, Sonora, Mexico
+HMR,Hamar, Norway
+HMT, Hemet, California, United States
+HMV,T\u00e4rnaby, Sweden
+HMY,Seosan, South Korea
+HNA, Hanamaki, Honshu, Japan
+HNB, Huntingburg, Indiana, United States
+HNC, Hatteras, North Carolina, United States
+HND,Tokyo, Honshu, Japan
+HNH, Hoonah, Alaska, United States
+HNI,Heiweni, Papua New Guinea
+HNL,Honolulu, Hawaii, United States
+HNM, Hana, Hawaii, United States
+HNN,Honinabi, Papua New Guinea
+HNS, Haines, Alaska, United States
+HNY,Hengyang, Hunan, China
+HOA, Hola, Kenya
+HOB, Hobbs, New Mexico, United States
+HOC, Komako, Papua New Guinea
+HOD, (Hodeida), Yemen
+HOE, (Ban Huoeisay), Laos
+HOF,Hofuf, Saudi Arabia
+HOG,Holgu\u00edn, Cuba
+HOH,Dornbirn, Austria
+HOI,Hao, Tuamotus, French Polynesia
+HOK, Lajamanu, Northern Territory, Australia
+HOM, Homer, Alaska, United States
+HON, Huron, South Dakota, United States
+HOO, Quang Duc, Vietnam
+HOP,Hopkinsville, Kentucky, United States
+HOQ, Hof, Bavaria, Germany
+HOR, Horta, Azores, Portugal
+HOS,Chos Malal, Neuqu\u00e9n, Argentina
+HOT, Hot Springs, Arkansas, United States
+HOU,Houston, Texas, United States
+HOV,Volda, Norway
+HOX,Homalin, Myanmar
+HOY, Longhope, Scotland, United Kingdom
+HPA,Lifuka, Ha\u02bbapai, Tonga
+HPB, Hooper Bay, Alaska, United States
+HPE, Hopevale, Queensland, Australia
+HPG,Shennongjia, Hubei, China
+HPH,Haiphong, Vietnam
+HPN, White Plains, New York, United States
+HPT, Hampton, Iowa, United States
+HPV, Hanalei, Hawaii, United States
+HPY, Baytown, Texas, United States
+HQM, Hoquiam, Washington, United States
+HRB,Harbin, Heilongjiang, China
+HRC,Zhayrem, Kazakhstan
+HRE,Harare, Zimbabwe
+HRG,Hurghada, Egypt
+HRI,Hambantota, Sri Lanka
+HRK,Kharkiv, Ukraine
+HRL, Harlingen, Texas, United States
+HRM,Hassi R'Mel, Algeria
+HRO, Harrison, Arkansas, United States
+HRR, La Herrera, Colombia
+HRS,Harrismith, South Africa
+HRT,Linton-on-Ouse, England, United Kingdom
+HRY,Henbury, Northern Territory, Australia
+HRZ,Horizontina, Rio Grande do Sul, Brazil
+HSB, Harrisburg, Illinois, United States
+HSC,Shaoguan, Guangdong, China
+HSG, Saga, Kyushu, Japan
+HSH,Las Vegas, Nevada, United States
+HSI, Hastings, Nebraska, United States
+HSJ,Zhengzhou, Henan, China
+HSK,Huesca, Aragon, Spain
+HSL, Huslia, Alaska, United States
+HSM, Horsham, Victoria, Australia
+HSN,Zhoushan, Zhejiang, China
+HSP, Hot Springs, Virginia, United States
+HSS,Hisar, Haryana, India
+HST, Homestead, Florida, United States
+HSV, Huntsville, Alabama, United States
+HSZ,Hsinchu, Taiwan
+HTA, Chita, Zabaykalsky Krai, Russia
+HTG, Khatanga, Krasnoyarsk Krai, Russia
+HTH, Hawthorne, Nevada, United States
+HTI,Hamilton Island, Queensland, Australia
+HTL, Houghton Lake, Michigan, United States
+HTM, Khatgal, Mongolia
+HTN,Hotan, Xinjiang, China
+HTO, East Hampton, New York, United States
+HTR,Hateruma, Yaeyama Islands, Japan
+HTS, Huntington, West Virginia, United States
+HTT,Huatugou, Qinghai, China
+HTU, Hopetoun, Victoria, Australia
+HTV, Huntsville, Texas, United States
+HTW, Huntington (WV), Ohio, United States
+HTY,Hatay, Turkey
+HTZ,Hato Corozal, Colombia
+HUA,Huntsville, Alabama, United States
+HUB,Humbert River, Northern Territory, Australia
+HUC, Humacao, Puerto Rico, United States
+HUD, Humboldt, Iowa, United States
+HUE,Humera, Ethiopia
+HUF, Terre Haute, Indiana, United States
+HUG,Huehuetenango, Guatemala
+HUH,Huahine, Society Islands, French Polynesia
+HUI,Hu\u1ebf, Vietnam
+HUJ, Hugo, Oklahoma, United States
+HUK,Hukuntsi, Botswana
+HUL, Houlton, Maine, United States
+HUM, Houma, Louisiana, United States
+HUN,Hualien, Taiwan
+HUO, (Huolinguole), Inner Mongolia, China
+HUQ, Hun, Libya
+HUS, Hughes, Alaska, United States
+HUT, Hutchinson, Kansas, United States
+HUU,Hu\u00e1nuco, Peru
+HUV,Hudiksvall, Sweden
+HUW, Humait\u00e1, Amazonas, Brazil
+HUX,Huatulco, Oaxaca, Mexico
+HUY,Humberside, England, United Kingdom
+HUZ,Huizhou, Guangdong, China
+HVA,Analalava, Madagascar
+HVB,Hervey Bay, Queensland, Australia
+HVD,Khovd, Mongolia
+HVE, Hanksville, Utah, United States
+HVG,Honningsv\u00e5g, Norway
+HVK,H\u00f3lmav\u00edk, Iceland
+HVN, New Haven, Connecticut, United States
+HVR, Havre, Montana, United States
+HVS, Hartsville, South Carolina, United States
+HWA,Hawabango, Papua New Guinea
+HWD, Hayward, California, United States
+HWI,Hawk Inlet, Alaska, United States
+HWK, Hawker, South Australia, Australia
+HWN,Hwange National Park, Zimbabwe
+HWO, Hollywood, Florida, United States
+HXD,Delingha, Qinghai, China
+HXX, Hay, New South Wales, Australia
+HYA, Hyannis, Massachusetts, United States
+HYC,High Wycombe, England, United Kingdom
+HYD,Hyderabad, Telangana, India
+HYF, Hayfields, Papua New Guinea
+HYG, Hydaburg, Alaska, United States
+HYL, Hollis, Alaska, United States
+HYN, Taizhou, Zhejiang, China
+HYR, Hayward, Wisconsin, United States
+HYS, Hays, Kansas, United States
+HYV,Hyvink\u00e4\u00e4, Finland
+HZB,Hazebrouck, Nord-Pas-de-Calais, France
+HZG,Hanzhong, Shaanxi, China
+HZH,Liping, Guizhou, China
+HZK,H\u00fasav\u00edk, Iceland
+HZL, Hazleton, Pennsylvania, United States
+HZP,Fort McKay, Alberta, Canada
+HZV,Hazyview, South Africa

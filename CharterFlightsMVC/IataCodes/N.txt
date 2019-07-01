@@ -1,0 +1,320 @@
+NAA,Narrabri, New South Wales, Australia
+NAC, Naracoorte, South Australia, Australia
+NAD,Macanal, Colombia
+NAE,Natitingou, Benin
+NAF,Banaina, Indonesia
+NAG,Nagpur, Maharashtra, India
+NAH, Tahuna, Indonesia
+NAI, Annai, Guyana
+NAJ,Nakhchivan, Azerbaijan
+NAK,Nakhon Ratchasima, Thailand
+NAL,Nalchik, Kabardino-Balkaria, Russia
+NAM,Namlea, Indonesia
+NAN,Nadi, Fiji
+NAO,Nanchong, Sichuan, China
+NAP,Naples, Campania, Italy
+NAQ,Qaanaaq, Greenland
+NAR,Puerto Nare, Colombia
+NAS, Nassau, New Providence, Bahamas
+NAT, Natal, Rio Grande do Norte, Brazil
+NAU,Napuka, Tuamotus, French Polynesia
+NAV,Nev\u015fehir, Turkey
+NAW,Narathiwat, Thailand
+NAY,Beijing, China
+NAZ, Star Harbour, Solomon Islands
+NBA,Nambaiyufa, Papua New Guinea
+NBB,Barranco Minas, Colombia
+NBC,Naberezhnye Chelny, Tatarstan, Russia
+NBE,Enfidha, Tunisia
+NBG,New Orleans, Louisiana, United States
+NBH, Nambucca Heads, New South Wales, Australia
+NBL,San Blas, Panama
+NBN,Annob\u00f3n, Equatorial Guinea
+NBO,Nairobi, Kenya
+NBS,Baishan, Jilin, China
+NBW,Guant\u00e1namo Bay, Cuba
+NBX,Nabire, Indonesia
+NCA,North Caicos, Turks and Caicos Islands
+NCE,Nice, Provence-Alpes-C\u00f4te d'Azur, France
+NCG,Nuevo Casas Grandes, Chihuahua, Mexico
+NCH, Nachingwea, Tanzania
+NCI,Necocl\u00ed, Colombia
+NCJ, Sunchales, Santa Fe, Argentina
+NCL,Newcastle upon Tyne, England, United Kingdom
+NCN, Chenega, Alaska, United States
+NCO, North Kingstown, Rhode Island, United States
+NCR, San Carlos, Nicaragua
+NCS, Newcastle, South Africa
+NCT,Nicoya, Costa Rica
+NCU,Nukus, Uzbekistan
+NCY,Annecy, Rh\u00f4ne-Alpes, France
+NDA,Banda Islands, Indonesia
+NDB,Nouadhibou, Mauritania
+NDC,Nanded, Maharashtra, India
+NDD,Sumbe, Angola
+NDE,Mandera, Kenya
+NDF,N'dalatando, Angola
+NDG,Qiqihar, Heilongjiang, China
+NDI,Namudi, Papua New Guinea
+NDJ,N'Djamena, Chad
+NDK,Namdrik Atoll, Marshall Islands
+NDL, (Ndele), Central African Republic
+NDM, Mendi, Ethiopia
+NDN,Nadunumu, Papua New Guinea
+NDR,Nador, Morocco
+NDS, Sandstone, Western Australia, Australia
+NDU,Rundu, Namibia
+NDY, Sanday, Scotland, United Kingdom
+NEA, Glynco, Glynco Georgia, Georgia, United States
+NEC,Necochea, Buenos Aires, Argentina
+NEF,Neftekamsk, Bashkortostan, Russia
+NEG,Negril, Jamaica
+NEJ,Nejo, Ethiopia
+NEK,Nekemte, Ethiopia
+NEL, Lakehurst, New Jersey, United States
+NEN, Jacksonville, Florida, United States
+NER,Neryungri, Yakutia, Russia
+NEU,Sam Neua, Laos
+NEV,Nevis, Saint Kitts and Nevis
+NEW,New Orleans, Louisiana, United States
+NFG,Nefteyugansk, Khanty-Mansi Autonomous Okrug, Russia
+NFL, Fallon, Nevada, United States
+NFO,Niuafo'ou, Tonga
+NFR,Nafoora, Libya
+NGA, Young, New South Wales, Australia
+NGB,Ningbo, Zhejiang, China
+NGD,Anegada, Virgin Islands
+NGE,Ngaound\u00e9r\u00e9, Cameroon
+NGF, Kaneohe, Hawaii, United States
+NGI,Gau Island, Fiji
+NGK,Nogliki, Sakhalin Oblast, Russia
+NGL, Ngala, South Africa
+NGN,Nargan\u00e1, Panama
+NGO,Nagoya, Honshu, Japan
+NGP, Corpus Christi, Texas, United States
+NGQ,Shiquanhe, Tibet Autonomous Region, China
+NGR,Ningerum, Papua New Guinea
+NGS,Nagasaki, Kyushu, Japan
+NGU, Norfolk, Virginia, United States
+NGW, Corpus Christi, Texas, United States
+NGX,Manang, Nepal
+NHA,Nha Trang, Vietnam
+NHD,Dubai, United Arab Emirates
+NHF,New Halfa, Sudan
+NHK,Patuxent River, Maryland, United States
+NHS,Nushki, Pakistan
+NHT,Northolt, England, United Kingdom
+NHV,Nuku Hiva, Marquesas Islands, French Polynesia
+NHX, Foley, Alabama, United States
+NHZ, Brunswick, Maine, United States
+NIA,Nimba, Liberia
+NIB, Nikolai, Alaska, United States
+NIC,Nicosia, Cyprus
+NIF, Nifty, Western Australia, Australia
+NIG,Nikunau, Kiribati
+NIK,Niokolo-Koba, Senegal
+NIM,Niamey, Niger
+NIN, Ninilchik, Alaska, United States
+NIO,Nioki, Democratic Republic of the Congo
+NIP, Jacksonville, Florida, United States
+NIR, Beeville, Texas, United States
+NIS,Simberi Island, Papua New Guinea
+NIT,Niort, Poitou-Charentes, France
+NIU,Niau, Tuamotus, French Polynesia
+NIX,Nioro du Sahel, Mali
+NJA, Atsugi, Honshu, Japan
+NJC,Nizhnevartovsk, Khanty-Mansi Autonomous Okrug, Russia
+NJF,Al Najaf, Iraq
+NJK, El Centro, California, United States
+NKA, (Nkan), Gabon
+NKB,Noonkanbah Station, Western Australia, Australia
+NKC,Nouakchott, Mauritania
+NKD, Sinak, Indonesia
+NKG,Nanjing, Jiangsu, China
+NKI, Naukati Bay, Alaska, United States
+NKL,Kolo Fuma, Democratic Republic of the Congo
+NKM,Nagoya, Honshu, Japan
+NKN,Nankina, Papua New Guinea
+NKO,Ankokoambo, Madagascar
+NKP,Nukutepipi, Tuamotus, French Polynesia
+NKS,Nkongsamba, Cameroon
+NKT,Cizre, Turkey
+NKU,Nkau, Lesotho
+NKX,San Diego, California, United States
+NKY,  (N'kayi), Republic of the Congo
+NLA,Ndola, Zambia
+NLC, Lemoore, California, United States
+NLD,Nuevo Laredo, Tamaulipas, Mexico
+NLE, Niles, Michigan, United States
+NLF,Darnley Island, Queensland, Australia
+NLG, Nelson Lagoon, Alaska, United States
+NLH,Ninglang, Yunnan, China
+NLI,Nikolayevsk-on-Amur, Khabarovsk Krai, Russia
+NLK,Norfolk Island, Australia
+NLL, Nullagine, Western Australia, Australia
+NLN, Eureka, California, United States
+NLO,Kinshasa, Democratic Republic of the Congo
+NLP,Mbombela, South Africa
+NLS, Nicholson, Western Australia, Australia
+NLT,Xinyuan, Xinjiang, China
+NLU,Zumpango, State of Mexico, Mexico
+NLV,Mykolaiv, Ukraine
+NMA,Namangan, Uzbekistan
+NMB, Daman, Daman and Diu, India
+NMC,Norman's Cay, Exuma Islands, Bahamas
+NME, Nightmute, Alaska, United States
+NMG, San Miguel, Panama
+NML,Fort McMurray, Alberta, Canada
+NMN, Nomane, Papua New Guinea
+NMP, New Moon, Queensland, Australia
+NMR,Nappa Merrie, Queensland, Australia
+NMS, (Namsang), Myanmar
+NMT,Namtu, Myanmar
+NNA,Kenitra, Morocco
+NNB, (Owaraha), Solomon Islands
+NND,Nangade, Mozambique
+NNG,Nanning, Guangxi, China
+NNI,Namutoni, Namibia
+NNK, Naknek, Alaska, United States
+NNL, Nondalton, Alaska, United States
+NNM,Naryan-Mar, Nenets Autonomous Okrug, Russia
+NNR,Spiddal, Ireland
+NNT, Nan, Thailand
+NNU,Nanuque, Minas Gerais, Brazil
+NNX,Nunukan, Indonesia
+NNY, Nanyang, Henan, China
+NOA, Nowra, New South Wales, Australia
+NOB,Nosara, Costa Rica
+NOC, Knock, Ireland
+NOD, Norden, Lower Saxony, Germany
+NOG, Nogales, Sonora, Mexico
+NOI,Novorossiysk, Krasnodar Krai, Russia
+NOJ,Noyabrsk, Yamalo-Nenets Autonomous Okrug, Russia
+NOK,Nova Xavantina, Mato Grosso, Brazil
+NOM,Nomad River, Papua New Guinea
+NON,Nonouti, Kiribati
+NOO,Naoro, Papua New Guinea
+NOP, Sinop, Turkey
+NOR,Nordfjordur, Iceland
+NOS,Nosy Be, Madagascar
+NOT, Novato, California, United States
+NOU,Noum\u00e9a, New Caledonia
+NOV,Huambo, Angola
+NOZ,Novokuznetsk, Kemerovo Oblast, Russia
+NPA, Pensacola, Florida, United States
+NPE, Hastings, New Zealand
+NPG, Nipa, Papua New Guinea
+NPH, Nephi, Utah, United States
+NPL,New Plymouth, New Zealand
+NPO,Nanga Pinoh, Indonesia
+NPP, Napperby, Northern Territory, Australia
+NPR,Novo Progresso, Par\u00e1, Brazil
+NPT, Newport, Rhode Island, United States
+NPU,San Pedro de Urab\u00e1, Colombia
+NQA, Millington, Tennessee, United States
+NQI, Kingsville, Texas, United States
+NQL,Niquel\u00e2ndia, Goi\u00e1s, Brazil
+NQN,Neuqu\u00e9n, Neuqu\u00e9n, Argentina
+NQT,Nottingham, England, United Kingdom
+NQU,Nuqu\u00ed, Colombia
+NQX, Key West, Florida, United States
+NQY,Newquay, England, United Kingdom
+NRA,Narrandera, New South Wales, Australia
+NRB, Mayport, Florida, United States
+NRC, Crows Landing, California, United States
+NRD,Norderney, Lower Saxony, Germany
+NRE,Namrole, Indonesia
+NRG, Narrogin, Western Australia, Australia
+NRI, Afton, Oklahoma, United States
+NRK,Norrk\u00f6ping, Sweden
+NRL,North Ronaldsay, Scotland, United Kingdom
+NRM, Nara, Mali
+NRN,Weeze, North Rhine-Westphalia, Germany
+NRR, Ceiba, Puerto Rico, United States
+NRS, Imperial Beach, California, United States
+NRT,Tokyo, Honshu, Japan
+NRY,Newry Station, Northern Territory, Australia
+NSB,Bimini, Bahamas
+NSE, Milton, Florida, United States
+NSH,Nowshahr, Iran
+NSI,Yaound\u00e9, Cameroon
+NSK,Norilsk, Krasnoyarsk Krai, Russia
+NSL, Slayton, Minnesota, United States
+NSM, Norseman, Western Australia, Australia
+NSN, Nelson, New Zealand
+NSO, Scone, New South Wales, Australia
+NST,Nakhon Si Thammarat, Thailand
+NSV, Noosaville, Queensland, Australia
+NSY,Catania, Sicily, Italy
+NTA,Natadola Bay, Fiji
+NTB,Notodden, Norway
+NTC,Santa Carolina, Mozambique
+NTD, Point Mugu, California, United States
+NTE,Nantes, Pays de la Loire, France
+NTG,Nantong, Jiangsu, China
+NTI,Bintuni, Indonesia
+NTJ, Manti, Utah,  United States
+NTL, Newcastle, New South Wales, Australia
+NTM,Miracema do Tocantins, Tocantins, Brazil
+NTN, Normanton, Queensland, Australia
+NTO, Santo Ant\u00e3o, Cape Verde
+NTQ, Wajima, Honshu, Japan
+NTR,Monterrey, Nuevo Le\u00f3n, Mexico
+NTT,Niuatoputapu, Tonga
+NTU, Virginia Beach, Virginia, United States
+NTX,Natuna Islands, Indonesia
+NTY, Sun City, South Africa
+NUA,Nuwara Eliya, Sri Lanka
+NUB,Numbulwar, Northern Territory, Australia
+NUD,En Nahud, Sudan
+NUE,Nuremberg, Bavaria, Germany
+NUF, Hatton, Sri Lanka
+NUG,Nuguria, Papua New Guinea
+NUH,Nunch\u00eda, Colombia
+NUI, Nuiqsut, Alaska, United States
+NUJ,Hamadan, Iran
+NUK,Nukutavake, Tuamotus, French Polynesia
+NUL, Nulato, Alaska, United States
+NUN, Pensacola, Florida, United States
+NUP, Nunapitchuk, Alaska, United States
+NUQ, Mountain View, California, United States
+NUR, Nullarbor, South Australia, Australia
+NUS,Norsup, Malakula, Vanuatu
+NUT,Nutuve, Papua New Guinea
+NUU,Nakuru, Kenya
+NUW, Oak Harbor, Washington, United States
+NUX,Novy Urengoy, Yamalo-Nenets Autonomous Okrug, Russia
+NVA, Neiva, Colombia
+NVD, Nevada, Missouri, United States
+NVG,Nueva Guinea, Nicaragua
+NVI,Navoiy, Uzbekistan
+NVK,Narvik, Norway
+NVN, Beckwourth, California, United States
+NVP,Novo Aripuan\u00e3, Amazonas, Brazil
+NVR,Veliky Novgorod, Novgorod Oblast, Russia
+NVS,Nevers, Burgundy, France
+NVT,Navegantes, Santa Catarina, Brazil
+NVY,Neyveli, Tamil Nadu, India
+NWA,Moh\u00e9li, Comoros
+NWH, Newport, New Hampshire, United States
+NWI,Norwich, England, United Kingdom
+NWT, Nowata, Papua New Guinea
+NYA,Nyagan, Khanty-Mansi Autonomous Okrug, Russia
+NYC,New York City, New York, United States
+NYE,Nyeri, Kenya
+NYG, Quantico, Virginia, United States
+NYI,Sunyani, Ghana
+NYK,Nanyuki, Kenya
+NYM,Nadym, Yamalo-Nenets Autonomous Okrug, Russia
+NYN,Nyngan, New South Wales, Australia
+NYO,Nyk\u00f6ping, Sweden
+NYR,Nyurba, Yakutia, Russia
+NYT, (Nay Pyi Taw), Myanmar
+NYU,Nyaung-U, Myanmar
+NYW,Monywa, Myanmar
+NZA,Nzagi, Angola
+NZC,Nazca, Peru
+NZE,Nz\u00e9r\u00e9kor\u00e9, Guinea
+NZH,Manzhouli, Inner Mongolia, China
+NZL,Zhalantun, Inner Mongolia, China
+NZY,San Diego, California, United States

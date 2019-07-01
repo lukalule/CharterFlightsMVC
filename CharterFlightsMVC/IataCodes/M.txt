@@ -1,0 +1,646 @@
+MAA,Chennai, Tamil Nadu, India
+MAB, Marab\u00e1, Par\u00e1, Brazil
+MAC, Macon, Georgia, United States
+MAD,Madrid, Spain
+MAE, Madera, California, United States
+MAF, Midland, Texas, United States
+MAG,Madang, Papua New Guinea
+MAH,Menorca, Balearic Islands, Spain
+MAI,Mangochi, Malawi
+MAJ,Majuro, Marshall Islands
+MAK,Malakal, South Sudan
+MAL,Mangole Island, Indonesia
+MAM, Matamoros, Tamaulipas, Mexico
+MAN,Manchester, England, United Kingdom
+MAO,Manaus, Amazonas, Brazil
+MAP, Mamai, Papua New Guinea
+MAQ,Mae Sot, Thailand
+MAR,Maracaibo, Venezuela
+MAS,Manus Island, Papua New Guinea
+MAT,Matadi, Democratic Republic of the Congo
+MAU,Maupiti, Leeward Islands, French Polynesia
+MAV,Taroa Island, Maloelap Atoll, Marshall Islands
+MAW, Malden, Missouri, United States
+MAX, Matam, Senegal
+MAY,Mangrove Cay,   Andros Island, Bahamas
+MAZ, Mayag\u00fcez, Puerto Rico, United States
+MBA,Mombasa, Kenya
+MBB, Marble Bar, Western Australia, Australia
+MBC,Mbigou, Gabon
+MBD,Mmabatho, South Africa
+MBE, Monbetsu, Monbetsu Hokkaido, Hokkaido, Japan
+MBF,Mount Buffalo, Victoria, Australia
+MBG, Mobridge, South Dakota, United States
+MBH, Maryborough, Queensland, Australia
+MBI,Mbeya, Tanzania
+MBJ,Montego Bay, Jamaica
+MBK,Matup\u00e1, Mato Grosso, Brazil
+MBL, Manistee, Michigan, United States
+MBM,Mkambati, South Africa
+MBN,Mount Barnett, Western Australia, Australia
+MBO,Mamburao, Philippines
+MBP,Moyobamba, Peru
+MBQ,Mbarara, Uganda
+MBR,M'Bout, Mauritania
+MBS, Bay City, Michigan, United States
+MBT,Masbate, Philippines
+MBU,Mbambanakira, Solomon Islands
+MBV, Masa, Papua New Guinea
+MBW,Melbourne, Victoria, Australia
+MBX,Maribor, Slovenia
+MBY, Moberly, Missouri, United States
+MBZ,Mau\u00e9s, Amazonas, Brazil
+MCA,Macenta, Guinea
+MCB, McComb, Mississippi, United States
+MCC, Sacramento, California, United States
+MCD, Mackinac Island, Michigan, United States
+MCE, Merced, California, United States
+MCF, Tampa, Florida, United States
+MCG, McGrath, Alaska, United States
+MCH,Machala, Ecuador
+MCI, Kansas City, Missouri, United States
+MCJ,Maicao, Colombia
+MCK, McCook, Nebraska, United States
+MCL, McKinley Park, Alaska, United States
+MCN, Macon, Georgia, United States
+MCO, Orlando, Florida, United States
+MCP,Macap\u00e1, Amap\u00e1, Brazil
+MCQ,Miskolc, Hungary
+MCS, Monte Caseros, Corrientes, Argentina
+MCT, Muscat, Oman
+MCU,Montlu\u00e7on, Auvergne, France
+MCV,McArthur River, Northern Territory, Australia
+MCW, Mason City, Iowa, United States
+MCX,Makhachkala, Dagestan, Russia
+MCY, Sunshine Coast, Queensland, Australia
+MCZ,Macei\u00f3, Alagoas, Brazil
+MDB, Melinda, Belize
+MDC,Manado, Indonesia
+MDD, Midland, Texas, United States
+MDE,Medell\u00edn, Colombia
+MDF, Medford, Wisconsin, United States
+MDG,Mudanjiang, Heilongjiang, China
+MDH, Murphysboro, Illinois, United States
+MDI,Makurdi, Nigeria
+MDJ, Madras, Oregon, United States
+MDK,Mbandaka, Democratic Republic of the Congo
+MDL,Mandalay, Myanmar
+MDM,Munduku, Papua New Guinea
+MDN, Madison, Indiana, United States
+MDO,Middleton Island, Alaska, United States
+MDP,Mindiptana, Indonesia
+MDQ,Mar del Plata, Buenos Aires, Argentina
+MDS,Middle Caicos, Turks and Caicos Islands
+MDT, Harrisburg, Pennsylvania, United States
+MDU,Mendi, Papua New Guinea
+MDV,M\u00e9douneu, Gabon
+MDW,Chicago, Illinois, United States
+MDX, Mercedes, Corrientes, Argentina
+MDY,Sand Island, Midway Atoll, United States
+MDZ, Mendoza, Mendoza, Argentina
+MEA,Maca\u00e9, Rio de Janeiro, Brazil
+MEB,Melbourne, Victoria, Australia
+MEC, Manta, Ecuador
+MED,Medina, Saudi Arabia
+MEE,Mar\u00e9, Loyalty Islands, New Caledonia
+MEF, Melfi, Chad
+MEG,Malanje, Angola
+MEH,Mehamn, Norway
+MEI, Meridian, Mississippi, United States
+MEJ, Meadville, Pennsylvania, United States
+MEK,Meknes, Morocco
+MEL,Melbourne, Victoria, Australia
+MEM, Memphis, Tennessee, United States
+MEN, Mende, Languedoc-Roussillon, France
+MEO, Manteo, North Carolina, United States
+MEP,Mersing, Johor, Malaysia
+MEQ,Meulaboh, Indonesia
+MER, Merced, California, United States
+MES,Medan, Indonesia
+MET, Moreton, Queensland, Australia
+MEU,Monte Dourado, Par\u00e1, Brazil
+MEV, Minden, Nevada, United States
+MEW, Mweka, Democratic Republic of the Congo
+MEX,Mexico City, Mexico
+MEY,Meghauli, Nepal
+MEZ,Messina, South Africa
+MFA,Mafia Island, Tanzania
+MFB, Monfort, Colombia
+MFC,Mafeteng, Lesotho
+MFD, Mansfield, Ohio, United States
+MFE, McAllen, Texas, United States
+MFF,Moanda, Gabon
+MFG,Muzaffarabad, Pakistan
+MFH, Mesquite, Nevada, United States
+MFI, Marshfield, Wisconsin, United States
+MFJ,Moala Island, Fiji
+MFK, Beigan, Taiwan
+MFL, Wandovale, Queensland, Australia
+MFM,Macau
+MFN,Milford Sound, New Zealand
+MFO,Manguna, Papua New Guinea
+MFP,Manners Creek Station, Northern Territory, Australia
+MFQ, Maradi, Niger
+MFR, Medford, Oregon, United States
+MFS, Miraflores, Colombia
+MFU,Mfuwe, Zambia
+MFV, Melfa, Virginia, United States
+MFW,Magaruque Island, Mozambique
+MFX,M\u00e9ribel, Rh\u00f4ne-Alpes, France
+MFY,Mayfa'ah, Yemen
+MFZ, Meselia, Papua New Guinea
+MGA,Managua, Nicaragua
+MGB, Mount Gambier, South Australia, Australia
+MGC, Michigan City, Indiana, United States
+MGD, Magdalena, Bolivia
+MGE, Marietta, Georgia, United States
+MGF,Maring\u00e1, Paran\u00e1, Brazil
+MGG,Margarima, Papua New Guinea
+MGH, Margate, South Africa
+MGI,Matagorda Island, Texas, United States
+MGJ, Montgomery, New York, United States
+MGK,Mong Ton, Myanmar
+MGL,M\u00f6nchengladbach, North Rhine-Westphalia, Germany
+MGM, Montgomery, Alabama, United States
+MGN,Magangu\u00e9, Colombia
+MGO, Manega, Gabon
+MGP, Manga, Papua New Guinea
+MGQ,Mogadishu, Somalia
+MGR, Moultrie, Georgia, United States
+MGS,Mangaia Island, Cook Islands
+MGT,Milingimbi Island, Northern Territory, Australia
+MGU,Manaung, Myanmar
+MGV, Margaret River Station, Western Australia, Australia
+MGW, Morgantown, West Virginia, United States
+MGX, Moabi, Gabon
+MGY, Dayton, Ohio, United States
+MGZ, Myeik, Myanmar
+MHA, Mahdia, Guyana
+MHC, Castro, Chile
+MHD,Mashhad, Iran
+MHE, Mitchell, South Dakota, United States
+MHF,Morichal, Colombia
+MHG,Mannheim, Baden-W\u00fcrttemberg, Germany
+MHH,Marsh Harbour, Abaco Islands, Bahamas
+MHI,Moucha Island, Djibouti
+MHK, Manhattan, Kansas, United States
+MHL, Marshall, Missouri, United States
+MHN, Mullen, Nebraska, United States
+MHO,Mount House Station, Western Australia, Australia
+MHP,Minsk, Belarus
+MHQ,Mariehamn, \u00c5land Islands, Finland
+MHR, Sacramento, California, United States
+MHS, Mount Shasta, California, United States
+MHT, Manchester, New Hampshire, United States
+MHU,Mount Hotham, Victoria, Australia
+MHV, Mojave, California, United States
+MHW, Monteagudo, Bolivia
+MHX,Manihiki, Cook Islands
+MHY, Morehead, Papua New Guinea
+MHZ, Mildenhall, England, United Kingdom
+MIA,Miami, Florida, United States
+MIB, Minot, North Dakota, United States
+MIC,St Paul, Minnesota, United States
+MID, M\u00e9rida, Yucat\u00e1n, Mexico
+MIE, Muncie, Indiana, United States
+MIF, Monahans, Texas, United States
+MIG,Mianyang, Sichuan, China
+MIH,Mitchell Plateau, Western Australia, Australia
+MII,Mar\u00edlia, S\u00e3o Paulo, Brazil
+MIJ,Mili Atoll, Marshall Islands
+MIK,Mikkeli, Finland
+MIL,Milan, Lombardy, Italy
+MIM,Merimbula, New South Wales, Australia
+MIN, Minnipa, South Australia, Australia
+MIO, Miami, Oklahoma, United States
+MIP,Mitzpe Ramon, Israel
+MIQ, Omaha, Nebraska, United States
+MIR, Monastir, Tunisia
+MIS,Misima Island, Papua New Guinea
+MIT, Shafter, California, United States
+MIU,Maiduguri, Nigeria
+MIV, Millville, New Jersey, United States
+MIW, Marshalltown, Iowa, United States
+MIX,Mirit\u00ed-Paran\u00e1, Colombia
+MIY,Mittiebah Station, Northern Territory, Australia
+MIZ, Mainoru, Northern Territory, Australia
+MJA, Manja, Madagascar
+MJB,Mejit Island, Marshall Islands
+MJC, Man, Ivory Coast
+MJD,Mohenjo-daro, Pakistan
+MJE,Majkin, Marshall Islands
+MJF,Mosj\u00f8en, Norway
+MJI,Tripoli, Libya
+MJJ, Moki, Papua New Guinea
+MJK,Monkey Mia, Western Australia, Australia
+MJL,Mouila, Gabon
+MJM,Mbuji-Mayi, Democratic Republic of the Congo
+MJN,Mahajanga, Madagascar
+MJO,Mount Etjo, Namibia
+MJP, Manjimup, Western Australia, Australia
+MJQ, Jackson, Minnesota, United States
+MJR, Miramar, Buenos Aires, Argentina
+MJS,Maganja da Costa, Mozambique
+MJT,Mytilene, Lesbos, Greece
+MJU,Mamuju, Indonesia
+MJV,Murcia, Region of Murcia, Spain
+MJW,Mahenye, Zimbabwe
+MJX, Toms River, New Jersey, United States
+MJZ, Mirny, Yakutia, Russia
+MKA,Mari\u00e1nsk\u00e9 L\u00e1zn\u011b, Czech Republic
+MKB,M\u00e9kambo, Gabon
+MKC, Kansas City, Missouri, United States
+MKE,Milwaukee, Wisconsin, United States
+MKF,Miangas, Indonesia
+MKG, Muskegon, Michigan, United States
+MKH,Mokhotlong, Lesotho
+MKI,Obo, Central African Republic
+MKJ,Makoua, Republic of the Congo
+MKK, Kaunakakai, Hawaii, United States
+MKL, Jackson, Tennessee, United States
+MKM,Mukah, Sarawak, Malaysia
+MKN,Malekolon, Papua New Guinea
+MKO, Muskogee, Oklahoma, United States
+MKP,Makemo, French Polynesia
+MKQ,Merauke, Indonesia
+MKR, Meekatharra, Western Australia, Australia
+MKS,Mekane Selam, Ethiopia
+MKT, Mankato, Minnesota, United States
+MKU,Makokou, Gabon
+MKV,Mount Cavenagh, Northern Territory, Australia
+MKW,Manokwari, Indonesia
+MKY, Mackay, Queensland, Australia
+MKZ,Malacca City, Malacca, Malaysia
+MLA,Luqa, Malta
+MLB, Melbourne, Florida, United States
+MLC, McAlester, Oklahoma, United States
+MLD, Malad City, Idaho, United States
+MLE,Mal\u00e9, Maldives
+MLF, Milford, Utah, United States
+MLG,Malang, Indonesia
+MLH,Mulhouse, Alsace, France
+MLI, Moline, Illinois, United States
+MLJ, Milledgeville, Georgia, United States
+MLK, Malta, Montana, United States
+MLL, Marshall, Alaska, United States
+MLM,Morelia, Michoac\u00e1n, Mexico
+MLN,Melilla, Spain
+MLO,Milos, Greece
+MLP, Malabang, Philippines
+MLQ,Malalaua, Papua New Guinea
+MLR, Millicent, South Australia, Australia
+MLS, Miles City, Montana, United States
+MLT, Millinocket, Maine, United States
+MLU, Monroe, Louisiana, United States
+MLV, Merluna, Queensland, Australia
+MLW,Monrovia, Liberia
+MLX,Malatya, Turkey
+MLY, Manley Hot Springs, Alaska, United States
+MLZ, Melo, Uruguay
+MMA,Malm\u00f6, Sweden
+MMB, \u014czora, Hokkaido, Japan
+MMC,Ciudad Mante, Tamaulipas, Mexico
+MMD, Minamidait\u014d, Dait\u014d Islands, Japan
+MME,Teesside, England, United Kingdom
+MMF,Mamfe, Cameroon
+MMG, Mount Magnet, Western Australia, Australia
+MMH, Mammoth Lakes, California, United States
+MMI, Athens, Tennessee, United States
+MMJ, Matsumoto, Honshu, Japan
+MMK,Murmansk, Murmansk Oblast, Russia
+MML, Marshall, Minnesota, United States
+MMM, Middlemount, Queensland, Australia
+MMN, Stow, Massachusetts, United States
+MMO, Maio Island, Cape Verde
+MMP, (Momp\u00f3x), Colombia
+MMQ, Mbala, Zambia
+MMS, Marks, Mississippi, United States
+MMT, Columbia, South Carolina, United States
+MMU, Morristown, New Jersey, United States
+MMV,Mal Island, Papua New Guinea
+MMW, Moma, Mozambique
+MMX,Malm\u00f6, Sweden
+MMY, Miyakojima, Miyako Islands, Japan
+MMZ,Maymana, Afghanistan
+MNA,Melonguane, Indonesia
+MNB, Moanda, Democratic Republic of the Congo
+MNC,Nacala, Mozambique
+MND, Medina, Colombia
+MNE, Mungeranie, South Australia, Australia
+MNF, Mana Island, Fiji
+MNG, Maningrida, Northern Territory, Australia
+MNH,Al-Musannah, Oman
+MNI,Montserrat
+MNJ, Mananjary, Madagascar
+MNK,Maiana, Kiribati
+MNL,Manila, Philippines
+MNM, Menominee, Michigan, United States
+MNN, Marion, Ohio, United States
+MNO, Manono, Democratic Republic of the Congo
+MNP,Maron Island, Papua New Guinea
+MNQ, Monto, Queensland, Australia
+MNR,Mongu, Zambia
+MNS, Mansa, Zambia
+MNT, Minto, Alaska, United States
+MNU, (Mawlamyaing), Myanmar
+MNV, Mount Valley, Northern Territory, Australia
+MNW,MacDonald Downs, Northern Territory, Australia
+MNX,Manicor\u00e9, Amazonas, Brazil
+MNY,Mono Island, Treasury Islands, Solomon Islands
+MNZ, Manassas, Virginia, United States
+MOA, Moa, Cuba
+MOB, Mobile, Alabama, United States
+MOC,Montes Claros, Minas Gerais, Brazil
+MOD, Modesto, California, United States
+MOE,Momeik, Myanmar
+MOF,Maumere, Indonesia
+MOG, (Monghsat), Myanmar
+MOH,Morowali, Indonesia
+MOI,Mitiaro Island, Cook Islands
+MOJ,Moengo, Suriname
+MOL,Molde, Norway
+MOM,Moudjeria, Mauritania
+MON,Mount Cook, New Zealand
+MOO, Moomba, South Australia, Australia
+MOP, Mount Pleasant, Michigan, United States
+MOQ,Morondava, Madagascar
+MOR, Morristown, Tennessee, United States
+MOS, Elim, Alaska, United States
+MOT, Minot, North Dakota, United States
+MOU, Mountain Village, Alaska, United States
+MOV,Moranbah, Queensland, Australia
+MOW,Moscow, Russia
+MOX, Morris, Minnesota, United States
+MOY, Monterrey, Colombia
+MOZ,Mo'orea, Windward Islands, French Polynesia
+MPA,Katima Mulilo, Namibia
+MPB,Miami, Florida, United States
+MPC,Muko-Muko, Indonesia
+MPD,Mirpur Khas, Pakistan
+MPF,Mapoda, Papua New Guinea
+MPG,Makini, Papua New Guinea
+MPH, Malay, Philippines
+MPI,Mamitupo, Panama
+MPJ, Morrilton, Arkansas, United States
+MPL,Montpellier, Languedoc-Roussillon, France
+MPM,Maputo, Mozambique
+MPN,Falkland Islands
+MPO, Mount Pocono, Pennsylvania, United States
+MPP,Mulatupo, Panama
+MPQ,Ma'an, Jordan
+MPR, McPherson, Kansas, United States
+MPS, Mount Pleasant, Texas, United States
+MPT,Maliana, East Timor
+MPU, Mabua, Papua New Guinea
+MPV, Montpelier, Vermont, United States
+MPW,Mariupol, Ukraine
+MPX, Miyanmin, Papua New Guinea
+MPY,Maripasoula, French Guiana
+MPZ, Mount Pleasant, Iowa, United States
+MQA,Mandora Station, Western Australia, Australia
+MQB, Macomb, Illinois, United States
+MQC,Miquelon, Saint Pierre and Miquelon
+MQD,Maquinchao, R\u00edo Negro, Argentina
+MQE, Marqua, Northern Territory, Australia
+MQF,Magnitogorsk, Chelyabinsk Oblast, Russia
+MQG, Midgard, Namibia
+MQH,Mina\u00e7u, Goi\u00e1s, Brazil
+MQJ,Khonuu, Yakutia, Russia
+MQK, San Mat\u00edas, Bolivia
+MQL,Mildura, Victoria, Australia
+MQM,Mardin, Turkey
+MQN,Mo i Rana, Norway
+MQO, Malam, Papua New Guinea
+MQP,Mbombela, South Africa
+MQQ,Moundou, Chad
+MQR, Mosquera, Colombia
+MQS,Mustique Island, Saint Vincent and the Grenadines
+MQT, Marquette, Michigan, United States
+MQU, Mariquita, Colombia
+MQV,Mostaganem, Algeria
+MQW, McRae, Georgia, United States
+MQX, (Mekelle), Ethiopia
+MQY, Smyrna, Tennessee, United States
+MQZ, Margaret River, Western Australia, Australia
+MRA,Misrata, Libya
+MRB, Martinsburg, West Virginia, United States
+MRC, Mount Pleasant, Tennessee, United States
+MRD, M\u00e9rida, Venezuela
+MRE,Maasai Mara, Kenya
+MRF, Marfa, Texas, United States
+MRG,Mareeba, Queensland, Australia
+MRH, May River, Papua New Guinea
+MRI, Anchorage, Alaska, United States
+MRJ,Marcala, Honduras
+MRK, Marco Island, Florida, United States
+MRL, Miners Lake, Queensland, Australia
+MRM, Manari, Papua New Guinea
+MRN, Morganton, North Carolina, United States
+MRO,Masterton, New Zealand
+MRP, Marla, South Australia, Australia
+MRQ,Marinduque Island, Philippines
+MRR,Macar\u00e1, Ecuador
+MRS,Marseille, Provence-Alpes-C\u00f4te d'Azur, France
+MRT,Moroak, Northern Territory, Australia
+MRU,Plaine Magnien, Mauritius
+MRV,Mineralnye Vody, Stavropol Krai, Russia
+MRW,Maribo, Denmark
+MRX,Bandar-e Mahshahr, Iran
+MRY, Monterey, California, United States
+MRZ, Moree, New South Wales, Australia
+MSA,Muskrat Dam, Ontario, Canada
+MSC, Phoenix, Arizona, United States
+MSD, Mount Pleasant, Utah, United States
+MSE, Manston, England, United Kingdom
+MSF, Mount Swan, Northern Territory, Australia
+MSG,Matsaile, Lesotho
+MSH,Masirah Island, Oman
+MSI,Masalembo, Indonesia
+MSJ, Misawa, Honshu, Japan
+MSL, Florence, Alabama, United States
+MSM,Masi-Manimba, Democratic Republic of the Congo
+MSN, Madison, Wisconsin, United States
+MSO, Missoula, Montana, United States
+MSP,St Paul, Minnesota, United States
+MSQ,Minsk, Belarus
+MSR,Mu\u015f, Turkey
+MSS, Massena, New York, United States
+MST,Maastricht, Netherlands
+MSU,Maseru, Lesotho
+MSV, Monticello, New York, United States
+MSW,Massawa, Eritrea
+MSX,Mossendjo, Republic of the Congo
+MSY,New Orleans, Louisiana, United States
+MSZ,Mo\u00e7\u00e2medes, Angola
+MTA,Matamata, New Zealand
+MTB,Montel\u00edbano, Colombia
+MTC, Mount Clemens, Michigan, United States
+MTD,Mount Sandford Station, Northern Territory, Australia
+MTE, Monte Alegre, Par\u00e1, Brazil
+MTF,Mizan Teferi, Ethiopia
+MTG,Mato Grosso, Brazil
+MTH, Marathon, Florida, United States
+MTI, Mosteiros, Cape Verde
+MTJ, Montrose, Colorado, United States
+MTK, (Butaritari), Kiribati
+MTL, Maitland, New South Wales, Australia
+MTM, Metlakatla, Alaska, United States
+MTN,Baltimore, Maryland, United States
+MTO, Charleston, Illinois, United States
+MTP, Montauk, New York, United States
+MTQ, Mitchell, Queensland, Australia
+MTR,Monter\u00eda, Colombia
+MTS, Manzini, Swaziland
+MTT, Minatitl\u00e1n, Veracruz, Mexico
+MTU,Montepuez, Mozambique
+MTV,Mota Lava, Vanuatu
+MTW, Manitowoc, Wisconsin, United States
+MTX, Fairbanks, Alaska, United States
+MTY,Monterrey, Nuevo Le\u00f3n, Mexico
+MTZ,Masada, Israel
+MUA, Munda, New Georgia, Solomon Islands
+MUB, Maun, Botswana
+MUC,Munich, Bavaria, Germany
+MUD,Mueda, Mozambique
+MUE, Kamuela, Hawaii, United States
+MUF, Muting, Indonesia
+MUG,Muleg\u00e9, Baja California Sur, Mexico
+MUH,Mersa Matruh, Egypt
+MUI,Fort Indiantown Gap, Pennsylvania, United States
+MUJ, Mui, Ethiopia
+MUK,Mauke Island, Cook Islands
+MUL, Moultrie, Georgia, United States
+MUN,Matur\u00edn, Venezuela
+MUO, Mountain Home, Idaho, United States
+MUP, Mulga Park, Northern Territory, Australia
+MUQ,Muccan Station, Western Australia, Australia
+MUR, Marudi, Sarawak, Malaysia
+MUS,Minami-Tori-shima, Japan
+MUT, Muscatine, Iowa, United States
+MUW,Ghriss, Algeria
+MUX,Multan, Pakistan
+MUY,Mouyondzi, Republic of the Congo
+MUZ,Musoma, Tanzania
+MVA,M\u00fdvatn, Iceland
+MVB,Franceville, Gabon
+MVC, Monroeville, Alabama, United States
+MVD,Montevideo, Uruguay
+MVE, Montevideo, Minnesota, United States
+MVF,Mossor\u00f3, Rio Grande do Norte, Brazil
+MVG,Mevang, Gabon
+MVH, Macksville, New South Wales, Australia
+MVI, Manetai, Papua New Guinea
+MVK,Mulka, South Australia, Australia
+MVL, Stowe, Vermont, United States
+MVM, Kayenta, Arizona, United States
+MVN, Mount Vernon, Illinois, United States
+MVO, Mongo, Chad
+MVP,Mit\u00fa, Colombia
+MVQ,Mogilev, Belarus
+MVR,Maroua, Cameroon
+MVS,Mucuri, Bahia, Brazil
+MVT,Mataiva, Tuamotus, French Polynesia
+MVU, Musgrave, Queensland, Australia
+MVV,Meg\u00e8ve, Rh\u00f4ne-Alpes, France
+MVW, Mount Vernon, Washington, United States
+MVX,Minvoul, Gabon
+MVY, Vineyard Haven, Massachusetts, United States
+MVZ,Masvingo, Zimbabwe
+MWA, Marion, Illinois, United States
+MWB, Morawa, Western Australia, Australia
+MWC,Milwaukee, Wisconsin, United States
+MWD,Mianwali, Pakistan
+MWE, Merowe, Sudan
+MWF,Maewo, Vanuatu
+MWG,Marawaka, Papua New Guinea
+MWH, Moses Lake, Washington, United States
+MWI,Maramuni, Papua New Guinea
+MWJ,Matthew's Ridge, Guyana
+MWK,Matak, Indonesia
+MWL, Mineral Wells, Texas, United States
+MWM, Windom, Minnesota, United States
+MWN,Mwadui, Tanzania
+MWO, Middletown, Ohio, United States
+MWQ, Magway, Myanmar
+MWR,Motswari, South Africa
+MWT,Moolawatana Station, South Australia, Australia
+MWU,Mussau Island, Papua New Guinea
+MWV,Senmonorom, Cambodia
+MWX,Muan, South Korea
+MWY,Miranda Downs, Queensland, Australia
+MWZ,Mwanza, Tanzania
+MXA, Manila, Arkansas, United States
+MXB,Masamba, Indonesia
+MXC, Monticello, Utah, United States
+MXD,Marion Downs Station, Queensland, Australia
+MXE, Maxton, North Carolina, United States
+MXF, Montgomery, Alabama, United States
+MXG, Marlborough, Massachusetts, United States
+MXH, Moro, Papua New Guinea
+MXI, Mati, Philippines
+MXJ,Minna, Nigeria
+MXK,Mindik, Papua New Guinea
+MXL,Mexicali, Baja California, Mexico
+MXM,Morombe, Madagascar
+MXN,Morlaix, Brittany, France
+MXO, Monticello, Iowa, United States
+MXP,Milan, Lombardy, Italy
+MXR,Myrhorod, Ukraine
+MXS,Maota, Samoa
+MXT,Maintirano, Madagascar
+MXU, Mullewa, Western Australia, Australia
+MXV,M\u00f6r\u00f6n, Mongolia
+MXW,Mandalgovi, Mongolia
+MXX, Mora, Sweden
+MXY, McCarthy, Alaska, United States
+MXZ,Meizhou, Guangdong, China
+MYA, Moruya, New South Wales, Australia
+MYB, Mayumba, Gabon
+MYC,Maracay, Venezuela
+MYD,Malindi, Kenya
+MYE,Miyake-jima, Japan
+MYF,San Diego, California, United States
+MYG,Mayaguana, Bahamas
+MYH, Marble Canyon, Arizona, United States
+MYI, Murray Island, Queensland, Australia
+MYJ, Matsuyama, Shikoku, Japan
+MYK, May Creek, Alaska, United States
+MYL, McCall, Idaho, United States
+MYM, Monkey Mountain, Guyana
+MYN,Ma'rib, Yemen
+MYO,Myroodah Station, Western Australia, Australia
+MYP, Mary, Turkmenistan
+MYQ,Mysore, Karnataka, India
+MYR, Myrtle Beach, South Carolina, United States
+MYT,Myitkyina, Myanmar
+MYU, Mekoryuk, Alaska, United States
+MYV, Marysville, California, United States
+MYW,Mtwara, Tanzania
+MYX,Menyamya, Papua New Guinea
+MYY, Miri, Sarawak, Malaysia
+MYZ,Monkey Bay, Malawi
+MZA,Mazamari, Peru
+MZB,Moc\u00edmboa da Praia, Mozambique
+MZC,Mitzic, Gabon
+MZD,Santiago de M\u00e9ndez, Ecuador
+MZE, Manatee, Belize
+MZF,Mzamba, South Africa
+MZG,Magong, Taiwan
+MZH,Amasya, Turkey
+MZI,Mopti, Mali
+MZJ, Marana, Arizona, United States
+MZK,Marakei, Kiribati
+MZL,Manizales, Colombia
+MZM,Metz, Lorraine, France
+MZN,Minj, Papua New Guinea
+MZO, Manzanillo, Cuba
+MZP,Motueka, New Zealand
+MZQ,Mkuze, South Africa
+MZR,Mazar-i-Sharif, Afghanistan
+MZT,Mazatl\u00e1n, Sinaloa, Mexico
+MZU,Muzaffarpur, Bihar, India
+MZV,Mulu, Sarawak, Malaysia
+MZW,M\u00e9cheria, Algeria
+MZX, Mena, Ethiopia
+MZY,Mossel Bay, South Africa
+MZZ, Marion, Indiana, United States

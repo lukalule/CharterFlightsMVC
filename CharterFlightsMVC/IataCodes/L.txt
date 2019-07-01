@@ -1,0 +1,462 @@
+LAA, Lamar, Colorado, United States
+LAB, Lab Lab, Papua New Guinea
+LAC,Layang-Layang Island, Sabah, Malaysia
+LAD,Luanda, Angola
+LAE,Lae, Papua New Guinea
+LAF, Lafayette, Indiana, United States
+LAH,Labuha, Indonesia
+LAI,Lannion, Brittany, France
+LAJ,Lages, Santa Catarina, Brazil
+LAK,Aklavik, Northwest Territories, Canada
+LAL, Lakeland, Florida, United States
+LAM, Los Alamos, New Mexico, United States
+LAN, Lansing, Michigan, United States
+LAO,Laoag, Philippines
+LAP, La Paz, Baja California Sur, Mexico
+LAQ, Bayda, Libya
+LAR, Laramie, Wyoming, United States
+LAS,Las Vegas, Nevada, United States
+LAU,Lamu, Kenya
+LAW, Lawton, Oklahoma, United States
+LAX,Los Angeles, California, United States
+LAY, Ladysmith, South Africa
+LAZ,Bom Jesus da Lapa, Bahia, Brazil
+LBA,Bradford, England, United Kingdom
+LBB, Lubbock, Texas, United States
+LBC,L\u00fcbeck, Schleswig-Holstein, Germany
+LBD,Khujand, Tajikistan
+LBE, Latrobe, Pennsylvania, United States
+LBF, North Platte, Nebraska, United States
+LBG,Paris, \u00cele-de-France, France
+LBH, Palm Beach, New South Wales, Australia
+LBI,Albi, Midi-Pyr\u00e9n\u00e9es, France
+LBJ,Labuan Bajo, Indonesia
+LBK,Liboi, Kenya
+LBL, Liberal, Kansas, United States
+LBM,Luabo, Mozambique
+LBN,Lake Baringo, Kenya
+LBO,Lusambo, Democratic Republic of the Congo
+LBP,Long Banga, Sarawak, Malaysia
+LBQ,Lambar\u00e9n\u00e9, Gabon
+LBR,L\u00e1brea, Amazonas, Brazil
+LBS,Labasa, Fiji
+LBT, Lumberton, North Carolina, United States
+LBU,Labuan, Malaysia
+LBV,Libreville, Gabon
+LBW,Long Bawan, Indonesia
+LBX, Lubang, Philippines
+LBY,La Baule-Escoublac, Pays de la Loire, France
+LBZ,Lucapa, Angola
+LCA,Larnaca, Cyprus
+LCB,Pontes e Lacerda, Mato Grosso, Brazil
+LCC,Lecce, Apulia, Italy
+LCD,Louis Trichardt, South Africa
+LCE,La Ceiba, Honduras
+LCF,R\u00edo Dulce, Guatemala
+LCG,A Coru\u00f1a, Galicia, Spain
+LCH, Lake Charles, Louisiana, United States
+LCI, Laconia, New Hampshire, United States
+LCJ,\u0141\u00f3d\u017a, Poland
+LCK, Columbus, Ohio, United States
+LCL,Pinar del R\u00edo, Cuba
+LCM, C\u00f3rdoba, Argentina
+LCN,Balcanoona, South Australia, Australia
+LCO,Lague, Republic of the Congo
+LCP,Loncopu\u00e9, Neuqu\u00e9n, Argentina
+LCQ, Lake City, Florida, United States
+LCR, La Chorrera, Colombia
+LCV,Lucca, Tuscany, Italy
+LCX,Longyan, Fujian, China
+LCY,London, England, United Kingdom
+LDA,Malda, West Bengal, India
+LDB,Londrina, Paran\u00e1, Brazil
+LDC,Lindeman Island, Queensland, Australia
+LDE,Lourdes, Midi-Pyr\u00e9n\u00e9es, France
+LDG,Leshukonskoye, Arkhangelsk Oblast, Russia
+LDH,Lord Howe Island, New South Wales, Australia
+LDI,Lindi, Tanzania
+LDJ, Linden, New Jersey, United States
+LDK,Lidk\u00f6ping, Sweden
+LDM, Ludington, Michigan, United States
+LDN, Lamidanda, Nepal
+LDO, Aurora, Suriname
+LDR,Lawdar, Yemen
+LDS, Yichun, Heilongjiang, China
+LDU,Lahad Datu, Sabah, Malaysia
+LDV,Landivisiau, Brittany, France
+LDW, Lansdowne, Western Australia, Australia
+LDX,Saint-Laurent-du-Maroni, French Guiana
+LDY, (Londonderry), Northern Ireland, United Kingdom
+LDZ,Londolozi, South Africa
+LEA, Exmouth, Western Australia, Australia
+LEB, Hanover, New Hampshire, United States
+LEC,Len\u00e7\u00f3is, Bahia, Brazil
+LED,Saint Petersburg, Russia
+LEE, Leesburg, Florida, United States
+LEF,Lebakeng, Lesotho
+LEG,Aleg, Mauritania
+LEH,Le Havre, Upper Normandy, France
+LEI,Almer\u00eda, Andalusia, Spain
+LEJ,Leipzig, Halle, Saxony-Anhalt, Germany
+LEK,Lab\u00e9, Guinea
+LEL, Gapuwiyak, Northern Territory, Australia
+LEM, Lemmon, South Dakota, United States
+LEN, Le\u00f3n, Castile and Le\u00f3n, Spain
+LEO, L\u00e9koni, Gabon
+LEP, Leopoldina, Minas Gerais, Brazil
+LEQ,St Just, England, United Kingdom
+LER, Leinster, Western Australia, Australia
+LES,Lesobeng, Lesotho
+LET, Leticia, Colombia
+LEU,La Seu d'Urgell, Catalonia, Spain
+LEV,Levuka, Ovalau Island, Fiji
+LEW, Lewiston, Maine, United States
+LEX, Lexington, Kentucky, United States
+LEY,Lelystad, Netherlands
+LEZ, La Esperanza, Honduras
+LFB,Lumbo, Mozambique
+LFI, Hampton, Virginia, United States
+LFK, Lufkin, Texas, United States
+LFM,Lamerd, Iran
+LFN, Louisburg, North Carolina, United States
+LFO,Kelafo, Ethiopia
+LFP,Lakefield, Queensland, Australia
+LFQ,Linfen, Shanxi, China
+LFR,La Fr\u00eda, Venezuela
+LFT, Lafayette, Louisiana, United States
+LFW,Lom\u00e9, Togo
+LGA,New York City, New York, United States
+LGB, Long Beach, California, United States
+LGC, LaGrange, Georgia, United States
+LGD, La Grande, Oregon, United States
+LGE,Lake Gregory, Western Australia, Australia
+LGF,Yuma Proving Ground, Arizona, United States
+LGG,Li\u00e8ge, Belgium
+LGH, Leigh Creek, South Australia, Australia
+LGI,Deadman's Cay,   Long Island, Bahamas
+LGK,Langkawi, Kedah, Malaysia
+LGL,Long Lellang, Sarawak, Malaysia
+LGM,Laiagam, Papua New Guinea
+LGN,Linga Linga, Papua New Guinea
+LGO,Langeoog, Lower Saxony, Germany
+LGP, Legazpi, Philippines
+LGQ, (Lago Agrio), Ecuador
+LGR, Cochrane, Chile
+LGS,Malarg\u00fce, Mendoza, Argentina
+LGT,Gaviotas, Colombia
+LGU, Logan, Utah, United States
+LGW,London, England, United Kingdom
+LGX, (Luuq), Somalia
+LGY, Lagunillas, Venezuela
+LHA,Lahr, Baden-W\u00fcrttemberg, Germany
+LHB,Leicester, England, United Kingdom
+LHE,Lahore, Pakistan
+LHG, Lightning Ridge, New South Wales, Australia
+LHI,Lereh, Indonesia
+LHK,Laohekou, Hubei, China
+LHP, Lehu, Papua New Guinea
+LHR,London, England, United Kingdom
+LHS, Santa Cruz, Argentina
+LHU,Lianshulu, Namibia
+LHV, Lock Haven, Pennsylvania, United States
+LHW,Lanzhou, Gansu, China
+LIA,Liangping, Chongqing, China
+LIB,Limbunya Station, Northern Territory, Australia
+LIC, Limon, Colorado, United States
+LIE,Libenge, Democratic Republic of the Congo
+LIF,Lifou, Loyalty Islands, New Caledonia
+LIG,Limoges, Limousin, France
+LIH, Lihue, Hawaii, United States
+LII, Mulia, Indonesia
+LIK,Likiep Atoll, Marshall Islands
+LIL,Lille, Nord-Pas-de-Calais, France
+LIM,Lima, Peru
+LIN,Milan, Lombardy, Italy
+LIO,Lim\u00f3n, Costa Rica
+LIP, Lins, S\u00e3o Paulo, Brazil
+LIQ,Lisala, Democratic Republic of the Congo
+LIR, Liberia, Costa Rica
+LIS,Lisbon, Portugal
+LIT, Little Rock, Arkansas, United States
+LIV, Livengood, Alaska, United States
+LIW,Loikaw, Myanmar
+LIX,Likoma Island, Malawi
+LIY,Hinesville, Georgia, United States
+LIZ, Limestone, Maine, United States
+LJA,Lodja, Democratic Republic of the Congo
+LJG,Lijiang, Yunnan, China
+LJN, Lake Jackson, Texas, United States
+LJU,Ljubljana, Slovenia
+LKA,Larantuka, Indonesia
+LKB,Lakeba Island, Fiji
+LKC,Lekana, Republic of the Congo
+LKD, Lakeland Downs, Queensland, Australia
+LKE,Seattle, Washington, United States
+LKG,Lokichogio, Kenya
+LKH,Long Akah, Sarawak, Malaysia
+LKK, Kulik Lake, Alaska, United States
+LKL,Lakselv, Norway
+LKN,Leknes, Norway
+LKO,Lucknow, Uttar Pradesh, India
+LKP, Lake Placid, New York, United States
+LKR, (Laasqoray), Somalia
+LKU,Lake Turkana, Kenya
+LKV, Lakeview, Oregon, United States
+LKW,Lekhwair, Oman
+LKY,Lake Manyara, Tanzania
+LKZ, Brandon, England, United Kingdom
+LLA,Lule\u00e5, Sweden
+LLB,Libo, Guizhou, China
+LLC,Lal-lo, Philippines
+LLE,Malalane, South Africa
+LLF,Yongzhou, Hunan, China
+LLG, Chillagoe, Queensland, Australia
+LLH,Las Limas, Honduras
+LLI,Lalibela, Ethiopia
+LLK,Lankaran, Azerbaijan
+LLL, Lissadell, Western Australia, Australia
+LLN,Kelila, Indonesia
+LLO,Palopo, Indonesia
+LLP, Linda Downs, Queensland, Australia
+LLS,Las Lomitas, Formosa, Argentina
+LLT,Lobito, Angola
+LLV,L\u00fcliang, Shanxi, China
+LLW,Lilongwe, Malawi
+LLX, Lyndonville, Vermont, United States
+LLY, Mount Holly, New Jersey, United States
+LMA, Lake Minchumina, Alaska, United States
+LMB,Salima, Malawi
+LMC, La Macarena, Colombia
+LMD,Los Menucos, R\u00edo Negro, Argentina
+LME,Le Mans, Pays de la Loire, France
+LMG,Lamassa, Papua New Guinea
+LMH, Lim\u00f3n, Honduras
+LMI, Lumi, Papua New Guinea
+LML,Lae Atoll, Marshall Islands
+LMM,Los Mochis, Sinaloa, Mexico
+LMN,Limbang, Sarawak, Malaysia
+LMO,Lossiemouth, Scotland, United Kingdom
+LMP,Lampedusa, Sicily, Italy
+LMQ,Brega, Libya
+LMR,Lime Acres, South Africa
+LMS, Louisville, Mississippi, United States
+LMT, Klamath Falls, Oregon, United States
+LMX, El Trapiche, Colombia
+LMY,Lake Murray, Papua New Guinea
+LMZ, Palma, Mozambique
+LNA, West Palm Beach, Florida, United States
+LNB,Lamen Bay, Epi Island, Shefa Province, Vanuatu
+LNC,Lengbati, Papua New Guinea
+LND, Lander, Wyoming, United States
+LNE,Lonorore, Pentecost Island, Penama Province, Vanuatu
+LNF,Munbil, Papua New Guinea
+LNG, Lese, Papua New Guinea
+LNH,  (Lake Nash), Northern Territory, Australia
+LNI, Lonely, Alaska, United States
+LNJ,Lincang, Yunnan, China
+LNK, Lincoln, Nebraska, United States
+LNL,Longnan, Gansu, China
+LNM,Langimar, Papua New Guinea
+LNN, Willoughby, Ohio, United States
+LNO, Leonora, Western Australia, Australia
+LNP, Wise, Virginia, United States
+LNQ,Loani, Papua New Guinea
+LNR, Lone Rock, Wisconsin, United States
+LNS, Lancaster, Pennsylvania, United States
+LNV,Lihir Island, Papua New Guinea
+LNX,Smolensk, Smolensk Oblast, Russia
+LNY, Lanai City, Hawaii, United States
+LNZ,Linz, Austria
+LOA, Lorraine, Queensland, Australia
+LOB, Los Andes, Chile
+LOC, Lock, South Australia, Australia
+LOD,Longana, Aoba Island, Penama Province, Vanuatu
+LOE,Loei, Thailand
+LOF,Loen Island, Namu Atoll, Marshall Islands
+LOH, Loja, Ecuador
+LOI,Lontras, Santa Catarina, Brazil
+LOK,Lodwar, Kenya
+LOL, Lovelock, Nevada, United States
+LOM,Lagos de Moreno, Jalisco, Mexico
+LON,London, England, United Kingdom
+LOO,Laghouat, Algeria
+LOP, Praya, Indonesia
+LOQ,Lobatse, Botswana
+LOS,Lagos, Nigeria
+LOT, Romeoville, Illinois, United States
+LOU, Louisville, Kentucky, United States
+LOV,Monclova, Coahuila, Mexico
+LOW, Louisa, Virginia, United States
+LOX,Los Tablones, Guatemala
+LOY,Loiyangalani, Kenya
+LOZ, London, Kentucky, United States
+LPA,Gran Canaria, Canary Islands, Spain
+LPB,La Paz, Bolivia
+LPC, Lompoc, California, United States
+LPD, La Pedrera, Colombia
+LPE, La Primavera, Colombia
+LPF,Liupanshui, Guizhou, China
+LPG,La Plata, Buenos Aires, Argentina
+LPI,Link\u00f6ping, Sweden
+LPJ,Los Pijiguaos, Venezuela
+LPK,Lipetsk, Lipetsk Oblast, Russia
+LPL,Liverpool, England, United Kingdom
+LPM,Lamap, Malampa, Vanuatu
+LPN, Leron Plains, Papua New Guinea
+LPO, La Porte, Indiana, United States
+LPP,Lappeenranta, Finland
+LPQ,Luang Prabang, Laos
+LPS,Lopez Island, Washington, United States
+LPT,Lampang, Thailand
+LPU,Long Apung, Indonesia
+LPX,Liep\u0101ja, Latvia
+LPY,Le Puy-en-Velay, Auvergne, France
+LQK, Pickens, South Carolina, United States
+LQM,Puerto Legu\u00edzamo, Colombia
+LQN,Qala i Naw, Afghanistan
+LRA,Larissa, Greece
+LRB, (Hlotse), Lesotho
+LRC,Leicester, United Kingdom
+LRD, Laredo, Texas, United States
+LRE, Longreach, Queensland, Australia
+LRF, Jacksonville, Arkansas, United States
+LRG,Loralai, Pakistan
+LRH,La Rochelle, Poitou-Charentes, France
+LRI,Lorica, Colombia
+LRJ, Le Mars, Iowa, United States
+LRL,Niamtougou, Togo
+LRM, La Romana, Dominican Republic
+LRQ, Laurie River, Manitoba, Canada
+LRR, Lar, Iran
+LRS,Leros, Greece
+LRT,Lorient, Brittany, France
+LRU, Las Cruces, New Mexico, United States
+LRV,Los Roques, Venezuela
+LSA,Kiriwina Island, Papua New Guinea
+LSB, Lordsburg, New Mexico, United States
+LSC, La Serena, Chile
+LSE, La Crosse, Wisconsin, United States
+LSF,Columbus, Georgia, United States
+LSH,Lashio, Myanmar
+LSI,Shetland Islands, Scotland, United Kingdom
+LSJ,Long Island, Papua New Guinea
+LSK, Lusk, Wyoming, United States
+LSL,Los Chiles, Costa Rica
+LSM,Long Semado, Sarawak, Malaysia
+LSN, Los Banos, California, United States
+LSO,Les Sables-d'Olonne, Pays de la Loire, France
+LSP,Punto Fijo, Venezuela
+LSQ,Los \u00c1ngeles, Chile
+LSS,Terre-de-Haut Island, \u00celes des Saintes, Guadeloupe
+LST, Launceston, Tasmania, Australia
+LSU,Long Sukang, Sarawak, Malaysia
+LSV,Las Vegas, Nevada, United States
+LSW,Lhokseumawe, Indonesia
+LSX,Lhoksukon, Indonesia
+LSY, Lismore, New South Wales, Australia
+LSZ,Lo\u0161inj, Croatia
+LTA,Tzaneen, South Africa
+LTB, Latrobe, Tasmania, Australia
+LTC,La\u00ef, Chad
+LTD,Ghadames, Libya
+LTF,Leitre, Papua New Guinea
+LTG,Langtang, Nepal
+LTI,Altai, Mongolia
+LTK,Latakia, Syria
+LTL,Lastoursville, Gabon
+LTM, Lethem, Guyana
+LTN,London, England, United Kingdom
+LTO, Loreto, Baja California Sur, Mexico
+LTP, Lyndhurst, Queensland, Australia
+LTQ,Le Touquet-Paris-Plage, Nord-Pas-de-Calais, France
+LTR,Letterkenny, Ireland
+LTS, Altus, Oklahoma, United States
+LTT,Saint-Tropez, Provence-Alpes-C\u00f4te d'Azur, France
+LTU,Latur, Maharashtra, India
+LTV, Lotus Vale Station, Queensland, Australia
+LTW, Leonardtown, Maryland, United States
+LTX,Latacunga, Ecuador
+LUA,Lukla, Nepal
+LUB,Lumid Pau, Guyana
+LUC,Laucala Island, Fiji
+LUD,L\u00fcderitz, Namibia
+LUE,Lu\u010denec, Slovakia
+LUF, Glendale, Arizona, United States
+LUG,Lugano, Switzerland
+LUH,Ludhiana,   Punjab, India
+LUI, La Uni\u00f3n, Honduras
+LUK,Cincinnati, Ohio, United States
+LUL, Laurel, Mississippi, United States
+LUM,Mangshi, Yunnan, China
+LUN,Lusaka, Zambia
+LUO, Luena, Angola
+LUP, Kalaupapa, Hawaii, United States
+LUQ, San Luis, San Luis, Argentina
+LUR, Cape Lisburne, Alaska, United States
+LUS, Lusanga, Democratic Republic of the Congo
+LUT, New Laura, Queensland, Australia
+LUU, Laura, Queensland, Australia
+LUV,Langgur, Indonesia
+LUW,Luwuk, Indonesia
+LUX,Luxembourg, Luxembourg
+LUZ,Lublin, Poland
+LVA, Laval, Pays de la Loire, France
+LVB,Santana do Livramento, Rio Grande do Sul, Brazil
+LVD, Lime Village, Alaska, United States
+LVI, Livingstone, Zambia
+LVK, Livermore, California, United States
+LVL, Lawrenceville, Virginia, United States
+LVM, Livingston, Montana, United States
+LVO, Laverton, Western Australia, Australia
+LVP,Lavan Island, Iran
+LVR,Lucas do Rio Verde, Mato Grosso, Brazil
+LVS, Las Vegas, New Mexico, United States
+LWA, Lebak, Philippines
+LWB, Lewisburg, West Virginia, United States
+LWC, Lawrence, Kansas, United States
+LWE,Lewoleba, Indonesia
+LWH, Lawn Hill, Queensland, Australia
+LWI,Lowai, Papua New Guinea
+LWK,Lerwick, Scotland, United Kingdom
+LWL, Wells, Nevada, United States
+LWM, Lawrence, Massachusetts, United States
+LWN,Gyumri, Armenia
+LWO,Lviv, Ukraine
+LWR,Leeuwarden, Netherlands
+LWS, Lewiston, Idaho, United States
+LWT, Lewistown, Montana, United States
+LWV, Lawrenceville, Illinois, United States
+LWY,Lawas, Sarawak, Malaysia
+LXA,Lhasa, Tibet, China
+LXG,Luang Namtha, Laos
+LXN, Lexington, Nebraska, United States
+LXR,Luxor, Egypt
+LXS, (Limnos), Greece
+LXU,Lukulu, Zambia
+LXV, Leadville, Colorado, United States
+LYA,Luoyang, Henan, China
+LYB,Little Cayman, Cayman Islands
+LYC,Lycksele, Sweden
+LYE, Lyneham, England, United Kingdom
+LYG,Lianyungang, Jiangsu, China
+LYH, Lynchburg, Virginia, United States
+LYI,Linyi, Shandong, China
+LYK, Lunyuk, Indonesia
+LYN,Lyon, Rh\u00f4ne-Alpes, France
+LYO, Lyons, Kansas, United States
+LYP,Faisalabad, Pakistan
+LYR,Longyearbyen, Svalbard, Norway
+LYS,Lyon, Rh\u00f4ne-Alpes, France
+LYT,Lady Elliot Island, Queensland, Australia
+LYU, Ely, Minnesota, United States
+LYX,Lydd, England, United Kingdom
+LZA,Luiza, Democratic Republic of the Congo
+LZC, L\u00e1zaro C\u00e1rdenas, Michoac\u00e1n, Mexico
+LZH,Liuzhou, Guangxi, China
+LZI,Luozi, Democratic Republic of the Congo
+LZM,  (Luzamba), Angola
+LZN, Nangan, Taiwan
+LZO,Luzhou, Sichuan, China
+LZR,Lizard Island, Queensland, Australia
+LZU, LaGrange, Georgia, United States
+LZY, (Linzhi), Tibet, China

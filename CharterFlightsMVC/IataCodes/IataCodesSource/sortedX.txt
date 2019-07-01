@@ -1,0 +1,546 @@
+<tr>
+<td>XAL</td>
+<td></td>
+<td><a href=\"/w/index.php?title=%C3%81lamos_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"\u00c1lamos Airport (page does not exist)\">\u00c1lamos Airport</a></td>
+<td><a href=\"/wiki/%C3%81lamos\" title=\"\u00c1lamos\">\u00c1lamos</a>, <a href=\"/wiki/Sonora\" title=\"Sonora\">Sonora</a>, Mexico</td>
+</tr>
+<tr>
+<td>XAP</td>
+<td>SBCH</td>
+<td><a href=\"/wiki/Chapec%C3%B3_Airport\" title=\"Chapec\u00f3 Airport\">Serafin Enoss Bertaso Airport</a></td>
+<td><a href=\"/wiki/Chapec%C3%B3\" title=\"Chapec\u00f3\">Chapec\u00f3</a>, <a href=\"/wiki/Santa_Catarina_(state)\" title=\"Santa Catarina (state)\">Santa Catarina</a>, Brazil</td>
+</tr>
+<tr>
+<td>XAR</td>
+<td>DFOY</td>
+<td><a href=\"/wiki/Aribinda_Airport\" title=\"Aribinda Airport\">Aribinda Airport</a></td>
+<td><a href=\"/wiki/Aribinda\" class=\"mw-redirect\" title=\"Aribinda\">Aribinda</a>, <a href=\"/wiki/Burkina_Faso\" title=\"Burkina Faso\">Burkina Faso</a></td>
+</tr>
+<tr>
+<td>XAU</td>
+<td>SOOS</td>
+<td><a href=\"/wiki/Sa%C3%BCl_Airport\" title=\"Sa\u00fcl Airport\">Sa\u00fcl Airport</a></td>
+<td><a href=\"/wiki/Sa%C3%BCl\" class=\"mw-redirect\" title=\"Sa\u00fcl\">Sa\u00fcl</a>, <a href=\"/wiki/French_Guiana\" title=\"French Guiana\">French Guiana</a></td>
+</tr>
+<tr>
+<td>XBB</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Blubber_Bay_Seaplane_Base&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Blubber Bay Seaplane Base (page does not exist)\">Blubber Bay Seaplane Base</a></td>
+<td><a href=\"/wiki/Blubber_Bay\" title=\"Blubber Bay\">Blubber Bay</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>XBE</td>
+<td></td>
+<td><a href=\"/wiki/Bearskin_Lake_Airport\" title=\"Bearskin Lake Airport\">Bearskin Lake Airport</a> (TC: CNE3)</td>
+<td><a href=\"/wiki/Bearskin_Lake_First_Nation\" title=\"Bearskin Lake First Nation\">Bearskin Lake</a>, <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>XBG</td>
+<td>DFEB</td>
+<td><a href=\"/wiki/Bogande_Airport\" title=\"Bogande Airport\">Bogande Airport</a></td>
+<td><a href=\"/wiki/Bogand%C3%A9\" title=\"Bogand\u00e9\">Bogand\u00e9</a>, <a href=\"/wiki/Burkina_Faso\" title=\"Burkina Faso\">Burkina Faso</a></td>
+</tr>
+<tr>
+<td>XBJ</td>
+<td>OIMB</td>
+<td><a href=\"/wiki/Birjand_International_Airport\" title=\"Birjand International Airport\">Birjand International Airport</a></td>
+<td><a href=\"/wiki/Birjand\" title=\"Birjand\">Birjand</a>, <a href=\"/wiki/Iran\" title=\"Iran\">Iran</a></td>
+</tr>
+<tr>
+<td>XBL</td>
+<td>HABB</td>
+<td><a href=\"/w/index.php?title=Bedele_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Bedele Airport (page does not exist)\">Bedele Airport</a> (Buno Bedele Airport)</td>
+<td><a href=\"/wiki/Bedele\" title=\"Bedele\">Bedele</a>, <a href=\"/wiki/Ethiopia\" title=\"Ethiopia\">Ethiopia</a></td>
+</tr>
+<tr>
+<td>XBN</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Biniguni_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Biniguni Airport (page does not exist)\">Biniguni Airport</a></td>
+<td><a href=\"/w/index.php?title=Biniguni&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Biniguni (page does not exist)\">Biniguni</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>XBO</td>
+<td>DFEA</td>
+<td><a href=\"/wiki/Boulsa_Airport\" title=\"Boulsa Airport\">Boulsa Airport</a></td>
+<td><a href=\"/wiki/Boulsa\" title=\"Boulsa\">Boulsa</a>, <a href=\"/wiki/Burkina_Faso\" title=\"Burkina Faso\">Burkina Faso</a></td>
+</tr>
+<tr>
+<td>XBR</td>
+<td></td>
+<td><a href=\"/wiki/Brockville_Regional_Tackaberry_Airport\" title=\"Brockville Regional Tackaberry Airport\">Brockville Regional Tackaberry Airport</a> (TC: CNL3)</td>
+<td><a href=\"/wiki/Brockville\" title=\"Brockville\">Brockville</a>, <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>XCH</td>
+<td>YPXM</td>
+<td><a href=\"/wiki/Christmas_Island_Airport\" title=\"Christmas Island Airport\">Christmas Island Airport</a></td>
+<td><a href=\"/wiki/Christmas_Island\" title=\"Christmas Island\">Christmas Island</a>, Australia</td>
+</tr>
+<tr>
+<td>XCL</td>
+<td></td>
+<td><a href=\"/wiki/Cluff_Lake_Airport\" title=\"Cluff Lake Airport\">Cluff Lake Airport</a> (TC: CJS3)</td>
+<td><a href=\"/wiki/Cluff_Lake_mine\" title=\"Cluff Lake mine\">Cluff Lake</a>, <a href=\"/wiki/Saskatchewan\" title=\"Saskatchewan\">Saskatchewan</a>, Canada</td>
+</tr>
+<tr>
+<td>XCM</td>
+<td>CYCK</td>
+<td><a href=\"/wiki/Chatham-Kent_Airport\" title=\"Chatham-Kent Airport\">Chatham-Kent Airport</a></td>
+<td><a href=\"/wiki/Chatham-Kent\" title=\"Chatham-Kent\">Chatham-Kent</a>, <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>XCN</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Coron_Airport_(old)&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Coron Airport (old) (page does not exist)\">Coron Airport</a></td>
+<td><a href=\"/wiki/Coron,_Palawan\" title=\"Coron, Palawan\">Coron</a>, <a href=\"/wiki/Philippines\" title=\"Philippines\">Philippines</a></td>
+</tr>
+<tr>
+<td>XCO</td>
+<td>YOLA</td>
+<td><a href=\"/w/index.php?title=Colac_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Colac Airport (page does not exist)\">Colac Airport</a></td>
+<td><a href=\"/wiki/Colac,_Victoria\" title=\"Colac, Victoria\">Colac</a>, <a href=\"/wiki/Victoria_(Australia)\" title=\"Victoria (Australia)\">Victoria</a>, Australia</td>
+</tr>
+<tr>
+<td>XCR</td>
+<td>LFOK</td>
+<td><a href=\"/wiki/Ch%C3%A2lons_Vatry_Airport\" title=\"Ch\u00e2lons Vatry Airport\">Ch\u00e2lons Vatry Airport</a></td>
+<td><a href=\"/wiki/Ch%C3%A2lons-en-Champagne\" title=\"Ch\u00e2lons-en-Champagne\">Ch\u00e2lons-en-Champagne</a>, <a href=\"/wiki/Champagne-Ardenne\" title=\"Champagne-Ardenne\">Champagne-Ardenne</a>, France</td>
+</tr>
+<tr>
+<td>XDE</td>
+<td>DFOU</td>
+<td><a href=\"/wiki/Di%C3%A9bougou_Airport\" title=\"Di\u00e9bougou Airport\">Di\u00e9bougou Airport</a></td>
+<td><a href=\"/wiki/Di%C3%A9bougou\" title=\"Di\u00e9bougou\">Di\u00e9bougou</a>, <a href=\"/wiki/Burkina_Faso\" title=\"Burkina Faso\">Burkina Faso</a></td>
+</tr>
+<tr>
+<td>XDJ</td>
+<td>DFCJ</td>
+<td><a href=\"/wiki/Djibo_Airport\" title=\"Djibo Airport\">Djibo Airport</a></td>
+<td><a href=\"/wiki/Djibo\" title=\"Djibo\">Djibo</a>, <a href=\"/wiki/Burkina_Faso\" title=\"Burkina Faso\">Burkina Faso</a></td>
+</tr>
+<tr>
+<td>XEN</td>
+<td>ZYXC</td>
+<td><a href=\"/w/index.php?title=Xingcheng_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Xingcheng Airport (page does not exist)\">Xingcheng Airport</a></td>
+<td><a href=\"/wiki/Xingcheng\" title=\"Xingcheng\">Xingcheng</a>, <a href=\"/wiki/Liaoning\" title=\"Liaoning\">Liaoning</a>, China</td>
+</tr>
+<tr>
+<td>XES</td>
+<td></td>
+<td><a href=\"/wiki/Grand_Geneva_Resort_Airport\" title=\"Grand Geneva Resort Airport\">Grand Geneva Resort Airport</a> (FAA: C02)</td>
+<td><a href=\"/wiki/Lake_Geneva,_Wisconsin\" title=\"Lake Geneva, Wisconsin\">Lake Geneva</a>, <a href=\"/wiki/Wisconsin\" title=\"Wisconsin\">Wisconsin</a>, United States</td>
+</tr>
+<tr>
+<td>XFN</td>
+<td>ZHXF</td>
+<td><a href=\"/wiki/Xiangyang_Liuji_Airport\" title=\"Xiangyang Liuji Airport\">Xiangyang Liuji Airport</a></td>
+<td><a href=\"/wiki/Xiangyang\" title=\"Xiangyang\">Xiangyang</a>, <a href=\"/wiki/Hubei\" title=\"Hubei\">Hubei</a>, China</td>
+</tr>
+<tr>
+<td>XFW</td>
+<td>EDHI</td>
+<td><a href=\"/wiki/Hamburg_Finkenwerder_Airport\" title=\"Hamburg Finkenwerder Airport\">Hamburg Finkenwerder Airport</a></td>
+<td><a href=\"/wiki/Hamburg\" title=\"Hamburg\">Hamburg</a>, Germany</td>
+</tr>
+<tr>
+<td>XGA</td>
+<td>DFOG</td>
+<td><a href=\"/wiki/Gaoua_Airport\" title=\"Gaoua Airport\">Gaoua Airport</a> (Amilcar Cabral Airport)</td>
+<td><a href=\"/wiki/Gaoua\" title=\"Gaoua\">Gaoua</a>, <a href=\"/wiki/Burkina_Faso\" title=\"Burkina Faso\">Burkina Faso</a></td>
+</tr>
+<tr>
+<td>XGG</td>
+<td>DFEG</td>
+<td><a href=\"/wiki/Gorom_Gorom_Airport\" title=\"Gorom Gorom Airport\">Gorom Gorom Airport</a></td>
+<td><a href=\"/wiki/Gorom-Gorom\" title=\"Gorom-Gorom\">Gorom-Gorom</a>, <a href=\"/wiki/Burkina_Faso\" title=\"Burkina Faso\">Burkina Faso</a></td>
+</tr>
+<tr>
+<td>XGL</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Granville_Lake_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Granville Lake Airport (page does not exist)\">Granville Lake Airport</a></td>
+<td><a href=\"/wiki/Granville_Lake,_Manitoba\" class=\"mw-redirect\" title=\"Granville Lake, Manitoba\">Granville Lake</a>, <a href=\"/wiki/Manitoba\" title=\"Manitoba\">Manitoba</a>, Canada</td>
+</tr>
+<tr>
+<td>XGN</td>
+<td>FNXA</td>
+<td><a href=\"/wiki/Xangongo_Airport\" title=\"Xangongo Airport\">Xangongo Airport</a></td>
+<td><a href=\"/wiki/Xangongo\" title=\"Xangongo\">Xangongo</a>, <a href=\"/wiki/Angola\" title=\"Angola\">Angola</a></td>
+</tr>
+<tr>
+<td>XGR</td>
+<td>CYLU</td>
+<td><a href=\"/wiki/Kangiqsualujjuaq_(Georges_River)_Airport\" title=\"Kangiqsualujjuaq (Georges River) Airport\">Kangiqsualujjuaq (Georges River) Airport</a></td>
+<td><a href=\"/wiki/Kangiqsualujjuaq\" title=\"Kangiqsualujjuaq\">Kangiqsualujjuaq</a>, <a href=\"/wiki/Quebec\" title=\"Quebec\">Quebec</a>, Canada</td>
+</tr>
+<tr>
+<td>XIC</td>
+<td>ZUXC</td>
+<td><a href=\"/wiki/Xichang_Qingshan_Airport\" title=\"Xichang Qingshan Airport\">Xichang Qingshan Airport</a></td>
+<td><a href=\"/wiki/Xichang\" title=\"Xichang\">Xichang</a>, <a href=\"/wiki/Sichuan\" title=\"Sichuan\">Sichuan</a>, China</td>
+</tr>
+<tr>
+<td>XIE</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Xienglom_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Xienglom Airport (page does not exist)\">Xienglom Airport</a><sup id=\"cite_ref-IATA_1-0\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Xienglom&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Xienglom (page does not exist)\">Xienglom</a>, <a href=\"/wiki/Laos\" title=\"Laos\">Laos</a></td>
+</tr>
+<tr>
+<td>XIG</td>
+<td></td>
+<td><a href=\"/wiki/Xinguara_Municipal_Airport\" title=\"Xinguara Municipal Airport\">Xinguara Municipal Airport</a></td>
+<td><a href=\"/wiki/Xinguara\" title=\"Xinguara\">Xinguara</a>, <a href=\"/wiki/Par%C3%A1\" title=\"Par\u00e1\">Par\u00e1</a>, Brazil</td>
+</tr>
+<tr>
+<td>XIJ</td>
+<td>OKAJ</td>
+<td><a href=\"/wiki/Ahmad_al-Jaber_Air_Base\" title=\"Ahmad al-Jaber Air Base\">Ahmad al-Jaber Air Base</a><sup id=\"cite_ref-IATA_1-1\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Al_Ahmadi,_Kuwait\" title=\"Al Ahmadi, Kuwait\">Al Ahmadi</a>, <a href=\"/wiki/Kuwait\" title=\"Kuwait\">Kuwait</a></td>
+</tr>
+<tr>
+<td>XIL</td>
+<td>ZBXH</td>
+<td><a href=\"/wiki/Xilinhot_Airport\" title=\"Xilinhot Airport\">Xilinhot Airport</a></td>
+<td><a href=\"/wiki/Xilinhot\" title=\"Xilinhot\">Xilinhot</a>, <a href=\"/wiki/Inner_Mongolia\" title=\"Inner Mongolia\">Inner Mongolia</a>, China</td>
+</tr>
+<tr>
+<td>XIN</td>
+<td>ZGXN</td>
+<td><a href=\"/wiki/Xingning_Air_Base\" title=\"Xingning Air Base\">Xingning Air Base</a></td>
+<td><a href=\"/wiki/Xingning,_Guangdong\" title=\"Xingning, Guangdong\">Xingning</a>, <a href=\"/wiki/Guangdong\" title=\"Guangdong\">Guangdong</a>, China</td>
+</tr>
+<tr>
+<td>XIY</td>
+<td>ZLXY</td>
+<td><a href=\"/wiki/Xi%27an_Xianyang_International_Airport\" title=\"Xi&#39;an Xianyang International Airport\">Xi'an Xianyang International Airport</a></td>
+<td><a href=\"/wiki/Xi%27an\" title=\"Xi&#39;an\">Xi'an</a>, <a href=\"/wiki/Shaanxi\" title=\"Shaanxi\">Shaanxi</a>, China</td>
+</tr>
+<tr>
+<td>XJD</td>
+<td>OTBH</td>
+<td><a href=\"/wiki/Al_Udeid_Air_Base\" title=\"Al Udeid Air Base\">Al Udeid Air Base</a><sup id=\"cite_ref-IATA_1-2\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Al_Rayyan\" title=\"Al Rayyan\">Al Rayyan</a>, <a href=\"/wiki/Qatar\" title=\"Qatar\">Qatar</a></td>
+</tr>
+<tr>
+<td>XJM</td>
+<td>OPMA</td>
+<td><a href=\"/wiki/Mangla_Airport\" title=\"Mangla Airport\">Mangla Airport</a><sup id=\"cite_ref-IATA_1-3\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Mangla\" title=\"Mangla\">Mangla</a>, <a href=\"/wiki/Pakistan\" title=\"Pakistan\">Pakistan</a></td>
+</tr>
+<tr>
+<td>XKA</td>
+<td>DFEL</td>
+<td><a href=\"/wiki/Kantchari_Airport\" title=\"Kantchari Airport\">Kantchari Airport</a></td>
+<td><a href=\"/wiki/Kantchari\" title=\"Kantchari\">Kantchari</a>, <a href=\"/wiki/Burkina_Faso\" title=\"Burkina Faso\">Burkina Faso</a></td>
+</tr>
+<tr>
+<td>XKH</td>
+<td>VLXK</td>
+<td><a href=\"/wiki/Xieng_Khouang_Airport\" title=\"Xieng Khouang Airport\">Xieng Khouang Airport</a></td>
+<td><a href=\"/wiki/Phonsavan\" title=\"Phonsavan\">Phonsavan</a>, <a href=\"/wiki/Laos\" title=\"Laos\">Laos</a></td>
+</tr>
+<tr>
+<td>XKS</td>
+<td>CYAQ</td>
+<td><a href=\"/wiki/Kasabonika_Airport\" title=\"Kasabonika Airport\">Kasabonika Airport</a></td>
+<td><a href=\"/wiki/Kasabonika_Lake_First_Nation\" title=\"Kasabonika Lake First Nation\">Kasabonika</a>, <a href=\"/wiki/Ontario\" title=\"Ontario\">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<td>XKY</td>
+<td>DFCA</td>
+<td><a href=\"/wiki/Kaya_Airport\" title=\"Kaya Airport\">Kaya Airport</a></td>
+<td><a href=\"/wiki/Kaya,_Burkina_Faso\" title=\"Kaya, Burkina Faso\">Kaya</a>, <a href=\"/wiki/Burkina_Faso\" title=\"Burkina Faso\">Burkina Faso</a></td>
+</tr>
+<tr>
+<td>XLB</td>
+<td>CZWH</td>
+<td><a href=\"/wiki/Lac_Brochet_Airport\" title=\"Lac Brochet Airport\">Lac Brochet Airport</a></td>
+<td><a href=\"/wiki/Lac_Brochet,_Manitoba\" title=\"Lac Brochet, Manitoba\">Lac Brochet</a>, <a href=\"/wiki/Manitoba\" title=\"Manitoba\">Manitoba</a>, Canada</td>
+</tr>
+<tr>
+<td>XLO</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Long_Xuyen_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Long Xuyen Airport (page does not exist)\">Long Xuyen Airport</a></td>
+<td><a href=\"/wiki/Long_Xuy%C3%AAn\" title=\"Long Xuy\u00ean\">Long Xuy\u00ean</a>, <a href=\"/wiki/Vietnam\" title=\"Vietnam\">Vietnam</a></td>
+</tr>
+<tr>
+<td>XLS</td>
+<td>GOSS</td>
+<td><a href=\"/wiki/Saint-Louis_Airport\" title=\"Saint-Louis Airport\">Saint-Louis Airport</a></td>
+<td><a href=\"/wiki/Saint-Louis,_Senegal\" title=\"Saint-Louis, Senegal\">Saint-Louis</a>, <a href=\"/wiki/Senegal\" title=\"Senegal\">Senegal</a></td>
+</tr>
+<tr>
+<td>XLU</td>
+<td>DFCL</td>
+<td><a href=\"/wiki/Leo_Airport\" title=\"Leo Airport\">Leo Airport</a></td>
+<td><a href=\"/wiki/L%C3%A9o,_Burkina_Faso\" title=\"L\u00e9o, Burkina Faso\">L\u00e9o</a>, <a href=\"/wiki/Burkina_Faso\" title=\"Burkina Faso\">Burkina Faso</a></td>
+</tr>
+<tr>
+<td>XLW</td>
+<td>EDWD</td>
+<td><a href=\"/w/index.php?title=Lemwerder_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Lemwerder Airport (page does not exist)\">Lemwerder Airport</a></td>
+<td><a href=\"/wiki/Lemwerder\" title=\"Lemwerder\">Lemwerder</a>, <a href=\"/wiki/Lower_Saxony\" title=\"Lower Saxony\">Lower Saxony</a>, Germany</td>
+</tr>
+<tr>
+<td>XMA</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Maramag_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Maramag Airport (page does not exist)\">Maramag Airport</a></td>
+<td><a href=\"/wiki/Maramag,_Bukidnon\" title=\"Maramag, Bukidnon\">Maramag</a>, <a href=\"/wiki/Philippines\" title=\"Philippines\">Philippines</a></td>
+</tr>
+<tr>
+<td>XMC</td>
+<td>YMCO</td>
+<td><a href=\"/wiki/Mallacoota_Airport\" title=\"Mallacoota Airport\">Mallacoota Airport</a><sup id=\"cite_ref-IATA_1-4\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Mallacoota,_Victoria\" title=\"Mallacoota, Victoria\">Mallacoota</a>, <a href=\"/wiki/Victoria_(Australia)\" title=\"Victoria (Australia)\">Victoria</a>, Australia</td>
+</tr>
+<tr>
+<td>XMD</td>
+<td>KMDS</td>
+<td><a href=\"/wiki/Madison_Municipal_Airport_(South_Dakota)\" title=\"Madison Municipal Airport (South Dakota)\">Madison Municipal Airport</a> (FAA: MDS)</td>
+<td><a href=\"/wiki/Madison,_South_Dakota\" title=\"Madison, South Dakota\">Madison</a>, <a href=\"/wiki/South_Dakota\" title=\"South Dakota\">South Dakota</a>, United States</td>
+</tr>
+<tr>
+<td>XMG</td>
+<td>VNMN</td>
+<td><a href=\"/wiki/Mahendranagar_Airport\" title=\"Mahendranagar Airport\">Mahendranagar Airport</a></td>
+<td><a href=\"/wiki/Bhimdatta\" class=\"mw-redirect\" title=\"Bhimdatta\">Bhimdatta</a> (Mahendranagar), <a href=\"/wiki/Nepal\" title=\"Nepal\">Nepal</a></td>
+</tr>
+<tr>
+<td>XMH</td>
+<td>NTGI</td>
+<td><a href=\"/wiki/Manihi_Airport\" title=\"Manihi Airport\">Manihi Airport</a></td>
+<td><a href=\"/wiki/Manihi\" title=\"Manihi\">Manihi</a>, <a href=\"/wiki/Tuamotus\" title=\"Tuamotus\">Tuamotus</a>, <a href=\"/wiki/French_Polynesia\" title=\"French Polynesia\">French Polynesia</a></td>
+</tr>
+<tr>
+<td>XMI</td>
+<td>HTMI</td>
+<td><a href=\"/wiki/Masasi_Airport\" title=\"Masasi Airport\">Masasi Airport</a></td>
+<td><a href=\"/wiki/Masasi_District\" title=\"Masasi District\">Masasi</a>, <a href=\"/wiki/Tanzania\" title=\"Tanzania\">Tanzania</a></td>
+</tr>
+<tr>
+<td>XML</td>
+<td>YMIN</td>
+<td><a href=\"/w/index.php?title=Minlaton_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Minlaton Airport (page does not exist)\">Minlaton Airport</a></td>
+<td><a href=\"/wiki/Minlaton,_South_Australia\" title=\"Minlaton, South Australia\">Minlaton</a>, <a href=\"/wiki/South_Australia\" title=\"South Australia\">South Australia</a>, Australia</td>
+</tr>
+<tr>
+<td>XMN</td>
+<td>ZSAM</td>
+<td><a href=\"/wiki/Xiamen_Gaoqi_International_Airport\" title=\"Xiamen Gaoqi International Airport\">Xiamen Gaoqi International Airport</a></td>
+<td><a href=\"/wiki/Xiamen\" title=\"Xiamen\">Xiamen</a>, <a href=\"/wiki/Fujian\" title=\"Fujian\">Fujian</a>, China</td>
+</tr>
+<tr>
+<td>XMP</td>
+<td></td>
+<td><a href=\"/wiki/Macmillan_Pass_Airport\" title=\"Macmillan Pass Airport\">Macmillan Pass Airport</a><sup id=\"cite_ref-IATA_1-5\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (TC: CFC4)</td>
+<td><a href=\"/w/index.php?title=Macmillan_Pass&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Macmillan Pass (page does not exist)\">Macmillan Pass</a>, <a href=\"/wiki/Yukon\" title=\"Yukon\">Yukon</a>, Canada</td>
+</tr>
+<tr>
+<td>XMS</td>
+<td>SEMC</td>
+<td><a href=\"/wiki/Edmundo_Carvajal_Airport\" title=\"Edmundo Carvajal Airport\">Edmundo Carvajal Airport</a></td>
+<td><a href=\"/wiki/Macas_(city)\" title=\"Macas (city)\">Macas</a>, <a href=\"/wiki/Ecuador\" title=\"Ecuador\">Ecuador</a></td>
+</tr>
+<tr>
+<td>XMY</td>
+<td>YYMI</td>
+<td><a href=\"/wiki/Yam_Island_Airport\" title=\"Yam Island Airport\">Yam Island Airport</a></td>
+<td><a href=\"/wiki/Yam_Island_(Queensland)\" title=\"Yam Island (Queensland)\">Yam Island</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+</tr>
+<tr>
+<td>XNA</td>
+<td>KXNA</td>
+<td><a href=\"/wiki/Northwest_Arkansas_Regional_Airport\" title=\"Northwest Arkansas Regional Airport\">Northwest Arkansas Regional Airport</a></td>
+<td><a href=\"/wiki/Fayetteville,_Arkansas\" title=\"Fayetteville, Arkansas\">Fayetteville</a> / <a href=\"/wiki/Springdale,_Arkansas\" title=\"Springdale, Arkansas\">Springdale</a>, <a href=\"/wiki/Arkansas\" title=\"Arkansas\">Arkansas</a>, United States</td>
+</tr>
+<tr>
+<td>XNG</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Quang_Ngai_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Quang Ngai Airport (page does not exist)\">Quang Ngai Airport</a><sup id=\"cite_ref-IATA_1-6\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Qu%E1%BA%A3ng_Ng%C3%A3i\" title=\"Qu\u1ea3ng Ng\u00e3i\">Quang Ngai</a> (Qu\u1ea3ng Ng\u00e3i), <a href=\"/wiki/Vietnam\" title=\"Vietnam\">Vietnam</a></td>
+</tr>
+<tr>
+<td>XNN</td>
+<td>ZLXN</td>
+<td><a href=\"/wiki/Xining_Caojiabao_Airport\" class=\"mw-redirect\" title=\"Xining Caojiabao Airport\">Xining Caojiabao Airport</a></td>
+<td><a href=\"/wiki/Xining\" title=\"Xining\">Xining</a>, <a href=\"/wiki/Qinghai\" title=\"Qinghai\">Qinghai</a>, China</td>
+</tr>
+<tr>
+<td>XNT</td>
+<td>ZBXT</td>
+<td><a href=\"/wiki/Xingtai_Dalian_Airport\" title=\"Xingtai Dalian Airport\">Xingtai Dalian Airport</a></td>
+<td><a href=\"/wiki/Xingtai\" title=\"Xingtai\">Xingtai</a>, <a href=\"/wiki/Hebei\" title=\"Hebei\">Hebei</a>, China</td>
+</tr>
+<tr>
+<td>XNU</td>
+<td>DFON</td>
+<td><a href=\"/wiki/Nouna_Airport\" title=\"Nouna Airport\">Nouna Airport</a></td>
+<td><a href=\"/wiki/Nouna\" title=\"Nouna\">Nouna</a>, <a href=\"/wiki/Burkina_Faso\" title=\"Burkina Faso\">Burkina Faso</a></td>
+</tr>
+<tr>
+<td>XPA</td>
+<td>DFEP</td>
+<td><a href=\"/wiki/Pama_Airport\" title=\"Pama Airport\">Pama Airport</a></td>
+<td><a href=\"/wiki/Pama,_Burkina_Faso\" title=\"Pama, Burkina Faso\">Pama</a>, <a href=\"/wiki/Burkina_Faso\" title=\"Burkina Faso\">Burkina Faso</a></td>
+</tr>
+<tr>
+<td>XPK</td>
+<td>CZFG</td>
+<td><a href=\"/wiki/Pukatawagan_Airport\" title=\"Pukatawagan Airport\">Pukatawagan Airport</a></td>
+<td><a href=\"/wiki/Pukatawagan\" title=\"Pukatawagan\">Pukatawagan</a>, <a href=\"/wiki/Manitoba\" title=\"Manitoba\">Manitoba</a>, Canada</td>
+</tr>
+<tr>
+<td>XPL</td>
+<td>MHSC</td>
+<td><a href=\"/wiki/Soto_Cano_Air_Base\" title=\"Soto Cano Air Base\">Soto Cano Air Base</a></td>
+<td><a href=\"/wiki/Comayagua\" title=\"Comayagua\">Comayagua</a>, <a href=\"/wiki/Honduras\" title=\"Honduras\">Honduras</a></td>
+</tr>
+<tr>
+<td>XPP</td>
+<td>CZNG</td>
+<td><a href=\"/wiki/Poplar_River_Airport\" title=\"Poplar River Airport\">Poplar River Airport</a></td>
+<td><a href=\"/wiki/Poplar_River_First_Nation\" title=\"Poplar River First Nation\">Poplar River</a>, <a href=\"/wiki/Manitoba\" title=\"Manitoba\">Manitoba</a>, Canada</td>
+</tr>
+<tr>
+<td>XPR</td>
+<td>KIEN</td>
+<td><a href=\"/wiki/Pine_Ridge_Airport\" title=\"Pine Ridge Airport\">Pine Ridge Airport</a> (FAA: IEN)</td>
+<td><a href=\"/wiki/Pine_Ridge,_South_Dakota\" title=\"Pine Ridge, South Dakota\">Pine Ridge</a>, <a href=\"/wiki/South_Dakota\" title=\"South Dakota\">South Dakota</a>, United States</td>
+</tr>
+<tr>
+<td>XQP</td>
+<td>MRQP</td>
+<td><a href=\"/wiki/Quepos_La_Managua_Airport\" title=\"Quepos La Managua Airport\">Quepos La Managua Airport</a></td>
+<td><a href=\"/wiki/Quepos\" title=\"Quepos\">Quepos</a>, <a href=\"/wiki/Costa_Rica\" title=\"Costa Rica\">Costa Rica</a></td>
+</tr>
+<tr>
+<td>XQU</td>
+<td></td>
+<td><a href=\"/wiki/Qualicum_Beach_Airport\" title=\"Qualicum Beach Airport\">Qualicum Beach Airport</a> (TC: CAT4)</td>
+<td><a href=\"/wiki/Qualicum_Beach\" title=\"Qualicum Beach\">Qualicum Beach</a>, <a href=\"/wiki/British_Columbia\" title=\"British Columbia\">British Columbia</a>, Canada</td>
+</tr>
+<tr>
+<td>XRH</td>
+<td>YSRI</td>
+<td><a href=\"/wiki/RAAF_Base_Richmond\" title=\"RAAF Base Richmond\">RAAF Base Richmond</a><sup id=\"cite_ref-IATA_1-7\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Richmond,_New_South_Wales\" title=\"Richmond, New South Wales\">Richmond</a>, <a href=\"/wiki/New_South_Wales\" title=\"New South Wales\">New South Wales</a>, Australia</td>
+</tr>
+<tr>
+<td>XRQ</td>
+<td></td>
+<td><a href=\"/wiki/Xinbarag_Youqi_Baogede_Airport\" title=\"Xinbarag Youqi Baogede Airport\">Xinbarag Youqi Baogede Airport</a></td>
+<td><a href=\"/wiki/Xinbarag_Youqi\" class=\"mw-redirect\" title=\"Xinbarag Youqi\">Xinbarag Youqi</a>, <a href=\"/wiki/Inner_Mongolia\" title=\"Inner Mongolia\">Inner Mongolia</a>, China</td>
+</tr>
+<tr>
+<td>XRR</td>
+<td>CYDM</td>
+<td><a href=\"/wiki/Ross_River_Airport\" title=\"Ross River Airport\">Ross River Airport</a></td>
+<td><a href=\"/wiki/Ross_River,_Yukon\" title=\"Ross River, Yukon\">Ross River</a>, <a href=\"/wiki/Yukon\" title=\"Yukon\">Yukon</a>, Canada</td>
+</tr>
+<tr>
+<td>XRY</td>
+<td>LEJR</td>
+<td><a href=\"/wiki/Jerez_Airport\" title=\"Jerez Airport\">Jerez Airport</a> (La Parra Airport)</td>
+<td><a href=\"/wiki/Jerez_de_la_Frontera\" title=\"Jerez de la Frontera\">Jerez de la Frontera</a>, <a href=\"/wiki/Andalusia\" title=\"Andalusia\">Andalusia</a>, Spain</td>
+</tr>
+<tr>
+<td>XSB</td>
+<td>OMBY</td>
+<td><a href=\"/wiki/Sir_Bani_Yas_Airport\" title=\"Sir Bani Yas Airport\">Sir Bani Yas Airport</a><sup id=\"cite_ref-IATA_1-8\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Sir_Bani_Yas\" title=\"Sir Bani Yas\">Sir Bani Yas</a>, <a href=\"/wiki/United_Arab_Emirates\" title=\"United Arab Emirates\">United Arab Emirates</a></td>
+</tr>
+<tr>
+<td>XSC</td>
+<td>MBSC</td>
+<td><a href=\"/wiki/South_Caicos_Airport\" title=\"South Caicos Airport\">South Caicos Airport</a></td>
+<td><a href=\"/wiki/South_Caicos\" title=\"South Caicos\">South Caicos</a>, <a href=\"/wiki/British_Overseas_Territory\" class=\"mw-redirect\" title=\"British Overseas Territory\">British Overseas Territory</a> of <a href=\"/wiki/Turks_and_Caicos_Islands\" title=\"Turks and Caicos Islands\">Turks and Caicos Islands</a></td>
+</tr>
+<tr>
+<td>XSD</td>
+<td>KTNX</td>
+<td><a href=\"/wiki/Tonopah_Test_Range_Airport\" title=\"Tonopah Test Range Airport\">Tonopah Test Range Airport</a> (FAA: TNX)</td>
+<td><a href=\"/wiki/Tonopah,_Nevada\" title=\"Tonopah, Nevada\">Tonopah</a>, <a href=\"/wiki/Nevada\" title=\"Nevada\">Nevada</a>, United States</td>
+</tr>
+<tr>
+<td>XSE</td>
+<td>DFES</td>
+<td><a href=\"/wiki/Sebba_Airport\" title=\"Sebba Airport\">Sebba Airport</a></td>
+<td><a href=\"/wiki/Sebba\" title=\"Sebba\">Sebba</a>, <a href=\"/wiki/Burkina_Faso\" title=\"Burkina Faso\">Burkina Faso</a></td>
+</tr>
+<tr>
+<td>XSI</td>
+<td>CZSN</td>
+<td><a href=\"/wiki/South_Indian_Lake_Airport\" title=\"South Indian Lake Airport\">South Indian Lake Airport</a></td>
+<td><a href=\"/wiki/South_Indian_Lake\" title=\"South Indian Lake\">South Indian Lake</a>, <a href=\"/wiki/Manitoba\" title=\"Manitoba\">Manitoba</a>, Canada</td>
+</tr>
+<tr>
+<td>XSO</td>
+<td>RPNO</td>
+<td><a href=\"/w/index.php?title=Siocon_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Siocon Airport (page does not exist)\">Siocon Airport</a></td>
+<td><a href=\"/wiki/Siocon,_Zamboanga_del_Norte\" class=\"mw-redirect\" title=\"Siocon, Zamboanga del Norte\">Siocon</a>, <a href=\"/wiki/Philippines\" title=\"Philippines\">Philippines</a></td>
+</tr>
+<tr>
+<td>XSP</td>
+<td>WSSL</td>
+<td><a href=\"/wiki/Seletar_Airport\" title=\"Seletar Airport\">Seletar Airport</a></td>
+<td><a href=\"/wiki/Singapore\" title=\"Singapore\">Singapore</a></td>
+</tr>
+<tr>
+<td>XTG</td>
+<td>YTGM</td>
+<td><a href=\"/wiki/Thargomindah_Airport\" title=\"Thargomindah Airport\">Thargomindah Airport</a></td>
+<td><a href=\"/wiki/Thargomindah\" title=\"Thargomindah\">Thargomindah</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+</tr>
+<tr>
+<td>XTL</td>
+<td>CYBQ</td>
+<td><a href=\"/wiki/Tadoule_Lake_Airport\" title=\"Tadoule Lake Airport\">Tadoule Lake Airport</a></td>
+<td><a href=\"/wiki/Tadoule_Lake\" title=\"Tadoule Lake\">Tadoule Lake</a>, <a href=\"/wiki/Manitoba\" title=\"Manitoba\">Manitoba</a>, Canada</td>
+</tr>
+<tr>
+<td>XTO</td>
+<td>YTAM</td>
+<td><a href=\"/wiki/Taroom_Airport\" title=\"Taroom Airport\">Taroom Airport</a></td>
+<td><a href=\"/wiki/Taroom,_Queensland\" class=\"mw-redirect\" title=\"Taroom, Queensland\">Taroom</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+</tr>
+<tr>
+<td>XTR</td>
+<td>YTAA</td>
+<td><a href=\"/w/index.php?title=Tara_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Tara Airport (page does not exist)\">Tara Airport</a></td>
+<td><a href=\"/wiki/Tara,_Queensland\" title=\"Tara, Queensland\">Tara</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+</tr>
+<tr>
+<td>XUZ</td>
+<td>ZSXZ</td>
+<td><a href=\"/wiki/Xuzhou_Guanyin_Airport\" class=\"mw-redirect\" title=\"Xuzhou Guanyin Airport\">Xuzhou Guanyin Airport</a></td>
+<td><a href=\"/wiki/Xuzhou\" title=\"Xuzhou\">Xuzhou</a>, <a href=\"/wiki/Jiangsu\" title=\"Jiangsu\">Jiangsu</a>, China</td>
+</tr>
+<tr>
+<td>XVL</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Vinh_Long_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Vinh Long Airport (page does not exist)\">Vinh Long Airport</a></td>
+<td><a href=\"/wiki/V%C4%A9nh_Long\" class=\"mw-redirect\" title=\"V\u0129nh Long\">Vinh Long</a> (V\u0129nh Long), <a href=\"/wiki/Vietnam\" title=\"Vietnam\">Vietnam</a></td>
+</tr>
+<tr>
+<td>XYA</td>
+<td>AGGY</td>
+<td><a href=\"/wiki/Yandina_Airport\" title=\"Yandina Airport\">Yandina Airport</a></td>
+<td><a href=\"/wiki/Yandina,_Solomon_Islands\" title=\"Yandina, Solomon Islands\">Yandina</a>, <a href=\"/wiki/Solomon_Islands\" title=\"Solomon Islands\">Solomon Islands</a></td>
+</tr>
+<tr>
+<td>XYE</td>
+<td>VYYE</td>
+<td><a href=\"/w/index.php?title=Ye_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Ye Airport (page does not exist)\">Ye Airport</a></td>
+<td><a href=\"/wiki/Ye,_Mon_State\" title=\"Ye, Mon State\">Ye</a>, <a href=\"/wiki/Myanmar\" title=\"Myanmar\">Myanmar</a></td>
+</tr>
+<tr>
+<td>XYR</td>
+<td>AYED</td>
+<td><a href=\"/w/index.php?title=Edwaki_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Edwaki Airport (page does not exist)\">Edwaki Airport</a><sup id=\"cite_ref-IATA_1-9\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Yellow_River_(Papua_New_Guinea)&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Yellow River (Papua New Guinea) (page does not exist)\">Yellow River</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>XZA</td>
+<td>DFEZ</td>
+<td><a href=\"/wiki/Zabr%C3%A9_Airport\" title=\"Zabr\u00e9 Airport\">Zabr\u00e9 Airport</a></td>
+<td><a href=\"/wiki/Zabr%C3%A9\" title=\"Zabr\u00e9\">Zabr\u00e9</a>, <a href=\"/wiki/Burkina_Faso\" title=\"Burkina Faso\">Burkina Faso</a></td>
+</tr>

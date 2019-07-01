@@ -1,0 +1,620 @@
+SAA, Saratoga, Wyoming, United States
+SAB,Saba, Caribbean Netherlands
+SAC, Sacramento, California, United States
+SAD, Safford, Arizona, United States
+SAF, Santa Fe, New Mexico, United States
+SAG,Shirdi, Maharashtra, India
+SAH,Sana'a, Yemen
+SAK,Sau\u00f0\u00e1rkr\u00f3kur, Iceland
+SAL,San Salvador, El Salvador
+SAM,Salamo, Papua New Guinea
+SAN,San Diego, California, United States
+SAO,S\u00e3o Paulo, S\u00e3o Paulo, Brazil
+SAP,San Pedro Sula, Honduras
+SAQ,Nicholls Town,   Andros Island, Bahamas
+SAR, Sparta, Illinois, United States
+SAS, Salton City, California, United States
+SAT,San Antonio, Texas, United States
+SAU, (Sawu), Indonesia
+SAV, Savannah, Georgia, United States
+SAW,Istanbul, Turkey
+SAX,Samb\u00fa, Panama
+SAY,Siena, Tuscany, Italy
+SAZ,Sasstown, Liberia
+SBA, Santa Barbara, California, United States
+SBB, Santa B\u00e1rbara, Venezuela
+SBC,Selbang, Papua New Guinea
+SBD, San Bernardino, California, United States
+SBE,Suabi, Papua New Guinea
+SBF,Band-e Sardeh Dam, Afghanistan
+SBG, Sabang, Indonesia
+SBH, Gustavia, Saint Barth\u00e9lemy
+SBI,Koundara, Guinea
+SBJ, S\u00e3o Mateus, Esp\u00edrito Santo, Brazil
+SBK,Saint-Brieuc, Brittany, France
+SBL,Santa Ana del Yacuma, Bolivia
+SBM, Sheboygan, Wisconsin, United States
+SBN, South Bend, Indiana, United States
+SBO, Gunnison, Utah, United States
+SBP, San Luis Obispo, California, United States
+SBQ,Sibi, Pakistan
+SBR,Saibai Island, Queensland, Australia
+SBS, Steamboat Springs, Colorado, United States
+SBT,Sabetta, Yamalo-Nenets Autonomous Okrug, Russia
+SBU, Springbok, South Africa
+SBV, Sabah, Papua New Guinea
+SBW,Sibu, Sarawak, Malaysia
+SBX, Shelby, Montana, United States
+SBY, Ocean City, Maryland, United States
+SBZ,Sibiu, Romania
+SCA, Santa Catalina, Colombia
+SCB, Scribner, Nebraska, United States
+SCC, Deadhorse, Alaska, United States
+SCD, Sulaco, Honduras
+SCE, State College, Pennsylvania, United States
+SCF, Scottsdale, Arizona, United States
+SCG, Conjuboy, Conjuboy Queensland, Australia
+SCH, Schenectady, New York, United States
+SCI, San Crist\u00f3bal, Venezuela
+SCK, Stockton, California, United States
+SCL,Santiago, Chile
+SCM, Scammon Bay, Alaska, United States
+SCN,Saarbr\u00fccken, Saarland, Germany
+SCO,Aktau, Kazakhstan
+SCP,Mont-Dauphin, Provence-Alpes-C\u00f4te d'Azur, France
+SCQ,Santiago de Compostela, Galicia, Spain
+SCS,Shetland Islands, Scotland, United Kingdom
+SCT,Socotra, Yemen
+SCU,Santiago de Cuba, Cuba
+SCV,Suceava, Romania
+SCW,Syktyvkar, Komi Republic, Russia
+SCX,Salina Cruz, Oaxaca, Mexico
+SCY,San Crist\u00f3bal Island, Gal\u00e1pagos Islands, Ecuador
+SCZ,Santa Cruz Islands, Solomon Islands
+SDB, Saldanha Bay, South Africa
+SDC,Sand Creek Village, Guyana
+SDD,Lubango, Angola
+SDE,Santiago del Estero, Santiago del Estero, Argentina
+SDF, Louisville, Kentucky, United States
+SDG,Sanandaj, Iran
+SDH,Santa Rosa de Cop\u00e1n, Honduras
+SDI,Saidor, Papua New Guinea
+SDJ,Sendai, Honshu, Japan
+SDK,Sandakan, Sabah, Malaysia
+SDL,H\u00e4rn\u00f6sand, Sweden
+SDM,San Diego, California, United States
+SDN,Sandane, Norway
+SDP, Sand Point, Alaska, United States
+SDQ,Santo Domingo, Dominican Republic
+SDR, Santander, Cantabria, Spain
+SDS, Sado, Niigata, Japan
+SDT,Saidu Sharif, Pakistan
+SDU,Rio de Janeiro, Rio de Janeiro, Brazil
+SDV,Tel Aviv, Israel
+SDX, Sedona, Arizona, United States
+SDY, Sidney, Montana, United States
+SDZ,Shetland Islands, Scotland, United Kingdom
+SEA,Seattle, Washington, United States
+SEB,  (Sebha), Libya
+SED, (Sedom), Israel
+SEE,San Diego, California, United States
+SEF, Sebring, Florida, United States
+SEG, Selinsgrove, Pennsylvania, United States
+SEH,Senggeh, Indonesia
+SEK,Srednekolymsk, Yakutia, Russia
+SEL,Seoul, South Korea
+SEM, Selma, Alabama, United States
+SEN,Southend, England, United Kingdom
+SEO,S\u00e9gu\u00e9la, Ivory Coast
+SEP, Stephenville, Texas, United States
+SEQ,Bengkalis, Indonesia
+SER, Seymour, Indiana, United States
+SEU,Seronera, Tanzania
+SEV,Severodonetsk, Ukraine
+SEW,Siwa Oasis, Egypt
+SEY,S\u00e9libaby, Mauritania
+SEZ, Mah\u00e9, Seychelles
+SFA,Sfax, Tunisia
+SFB, Orlando, Florida, United States
+SFC, Saint-Fran\u00e7ois, Guadeloupe
+SFD,San Fernando de Apure, Venezuela
+SFE, San Fernando, Philippines
+SFF, Spokane, Washington, United States
+SFG,Grand Case, Saint Martin
+SFH, San Felipe, Baja California, Mexico
+SFJ,Kangerlussuaq, Greenland
+SFK, Soure, Par\u00e1, Brazil
+SFL, Fogo, Cape Verde
+SFM, Sanford, Maine, United States
+SFN, Santa Fe de la Vera Cruz, Santa Fe, Argentina
+SFO,San Francisco, California, United States
+SFQ,\u015eanl\u0131urfa, Turkey
+SFS,Subic Bay, Philippines
+SFT,Skellefte\u00e5, Sweden
+SFU, Safia, Papua New Guinea
+SFV,Santa F\u00e9 do Sul, S\u00e3o Paulo, Brazil
+SFX, San F\u00e9lix, Venezuela
+SFY, Springfield, Massachusetts, United States
+SFZ, Pawtucket, Rhode Island, United States
+SGA,Shighnan, Afghanistan
+SGB,Singaua, Papua New Guinea
+SGC,Surgut, Khanty-Mansi Autonomous Okrug, Russia
+SGD,S\u00f8nderborg, Denmark
+SGE,Siegen, North Rhine-Westphalia, Germany
+SGF, Springfield, Missouri, United States
+SGH, Springfield, Ohio, United States
+SGI,Sargodha, Pakistan
+SGJ,Sagarai, Papua New Guinea
+SGK,Sangapi, Papua New Guinea
+SGL,Manila, Philippines
+SGM, San Ignacio, Baja California Sur, Mexico
+SGN,Ho Chi Minh City, Vietnam
+SGO, St George, Queensland, Australia
+SGP, Shay Gap, Western Australia, Australia
+SGQ,Sangatta, Indonesia
+SGR,Sugar Land, Texas, United States
+SGT, Stuttgart, Arkansas, United States
+SGU, St. George, Utah, United States
+SGV, Sierra Grande, R\u00edo Negro, Argentina
+SGW, Saginaw Bay, Alaska, United States
+SGX,Songea, Tanzania
+SGY, Skagway, Alaska, United States
+SGZ,Songkhla, Thailand
+SHA,Shanghai, China
+SHB, Nakashibetsu, Hokkaido, Japan
+SHC,  (Inda Selassie), Ethiopia
+SHD, Harrisonburg, Virginia, United States
+SHE,Shenyang, Liaoning, China
+SHF,Shihezi, Xinjiang, China
+SHG, Shungnak, Alaska, United States
+SHH, Shishmaref, Alaska, United States
+SHI,Shimoji-shima, Miyako Islands, Japan
+SHJ,Sharjah, United Arab Emirates
+SHK,Sehonghong, Lesotho
+SHL,Shillong, Meghalaya, India
+SHM, Shirahama, Honshu, Japan
+SHN, Shelton, Washington, United States
+SHO, Manzini, Swaziland
+SHQ, Southport, Queensland, Australia
+SHR, Sheridan, Wyoming, United States
+SHS,Jingzhou, Hubei, China
+SHT,Shepparton, Victoria, Australia
+SHU, Smith Point, Northern Territory, Australia
+SHV, Shreveport, Louisiana, United States
+SHW,Sharurah, Saudi Arabia
+SHX, Shageluk, Alaska, United States
+SHY,Shinyanga, Tanzania
+SHZ,Seshote, Lesotho
+SIA,Xi'an, Shaanxi, China
+SIB,Sibiti, Republic of the Congo
+SIC,San Jos\u00e9 Island, Panama
+SID, Sal, Cape Verde
+SIE,Sines, Portugal
+SIF, Simara, Nepal
+SIG, San Juan, Puerto Rico
+SIH,Dipayal Silgadhi, Nepal
+SII,Sidi Ifni, Morocco
+SIJ,Siglufj\u00f6r\u00f0ur, Iceland
+SIK, Sikeston, Missouri, United States
+SIL, Sila, Papua New Guinea
+SIM,Simbai, Papua New Guinea
+SIN,Singapore
+SIO, Smithton, Tasmania, Australia
+SIP,Simferopol
+SIQ,Singkep, Indonesia
+SIR, Sion, Switzerland
+SIS,Dingleton, South Africa
+SIT, Sitka, Alaska, United States
+SIU,Siuna, Nicaragua
+SIV, Sullivan, Indiana, United States
+SIW,Parapat, Indonesia
+SIX, Singleton, New South Wales, Australia
+SIY, Yreka, California, United States
+SIZ, Sissano, Papua New Guinea
+SJA,San Juan de Marcona, Peru
+SJB, San Joaqu\u00edn, Bolivia
+SJC, San Jose, California, United States
+SJD,San Jos\u00e9 del Cabo, Baja California Sur, Mexico
+SJE,San Jos\u00e9 del Guaviare, Colombia
+SJF, Saint John, United States Virgin Islands
+SJG,San Pedro de Jagua, Colombia
+SJH,San Juan del Cesar, Colombia
+SJI, San Jose, Philippines
+SJJ,Sarajevo, Bosnia and Herzegovina
+SJK,S\u00e3o Jos\u00e9 dos Campos, S\u00e3o Paulo, Brazil
+SJL,S\u00e3o Gabriel da Cachoeira, Amazonas, Brazil
+SJN, St. Johns, Arizona, United States
+SJO, San Jos\u00e9, Costa Rica
+SJP,S\u00e3o Jos\u00e9 do Rio Preto, S\u00e3o Paulo, Brazil
+SJQ,Sesheke, Zambia
+SJR,San Juan de Urab\u00e1, Colombia
+SJS,San Jos\u00e9 de Chiquitos, Bolivia
+SJT, San Angelo, Texas, United States
+SJU, San Juan, Puerto Rico
+SJV, San Javier, Bolivia
+SJW,Shijiazhuang, Hebei, China
+SJX,Sarteneja, Belize
+SJY,Sein\u00e4joki, Finland
+SJZ,S\u00e3o Jorge Island, Azores, Portugal
+SKA, Spokane, Washington, United States
+SKB,Saint Kitts, Saint Kitts and Nevis
+SKC, Suki, Papua New Guinea
+SKD,Samarkand, Uzbekistan
+SKE,Skien, Norway
+SKF,San Antonio, Texas, United States
+SKG,Thessaloniki, Greece
+SKH,Surkhet, Nepal
+SKI,Skikda, Algeria
+SKK, Shaktoolik, Alaska, United States
+SKL,Isle of Skye, Scotland, United Kingdom
+SKM, Skeldon, Guyana
+SKN,Stokmarknes, Norway
+SKO,Sokoto, Nigeria
+SKP,Skopje, Macedonia
+SKQ,Sekake, Lesotho
+SKR,Shakiso, Ethiopia
+SKS,Vojens, Denmark
+SKT,Sialkot, Pakistan
+SKU,Skyros, Greece
+SKV, Saint Catherine, Egypt
+SKW, Skwentna, Alaska, United States
+SKX,Saransk, Mordovia, Russia
+SKY, Sandusky, Ohio, United States
+SKZ,Sukkur, Pakistan
+SLA,Salta, Salta, Argentina
+SLB, Storm Lake, Iowa, United States
+SLC,Salt Lake City, Utah, United States
+SLD,Slia\u010d, Slovakia
+SLE, Salem, Oregon, United States
+SLF, (Sulayel), Saudi Arabia
+SLG, Siloam Springs, Arkansas, United States
+SLH, Sola, Vanua Lava, Vanuatu
+SLI,Solwezi, Zambia
+SLJ,Karijini National Park, Western Australia, Australia
+SLK, Saranac Lake, New York, United States
+SLL,Salalah, Oman
+SLM,Salamanca, Castile and Le\u00f3n, Spain
+SLN, Salina, Kansas, United States
+SLO, Salem, Illinois, United States
+SLP,San Luis Potos\u00ed City, San Luis Potos\u00ed, Mexico
+SLQ, Sleetmute, Alaska, United States
+SLR, Sulphur Springs, Texas, United States
+SLS,Silistra, Bulgaria
+SLT, Salida, Colorado, United States
+SLU,Castries, Saint Lucia
+SLV,Simla, Himachal Pradesh, India
+SLW,Saltillo, Coahuila, Mexico
+SLX, Salt Cay, Turks and Caicos Islands
+SLY,Salekhard, Yamalo-Nenets Autonomous Okrug, Russia
+SLZ, S\u00e3o Lu\u00eds, Maranh\u00e3o, Brazil
+SMA,Santa Maria Island, Azores, Portugal
+SMB,Cerro Sombrero, Chile
+SMC,Santa Mar\u00eda, Colombia
+SMD, Fort Wayne, Indiana, United States
+SME, Somerset, Kentucky, United States
+SMF, Sacramento, California, United States
+SMG,Santa Mar\u00eda del Mar, Peru
+SMH,Sapmanga, Papua New Guinea
+SMI,Samos, Greece
+SMJ, Sim, Papua New Guinea
+SMK, St. Michael, Alaska, United States
+SML, Long Island, Bahamas
+SMM,Semporna, Sabah, Malaysia
+SMN, Salmon, Idaho, United States
+SMO, Santa Monica, California, United States
+SMP, Stockholm, Papua New Guinea
+SMQ,Sampit, Indonesia
+SMR,Santa Marta, Colombia
+SMS,\u00cele Sainte-Marie, Madagascar
+SMU, Sheep Mountain, Alaska, United States
+SMV,St. Moritz, Switzerland
+SMW,Smara, Morocco
+SMX, Santa Maria, California, United States
+SMY,Simenti, Senegal
+SMZ, (Stoelmanseiland), Suriname
+SNA, Santa Ana, California, United States
+SNB, Milikapiti, Northern Territory, Australia
+SNC, Salinas, Ecuador
+SNE, S\u00e3o Nicolau, Cape Verde
+SNF, San Felipe, Venezuela
+SNG,San Ignacio de Velasco, Bolivia
+SNH, Stanthorpe, Queensland, Australia
+SNI, Greenville, Liberia
+SNJ,Guane, Cuba
+SNK, Snyder, Texas, United States
+SNL, Shawnee, Oklahoma, United States
+SNM,San Ignacio de Moxos, Bolivia
+SNN, Shannon, Ireland
+SNO,Sakon Nakhon, Thailand
+SNP,St. Paul Island, Alaska, United States
+SNQ, San Quint\u00edn, Baja California, Mexico
+SNR,Saint-Nazaire, Pays de la Loire, France
+SNS, Salinas, California, United States
+SNT,Sabana de Torres, Colombia
+SNU, Santa Clara, Cuba
+SNV,Santa Elena de Uair\u00e9n, Venezuela
+SNW,Thandwe, Myanmar
+SNX, Semnan, Iran
+SNY, Sidney, Nebraska, United States
+SNZ,Rio de Janeiro, Rio de Janeiro, Brazil
+SOA,S\u00f3c Tr\u0103ng, Vietnam
+SOB,H\u00e9v\u00edz, Hungary
+SOC, (Solo), Indonesia
+SOD,Sorocaba, S\u00e3o Paulo, Brazil
+SOE,Souank\u00e9, Republic of the Congo
+SOF,Sofia, Bulgaria
+SOG,Sogndal, Norway
+SOJ,S\u00f8rkjosen, Norway
+SOK,Semonkong, Lesotho
+SOL, Solomon, Alaska, United States
+SOM, San Tom\u00e9, Venezuela
+SON,Luganville, Vanuatu
+SOO,S\u00f6derhamn, Sweden
+SOP, Southern Pines, North Carolina, United States
+SOQ,Sorong, Indonesia
+SOT,Sodankyl\u00e4, Finland
+SOU,Southampton, England, United Kingdom
+SOV, Seldovia, Alaska, United States
+SOW, Show Low, Arizona, United States
+SOX,Sogamoso, Colombia
+SOY,Stronsay, Scotland, United Kingdom
+SOZ,Sari-Solenzara, Corsica, France
+SPA, Spartanburg, South Carolina, United States
+SPB, St. Thomas Island, United States Virgin Islands
+SPC,La Palma, Canary Islands, Spain
+SPD, Saidpur, Bangladesh
+SPE,Sapulut, Sabah, Malaysia
+SPF, Spearfish, South Dakota, United States
+SPG, St. Petersburg, Florida, United States
+SPH,Sopu, Papua New Guinea
+SPI, Springfield, Illinois, United States
+SPJ, (Sparta), Greece
+SPK,Sapporo, Hokkaido, Japan
+SPM,Spangdahlem, Rhineland-Palatinate, Germany
+SPN,Saipan, Northern Mariana Islands
+SPP,Menongue, Angola
+SPR,San Pedro Town, Belize
+SPS, Wichita Falls, Texas, United States
+SPT,Sipitang, Sabah, Malaysia
+SPU, Split, Croatia
+SPV,Sepik Plains, Papua New Guinea
+SPW, Spencer, Iowa, United States
+SPY, San-P\u00e9dro, Ivory Coast
+SPX, Egypt, Egypt
+SPZ, Springdale, Arkansas, United States
+SQA, Santa Ynez, California, United States
+SQB,Piedras, Colombia
+SQC, Southern Cross, Western Australia, Australia
+SQD,Shangrao, Jiangxi, China
+SQE,San Luis de Palenque, Colombia
+SQG,Sintang, Indonesia
+SQH,S\u01a1n La, Vietnam
+SQI, Rock Falls, Illinois, United States
+SQJ,Sanming, Fujian, China
+SQK,Sidi Barrani, Egypt
+SQL, San Carlos, California, United States
+SQM,S\u00e3o Miguel do Araguaia, Goi\u00e1s, Brazil
+SQN,Sanana Island, Indonesia
+SQO,Storuman, Sweden
+SQQ,\u0160iauliai, Lithuania
+SQR,Soroako, Indonesia
+SQS, San Ignacio, Belize
+SQT,Samarai, Papua New Guinea
+SQU,Saposoa, Peru
+SQV, Sequim, Washington, United States
+SQW, Skive, Denmark
+SQX,S\u00e3o Miguel do Oeste, Santa Catarina, Brazil
+SQY,S\u00e3o Louren\u00e7o do Sul, Rio Grande do Sul, Brazil
+SQZ,Scampton, England, United Kingdom
+SRA, Santa Rosa, Rio Grande do Sul, Brazil
+SRB,Santa Rosa de Yacuma, Bolivia
+SRC, Searcy, Arkansas, United States
+SRD, San Ram\u00f3n, Bolivia
+SRE,Sucre, Bolivia
+SRF, San Rafael, California, United States
+SRG,Semarang, Indonesia
+SRH,Sarh, Chad
+SRI,Samarinda, Indonesia
+SRJ, San Borja, Bolivia
+SRL, Santa Rosal\u00eda, Baja California Sur, Mexico
+SRM, Sandringham Station, Queensland, Australia
+SRN, Strahan, Tasmania, Australia
+SRO,Santana Ramos, Colombia
+SRP,Stord, Norway
+SRQ, Bradenton, Florida, United States
+SRR,North Stradbroke Island, Queensland, Australia
+SRS, San Marcos, Colombia
+SRT,Soroti, Uganda
+SRV, Stony River, Alaska, United States
+SRW, Salisbury, North Carolina, United States
+SRX,Sirte, Libya
+SRY, Sari, Iran
+SRZ,Santa Cruz de la Sierra, Bolivia
+SSA, Salvador, Bahia, Brazil
+SSB, Saint Croix, United States Virgin Islands
+SSC, Sumter, South Carolina, United States
+SSD, San Felipe, Colombia
+SSE,Solapur, Maharashtra, India
+SSF,San Antonio, Texas, United States
+SSG,Malabo, Equatorial Guinea
+SSH,Sharm el-Sheikh, Egypt
+SSI, Brunswick, Georgia, United States
+SSJ,Sandnessj\u00f8en, Norway
+SSK, Sturt Creek, Western Australia, Australia
+SSL, Santa Rosal\u00eda, Colombia
+SSN,Seoul, South Korea
+SSO, S\u00e3o Louren\u00e7o, Minas Gerais, Brazil
+SSP, Silver Plains, Queensland, Australia
+SSQ,La Sarre, Quebec, Canada
+SSR, Sara, Vanuatu
+SSS, (Siassi), Papua New Guinea
+SST, Santa Teresita, Buenos Aires, Argentina
+SSV, Siasi, Philippines
+SSW,Stuart Island, Washington, United States
+SSY,M'banza-Kongo, Angola
+SSZ, Santos, S\u00e3o Paulo, Brazil
+STA, Skjern, Denmark
+STB,Santa B\u00e1rbara del Zulia, Venezuela
+STC, St. Cloud, Minnesota, United States
+STD, Santo Domingo, Santo Domingo T\u00e1chira, Venezuela
+STE, Stevens Point, Wisconsin, United States
+STF,Stephens Island, Queensland, Australia
+STG, St. George, Alaska, United States
+STH,Strathmore Station, Queensland, Australia
+STI,Santiago de los Caballeros, Dominican Republic
+STJ, St. Joseph, Missouri, United States
+STK, Sterling, Colorado, United States
+STL,St. Louis, Missouri, United States
+STM, Santar\u00e9m, Par\u00e1, Brazil
+STN,London, England, United Kingdom
+STO,Stockholm, Sweden
+STP, Minneapolis, Minnesota, United States
+STQ, St. Marys, Pennsylvania, United States
+STR,Stuttgart, Baden-W\u00fcrttemberg, Germany
+STS, Santa Rosa, California, United States
+STT, St. Thomas Island, United States Virgin Islands
+STV,Surat, Gujarat, India
+STW,Stavropol, Stavropol Krai, Russia
+STX, Saint Croix, United States Virgin Islands
+STY, Salto, Uruguay
+STZ,Santa Terezinha, Mato Grosso, Brazil
+SUA, Stuart, Florida, United States
+SUB,Surabaya, Indonesia
+SUD, Stroud, Oklahoma, United States
+SUE, Sturgeon Bay, Wisconsin, United States
+SUF,Lamezia Terme, Calabria, Italy
+SUG,Surigao City, Philippines
+SUH, Sur, Oman
+SUI,Sukhumi, Georgia
+SUJ,Satu Mare, Romania
+SUK, (Sakkyryr), Yakutia, Russia
+SUL, Sui, Pakistan
+SUM, Sumter, South Carolina, United States
+SUN, Sun Valley, Idaho, United States
+SUO, Sunriver, Oregon, United States
+SUP,Sumenep, Indonesia
+SUQ,Suc\u00faa, Ecuador
+SUR,Summer Beaver, Ontario, Canada
+SUS,St. Louis, Missouri, United States
+SUT,Sumbawanga, Tanzania
+SUU, Fairfield, California, United States
+SUV,Suva, Fiji
+SUW, Superior, Wisconsin, United States
+SUX, Sioux City, Iowa, United States
+SUY,Suntar, Yakutia, Russia
+SUZ, Suria, Papua New Guinea
+SVA, Savoonga, Alaska, United States
+SVB,Sambava, Madagascar
+SVC, Silver City, New Mexico, United States
+SVD,Saint Vincent, Saint Vincent and the Grenadines
+SVE, Susanville, California, United States
+SVF,Sav\u00e9, Benin
+SVG,Stavanger, Norway
+SVH, Statesville, North Carolina, United States
+SVI,San Vicente del Cagu\u00e1n, Colombia
+SVJ,Svolv\u00e6r, Norway
+SVK,Silver Creek, Belize
+SVL,Savonlinna, Finland
+SVM, St Pauls, Queensland, Australia
+SVN, Savannah, Georgia, United States
+SVO,Moscow, Russia
+SVP,Kuito, Angola
+SVQ,Seville, Andalusia, Spain
+SVS, Stevens Village, Alaska, United States
+SVT,Savuti, Botswana
+SVU,Savusavu, Fiji
+SVW,Sparrevohn, Alaska, United States
+SVX,Yekaterinburg, Sverdlovsk Oblast, Russia
+SVY,Savo Island, Solomon Islands
+SVZ,San Antonio del T\u00e1chira, Venezuela
+SWA,Chaozhou, Guangdong, China
+SWB, Shaw River, Western Australia, Australia
+SWC, Stawell, Victoria, Australia
+SWD, Seward, Alaska, United States
+SWE,Siwea, Papua New Guinea
+SWF, Newburgh, New York, United States
+SWG,Satwag, Papua New Guinea
+SWH,Swan Hill, Victoria, Australia
+SWJ,South West Bay, Vanuatu
+SWL, San Vicente, Palawan, Philippines
+SWM,Alto Boa Vista, Mato Grosso, Brazil
+SWN,Sahiwal, Pakistan
+SWO, Stillwater, Oklahoma, United States
+SWP,Swakopmund, Namibia
+SWQ,Sumbawa Besar, Indonesia
+SWR, Silur, Papua New Guinea
+SWS,Swansea, Wales, United Kingdom
+SWT,Strezhevoy, Tomsk Oblast, Russia
+SWU,Suwon, South Korea
+SWV,Evensk, Magadan Oblast, Russia
+SWW, Sweetwater, Texas, United States
+SWX,Shakawe, Botswana
+SWY,Sitiawan, Perak, Malaysia
+SXA,Sialum, Papua New Guinea
+SXB,Strasbourg, Alsace, France
+SXE, Sale, Victoria, Australia
+SXF,Berlin, Germany
+SXG,Senanga, Zambia
+SXH,Sehulea, Papua New Guinea
+SXI,Sirri Island, Iran
+SXJ,Shanshan, Xinjiang, China
+SXK,Saumlaki, Indonesia
+SXL,Sligo, Ireland
+SXM,Sint Maarten, Kingdom of the Netherlands
+SXN,Sua Pan, Botswana
+SXO,S\u00e3o F\u00e9lix do Araguaia, Mato Grosso, Brazil
+SXP, Nunam Iqua, Alaska, United States
+SXQ, Soldotna, Alaska, United States
+SXR,Srinagar, Jammu and Kashmir, India
+SXS,Sahabat, Sabah, Malaysia
+SXT,Taman Negara, Pahang, Malaysia
+SXU,Sodo, Ethiopia
+SXV, Salem, Tamil Nadu, India
+SXW,Sauren, Papua New Guinea
+SXX,S\u00e3o F\u00e9lix do Xingu, Par\u00e1, Brazil
+SXY, Sidney, New York, United States
+SXZ,Siirt, Turkey
+SYA,Shemya, Alaska, United States
+SYB, Seal Bay, Alaska, United States
+SYC,Shiringayoc, Peru
+SYD,Sydney, New South Wales, Australia
+SYE,Sa'dah, Yemen
+SYF,Gabriola Island, British Columbia, Canada
+SYG,Namche Bazaar, Nepal
+SYI, Shelbyville, Tennessee, United States
+SYJ,Sirjan, Iran
+SYK,Stykkish\u00f3lmur, Iceland
+SYM,Simao, Yunnan, China
+SYN, Stanton, Minnesota, United States
+SYO, Sh\u014dnai, Honshu, Japan
+SYP,Santiago de Veraguas, Panama
+SYQ, San Jos\u00e9, Costa Rica
+SYR, Syracuse, New York, United States
+SYS,Saskylakh, Yakutia, Russia
+SYT,Saint-Yan, Burgundy, France
+SYU,Sue Islet, Queensland, Australia
+SYV, Sylvester, Georgia, United States
+SYW,Sehwan Sharif, Pakistan
+SYX,Sanya, Hainan, China
+SYY,Stornoway, Scotland, United Kingdom
+SYZ,Shiraz, Iran
+SZA,Soyo, Angola
+SZB,Kuala Lumpur, Malaysia
+SZE,Semera, Ethiopia
+SZF,Samsun, Turkey
+SZG,Salzburg, Austria
+SZI,Zaysan, Kazakhstan
+SZJ,Isla de la Juventud, Cuba
+SZK,Skukuza, South Africa
+SZL, Knob Noster, Missouri, United States
+SZM,Sesriem, Namibia
+SZN,Santa Cruz Island, California, United States
+SZP, Santa Paula, California, United States
+SZR,Stara Zagora, Bulgaria
+SZS,Stewart Island, New Zealand
+SZU,S\u00e9gou, Mali
+SZV,Suzhou, Jiangsu, China
+SZW,Schwerin, Mecklenburg-Vorpommern, Germany
+SZX,Shenzhen, Guangdong, China
+SZY,Olsztyn, Poland
+SZZ,Szczecin, Poland

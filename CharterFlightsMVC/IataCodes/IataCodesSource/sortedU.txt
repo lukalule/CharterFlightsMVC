@@ -1,0 +1,1200 @@
+<tr>
+<td>UAB</td>
+<td>LTAG</td>
+<td><a href=\"/wiki/Incirlik_Air_Base\" title=\"Incirlik Air Base\">Incirlik Air Base</a><sup id=\"cite_ref-IATA_1-0\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Adana\" title=\"Adana\">Adana</a>, <a href=\"/wiki/Turkey\" title=\"Turkey\">Turkey</a></td>
+</tr>
+<tr>
+<td>UAC</td>
+<td></td>
+<td><a href=\"/wiki/San_Luis_R%C3%ADo_Colorado_Airport\" title=\"San Luis R\u00edo Colorado Airport\">San Luis R\u00edo Colorado Airport</a><sup id=\"cite_ref-IATA_1-1\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/San_Luis_R%C3%ADo_Colorado\" title=\"San Luis R\u00edo Colorado\">San Luis R\u00edo Colorado</a>, <a href=\"/wiki/Sonora\" title=\"Sonora\">Sonora</a>, Mexico</td>
+</tr>
+<tr>
+<td>UAE</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Mount_Aue_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Mount Aue Airport (page does not exist)\">Mount Aue Airport</a><sup id=\"cite_ref-IATA_1-2\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Mount_Aue&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Mount Aue (page does not exist)\">Mount Aue</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>UAH</td>
+<td>NTMU</td>
+<td><a href=\"/wiki/Ua_Huka_Airport\" title=\"Ua Huka Airport\">Ua Huka Airport</a><sup id=\"cite_ref-IATA_1-3\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Ua_Huka\" title=\"Ua Huka\">Ua Huka</a>, <a href=\"/wiki/Marquesas_Islands\" title=\"Marquesas Islands\">Marquesas Islands</a>, <a href=\"/wiki/French_Polynesia\" title=\"French Polynesia\">French Polynesia</a></td>
+</tr>
+<tr>
+<td>UAI</td>
+<td>WPDB</td>
+<td><a href=\"/wiki/Suai_Airport\" title=\"Suai Airport\">Suai Airport</a><sup id=\"cite_ref-IATA_1-4\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Suai,_East_Timor\" title=\"Suai, East Timor\">Suai</a>, <a href=\"/wiki/East_Timor\" title=\"East Timor\">East Timor</a></td>
+</tr>
+<tr>
+<td>UAK</td>
+<td>BGBW</td>
+<td><a href=\"/wiki/Narsarsuaq_Airport\" title=\"Narsarsuaq Airport\">Narsarsuaq Airport</a></td>
+<td><a href=\"/wiki/Narsarsuaq\" title=\"Narsarsuaq\">Narsarsuaq</a>, <a href=\"/wiki/Greenland\" title=\"Greenland\">Greenland</a></td>
+</tr>
+<tr>
+<td>UAL</td>
+<td>FNUA</td>
+<td><a href=\"/wiki/Luau_Airport\" title=\"Luau Airport\">Luau Airport</a></td>
+<td><a href=\"/wiki/Luau,_Moxico_Province\" title=\"Luau, Moxico Province\">Luau</a>, <a href=\"/wiki/Angola\" title=\"Angola\">Angola</a></td>
+</tr>
+<tr>
+<td>UAM</td>
+<td>PGUA</td>
+<td><a href=\"/wiki/Andersen_Air_Force_Base\" title=\"Andersen Air Force Base\">Andersen Air Force Base</a></td>
+<td><a href=\"/wiki/Hag%C3%A5t%C3%B1a,_Guam\" title=\"Hag\u00e5t\u00f1a, Guam\">Hag\u00e5t\u00f1a</a> (Agana), <a href=\"/wiki/Guam\" title=\"Guam\">Guam</a></td>
+</tr>
+<tr>
+<td>UAP</td>
+<td>NTMP</td>
+<td><a href=\"/wiki/Ua_Pou_Airport\" title=\"Ua Pou Airport\">Ua Pou Airport</a><sup id=\"cite_ref-IATA_1-5\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Ua_Pou\" title=\"Ua Pou\">Ua Pou</a>, <a href=\"/wiki/Marquesas_Islands\" title=\"Marquesas Islands\">Marquesas Islands</a>, <a href=\"/wiki/French_Polynesia\" title=\"French Polynesia\">French Polynesia</a></td>
+</tr>
+<tr>
+<td>UAQ</td>
+<td>SANU</td>
+<td><a href=\"/wiki/Domingo_Faustino_Sarmiento_Airport\" title=\"Domingo Faustino Sarmiento Airport\">Domingo Faustino Sarmiento Airport</a></td>
+<td><a href=\"/wiki/San_Juan,_Argentina\" title=\"San Juan, Argentina\">San Juan</a>, <a href=\"/wiki/San_Juan_Province,_Argentina\" title=\"San Juan Province, Argentina\">San Juan</a>, Argentina</td>
+</tr>
+<tr>
+<td>UAR</td>
+<td>GMFB</td>
+<td><a href=\"/wiki/Bouarfa_Airport\" title=\"Bouarfa Airport\">Bouarfa Airport</a><sup id=\"cite_ref-IATA_1-6\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Bouarfa,_Morocco\" title=\"Bouarfa, Morocco\">Bouarfa</a>, <a href=\"/wiki/Morocco\" title=\"Morocco\">Morocco</a></td>
+</tr>
+<tr>
+<td>UAS</td>
+<td>HKSB</td>
+<td><a href=\"/wiki/Samburu_Airport\" title=\"Samburu Airport\">Samburu Airport</a><sup id=\"cite_ref-IATA_1-7\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (Buffalo Spring Airport)</td>
+<td><a href=\"/wiki/Samburu_County\" title=\"Samburu County\">Samburu</a>, <a href=\"/wiki/Kenya\" title=\"Kenya\">Kenya</a></td>
+</tr>
+<tr>
+<td>UAX</td>
+<td></td>
+<td><a href=\"/wiki/Uaxactun_Airport\" title=\"Uaxactun Airport\">Uaxactun Airport</a><sup id=\"cite_ref-IATA_1-8\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Uaxactun\" title=\"Uaxactun\">Uaxactun</a>, <a href=\"/wiki/Guatemala\" title=\"Guatemala\">Guatemala</a></td>
+</tr>
+<tr>
+<td>UBA</td>
+<td>SBUR</td>
+<td><a href=\"/wiki/Uberaba_Airport\" title=\"Uberaba Airport\">M\u00e1rio de Almeida Franco Airport</a></td>
+<td><a href=\"/wiki/Uberaba\" title=\"Uberaba\">Uberaba</a>, <a href=\"/wiki/Minas_Gerais\" title=\"Minas Gerais\">Minas Gerais</a>, Brazil</td>
+</tr>
+<tr>
+<td>UBB</td>
+<td>YMAA</td>
+<td><a href=\"/wiki/Mabuiag_Island_Airport\" title=\"Mabuiag Island Airport\">Mabuiag Island Airport</a><sup id=\"cite_ref-IATA_1-9\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Mabuiag_Island\" title=\"Mabuiag Island\">Mabuiag Island</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+</tr>
+<tr>
+<td>UBI</td>
+<td></td>
+<td><a href=\"/wiki/Buin_Airport\" title=\"Buin Airport\">Buin Airport</a><sup id=\"cite_ref-IATA_1-10\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Buin,_Papua_New_Guinea\" title=\"Buin, Papua New Guinea\">Buin</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>UBJ</td>
+<td>RJDC</td>
+<td><a href=\"/wiki/Yamaguchi_Ube_Airport\" title=\"Yamaguchi Ube Airport\">Yamaguchi Ube Airport</a></td>
+<td><a href=\"/wiki/Ube,_Yamaguchi\" title=\"Ube, Yamaguchi\">Ube</a>, <a href=\"/wiki/Honshu\" title=\"Honshu\">Honshu</a>, Japan</td>
+</tr>
+<tr>
+<td>UBP</td>
+<td>VTUU</td>
+<td><a href=\"/wiki/Ubon_Ratchathani_Airport\" title=\"Ubon Ratchathani Airport\">Ubon Ratchathani Airport</a></td>
+<td><a href=\"/wiki/Ubon_Ratchathani\" title=\"Ubon Ratchathani\">Ubon Ratchathani</a>, <a href=\"/wiki/Thailand\" title=\"Thailand\">Thailand</a></td>
+</tr>
+<tr>
+<td>UBR</td>
+<td>WAJU</td>
+<td><a href=\"/w/index.php?title=Ubrub_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Ubrub Airport (page does not exist)\">Ubrub Airport</a><sup id=\"cite_ref-IATA_1-11\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Ubrub&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Ubrub (page does not exist)\">Ubrub</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+</tr>
+<tr>
+<td>UBS</td>
+<td>KUBS</td>
+<td><a href=\"/wiki/Columbus-Lowndes_County_Airport\" title=\"Columbus-Lowndes County Airport\">Columbus-Lowndes County Airport</a></td>
+<td><a href=\"/wiki/Columbus,_Mississippi\" title=\"Columbus, Mississippi\">Columbus</a>, <a href=\"/wiki/Mississippi\" title=\"Mississippi\">Mississippi</a>, United States</td>
+</tr>
+<tr>
+<td>UBT</td>
+<td>SDUB</td>
+<td><a href=\"/w/index.php?title=Ubatuba_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Ubatuba Airport (page does not exist)\">Ubatuba Airport</a><sup id=\"cite_ref-IATA_1-12\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (Gast\u00e3o Madeira Airport)</td>
+<td><a href=\"/wiki/Ubatuba\" title=\"Ubatuba\">Ubatuba</a>, <a href=\"/wiki/S%C3%A3o_Paulo_(state)\" title=\"S\u00e3o Paulo (state)\">S\u00e3o Paulo</a>, Brazil</td>
+</tr>
+<tr>
+<td>UBU</td>
+<td>YKAL</td>
+<td><a href=\"/w/index.php?title=Kalumburu_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Kalumburu Airport (page does not exist)\">Kalumburu Airport</a><sup id=\"cite_ref-IATA_1-13\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Kalumburu,_Western_Australia\" title=\"Kalumburu, Western Australia\">Kalumburu</a>, <a href=\"/wiki/Western_Australia\" title=\"Western Australia\">Western Australia</a>, Australia</td>
+</tr>
+<tr>
+<td>UCB</td>
+<td></td>
+<td><a href=\"/wiki/Ulanqab_Airport\" class=\"mw-redirect\" title=\"Ulanqab Airport\">Ulanqab Airport</a><sup id=\"cite_ref-IATA_1-14\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Ulanqab\" title=\"Ulanqab\">Ulanqab</a>, <a href=\"/wiki/Inner_Mongolia\" title=\"Inner Mongolia\">Inner Mongolia</a>, China</td>
+</tr>
+<tr>
+<td>UCC</td>
+<td>KUCC</td>
+<td><a href=\"/wiki/Yucca_Airstrip\" title=\"Yucca Airstrip\">Yucca Airstrip</a> (FAA: NV11)</td>
+<td><a href=\"/wiki/Mercury,_Nevada\" title=\"Mercury, Nevada\">Mercury</a>, <a href=\"/wiki/Nevada\" title=\"Nevada\">Nevada</a>, United States</td>
+</tr>
+<tr>
+<td>UCE</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Eunice_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Eunice Airport (page does not exist)\">Eunice Airport</a> (FAA: 4R7)</td>
+<td><a href=\"/wiki/Eunice,_Louisiana\" title=\"Eunice, Louisiana\">Eunice</a>, <a href=\"/wiki/Louisiana\" title=\"Louisiana\">Louisiana</a>, United States</td>
+</tr>
+<tr>
+<td>UCK</td>
+<td>UKLC</td>
+<td><a href=\"/wiki/Lutsk_Airport\" title=\"Lutsk Airport\">Lutsk Airport</a><sup id=\"cite_ref-IATA_1-15\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Lutsk\" title=\"Lutsk\">Lutsk</a>, <a href=\"/wiki/Ukraine\" title=\"Ukraine\">Ukraine</a></td>
+</tr>
+<tr>
+<td>UCN</td>
+<td>GLBU</td>
+<td><a href=\"/wiki/Buchanan_Airport\" title=\"Buchanan Airport\">Buchanan Airport</a></td>
+<td><a href=\"/wiki/Buchanan,_Liberia\" title=\"Buchanan, Liberia\">Buchanan</a>, <a href=\"/wiki/Liberia\" title=\"Liberia\">Liberia</a></td>
+</tr>
+<tr>
+<td>UCT</td>
+<td>UUYH</td>
+<td><a href=\"/wiki/Ukhta_Airport\" title=\"Ukhta Airport\">Ukhta Airport</a></td>
+<td><a href=\"/wiki/Ukhta\" title=\"Ukhta\">Ukhta</a>, <a href=\"/wiki/Komi_Republic\" title=\"Komi Republic\">Komi Republic</a>, Russia</td>
+</tr>
+<tr>
+<td>UCY</td>
+<td>KUCY</td>
+<td><a href=\"/wiki/Everett%E2%80%93Stewart_Regional_Airport\" title=\"Everett\u2013Stewart Regional Airport\">Everett\u2013Stewart Regional Airport</a></td>
+<td><a href=\"/wiki/Union_City,_Tennessee\" title=\"Union City, Tennessee\">Union City</a>, <a href=\"/wiki/Tennessee\" title=\"Tennessee\">Tennessee</a>, United States</td>
+</tr>
+<tr>
+<td>UDA</td>
+<td>YUDA</td>
+<td><a href=\"/w/index.php?title=Undara_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Undara Airport (page does not exist)\">Undara Airport</a><sup id=\"cite_ref-IATA_1-16\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Undara_Volcanic_National_Park\" title=\"Undara Volcanic National Park\">Undara</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+</tr>
+<tr>
+<td>UDD</td>
+<td>KUDD</td>
+<td><a href=\"/wiki/Bermuda_Dunes_Airport\" title=\"Bermuda Dunes Airport\">Bermuda Dunes Airport</a></td>
+<td><a href=\"/wiki/Palm_Springs,_California\" title=\"Palm Springs, California\">Palm Springs</a>, <a href=\"/wiki/California\" title=\"California\">California</a>, United States</td>
+</tr>
+<tr>
+<td>UDE</td>
+<td>EHVK</td>
+<td><a href=\"/wiki/Volkel_Air_Base\" title=\"Volkel Air Base\">Volkel Air Base</a></td>
+<td><a href=\"/wiki/Uden\" title=\"Uden\">Uden</a>, <a href=\"/wiki/Netherlands\" title=\"Netherlands\">Netherlands</a></td>
+</tr>
+<tr>
+<td>UDI</td>
+<td>SBUL</td>
+<td><a href=\"/wiki/Uberl%C3%A2ndia_Airport\" title=\"Uberl\u00e2ndia Airport\">Ten. Cel. Av. C\u00e9sar Bombonato Airport</a></td>
+<td><a href=\"/wiki/Uberl%C3%A2ndia\" title=\"Uberl\u00e2ndia\">Uberl\u00e2ndia</a>, <a href=\"/wiki/Minas_Gerais\" title=\"Minas Gerais\">Minas Gerais</a>, Brazil</td>
+</tr>
+<tr>
+<td>UDJ</td>
+<td>UKLU</td>
+<td><a href=\"/wiki/Uzhhorod_International_Airport\" title=\"Uzhhorod International Airport\">Uzhhorod International Airport</a><sup id=\"cite_ref-IATA_1-17\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Uzhhorod\" title=\"Uzhhorod\">Uzhhorod</a>, <a href=\"/wiki/Ukraine\" title=\"Ukraine\">Ukraine</a></td>
+</tr>
+<tr>
+<td>UDN</td>
+<td>LIPD</td>
+<td><a href=\"/w/index.php?title=Campoformido_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Campoformido Airport (page does not exist)\">Campoformido Airport</a><sup id=\"cite_ref-IATA_1-18\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Udine\" title=\"Udine\">Udine</a>, <a href=\"/wiki/Friuli-Venezia_Giulia\" class=\"mw-redirect\" title=\"Friuli-Venezia Giulia\">Friuli-Venezia Giulia</a>, Italy</td>
+</tr>
+<tr>
+<td>UDR</td>
+<td>VAUD</td>
+<td><a href=\"/wiki/Maharana_Pratap_Airport\" title=\"Maharana Pratap Airport\">Maharana Pratap Airport</a></td>
+<td><a href=\"/wiki/Udaipur\" title=\"Udaipur\">Udaipur</a>, <a href=\"/wiki/Rajasthan\" title=\"Rajasthan\">Rajasthan</a>, India</td>
+</tr>
+<tr>
+<td>UEE</td>
+<td>YQNS</td>
+<td><a href=\"/wiki/Queenstown_Airport,_Tasmania\" class=\"mw-redirect\" title=\"Queenstown Airport, Tasmania\">Queenstown Airport</a><sup id=\"cite_ref-IATA_1-19\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Queenstown,_Tasmania\" title=\"Queenstown, Tasmania\">Queenstown</a>, <a href=\"/wiki/Tasmania\" title=\"Tasmania\">Tasmania</a>, Australia</td>
+</tr>
+<tr>
+<td>UEL</td>
+<td>FQQL</td>
+<td><a href=\"/wiki/Quelimane_Airport\" title=\"Quelimane Airport\">Quelimane Airport</a></td>
+<td><a href=\"/wiki/Quelimane\" title=\"Quelimane\">Quelimane</a>, <a href=\"/wiki/Mozambique\" title=\"Mozambique\">Mozambique</a></td>
+</tr>
+<tr>
+<td>UEN</td>
+<td>USDU</td>
+<td><a href=\"/w/index.php?title=Urengoy_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Urengoy Airport (page does not exist)\">Urengoy Airport</a><sup id=\"cite_ref-IATA_1-20\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Urengoy\" title=\"Urengoy\">Urengoy</a>, <a href=\"/wiki/Yamalo-Nenets_Autonomous_Okrug\" title=\"Yamalo-Nenets Autonomous Okrug\">Yamalo-Nenets Autonomous Okrug</a>, Russia</td>
+</tr>
+<tr>
+<td>UEO</td>
+<td>ROKJ</td>
+<td><a href=\"/wiki/Kumejima_Airport\" title=\"Kumejima Airport\">Kumejima Airport</a><sup id=\"cite_ref-IATA_1-21\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Kumejima,_Okinawa\" title=\"Kumejima, Okinawa\">Kumejima</a>, <a href=\"/wiki/Okinawa_Islands\" title=\"Okinawa Islands\">Okinawa Islands</a>, Japan</td>
+</tr>
+<tr>
+<td>UES</td>
+<td>KUES</td>
+<td><a href=\"/wiki/Waukesha_County_Airport\" title=\"Waukesha County Airport\">Waukesha County Airport</a> (Crites Field)</td>
+<td><a href=\"/wiki/Waukesha,_Wisconsin\" title=\"Waukesha, Wisconsin\">Waukesha</a>, <a href=\"/wiki/Wisconsin\" title=\"Wisconsin\">Wisconsin</a>, United States</td>
+</tr>
+<tr>
+<td>UET</td>
+<td>OPQT</td>
+<td><a href=\"/wiki/Quetta_International_Airport\" title=\"Quetta International Airport\">Quetta International Airport</a></td>
+<td><a href=\"/wiki/Quetta\" title=\"Quetta\">Quetta</a>, <a href=\"/wiki/Pakistan\" title=\"Pakistan\">Pakistan</a></td>
+</tr>
+<tr>
+<td>UFA</td>
+<td>UWUU</td>
+<td><a href=\"/wiki/Ufa_International_Airport\" title=\"Ufa International Airport\">Ufa International Airport</a></td>
+<td><a href=\"/wiki/Ufa\" title=\"Ufa\">Ufa</a>, <a href=\"/wiki/Bashkortostan\" title=\"Bashkortostan\">Bashkortostan</a>, Russia</td>
+</tr>
+<tr>
+<td>UGA</td>
+<td>ZMBN</td>
+<td><a href=\"/wiki/Bulgan_Airport\" title=\"Bulgan Airport\">Bulgan Airport</a></td>
+<td><a href=\"/wiki/Bulgan_(city)\" title=\"Bulgan (city)\">Bulgan</a>, <a href=\"/wiki/Mongolia\" title=\"Mongolia\">Mongolia</a></td>
+</tr>
+<tr>
+<td>UGB</td>
+<td></td>
+<td><a href=\"/wiki/Ugashik_Bay_Airport\" title=\"Ugashik Bay Airport\">Ugashik Bay Airport</a></td>
+<td><a href=\"/wiki/Pilot_Point,_Alaska\" title=\"Pilot Point, Alaska\">Pilot Point</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>UGC</td>
+<td>UTNU</td>
+<td><a href=\"/wiki/Urgench_International_Airport\" title=\"Urgench International Airport\">Urgench International Airport</a></td>
+<td><a href=\"/wiki/Urgench\" title=\"Urgench\">Urgench</a>, <a href=\"/wiki/Uzbekistan\" title=\"Uzbekistan\">Uzbekistan</a></td>
+</tr>
+<tr>
+<td>UGI</td>
+<td></td>
+<td><a href=\"/wiki/San_Juan_(Uganik)_Seaplane_Base\" title=\"San Juan (Uganik) Seaplane Base\">San Juan (Uganik) Seaplane Base</a> (FAA: WSJ)</td>
+<td><a href=\"/wiki/Uganik,_Alaska\" title=\"Uganik, Alaska\">Uganik</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>UGN</td>
+<td>KUGN</td>
+<td><a href=\"/wiki/Waukegan_National_Airport\" title=\"Waukegan National Airport\">Waukegan National Airport</a></td>
+<td><a href=\"/wiki/Waukegan,_Illinois\" title=\"Waukegan, Illinois\">Waukegan</a>, <a href=\"/wiki/Illinois\" title=\"Illinois\">Illinois</a>, United States</td>
+</tr>
+<tr>
+<td>UGO</td>
+<td>FNUG</td>
+<td><a href=\"/wiki/U%C3%ADge_Airport\" title=\"U\u00edge Airport\">U\u00edge Airport</a><sup id=\"cite_ref-IATA_1-22\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/U%C3%ADge\" title=\"U\u00edge\">U\u00edge</a>, <a href=\"/wiki/Angola\" title=\"Angola\">Angola</a></td>
+</tr>
+<tr>
+<td>UGS</td>
+<td></td>
+<td><a href=\"/wiki/Ugashik_Airport\" title=\"Ugashik Airport\">Ugashik Airport</a> (FAA: 9A8)</td>
+<td><a href=\"/wiki/Ugashik,_Alaska\" title=\"Ugashik, Alaska\">Ugashik</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>UGT</td>
+<td>ZMBR</td>
+<td><a href=\"/w/index.php?title=Bulagtai_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Bulagtai Airport (page does not exist)\">Bulagtai Airport</a><sup id=\"cite_ref-IATA_1-23\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Bulagtai&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Bulagtai (page does not exist)\">Bulagtai</a>, <a href=\"/wiki/Mongolia\" title=\"Mongolia\">Mongolia</a></td>
+</tr>
+<tr>
+<td>UGU</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Bilogai_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Bilogai Airport (page does not exist)\">Bilogai Airport</a><sup id=\"cite_ref-IATA_1-24\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Bilogai&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Bilogai (page does not exist)\">Bilogai</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+</tr>
+<tr>
+<td>UHE</td>
+<td>LKKU</td>
+<td><a href=\"/wiki/Kunovice_Airport\" title=\"Kunovice Airport\">Kunovice Airport</a></td>
+<td><a href=\"/wiki/Uhersk%C3%A9_Hradi%C5%A1t%C4%9B\" title=\"Uhersk\u00e9 Hradi\u0161t\u011b\">Uhersk\u00e9 Hradi\u0161t\u011b</a>, <a href=\"/wiki/Czech_Republic\" title=\"Czech Republic\">Czech Republic</a></td>
+</tr>
+<tr>
+<td>UIB</td>
+<td>SKUI</td>
+<td><a href=\"/wiki/El_Cara%C3%B1o_Airport\" title=\"El Cara\u00f1o Airport\">El Cara\u00f1o Airport</a></td>
+<td><a href=\"/wiki/Quibd%C3%B3\" title=\"Quibd\u00f3\">Quibd\u00f3</a>, <a href=\"/wiki/Colombia\" title=\"Colombia\">Colombia</a></td>
+</tr>
+<tr>
+<td>UIH</td>
+<td>VVPC</td>
+<td><a href=\"/wiki/Phu_Cat_Airport\" title=\"Phu Cat Airport\">Phu Cat Airport</a></td>
+<td><a href=\"/wiki/Qui_Nh%C6%A1n\" title=\"Qui Nh\u01a1n\">Qui Nh\u01a1n</a>, <a href=\"/wiki/Vietnam\" title=\"Vietnam\">Vietnam</a></td>
+</tr>
+<tr>
+<td>UII</td>
+<td>MHUT</td>
+<td><a href=\"/wiki/%C3%9Atila_Airport\" title=\"\u00datila Airport\">\u00datila Airport</a></td>
+<td><a href=\"/wiki/%C3%9Atila\" class=\"mw-redirect\" title=\"\u00datila\">\u00datila</a>, <a href=\"/wiki/Honduras\" title=\"Honduras\">Honduras</a></td>
+</tr>
+<tr>
+<td>UIK</td>
+<td>UIBS</td>
+<td><a href=\"/wiki/Ust-Ilimsk_Airport\" title=\"Ust-Ilimsk Airport\">Ust-Ilimsk Airport</a></td>
+<td><a href=\"/wiki/Ust-Ilimsk\" title=\"Ust-Ilimsk\">Ust-Ilimsk</a>, <a href=\"/wiki/Irkutsk_Oblast\" title=\"Irkutsk Oblast\">Irkutsk Oblast</a>, Russia</td>
+</tr>
+<tr>
+<td>UIL</td>
+<td>KUIL</td>
+<td><a href=\"/wiki/Quillayute_Airport\" title=\"Quillayute Airport\">Quillayute Airport</a></td>
+<td><a href=\"/wiki/Forks,_Washington\" title=\"Forks, Washington\">Forks</a>, <a href=\"/wiki/Washington_(state)\" title=\"Washington (state)\">Washington</a>, United States</td>
+</tr>
+<tr>
+<td>UIN</td>
+<td>KUIN</td>
+<td><a href=\"/wiki/Quincy_Regional_Airport\" title=\"Quincy Regional Airport\">Quincy Regional Airport</a> (Baldwin Field)</td>
+<td><a href=\"/wiki/Quincy,_Illinois\" title=\"Quincy, Illinois\">Quincy</a>, <a href=\"/wiki/Illinois\" title=\"Illinois\">Illinois</a>, United States</td>
+</tr>
+<tr>
+<td>UIO</td>
+<td>SEQM</td>
+<td><a href=\"/wiki/Mariscal_Sucre_International_Airport\" title=\"Mariscal Sucre International Airport\">Mariscal Sucre International Airport</a></td>
+<td><a href=\"/wiki/Quito\" title=\"Quito\">Quito</a>, <a href=\"/wiki/Ecuador\" title=\"Ecuador\">Ecuador</a></td>
+</tr>
+<tr>
+<td>UIP</td>
+<td>LFRQ</td>
+<td><a href=\"/wiki/Quimper%E2%80%93Cornouaille_Airport\" title=\"Quimper\u2013Cornouaille Airport\">Quimper\u2013Cornouaille Airport</a> (Pluguffan)</td>
+<td><a href=\"/wiki/Quimper\" title=\"Quimper\">Quimper</a>, <a href=\"/wiki/Brittany_(administrative_region)\" title=\"Brittany (administrative region)\">Brittany</a>, France</td>
+</tr>
+<tr>
+<td>UIQ</td>
+<td>NVVQ</td>
+<td><a href=\"/wiki/Quoin_Hill_Airfield\" title=\"Quoin Hill Airfield\">Quoin Hill Airfield</a></td>
+<td><a href=\"/w/index.php?title=Quoin_Hill&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Quoin Hill (page does not exist)\">Quoin Hill</a>, <a href=\"/wiki/Vanuatu\" title=\"Vanuatu\">Vanuatu</a></td>
+</tr>
+<tr>
+<td>UIR</td>
+<td>YQDI</td>
+<td><a href=\"/wiki/Quirindi_Airport\" title=\"Quirindi Airport\">Quirindi Airport</a><sup id=\"cite_ref-IATA_1-25\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Quirindi\" title=\"Quirindi\">Quirindi</a>, <a href=\"/wiki/New_South_Wales\" title=\"New South Wales\">New South Wales</a>, Australia</td>
+</tr>
+<tr>
+<td>UIT</td>
+<td></td>
+<td><a href=\"/wiki/Jaluit_Airport\" title=\"Jaluit Airport\">Jaluit Airport</a> (FAA: N55)</td>
+<td><a href=\"/wiki/Jaluit_Atoll\" title=\"Jaluit Atoll\">Jaluit Atoll</a>, <a href=\"/wiki/Marshall_Islands\" title=\"Marshall Islands\">Marshall Islands</a></td>
+</tr>
+<tr>
+<td>UJE</td>
+<td></td>
+<td><a href=\"/wiki/Ujae_Airport\" title=\"Ujae Airport\">Ujae Airport</a></td>
+<td><a href=\"/wiki/Ujae_Atoll\" title=\"Ujae Atoll\">Ujae Atoll</a>, <a href=\"/wiki/Marshall_Islands\" title=\"Marshall Islands\">Marshall Islands</a></td>
+</tr>
+<tr>
+<td>UJN</td>
+<td>RKTL</td>
+<td><a href=\"/wiki/Uljin_Airport\" title=\"Uljin Airport\">Uljin Airport</a><sup id=\"cite_ref-IATA_1-26\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Uljin_County\" title=\"Uljin County\">Uljin</a>, <a href=\"/wiki/South_Korea\" title=\"South Korea\">South Korea</a></td>
+</tr>
+<tr>
+<td>UJU</td>
+<td>ZKUJ</td>
+<td><a href=\"/wiki/Uiju_Airfield\" title=\"Uiju Airfield\">Uiju Airfield</a><sup id=\"cite_ref-IATA_1-27\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Uiju_County\" title=\"Uiju County\">Uiju</a>, <a href=\"/wiki/North_Korea\" title=\"North Korea\">North Korea</a></td>
+</tr>
+<tr>
+<td>UKA</td>
+<td>HKUK</td>
+<td><a href=\"/wiki/Ukunda_Airport\" title=\"Ukunda Airport\">Ukunda Airport</a><sup id=\"cite_ref-IATA_1-28\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (Diani Airport)</td>
+<td><a href=\"/wiki/Ukunda\" title=\"Ukunda\">Ukunda</a>, <a href=\"/wiki/Kenya\" title=\"Kenya\">Kenya</a></td>
+</tr>
+<tr>
+<td>UKB</td>
+<td>RJBE</td>
+<td><a href=\"/wiki/Kobe_Airport\" title=\"Kobe Airport\">Kobe Airport</a></td>
+<td><a href=\"/wiki/Kobe\" title=\"Kobe\">Kobe</a> / <a href=\"/wiki/Osaka\" title=\"Osaka\">Osaka</a>, <a href=\"/wiki/Honshu\" title=\"Honshu\">Honshu</a>, Japan</td>
+</tr>
+<tr>
+<td>UKG</td>
+<td>UEBT</td>
+<td><a href=\"/wiki/Ust-Kuyga_Airport\" title=\"Ust-Kuyga Airport\">Ust-Kuyga Airport</a></td>
+<td><a href=\"/wiki/Ust-Kuyga\" title=\"Ust-Kuyga\">Ust-Kuyga</a>, <a href=\"/wiki/Sakha_Republic\" title=\"Sakha Republic\">Yakutia</a>, Russia</td>
+</tr>
+<tr>
+<td>UKH</td>
+<td>OOMK</td>
+<td><a href=\"/wiki/Mukhaizna_Airport\" title=\"Mukhaizna Airport\">Mukhaizna Airport</a><sup id=\"cite_ref-IATA_1-29\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Mukhaizna&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Mukhaizna (page does not exist)\">Mukhaizna</a>, <a href=\"/wiki/Oman\" title=\"Oman\">Oman</a></td>
+</tr>
+<tr>
+<td>UKI</td>
+<td>KUKI</td>
+<td><a href=\"/wiki/Ukiah_Municipal_Airport\" title=\"Ukiah Municipal Airport\">Ukiah Municipal Airport</a></td>
+<td><a href=\"/wiki/Ukiah,_California\" title=\"Ukiah, California\">Ukiah</a>, <a href=\"/wiki/California\" title=\"California\">California</a>, United States</td>
+</tr>
+<tr>
+<td>UKK</td>
+<td>UASK</td>
+<td><a href=\"/wiki/Oskemen_Airport\" title=\"Oskemen Airport\">Oskemen Airport</a> (Ust-Kamenogorsk Airport)</td>
+<td><a href=\"/wiki/Oskemen\" title=\"Oskemen\">Oskemen</a> (Ust-Kamenogorsk), <a href=\"/wiki/Kazakhstan\" title=\"Kazakhstan\">Kazakhstan</a></td>
+</tr>
+<tr>
+<td>UKN</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Waukon_Municipal_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Waukon Municipal Airport (page does not exist)\">Waukon Municipal Airport</a> (FAA: Y01)</td>
+<td><a href=\"/wiki/Waukon,_Iowa\" title=\"Waukon, Iowa\">Waukon</a>, <a href=\"/wiki/Iowa\" title=\"Iowa\">Iowa</a>, United States</td>
+</tr>
+<tr>
+<td>UKR</td>
+<td>OYMK</td>
+<td><a href=\"/wiki/Mukeiras_Airport\" title=\"Mukeiras Airport\">Mukeiras Airport</a><sup id=\"cite_ref-IATA_1-30\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Mukayras\" title=\"Mukayras\">Mukayras</a>, <a href=\"/wiki/Yemen\" title=\"Yemen\">Yemen</a></td>
+</tr>
+<tr>
+<td>UKS</td>
+<td>UKFB</td>
+<td><a href=\"/wiki/Sevastopol_International_Airport\" title=\"Sevastopol International Airport\">Sevastopol International Airport</a><sup id=\"cite_ref-IATA_1-31\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Sevastopol\" title=\"Sevastopol\">Sevastopol</a></td>
+</tr>
+<tr>
+<td>UKT</td>
+<td>KUKT</td>
+<td><a href=\"/wiki/Quakertown_Airport\" title=\"Quakertown Airport\">Quakertown Airport</a></td>
+<td><a href=\"/wiki/Quakertown,_Pennsylvania\" title=\"Quakertown, Pennsylvania\">Quakertown</a>, <a href=\"/wiki/Pennsylvania\" title=\"Pennsylvania\">Pennsylvania</a>, United States</td>
+</tr>
+<tr>
+<td>UKU</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Nuku_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Nuku Airport (page does not exist)\">Nuku Airport</a><sup id=\"cite_ref-IATA_1-32\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Nuku,_Papua_New_Guinea\" title=\"Nuku, Papua New Guinea\">Nuku</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>UKX</td>
+<td>UITT</td>
+<td><a href=\"/wiki/Ust-Kut_Airport\" title=\"Ust-Kut Airport\">Ust-Kut Airport</a></td>
+<td><a href=\"/wiki/Ust-Kut\" title=\"Ust-Kut\">Ust-Kut</a>, <a href=\"/wiki/Irkutsk_Oblast\" title=\"Irkutsk Oblast\">Irkutsk Oblast</a>, Russia</td>
+</tr>
+<tr>
+<td>ULA</td>
+<td>SAWJ</td>
+<td><a href=\"/wiki/Capit%C3%A1n_Jos%C3%A9_Daniel_Vazquez_Airport\" title=\"Capit\u00e1n Jos\u00e9 Daniel Vazquez Airport\">Capit\u00e1n Jos\u00e9 Daniel Vazquez Airport</a><sup id=\"cite_ref-IATA_1-33\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Puerto_San_Juli%C3%A1n\" title=\"Puerto San Juli\u00e1n\">Puerto San Juli\u00e1n</a>, <a href=\"/wiki/Santa_Cruz_Province,_Argentina\" title=\"Santa Cruz Province, Argentina\">Santa Cruz</a>, Argentina</td>
+</tr>
+<tr>
+<td>ULB</td>
+<td>NVSU</td>
+<td><a href=\"/wiki/Ulei_Airport\" title=\"Ulei Airport\">Ulei Airport</a><sup id=\"cite_ref-IATA_1-34\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Ulei,_Vanuatu&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Ulei, Vanuatu (page does not exist)\">Ulei</a>, <a href=\"/wiki/Vanuatu\" title=\"Vanuatu\">Vanuatu</a></td>
+</tr>
+<tr>
+<td>ULD</td>
+<td>FAUL</td>
+<td><a href=\"/wiki/Ulundi_Airport\" title=\"Ulundi Airport\">Ulundi Airport</a><sup id=\"cite_ref-IATA_1-35\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Ulundi\" title=\"Ulundi\">Ulundi</a>, <a href=\"/wiki/South_Africa\" title=\"South Africa\">South Africa</a></td>
+</tr>
+<tr>
+<td>ULE</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Sule_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Sule Airport (page does not exist)\">Sule Airport</a><sup id=\"cite_ref-IATA_1-36\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Sule,_Papua_New_Guinea&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Sule, Papua New Guinea (page does not exist)\">Sule</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>ULG</td>
+<td>ZMUL</td>
+<td><a href=\"/wiki/%C3%96lgii_Airport\" title=\"\u00d6lgii Airport\">\u00d6lgii Airport</a><sup id=\"cite_ref-IATA_1-37\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/%C3%96lgii_(city)\" title=\"\u00d6lgii (city)\">\u00d6lgii</a>, <a href=\"/wiki/Mongolia\" title=\"Mongolia\">Mongolia</a></td>
+</tr>
+<tr>
+<td>ULH</td>
+<td>OEAO</td>
+<td><a href=\"/wiki/Prince_Abdul_Majeed_bin_Abdulaziz_Domestic_Airport\" title=\"Prince Abdul Majeed bin Abdulaziz Domestic Airport\">Prince Abdul Majeed bin Abdulaziz Domestic Airport</a><sup id=\"cite_ref-IATA_1-38\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Al-%60Ula\" title=\"Al-`Ula\">Al-Ula</a>, <a href=\"/wiki/Saudi_Arabia\" title=\"Saudi Arabia\">Saudi Arabia</a></td>
+</tr>
+<tr>
+<td>ULI</td>
+<td></td>
+<td><a href=\"/wiki/Ulithi_Airport\" title=\"Ulithi Airport\">Ulithi Airport</a> (FAA: TT02)</td>
+<td><a href=\"/wiki/Ulithi\" title=\"Ulithi\">Ulithi</a>, <a href=\"/wiki/Federated_States_of_Micronesia\" title=\"Federated States of Micronesia\">Federated States of Micronesia</a></td>
+</tr>
+<tr>
+<td>ULK</td>
+<td>UERL</td>
+<td><a href=\"/wiki/Lensk_Airport\" title=\"Lensk Airport\">Lensk Airport</a><sup id=\"cite_ref-IATA_1-39\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Lensk\" title=\"Lensk\">Lensk</a>, <a href=\"/wiki/Sakha_Republic\" title=\"Sakha Republic\">Yakutia</a>, Russia</td>
+</tr>
+<tr>
+<td>ULL</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Glenforsa_Airfield&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Glenforsa Airfield (page does not exist)\">Glenforsa Airfield</a><sup id=\"cite_ref-IATA_1-40\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Isle_of_Mull\" title=\"Isle of Mull\">Mull</a>, <a href=\"/wiki/Scotland\" title=\"Scotland\">Scotland</a>, United Kingdom</td>
+</tr>
+<tr>
+<td>ULM</td>
+<td>KULM</td>
+<td><a href=\"/wiki/New_Ulm_Municipal_Airport\" title=\"New Ulm Municipal Airport\">New Ulm Municipal Airport</a></td>
+<td><a href=\"/wiki/New_Ulm,_Minnesota\" title=\"New Ulm, Minnesota\">New Ulm</a>, <a href=\"/wiki/Minnesota\" title=\"Minnesota\">Minnesota</a>, United States</td>
+</tr>
+<tr>
+<td>ULN</td>
+<td>ZMUB</td>
+<td><a href=\"/wiki/Chinggis_Khaan_International_Airport\" title=\"Chinggis Khaan International Airport\">Chinggis Khaan International Airport</a></td>
+<td><a href=\"/wiki/Ulaanbaatar\" title=\"Ulaanbaatar\">Ulaanbaatar</a>, <a href=\"/wiki/Mongolia\" title=\"Mongolia\">Mongolia</a></td>
+</tr>
+<tr>
+<td>ULO</td>
+<td>ZMUG</td>
+<td><a href=\"/wiki/Ulaangom_Airport\" title=\"Ulaangom Airport\">Ulaangom Airport</a></td>
+<td><a href=\"/wiki/Ulaangom\" title=\"Ulaangom\">Ulaangom</a>, <a href=\"/wiki/Mongolia\" title=\"Mongolia\">Mongolia</a></td>
+</tr>
+<tr>
+<td>ULP</td>
+<td>YQLP</td>
+<td><a href=\"/wiki/Quilpie_Airport\" title=\"Quilpie Airport\">Quilpie Airport</a><sup id=\"cite_ref-IATA_1-41\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Quilpie,_Queensland\" title=\"Quilpie, Queensland\">Quilpie</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+</tr>
+<tr>
+<td>ULQ</td>
+<td>SKUL</td>
+<td><a href=\"/wiki/Heriberto_G%C3%ADl_Mart%C3%ADnez_Airport\" title=\"Heriberto G\u00edl Mart\u00ednez Airport\">Heriberto G\u00edl Mart\u00ednez Airport</a><sup id=\"cite_ref-IATA_1-42\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tulu%C3%A1\" title=\"Tulu\u00e1\">Tulu\u00e1</a>, <a href=\"/wiki/Colombia\" title=\"Colombia\">Colombia</a></td>
+</tr>
+<tr>
+<td>ULS</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Mulatos_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Mulatos Airport (page does not exist)\">Mulatos Airport</a></td>
+<td><a href=\"/w/index.php?title=Mulatos,_Colombia&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Mulatos, Colombia (page does not exist)\">Mulatos</a>, <a href=\"/wiki/Colombia\" title=\"Colombia\">Colombia</a></td>
+</tr>
+<tr>
+<td>ULU</td>
+<td>HUGU</td>
+<td><a href=\"/wiki/Gulu_Airport\" title=\"Gulu Airport\">Gulu Airport</a><sup id=\"cite_ref-IATA_1-43\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Gulu\" title=\"Gulu\">Gulu</a>, <a href=\"/wiki/Uganda\" title=\"Uganda\">Uganda</a></td>
+</tr>
+<tr>
+<td>ULV</td>
+<td>UWLL</td>
+<td><a href=\"/wiki/Ulyanovsk_Baratayevka_Airport\" title=\"Ulyanovsk Baratayevka Airport\">Ulyanovsk Baratayevka Airport</a></td>
+<td><a href=\"/wiki/Ulyanovsk\" title=\"Ulyanovsk\">Ulyanovsk</a>, <a href=\"/wiki/Ulyanovsk_Oblast\" title=\"Ulyanovsk Oblast\">Ulyanovsk Oblast</a>, Russia</td>
+</tr>
+<tr>
+<td>ULX</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Ulusaba_Airstrip&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Ulusaba Airstrip (page does not exist)\">Ulusaba Airstrip</a><sup id=\"cite_ref-IATA_1-44\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Ulusaba_Private_Game_Reserve\" title=\"Ulusaba Private Game Reserve\">Ulusaba</a>, <a href=\"/wiki/South_Africa\" title=\"South Africa\">South Africa</a></td>
+</tr>
+<tr>
+<td>ULY</td>
+<td>UWLW</td>
+<td><a href=\"/wiki/Ulyanovsk_Vostochny_Airport\" title=\"Ulyanovsk Vostochny Airport\">Ulyanovsk Vostochny Airport</a></td>
+<td><a href=\"/wiki/Ulyanovsk\" title=\"Ulyanovsk\">Ulyanovsk</a>, <a href=\"/wiki/Ulyanovsk_Oblast\" title=\"Ulyanovsk Oblast\">Ulyanovsk Oblast</a>, Russia</td>
+</tr>
+<tr>
+<td>ULZ</td>
+<td>ZMDN</td>
+<td><a href=\"/wiki/Donoi_Airport\" title=\"Donoi Airport\">Donoi Airport</a><sup id=\"cite_ref-IATA_1-45\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Uliastai\" title=\"Uliastai\">Uliastai</a>, <a href=\"/wiki/Mongolia\" title=\"Mongolia\">Mongolia</a></td>
+</tr>
+<tr>
+<td>UMA</td>
+<td></td>
+<td><a href=\"/wiki/Punta_de_Mais%C3%AD_Airport\" title=\"Punta de Mais\u00ed Airport\">Punta de Mais\u00ed Airport</a></td>
+<td><a href=\"/wiki/Mais%C3%AD\" title=\"Mais\u00ed\">Mais\u00ed</a>, <a href=\"/wiki/Cuba\" title=\"Cuba\">Cuba</a></td>
+</tr>
+<tr>
+<td>UMC</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Umba_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Umba Airport (page does not exist)\">Umba Airport</a><sup id=\"cite_ref-IATA_1-46\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Umba,_Papua_New_Guinea&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Umba, Papua New Guinea (page does not exist)\">Umba</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>UMD</td>
+<td></td>
+<td><a href=\"/wiki/Uummannaq_Heliport\" title=\"Uummannaq Heliport\">Uummannaq Heliport</a></td>
+<td><a href=\"/wiki/Uummannaq\" title=\"Uummannaq\">Uummannaq</a>, <a href=\"/wiki/Greenland\" title=\"Greenland\">Greenland</a></td>
+</tr>
+<tr>
+<td>UME</td>
+<td>ESNU</td>
+<td><a href=\"/wiki/Ume%C3%A5_Airport\" title=\"Ume\u00e5 Airport\">Ume\u00e5 Airport</a></td>
+<td><a href=\"/wiki/Ume%C3%A5\" title=\"Ume\u00e5\">Ume\u00e5</a>, <a href=\"/wiki/Sweden\" title=\"Sweden\">Sweden</a></td>
+</tr>
+<tr>
+<td>UMI</td>
+<td>SPIL</td>
+<td><a href=\"/wiki/Quince_Mil_Airport\" title=\"Quince Mil Airport\">Quince Mil Airport</a><sup id=\"cite_ref-IATA_1-47\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Quince_Mil\" title=\"Quince Mil\">Quince Mil</a>, <a href=\"/wiki/Peru\" title=\"Peru\">Peru</a></td>
+</tr>
+<tr>
+<td>UMM</td>
+<td>PAST</td>
+<td><a href=\"/wiki/Summit_Airport_(Alaska)\" title=\"Summit Airport (Alaska)\">Summit Airport</a></td>
+<td><a href=\"/w/index.php?title=Summit,_Alaska&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Summit, Alaska (page does not exist)\">Summit</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>UMR</td>
+<td>YPWR</td>
+<td><a href=\"/wiki/RAAF_Woomera_Airfield\" class=\"mw-redirect\" title=\"RAAF Woomera Airfield\">RAAF Woomera Airfield</a><sup id=\"cite_ref-IATA_1-48\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Woomera,_South_Australia\" title=\"Woomera, South Australia\">Woomera</a>, <a href=\"/wiki/South_Australia\" title=\"South Australia\">South Australia</a>, Australia</td>
+</tr>
+<tr>
+<td>UMS</td>
+<td>UEMU</td>
+<td><a href=\"/wiki/Ust-Maya_Airport\" title=\"Ust-Maya Airport\">Ust-Maya Airport</a></td>
+<td><a href=\"/wiki/Ust-Maya\" title=\"Ust-Maya\">Ust-Maya</a>, <a href=\"/wiki/Sakha_Republic\" title=\"Sakha Republic\">Yakutia</a>, Russia</td>
+</tr>
+<tr>
+<td>UMT</td>
+<td>PAUM</td>
+<td><a href=\"/wiki/Umiat_Airport\" title=\"Umiat Airport\">Umiat Airport</a></td>
+<td><a href=\"/wiki/Umiat,_Alaska\" title=\"Umiat, Alaska\">Umiat</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>UMU</td>
+<td>SSUM</td>
+<td><a href=\"/wiki/Umuarama_Airport\" title=\"Umuarama Airport\">Orlando de Carvalho Airport</a><sup id=\"cite_ref-IATA_1-49\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Umuarama\" title=\"Umuarama\">Umuarama</a>, <a href=\"/wiki/Paran%C3%A1_(state)\" title=\"Paran\u00e1 (state)\">Paran\u00e1</a>, Brazil</td>
+</tr>
+<tr>
+<td>UMY</td>
+<td>UKHS</td>
+<td><a href=\"/wiki/Sumy_Airport\" title=\"Sumy Airport\">Sumy Airport</a><sup id=\"cite_ref-IATA_1-50\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Sumy\" title=\"Sumy\">Sumy</a>, <a href=\"/wiki/Ukraine\" title=\"Ukraine\">Ukraine</a></td>
+</tr>
+<tr>
+<td>UNA</td>
+<td>SBTC</td>
+<td><a href=\"/wiki/Una-Comandatuba_Airport\" title=\"Una-Comandatuba Airport\">Una-Comandatuba Airport</a><sup id=\"cite_ref-IATA_1-51\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Una,_Bahia\" title=\"Una, Bahia\">Una</a> / <a href=\"/wiki/Ilha_de_Comandatuba\" title=\"Ilha de Comandatuba\">Comandatuba Island</a>, <a href=\"/wiki/Bahia\" title=\"Bahia\">Bahia</a>, Brazil</td>
+</tr>
+<tr>
+<td>UNC</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Ungu%C3%ADa_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Ungu\u00eda Airport (page does not exist)\">Ungu\u00eda Airport</a></td>
+<td><a href=\"/wiki/Ungu%C3%ADa\" title=\"Ungu\u00eda\">Ungu\u00eda</a>, <a href=\"/wiki/Colombia\" title=\"Colombia\">Colombia</a></td>
+</tr>
+<tr>
+<td>UND</td>
+<td>OAUZ</td>
+<td><a href=\"/wiki/Kunduz_Airport\" title=\"Kunduz Airport\">Kunduz Airport</a></td>
+<td><a href=\"/wiki/Kunduz\" title=\"Kunduz\">Kunduz</a>, <a href=\"/wiki/Afghanistan\" title=\"Afghanistan\">Afghanistan</a></td>
+</tr>
+<tr>
+<td>UNE</td>
+<td>FXQN</td>
+<td><a href=\"/wiki/Qacha%27s_Nek_Airport\" title=\"Qacha&#39;s Nek Airport\">Qacha's Nek Airport</a><sup id=\"cite_ref-IATA_1-52\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Qacha%27s_Nek\" title=\"Qacha&#39;s Nek\">Qacha's Nek</a>, <a href=\"/wiki/Lesotho\" title=\"Lesotho\">Lesotho</a></td>
+</tr>
+<tr>
+<td>UNG</td>
+<td>AYKI</td>
+<td><a href=\"/wiki/Kiunga_Airport\" title=\"Kiunga Airport\">Kiunga Airport</a><sup id=\"cite_ref-IATA_1-53\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Kiunga,_Papua_New_Guinea\" title=\"Kiunga, Papua New Guinea\">Kiunga</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>UNI</td>
+<td>TVSU</td>
+<td><a href=\"/wiki/Union_Island_Airport\" title=\"Union Island Airport\">Union Island Airport</a></td>
+<td><a href=\"/wiki/Union_Island\" title=\"Union Island\">Union Island</a>, <a href=\"/wiki/Saint_Vincent_and_the_Grenadines\" title=\"Saint Vincent and the Grenadines\">Saint Vincent and the Grenadines</a></td>
+</tr>
+<tr>
+<td>UNK</td>
+<td>PAUN</td>
+<td><a href=\"/wiki/Unalakleet_Airport\" title=\"Unalakleet Airport\">Unalakleet Airport</a></td>
+<td><a href=\"/wiki/Unalakleet,_Alaska\" title=\"Unalakleet, Alaska\">Unalakleet</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>UNN</td>
+<td>VTSR</td>
+<td><a href=\"/wiki/Ranong_Airport\" title=\"Ranong Airport\">Ranong Airport</a></td>
+<td><a href=\"/wiki/Ranong\" title=\"Ranong\">Ranong</a>, <a href=\"/wiki/Thailand\" title=\"Thailand\">Thailand</a></td>
+</tr>
+<tr>
+<td>UNR</td>
+<td>ZMUH</td>
+<td><a href=\"/w/index.php?title=%C3%96nd%C3%B6rkhaan_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"\u00d6nd\u00f6rkhaan Airport (page does not exist)\">\u00d6nd\u00f6rkhaan Airport</a></td>
+<td><a href=\"/wiki/%C3%96nd%C3%B6rkhaan\" title=\"\u00d6nd\u00f6rkhaan\">\u00d6nd\u00f6rkhaan</a>, <a href=\"/wiki/Mongolia\" title=\"Mongolia\">Mongolia</a></td>
+</tr>
+<tr>
+<td>UNT</td>
+<td></td>
+<td><a href=\"/wiki/Unst_Airport\" title=\"Unst Airport\">Unst Airport</a><sup id=\"cite_ref-IATA_1-54\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Unst\" title=\"Unst\">Unst</a>, <a href=\"/wiki/Scotland\" title=\"Scotland\">Scotland</a>, United Kingdom</td>
+</tr>
+<tr>
+<td>UNU</td>
+<td>KUNU</td>
+<td><a href=\"/wiki/Dodge_County_Airport\" title=\"Dodge County Airport\">Dodge County Airport</a></td>
+<td><a href=\"/wiki/Juneau,_Wisconsin\" title=\"Juneau, Wisconsin\">Juneau</a>, <a href=\"/wiki/Wisconsin\" title=\"Wisconsin\">Wisconsin</a>, United States</td>
+</tr>
+<tr>
+<td>UOA</td>
+<td>NTTX</td>
+<td><a href=\"/w/index.php?title=Mururoa_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Mururoa Airport (page does not exist)\">Mururoa Airport</a><sup id=\"cite_ref-IATA_1-55\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Moruroa\" title=\"Moruroa\">Moruroa</a> (Mururoa), <a href=\"/wiki/Tuamotus\" title=\"Tuamotus\">Tuamotus</a>, <a href=\"/wiki/French_Polynesia\" title=\"French Polynesia\">French Polynesia</a></td>
+</tr>
+<tr>
+<td>UOL</td>
+<td>WAMY</td>
+<td><a href=\"/wiki/Buol_Airport\" class=\"mw-redirect\" title=\"Buol Airport\">Pogogul Airport</a></td>
+<td><a href=\"/wiki/Buol_(town)\" title=\"Buol (town)\">Buol</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+</tr>
+<tr>
+<td>UOS</td>
+<td>KUOS</td>
+<td><a href=\"/wiki/Franklin_County_Airport_(Tennessee)\" title=\"Franklin County Airport (Tennessee)\">Franklin County Airport</a></td>
+<td><a href=\"/wiki/Sewanee,_Tennessee\" title=\"Sewanee, Tennessee\">Sewanee</a>, <a href=\"/wiki/Tennessee\" title=\"Tennessee\">Tennessee</a>, United States</td>
+</tr>
+<tr>
+<td>UOX</td>
+<td>KUOX</td>
+<td><a href=\"/wiki/University-Oxford_Airport\" title=\"University-Oxford Airport\">University-Oxford Airport</a></td>
+<td><a href=\"/wiki/Oxford,_Mississippi\" title=\"Oxford, Mississippi\">Oxford</a>, <a href=\"/wiki/Mississippi\" title=\"Mississippi\">Mississippi</a>, United States</td>
+</tr>
+<tr>
+<td>UPB</td>
+<td>MUPB</td>
+<td><a href=\"/wiki/Playa_Baracoa_Airport\" title=\"Playa Baracoa Airport\">Playa Baracoa Airport</a><sup id=\"cite_ref-IATA_1-56\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Havana\" title=\"Havana\">Havana</a>, <a href=\"/wiki/Cuba\" title=\"Cuba\">Cuba</a></td>
+</tr>
+<tr>
+<td>UPG</td>
+<td>WAAA</td>
+<td><a href=\"/wiki/Sultan_Hasanuddin_International_Airport\" title=\"Sultan Hasanuddin International Airport\">Sultan Hasanuddin International Airport</a></td>
+<td><a href=\"/wiki/Makassar\" title=\"Makassar\">Makassar</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+</tr>
+<tr>
+<td>UPL</td>
+<td>MRUP</td>
+<td><a href=\"/wiki/Upala_Airport\" title=\"Upala Airport\">Upala Airport</a></td>
+<td><a href=\"/wiki/Upala\" title=\"Upala\">Upala</a>, <a href=\"/wiki/Costa_Rica\" title=\"Costa Rica\">Costa Rica</a></td>
+</tr>
+<tr>
+<td>UPN</td>
+<td>MMPN</td>
+<td><a href=\"/wiki/Uruapan_International_Airport\" title=\"Uruapan International Airport\">Ignacio L\u00f3pez Ray\u00f3n International Airport</a></td>
+<td><a href=\"/wiki/Uruapan\" title=\"Uruapan\">Uruapan</a>, <a href=\"/wiki/Michoac%C3%A1n\" title=\"Michoac\u00e1n\">Michoac\u00e1n</a>, Mexico</td>
+</tr>
+<tr>
+<td>UPP</td>
+<td>PHUP</td>
+<td><a href=\"/wiki/Upolu_Airport\" title=\"Upolu Airport\">Upolu Airport</a></td>
+<td><a href=\"/wiki/Hawi,_Hawaii\" title=\"Hawi, Hawaii\">Hawi</a>, <a href=\"/wiki/Hawaii\" title=\"Hawaii\">Hawaii</a>, United States</td>
+</tr>
+<tr>
+<td>UPR</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Upiara_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Upiara Airport (page does not exist)\">Upiara Airport</a><sup id=\"cite_ref-IATA_1-57\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Upiara&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Upiara (page does not exist)\">Upiara</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>UPV</td>
+<td>EGDJ</td>
+<td><a href=\"/wiki/RAF_Upavon\" title=\"RAF Upavon\">RAF Upavon</a><sup id=\"cite_ref-IATA_1-58\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Upavon\" title=\"Upavon\">Upavon</a>, <a href=\"/wiki/England\" title=\"England\">England</a>, United Kingdom</td>
+</tr>
+<tr>
+<td>URA</td>
+<td>UARR</td>
+<td><a href=\"/wiki/Oral_Ak_Zhol_Airport\" title=\"Oral Ak Zhol Airport\">Oral Ak Zhol Airport</a></td>
+<td><a href=\"/wiki/Oral,_Kazakhstan\" title=\"Oral, Kazakhstan\">Oral</a> (Uralsk), <a href=\"/wiki/Kazakhstan\" title=\"Kazakhstan\">Kazakhstan</a></td>
+</tr>
+<tr>
+<td>URB</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Castilho_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Castilho Airport (page does not exist)\">Castilho Airport</a><sup id=\"cite_ref-IATA_1-59\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (Urubupunga Airport)</td>
+<td><a href=\"/wiki/Castilho\" title=\"Castilho\">Castilho</a>, <a href=\"/wiki/S%C3%A3o_Paulo_(state)\" title=\"S\u00e3o Paulo (state)\">S\u00e3o Paulo</a>, Brazil</td>
+</tr>
+<tr>
+<td>URC</td>
+<td>ZWWW</td>
+<td><a href=\"/wiki/%C3%9Cr%C3%BCmqi_Diwopu_International_Airport\" title=\"\u00dcr\u00fcmqi Diwopu International Airport\">\u00dcr\u00fcmqi Diwopu International Airport</a></td>
+<td><a href=\"/wiki/%C3%9Cr%C3%BCmqi\" title=\"\u00dcr\u00fcmqi\">\u00dcr\u00fcmqi</a>, <a href=\"/wiki/Xinjiang\" title=\"Xinjiang\">Xinjiang</a>, China</td>
+</tr>
+<tr>
+<td>URD</td>
+<td>EDQE</td>
+<td><a href=\"/w/index.php?title=Burg_Feuerstein_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Burg Feuerstein Airport (page does not exist)\">Burg Feuerstein Airport</a><sup id=\"cite_ref-IATA_1-60\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Feuerstein_Castle\" title=\"Feuerstein Castle\">Burg Feuerstein</a>, <a href=\"/wiki/Bavaria\" title=\"Bavaria\">Bavaria</a>, Germany</td>
+</tr>
+<tr>
+<td>URE</td>
+<td>EEKE</td>
+<td><a href=\"/wiki/Kuressaare_Airport\" title=\"Kuressaare Airport\">Kuressaare Airport</a></td>
+<td><a href=\"/wiki/Kuressaare\" title=\"Kuressaare\">Kuressaare</a>, <a href=\"/wiki/Estonia\" title=\"Estonia\">Estonia</a></td>
+</tr>
+<tr>
+<td>URG</td>
+<td>SBUG</td>
+<td><a href=\"/wiki/Rubem_Berta_International_Airport\" class=\"mw-redirect\" title=\"Rubem Berta International Airport\">Rubem Berta International Airport</a></td>
+<td><a href=\"/wiki/Uruguaiana\" title=\"Uruguaiana\">Uruguaiana</a>, <a href=\"/wiki/Rio_Grande_do_Sul\" title=\"Rio Grande do Sul\">Rio Grande do Sul</a>, Brazil</td>
+</tr>
+<tr>
+<td>URI</td>
+<td>SKUB</td>
+<td><a href=\"/wiki/Uribe_Airport\" title=\"Uribe Airport\">Uribe Airport</a></td>
+<td><a href=\"/wiki/La_Uribe\" title=\"La Uribe\">La Uribe</a>, <a href=\"/wiki/Colombia\" title=\"Colombia\">Colombia</a></td>
+</tr>
+<tr>
+<td>URJ</td>
+<td>USHU</td>
+<td><a href=\"/wiki/Uray_Airport\" title=\"Uray Airport\">Uray Airport</a></td>
+<td><a href=\"/wiki/Uray\" title=\"Uray\">Uray</a>, <a href=\"/wiki/Khanty-Mansi_Autonomous_Okrug\" title=\"Khanty-Mansi Autonomous Okrug\">Khanty-Mansi Autonomous Okrug</a>, Russia</td>
+</tr>
+<tr>
+<td>URM</td>
+<td>SVUM</td>
+<td><a href=\"/wiki/Uriman_Airport\" title=\"Uriman Airport\">Uriman Airport</a><sup id=\"cite_ref-IATA_1-61\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Uriman&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Uriman (page does not exist)\">Uriman</a>, <a href=\"/wiki/Venezuela\" title=\"Venezuela\">Venezuela</a></td>
+</tr>
+<tr>
+<td>URN</td>
+<td>OAOG</td>
+<td><a href=\"/w/index.php?title=Urgun_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Urgun Airport (page does not exist)\">Urgun Airport</a></td>
+<td><a href=\"/wiki/Urgun\" title=\"Urgun\">Urgun</a>, <a href=\"/wiki/Afghanistan\" title=\"Afghanistan\">Afghanistan</a></td>
+</tr>
+<tr>
+<td>URO</td>
+<td>LFOP</td>
+<td><a href=\"/wiki/Rouen_Airport\" title=\"Rouen Airport\">Rouen Airport</a> (Vall\u00e9e de Seine Airport)</td>
+<td><a href=\"/wiki/Rouen\" title=\"Rouen\">Rouen</a>, <a href=\"/wiki/Upper_Normandy\" title=\"Upper Normandy\">Upper Normandy</a>, France</td>
+</tr>
+<tr>
+<td>URR</td>
+<td>SKUR</td>
+<td><a href=\"/wiki/Urrao_Airport\" title=\"Urrao Airport\">Urrao Airport</a><sup id=\"cite_ref-IATA_1-62\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Urrao\" title=\"Urrao\">Urrao</a>, <a href=\"/wiki/Colombia\" title=\"Colombia\">Colombia</a></td>
+</tr>
+<tr>
+<td>URS</td>
+<td>UUOK</td>
+<td><a href=\"/wiki/Kursk_Vostochny_Airport\" title=\"Kursk Vostochny Airport\">Kursk Vostochny Airport</a></td>
+<td><a href=\"/wiki/Kursk\" title=\"Kursk\">Kursk</a>, <a href=\"/wiki/Kursk_Oblast\" title=\"Kursk Oblast\">Kursk Oblast</a>, Russia</td>
+</tr>
+<tr>
+<td>URT</td>
+<td>VTSB</td>
+<td><a href=\"/wiki/Surat_Thani_Airport\" class=\"mw-redirect\" title=\"Surat Thani Airport\">Surat Thani Airport</a></td>
+<td><a href=\"/wiki/Surat_Thani\" title=\"Surat Thani\">Surat Thani</a>, <a href=\"/wiki/Thailand\" title=\"Thailand\">Thailand</a></td>
+</tr>
+<tr>
+<td>URU</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Uroubi_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Uroubi Airport (page does not exist)\">Uroubi Airport</a><sup id=\"cite_ref-IATA_1-63\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Uroubi&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Uroubi (page does not exist)\">Uroubi</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>URY</td>
+<td>OEGT</td>
+<td><a href=\"/wiki/Gurayat_Domestic_Airport\" title=\"Gurayat Domestic Airport\">Gurayat Domestic Airport</a><sup id=\"cite_ref-IATA_1-64\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Qurayyat,_Saudi_Arabia\" title=\"Qurayyat, Saudi Arabia\">Qurayyat</a> (Gurayat), <a href=\"/wiki/Saudi_Arabia\" title=\"Saudi Arabia\">Saudi Arabia</a></td>
+</tr>
+<tr>
+<td>URZ</td>
+<td>OARG</td>
+<td><a href=\"/w/index.php?title=Uruzgan_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Uruzgan Airport (page does not exist)\">Uruzgan Airport</a></td>
+<td><a href=\"/wiki/Khas_Uruzgan_District\" class=\"mw-redirect\" title=\"Khas Uruzgan District\">Khas Uruzgan</a>, <a href=\"/wiki/Afghanistan\" title=\"Afghanistan\">Afghanistan</a></td>
+</tr>
+<tr>
+<td>USA</td>
+<td>KJQF</td>
+<td><a href=\"/wiki/Concord_Regional_Airport\" title=\"Concord Regional Airport\">Concord Regional Airport</a> (FAA: JQF)</td>
+<td><a href=\"/wiki/Concord,_North_Carolina\" title=\"Concord, North Carolina\">Concord</a>, <a href=\"/wiki/North_Carolina\" title=\"North Carolina\">North Carolina</a>, United States</td>
+</tr>
+<tr>
+<td>USC</td>
+<td></td>
+<td><a href=\"/wiki/Union_County_Airport_(South_Carolina)\" title=\"Union County Airport (South Carolina)\">Union County Airport/Troy Shelton Field</a> (FAA: 35A)</td>
+<td><a href=\"/wiki/Union,_South_Carolina\" title=\"Union, South Carolina\">Union</a>, <a href=\"/wiki/South_Carolina\" title=\"South Carolina\">South Carolina</a>, United States</td>
+</tr>
+<tr>
+<td>USH</td>
+<td>SAWH</td>
+<td><a href=\"/wiki/Ushuaia_%E2%80%93_Malvinas_Argentinas_International_Airport\" title=\"Ushuaia \u2013 Malvinas Argentinas International Airport\">Ushuaia \u2013 Malvinas Argentinas International Airport</a></td>
+<td><a href=\"/wiki/Ushuaia\" title=\"Ushuaia\">Ushuaia</a>, <a href=\"/wiki/Tierra_del_Fuego_Province,_Argentina\" title=\"Tierra del Fuego Province, Argentina\">Tierra del Fuego</a>, Argentina</td>
+</tr>
+<tr>
+<td>USI</td>
+<td>SYMB</td>
+<td><a href=\"/wiki/Mabaruma_Airport\" title=\"Mabaruma Airport\">Mabaruma Airport</a></td>
+<td><a href=\"/wiki/Mabaruma\" title=\"Mabaruma\">Mabaruma</a>, <a href=\"/wiki/Guyana\" title=\"Guyana\">Guyana</a></td>
+</tr>
+<tr>
+<td>USK</td>
+<td>UUYS</td>
+<td><a href=\"/wiki/Usinsk_Airport\" title=\"Usinsk Airport\">Usinsk Airport</a><sup id=\"cite_ref-IATA_1-65\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Usinsk\" title=\"Usinsk\">Usinsk</a>, <a href=\"/wiki/Komi_Republic\" title=\"Komi Republic\">Komi Republic</a>, Russia</td>
+</tr>
+<tr>
+<td>USL</td>
+<td>YUSL</td>
+<td><a href=\"/w/index.php?title=Useless_Loop_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Useless Loop Airport (page does not exist)\">Useless Loop Airport</a><sup id=\"cite_ref-IATA_1-66\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Useless_Loop,_Western_Australia\" title=\"Useless Loop, Western Australia\">Useless Loop</a>, <a href=\"/wiki/Western_Australia\" title=\"Western Australia\">Western Australia</a>, Australia</td>
+</tr>
+<tr>
+<td>USM</td>
+<td>VTSM</td>
+<td><a href=\"/wiki/Samui_Airport\" title=\"Samui Airport\">Samui Airport</a></td>
+<td><a href=\"/wiki/Ko_Samui\" title=\"Ko Samui\">Ko Samui</a>, <a href=\"/wiki/Thailand\" title=\"Thailand\">Thailand</a></td>
+</tr>
+<tr>
+<td>USN</td>
+<td>RKPU</td>
+<td><a href=\"/wiki/Ulsan_Airport\" title=\"Ulsan Airport\">Ulsan Airport</a><sup id=\"cite_ref-IATA_1-67\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Ulsan\" title=\"Ulsan\">Ulsan</a>, <a href=\"/wiki/South_Korea\" title=\"South Korea\">South Korea</a></td>
+</tr>
+<tr>
+<td>USO</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Usino_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Usino Airport (page does not exist)\">Usino Airport</a><sup id=\"cite_ref-IATA_1-68\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Usino&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Usino (page does not exist)\">Usino</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>USQ</td>
+<td>LTBO</td>
+<td><a href=\"/wiki/U%C5%9Fak_Airport\" title=\"U\u015fak Airport\">U\u015fak Airport</a></td>
+<td><a href=\"/wiki/U%C5%9Fak\" title=\"U\u015fak\">U\u015fak</a>, <a href=\"/wiki/Turkey\" title=\"Turkey\">Turkey</a></td>
+</tr>
+<tr>
+<td>USR</td>
+<td>UEMT</td>
+<td><a href=\"/wiki/Ust-Nera_Airport\" title=\"Ust-Nera Airport\">Ust-Nera Airport</a></td>
+<td><a href=\"/wiki/Ust-Nera\" title=\"Ust-Nera\">Ust-Nera</a>, <a href=\"/wiki/Sakha_Republic\" title=\"Sakha Republic\">Yakutia</a>, Russia</td>
+</tr>
+<tr>
+<td>USS</td>
+<td>MUSS</td>
+<td><a href=\"/wiki/Sancti_Sp%C3%ADritus_Airport\" title=\"Sancti Sp\u00edritus Airport\">Sancti Sp\u00edritus Airport</a><sup id=\"cite_ref-IATA_1-69\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Sancti_Sp%C3%ADritus\" title=\"Sancti Sp\u00edritus\">Sancti Sp\u00edritus</a>, <a href=\"/wiki/Cuba\" title=\"Cuba\">Cuba</a></td>
+</tr>
+<tr>
+<td>UST</td>
+<td>KSGJ</td>
+<td><a href=\"/wiki/Northeast_Florida_Regional_Airport\" title=\"Northeast Florida Regional Airport\">Northeast Florida Regional Airport</a> (FAA: SGJ)</td>
+<td><a href=\"/wiki/St._Augustine,_Florida\" title=\"St. Augustine, Florida\">St. Augustine</a>, <a href=\"/wiki/Florida\" title=\"Florida\">Florida</a>, United States</td>
+</tr>
+<tr>
+<td>USU</td>
+<td>RPVV</td>
+<td><a href=\"/wiki/Francisco_B._Reyes_Airport\" title=\"Francisco B. Reyes Airport\">Francisco B. Reyes Airport</a></td>
+<td><a href=\"/wiki/Busuanga,_Palawan\" title=\"Busuanga, Palawan\">Busuanga</a>, <a href=\"/wiki/Philippines\" title=\"Philippines\">Philippines</a></td>
+</tr>
+<tr>
+<td>UTA</td>
+<td>FVMU</td>
+<td><a href=\"/wiki/Mutare_Airport\" title=\"Mutare Airport\">Mutare Airport</a></td>
+<td><a href=\"/wiki/Mutare\" title=\"Mutare\">Mutare</a>, <a href=\"/wiki/Zimbabwe\" title=\"Zimbabwe\">Zimbabwe</a></td>
+</tr>
+<tr>
+<td>UTB</td>
+<td>YMTB</td>
+<td><a href=\"/wiki/Muttaburra_Airport\" title=\"Muttaburra Airport\">Muttaburra Airport</a><sup id=\"cite_ref-IATA_1-70\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Muttaburra\" title=\"Muttaburra\">Muttaburra</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+</tr>
+<tr>
+<td>UTC</td>
+<td>EHSB</td>
+<td><a href=\"/wiki/Soesterberg_Air_Base\" title=\"Soesterberg Air Base\">Soesterberg Air Base</a></td>
+<td><a href=\"/wiki/Utrecht\" title=\"Utrecht\">Utrecht</a>, <a href=\"/wiki/Netherlands\" title=\"Netherlands\">Netherlands</a></td>
+</tr>
+<tr>
+<td>UTD</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Nutwood_Downs_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Nutwood Downs Airport (page does not exist)\">Nutwood Downs Airport</a><sup id=\"cite_ref-IATA_1-71\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Nutwood_Downs,_Northern_Territory&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Nutwood Downs, Northern Territory (page does not exist)\">Nutwood Downs</a>, <a href=\"/wiki/Northern_Territory\" title=\"Northern Territory\">Northern Territory</a>, Australia</td>
+</tr>
+<tr>
+<td>UTG</td>
+<td>FXQG</td>
+<td><a href=\"/wiki/Quthing_Airport\" title=\"Quthing Airport\">Quthing Airport</a><sup id=\"cite_ref-IATA_1-72\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Quthing\" title=\"Quthing\">Quthing</a>, <a href=\"/wiki/Lesotho\" title=\"Lesotho\">Lesotho</a></td>
+</tr>
+<tr>
+<td>UTH</td>
+<td>VTUD</td>
+<td><a href=\"/wiki/Udon_Thani_International_Airport\" title=\"Udon Thani International Airport\">Udon Thani International Airport</a></td>
+<td><a href=\"/wiki/Udon_Thani\" title=\"Udon Thani\">Udon Thani</a>, <a href=\"/wiki/Thailand\" title=\"Thailand\">Thailand</a></td>
+</tr>
+<tr>
+<td>UTI</td>
+<td>EFUT</td>
+<td><a href=\"/wiki/Utti_Airport\" title=\"Utti Airport\">Utti Airport</a></td>
+<td><a href=\"/wiki/Utti\" title=\"Utti\">Utti</a>, <a href=\"/wiki/Finland\" title=\"Finland\">Finland</a></td>
+</tr>
+<tr>
+<td>UTK</td>
+<td></td>
+<td><a href=\"/wiki/Utirik_Airport\" title=\"Utirik Airport\">Utirik Airport</a> (FAA: 03N)</td>
+<td><a href=\"/wiki/Utirik_Atoll\" title=\"Utirik Atoll\">Utirik Atoll</a>, <a href=\"/wiki/Marshall_Islands\" title=\"Marshall Islands\">Marshall Islands</a></td>
+</tr>
+<tr>
+<td>UTM</td>
+<td>KUTA</td>
+<td><a href=\"/wiki/Tunica_Municipal_Airport\" title=\"Tunica Municipal Airport\">Tunica Municipal Airport</a> (FAA: UTA)</td>
+<td><a href=\"/wiki/Tunica,_Mississippi\" title=\"Tunica, Mississippi\">Tunica</a>, <a href=\"/wiki/Mississippi\" title=\"Mississippi\">Mississippi</a>, United States</td>
+</tr>
+<tr>
+<td>UTN</td>
+<td>FAUP</td>
+<td><a href=\"/wiki/Upington_Airport\" title=\"Upington Airport\">Upington Airport</a></td>
+<td><a href=\"/wiki/Upington\" title=\"Upington\">Upington</a>, <a href=\"/wiki/South_Africa\" title=\"South Africa\">South Africa</a></td>
+</tr>
+<tr>
+<td>UTO</td>
+<td>PAIM</td>
+<td><a href=\"/wiki/Indian_Mountain_LRRS_Airport\" title=\"Indian Mountain LRRS Airport\">Indian Mountain LRRS Airport</a></td>
+<td><a href=\"/w/index.php?title=Utopia_Creek,_Alaska&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Utopia Creek, Alaska (page does not exist)\">Utopia Creek</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>UTP</td>
+<td>VTBU</td>
+<td><a href=\"/wiki/U-Tapao_International_Airport\" title=\"U-Tapao International Airport\">U-Tapao International Airport</a></td>
+<td><a href=\"/wiki/Rayong\" title=\"Rayong\">Rayong</a>, <a href=\"/wiki/Thailand\" title=\"Thailand\">Thailand</a></td>
+</tr>
+<tr>
+<td>UTR</td>
+<td>VTPU</td>
+<td><a href=\"/w/index.php?title=Uttaradit_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Uttaradit Airport (page does not exist)\">Uttaradit Airport</a><sup id=\"cite_ref-IATA_1-73\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Uttaradit\" title=\"Uttaradit\">Uttaradit</a>, <a href=\"/wiki/Thailand\" title=\"Thailand\">Thailand</a></td>
+</tr>
+<tr>
+<td>UTS</td>
+<td>UUYX</td>
+<td><a href=\"/wiki/Ust-Tsilma_Airport\" title=\"Ust-Tsilma Airport\">Ust-Tsilma Airport</a><sup id=\"cite_ref-IATA_1-74\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Ust-Tsilma\" title=\"Ust-Tsilma\">Ust-Tsilma</a>, <a href=\"/wiki/Komi_Republic\" title=\"Komi Republic\">Komi Republic</a>, Russia</td>
+</tr>
+<tr>
+<td>UTT</td>
+<td>FAUT</td>
+<td><a href=\"/wiki/Mthatha_Airport\" title=\"Mthatha Airport\">Mthatha Airport</a></td>
+<td><a href=\"/wiki/Mthatha\" title=\"Mthatha\">Mthatha</a> (Umtata), <a href=\"/wiki/South_Africa\" title=\"South Africa\">South Africa</a></td>
+</tr>
+<tr>
+<td>UTU</td>
+<td></td>
+<td><a href=\"/wiki/Ustupo_Airport\" title=\"Ustupo Airport\">Ustupo Airport</a><sup id=\"cite_ref-IATA_1-75\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Ustupo\" title=\"Ustupo\">Ustupo</a>, <a href=\"/wiki/Panama\" title=\"Panama\">Panama</a></td>
+</tr>
+<tr>
+<td>UTW</td>
+<td>FAQT</td>
+<td><a href=\"/w/index.php?title=Queenstown_Airport_(South_Africa)&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Queenstown Airport (South Africa) (page does not exist)\">Queenstown Airport</a><sup id=\"cite_ref-IATA_1-76\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Queenstown,_Eastern_Cape\" title=\"Queenstown, Eastern Cape\">Queenstown</a>, <a href=\"/wiki/South_Africa\" title=\"South Africa\">South Africa</a></td>
+</tr>
+<tr>
+<td>UUA</td>
+<td>UWKB</td>
+<td><a href=\"/wiki/Bugulma_Airport\" title=\"Bugulma Airport\">Bugulma Airport</a></td>
+<td><a href=\"/wiki/Bugulma\" title=\"Bugulma\">Bugulma</a>, <a href=\"/wiki/Tatarstan\" title=\"Tatarstan\">Tatarstan</a>, Russia</td>
+</tr>
+<tr>
+<td>UUD</td>
+<td>UIUU</td>
+<td><a href=\"/wiki/Baikal_International_Airport\" title=\"Baikal International Airport\">Baikal International Airport</a></td>
+<td><a href=\"/wiki/Ulan-Ude\" title=\"Ulan-Ude\">Ulan-Ude</a>, <a href=\"/wiki/Buryatia\" title=\"Buryatia\">Buryatia</a>, Russia</td>
+</tr>
+<tr>
+<td>UUK</td>
+<td>PAKU</td>
+<td><a href=\"/wiki/Ugnu-Kuparuk_Airport\" class=\"mw-redirect\" title=\"Ugnu-Kuparuk Airport\">Ugnu-Kuparuk Airport</a> (FAA: UBW)</td>
+<td><a href=\"/w/index.php?title=Kuparuk,_Alaska&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Kuparuk, Alaska (page does not exist)\">Kuparuk</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>UUN</td>
+<td>ZMBU</td>
+<td><a href=\"/wiki/Baruun-Urt_Airport\" title=\"Baruun-Urt Airport\">Baruun-Urt Airport</a><sup id=\"cite_ref-IATA_1-77\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Baruun-Urt\" title=\"Baruun-Urt\">Baruun-Urt</a>, <a href=\"/wiki/Mongolia\" title=\"Mongolia\">Mongolia</a></td>
+</tr>
+<tr>
+<td>UUS</td>
+<td>UHSS</td>
+<td><a href=\"/wiki/Yuzhno-Sakhalinsk_Airport\" title=\"Yuzhno-Sakhalinsk Airport\">Yuzhno-Sakhalinsk Airport</a> (Khomutovo Airport)</td>
+<td><a href=\"/wiki/Yuzhno-Sakhalinsk\" title=\"Yuzhno-Sakhalinsk\">Yuzhno-Sakhalinsk</a>, <a href=\"/wiki/Sakhalin_Oblast\" title=\"Sakhalin Oblast\">Sakhalin Oblast</a>, Russia</td>
+</tr>
+<tr>
+<td>UUU</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Manumu_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Manumu Airport (page does not exist)\">Manumu Airport</a></td>
+<td><a href=\"/w/index.php?title=Manumu&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Manumu (page does not exist)\">Manumu</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>UVA</td>
+<td>KUVA</td>
+<td><a href=\"/wiki/Garner_Field\" title=\"Garner Field\">Garner Field</a></td>
+<td><a href=\"/wiki/Uvalde,_Texas\" title=\"Uvalde, Texas\">Uvalde</a>, <a href=\"/wiki/Texas\" title=\"Texas\">Texas</a>, United States</td>
+</tr>
+<tr>
+<td>UVE</td>
+<td>NWWV</td>
+<td><a href=\"/wiki/Ouv%C3%A9a_Airport\" title=\"Ouv\u00e9a Airport\">Ouv\u00e9a Airport</a><sup id=\"cite_ref-IATA_1-78\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (Ouloup Airport)</td>
+<td><a href=\"/wiki/Ouv%C3%A9a\" title=\"Ouv\u00e9a\">Ouv\u00e9a</a>, <a href=\"/wiki/New_Caledonia\" title=\"New Caledonia\">New Caledonia</a></td>
+</tr>
+<tr>
+<td>UVF</td>
+<td>TLPL</td>
+<td><a href=\"/wiki/Hewanorra_International_Airport\" title=\"Hewanorra International Airport\">Hewanorra International Airport</a></td>
+<td><a href=\"/wiki/Vieux_Fort_Quarter\" title=\"Vieux Fort Quarter\">Vieux Fort</a>, <a href=\"/wiki/Saint_Lucia\" title=\"Saint Lucia\">Saint Lucia</a></td>
+</tr>
+<tr>
+<td>UVL</td>
+<td>HEKG</td>
+<td><a href=\"/wiki/El_Kharga_Airport\" title=\"El Kharga Airport\">El Kharga Airport</a><sup id=\"cite_ref-IATA_1-79\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Kharga_Oasis\" title=\"Kharga Oasis\">Kharga Oasis</a>, <a href=\"/wiki/Egypt\" title=\"Egypt\">Egypt</a></td>
+</tr>
+<tr>
+<td>UVO</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Uvol_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Uvol Airport (page does not exist)\">Uvol Airport</a><sup id=\"cite_ref-IATA_1-80\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Uvol,_Papua_New_Guinea&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Uvol, Papua New Guinea (page does not exist)\">Uvol</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>UWU</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Wareport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Wareport (page does not exist)\">Wareport</a> (FAA: MA53)</td>
+<td><a href=\"/wiki/Ware,_Massachusetts\" title=\"Ware, Massachusetts\">Ware</a>, <a href=\"/wiki/Massachusetts\" title=\"Massachusetts\">Massachusetts</a>, United States</td>
+</tr>
+<tr>
+<td>UYL</td>
+<td>HSNN</td>
+<td><a href=\"/wiki/Nyala_Airport\" title=\"Nyala Airport\">Nyala Airport</a></td>
+<td><a href=\"/wiki/Nyala,_Sudan\" title=\"Nyala, Sudan\">Nyala</a>, <a href=\"/wiki/Sudan\" title=\"Sudan\">Sudan</a></td>
+</tr>
+<tr>
+<td>UYN</td>
+<td>ZLYL</td>
+<td><a href=\"/wiki/Yulin_Yuyang_Airport\" title=\"Yulin Yuyang Airport\">Yulin Yuyang Airport</a></td>
+<td><a href=\"/wiki/Yulin,_Shaanxi\" title=\"Yulin, Shaanxi\">Yulin</a>, <a href=\"/wiki/Shaanxi\" title=\"Shaanxi\">Shaanxi</a>, China</td>
+</tr>
+<tr>
+<td>UYU</td>
+<td>SLUY</td>
+<td><a href=\"/wiki/Uyuni_Airport\" title=\"Uyuni Airport\">Uyuni Airport</a> (Joya Andina Airport)</td>
+<td><a href=\"/wiki/Uyuni\" title=\"Uyuni\">Uyuni</a>, <a href=\"/wiki/Bolivia\" title=\"Bolivia\">Bolivia</a></td>
+</tr>
+<tr>
+<td>UZC</td>
+<td>LYUZ</td>
+<td><a href=\"/wiki/U%C5%BEice-Ponikve_Airport\" class=\"mw-redirect\" title=\"U\u017eice-Ponikve Airport\">U\u017eice-Ponikve Airport</a></td>
+<td><a href=\"/wiki/U%C5%BEice\" title=\"U\u017eice\">U\u017eice</a>, <a href=\"/wiki/Serbia\" title=\"Serbia\">Serbia</a></td>
+</tr>
+<tr>
+<td>UZH</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Unaizah_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Unaizah Airport (page does not exist)\">Unaizah Airport</a><sup id=\"cite_ref-IATA_1-81\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Unaizah\" title=\"Unaizah\">Unaizah</a> (Unayzah), <a href=\"/wiki/Saudi_Arabia\" title=\"Saudi Arabia\">Saudi Arabia</a></td>
+</tr>
+<tr>
+<td>UZM</td>
+<td></td>
+<td><a href=\"/wiki/Hope_Bay_Aerodrome\" title=\"Hope Bay Aerodrome\">Hope Bay Aerodrome</a><sup id=\"cite_ref-IATA_1-82\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (TC: CHB3)</td>
+<td><a href=\"/w/index.php?title=Hope_Bay,_Nunavut&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Hope Bay, Nunavut (page does not exist)\">Hope Bay</a>, <a href=\"/wiki/Nunavut\" title=\"Nunavut\">Nunavut</a>, Canada</td>
+</tr>
+<tr>
+<td>UZR</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Urzhar_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Urzhar Airport (page does not exist)\">Urzhar Airport</a></td>
+<td><a href=\"/wiki/Urzhar\" title=\"Urzhar\">Urzhar</a> (Urdzhar), <a href=\"/wiki/Kazakhstan\" title=\"Kazakhstan\">Kazakhstan</a></td>
+</tr>
+<tr>
+<td>UZU</td>
+<td>SATU</td>
+<td><a href=\"/wiki/Curuz%C3%BA_Cuati%C3%A1_Airport\" title=\"Curuz\u00fa Cuati\u00e1 Airport\">Curuz\u00fa Cuati\u00e1 Airport</a></td>
+<td><a href=\"/wiki/Curuz%C3%BA_Cuati%C3%A1\" title=\"Curuz\u00fa Cuati\u00e1\">Curuz\u00fa Cuati\u00e1</a>, <a href=\"/wiki/Corrientes_Province\" title=\"Corrientes Province\">Corrientes</a>, Argentina</td>
+</tr>

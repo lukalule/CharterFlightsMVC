@@ -1,0 +1,91 @@
+XAL,\u00c1lamos, Sonora, Mexico
+XAP,Chapec\u00f3, Santa Catarina, Brazil
+XAR,Aribinda, Burkina Faso
+XAU,Sa\u00fcl, French Guiana
+XBB,Blubber Bay, British Columbia, Canada
+XBE,Bearskin Lake, Ontario, Canada
+XBG,Bogand\u00e9, Burkina Faso
+XBJ,Birjand, Iran
+XBL,Bedele, Ethiopia
+XBN,Biniguni, Papua New Guinea
+XBO,Boulsa, Burkina Faso
+XBR,Brockville, Ontario, Canada
+XCH,Christmas Island, Australia
+XCL,Cluff Lake, Saskatchewan, Canada
+XCM,Chatham-Kent, Ontario, Canada
+XCN, Coron, Philippines
+XCO, Colac, Victoria, Australia
+XCR,Ch\u00e2lons-en-Champagne, Champagne-Ardenne, France
+XDE,Di\u00e9bougou, Burkina Faso
+XDJ,Djibo, Burkina Faso
+XEN,Xingcheng, Liaoning, China
+XES, Lake Geneva, Wisconsin, United States
+XFN,Xiangyang, Hubei, China
+XFW,Hamburg, Germany
+XGA,Gaoua, Burkina Faso
+XGG,Gorom-Gorom, Burkina Faso
+XGL, Granville Lake, Manitoba, Canada
+XGN,Xangongo, Angola
+XGR,Kangiqsualujjuaq, Quebec, Canada
+XIC,Xichang, Sichuan, China
+XIE,Xienglom, Laos
+XIG,Xinguara, Par\u00e1, Brazil
+XIJ, Al Ahmadi, Kuwait
+XIL,Xilinhot, Inner Mongolia, China
+XIN, Xingning, Guangdong, China
+XIY,Xi'an, Shaanxi, China
+XJD,Al Rayyan, Qatar
+XJM,Mangla, Pakistan
+XKA,Kantchari, Burkina Faso
+XKH,Phonsavan, Laos
+XKS,Kasabonika, Ontario, Canada
+XKY, Kaya, Burkina Faso
+XLB, Lac Brochet, Manitoba, Canada
+XLO,Long Xuy\u00ean, Vietnam
+XLS, Saint-Louis, Senegal
+XLU, L\u00e9o, Burkina Faso
+XLW,Lemwerder, Lower Saxony, Germany
+XMA, Maramag, Philippines
+XMC, Mallacoota, Victoria, Australia
+XMD, Madison, South Dakota, United States
+XMG, (Mahendranagar), Nepal
+XMH,Manihi, Tuamotus, French Polynesia
+XMI,Masasi, Tanzania
+XML, Minlaton, South Australia, Australia
+XMN,Xiamen, Fujian, China
+XMP,Macmillan Pass, Yukon, Canada
+XMS,Macas, Ecuador
+XMY,Yam Island, Queensland, Australia
+XNA, Springdale, Arkansas, United States
+XNG, (Qu\u1ea3ng Ng\u00e3i), Vietnam
+XNN,Xining, Qinghai, China
+XNT,Xingtai, Hebei, China
+XNU,Nouna, Burkina Faso
+XPA, Pama, Burkina Faso
+XPK,Pukatawagan, Manitoba, Canada
+XPL,Comayagua, Honduras
+XPP,Poplar River, Manitoba, Canada
+XPR, Pine Ridge, South Dakota, United States
+XQP,Quepos, Costa Rica
+XQU,Qualicum Beach, British Columbia, Canada
+XRH, Richmond, New South Wales, Australia
+XRQ,Xinbarag Youqi, Inner Mongolia, China
+XRR, Ross River, Yukon, Canada
+XRY,Jerez de la Frontera, Andalusia, Spain
+XSB,Sir Bani Yas, United Arab Emirates
+XSC,South Caicos, Turks and Caicos Islands
+XSD, Tonopah, Nevada, United States
+XSE,Sebba, Burkina Faso
+XSI,South Indian Lake, Manitoba, Canada
+XSO, Siocon, Philippines
+XSP,Singapore
+XTG,Thargomindah, Queensland, Australia
+XTL,Tadoule Lake, Manitoba, Canada
+XTO, Taroom, Queensland, Australia
+XTR, Tara, Queensland, Australia
+XUZ,Xuzhou, Jiangsu, China
+XVL, (V\u0129nh Long), Vietnam
+XYA, Yandina, Solomon Islands
+XYE, Ye, Myanmar
+XYR,Yellow River, Papua New Guinea
+XZA,Zabr\u00e9, Burkina Faso

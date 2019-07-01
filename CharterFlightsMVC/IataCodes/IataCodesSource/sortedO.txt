@@ -1,0 +1,1848 @@
+<tr>
+<td>OAA</td>
+<td>OASH</td>
+<td><a href=\"/wiki/Forward_Operating_Base_Shank\" title=\"Forward Operating Base Shank\">Forward Operating Base Shank</a></td>
+<td><a href=\"/wiki/Gardez\" title=\"Gardez\">Gardez</a>, <a href=\"/wiki/Afghanistan\" title=\"Afghanistan\">Afghanistan</a></td>
+</tr>
+<tr>
+<td>OAG</td>
+<td>YORG</td>
+<td><a href=\"/wiki/Orange_Airport\" title=\"Orange Airport\">Orange Airport</a><sup id=\"cite_ref-IATA_1-0\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Orange,_New_South_Wales\" title=\"Orange, New South Wales\">Orange</a>, <a href=\"/wiki/New_South_Wales\" title=\"New South Wales\">New South Wales</a>, Australia</td>
+</tr>
+<tr>
+<td>OAH</td>
+<td>OASD</td>
+<td><a href=\"/wiki/Shindand_Air_Base\" title=\"Shindand Air Base\">Shindand Air Base</a></td>
+<td><a href=\"/wiki/Shindand,_Herat\" class=\"mw-redirect\" title=\"Shindand, Herat\">Shindand</a>, <a href=\"/wiki/Afghanistan\" title=\"Afghanistan\">Afghanistan</a></td>
+</tr>
+<tr>
+<td>OAI</td>
+<td>OAIX</td>
+<td><a href=\"/wiki/Bagram_Airfield\" title=\"Bagram Airfield\">Bagram Airfield</a></td>
+<td><a href=\"/wiki/Bagram\" title=\"Bagram\">Bagram</a>, <a href=\"/wiki/Afghanistan\" title=\"Afghanistan\">Afghanistan</a></td>
+</tr>
+<tr>
+<td>OAJ</td>
+<td>KOAJ</td>
+<td><a href=\"/wiki/Albert_J._Ellis_Airport\" title=\"Albert J. Ellis Airport\">Albert J. Ellis Airport</a></td>
+<td><a href=\"/wiki/Jacksonville,_North_Carolina\" title=\"Jacksonville, North Carolina\">Jacksonville</a>, <a href=\"/wiki/North_Carolina\" title=\"North Carolina\">North Carolina</a>, United States</td>
+</tr>
+<tr>
+<td>OAK</td>
+<td>KOAK</td>
+<td><a href=\"/wiki/Oakland_International_Airport\" title=\"Oakland International Airport\">Oakland International Airport</a></td>
+<td><a href=\"/wiki/Oakland,_California\" title=\"Oakland, California\">Oakland</a>, <a href=\"/wiki/California\" title=\"California\">California</a>, United States</td>
+</tr>
+<tr>
+<td>OAL</td>
+<td>SSKW</td>
+<td><a href=\"/wiki/Cacoal_Airport\" title=\"Cacoal Airport\">Capital do Caf\u00e9 Airport</a><sup id=\"cite_ref-IATA_1-1\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Cacoal\" title=\"Cacoal\">Cacoal</a>, <a href=\"/wiki/Rond%C3%B4nia\" title=\"Rond\u00f4nia\">Rond\u00f4nia</a>, Brazil</td>
+</tr>
+<tr>
+<td>OAM</td>
+<td>NZOU</td>
+<td><a href=\"/wiki/Oamaru_Airport\" title=\"Oamaru Airport\">Oamaru Airport</a></td>
+<td><a href=\"/wiki/Oamaru\" title=\"Oamaru\">Oamaru</a>, <a href=\"/wiki/New_Zealand\" title=\"New Zealand\">New Zealand</a></td>
+</tr>
+<tr>
+<td>OAN</td>
+<td>MHEA</td>
+<td><a href=\"/wiki/El_Array%C3%A1n_Airport\" title=\"El Array\u00e1n Airport\">El Array\u00e1n Airport</a><sup id=\"cite_ref-IATA_1-2\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Olanchito\" title=\"Olanchito\">Olanchito</a>, <a href=\"/wiki/Honduras\" title=\"Honduras\">Honduras</a></td>
+</tr>
+<tr>
+<td>OAR</td>
+<td>KOAR</td>
+<td><a href=\"/wiki/Marina_Municipal_Airport\" title=\"Marina Municipal Airport\">Marina Municipal Airport</a></td>
+<td><a href=\"/wiki/Monterey,_California\" title=\"Monterey, California\">Monterey</a> / <a href=\"/wiki/Marina,_California\" title=\"Marina, California\">Marina</a>, <a href=\"/wiki/California\" title=\"California\">California</a>, United States</td>
+</tr>
+<tr>
+<td>OAS</td>
+<td>OASA</td>
+<td><a href=\"/wiki/Sharana_Airstrip\" title=\"Sharana Airstrip\">Sharana Airstrip</a> / <a href=\"/wiki/Forward_Operating_Base_Sharana\" title=\"Forward Operating Base Sharana\">Forward Operating Base Sharana</a></td>
+<td><a href=\"/wiki/Sharana,_Afghanistan\" class=\"mw-redirect\" title=\"Sharana, Afghanistan\">Sharana</a>, <a href=\"/wiki/Afghanistan\" title=\"Afghanistan\">Afghanistan</a></td>
+</tr>
+<tr>
+<td>OAX</td>
+<td>MMOX</td>
+<td><a href=\"/wiki/Xoxocotl%C3%A1n_International_Airport\" class=\"mw-redirect\" title=\"Xoxocotl\u00e1n International Airport\">Xoxocotl\u00e1n International Airport</a></td>
+<td><a href=\"/wiki/Oaxaca_City\" title=\"Oaxaca City\">Oaxaca de Ju\u00e1rez</a>, <a href=\"/wiki/Oaxaca\" title=\"Oaxaca\">Oaxaca</a>, Mexico</td>
+</tr>
+<tr>
+<td>OAZ</td>
+<td>OAZI</td>
+<td><a href=\"/wiki/Camp_Shorabak\" title=\"Camp Shorabak\">Camp Bastion Air Base</a></td>
+<td><a href=\"/wiki/Girishk\" title=\"Girishk\">Girishk</a> (Gereshk), <a href=\"/wiki/Afghanistan\" title=\"Afghanistan\">Afghanistan</a></td>
+</tr>
+<tr>
+<td>OBA</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Oban_Airport,_Queensland&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Oban Airport, Queensland (page does not exist)\">Oban Airport</a><sup id=\"cite_ref-IATA_1-3\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Oban,_Queensland&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Oban, Queensland (page does not exist)\">Oban</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+</tr>
+<tr>
+<td>OBC</td>
+<td>HDOB</td>
+<td><a href=\"/wiki/Obock_Airport\" title=\"Obock Airport\">Obock Airport</a></td>
+<td><a href=\"/wiki/Obock\" title=\"Obock\">Obock</a>, <a href=\"/wiki/Djibouti\" title=\"Djibouti\">Djibouti</a></td>
+</tr>
+<tr>
+<td>OBD</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Obano_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Obano Airport (page does not exist)\">Obano Airport</a></td>
+<td><a href=\"/w/index.php?title=Obano&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Obano (page does not exist)\">Obano</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+</tr>
+<tr>
+<td>OBE</td>
+<td>KOBE</td>
+<td><a href=\"/wiki/Okeechobee_County_Airport\" title=\"Okeechobee County Airport\">Okeechobee County Airport</a></td>
+<td><a href=\"/wiki/Okeechobee,_Florida\" title=\"Okeechobee, Florida\">Okeechobee</a>, <a href=\"/wiki/Florida\" title=\"Florida\">Florida</a>, United States</td>
+</tr>
+<tr>
+<td>OBF</td>
+<td>EDMO</td>
+<td><a href=\"/w/index.php?title=Oberpfaffenhofen_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Oberpfaffenhofen Airport (page does not exist)\">Oberpfaffenhofen Airport</a></td>
+<td><a href=\"/wiki/Oberpfaffenhofen\" title=\"Oberpfaffenhofen\">Oberpfaffenhofen</a>, <a href=\"/wiki/Bavaria\" title=\"Bavaria\">Bavaria</a>, Germany</td>
+</tr>
+<tr>
+<td>OBI</td>
+<td>SBTI</td>
+<td><a href=\"/w/index.php?title=%C3%93bidos_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"\u00d3bidos Airport (page does not exist)\">\u00d3bidos Airport</a><sup id=\"cite_ref-IATA_1-4\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/%C3%93bidos,_Par%C3%A1\" title=\"\u00d3bidos, Par\u00e1\">\u00d3bidos</a>, <a href=\"/wiki/Par%C3%A1\" title=\"Par\u00e1\">Par\u00e1</a>, Brazil</td>
+</tr>
+<tr>
+<td>OBL</td>
+<td>EBZR</td>
+<td><a href=\"/wiki/Oostmalle_Airfield\" title=\"Oostmalle Airfield\">Oostmalle Airfield</a></td>
+<td><a href=\"/wiki/Zoersel\" title=\"Zoersel\">Zoersel</a>, <a href=\"/wiki/Belgium\" title=\"Belgium\">Belgium</a></td>
+</tr>
+<tr>
+<td>OBM</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Morobe_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Morobe Airport (page does not exist)\">Morobe Airport</a><sup id=\"cite_ref-IATA_1-5\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Morobe,_Papua_New_Guinea\" title=\"Morobe, Papua New Guinea\">Morobe</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>OBN</td>
+<td>EGEO</td>
+<td><a href=\"/wiki/Oban_Airport\" title=\"Oban Airport\">Oban Airport</a><sup id=\"cite_ref-IATA_1-6\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (North Connel Airport)</td>
+<td><a href=\"/wiki/Oban\" title=\"Oban\">Oban</a>, <a href=\"/wiki/Scotland\" title=\"Scotland\">Scotland</a>, United Kingdom</td>
+</tr>
+<tr>
+<td>OBO</td>
+<td>RJCB</td>
+<td><a href=\"/wiki/Tokachi%E2%80%93Obihiro_Airport\" title=\"Tokachi\u2013Obihiro Airport\">Tokachi\u2013Obihiro Airport</a></td>
+<td><a href=\"/wiki/Obihiro,_Hokkaido\" title=\"Obihiro, Hokkaido\">Obihiro</a>, <a href=\"/wiki/Hokkaido\" title=\"Hokkaido\">Hokkaido</a>, Japan</td>
+</tr>
+<tr>
+<td>OBS</td>
+<td>LFHO</td>
+<td><a href=\"/wiki/Aubenas_Aerodrome\" title=\"Aubenas Aerodrome\">Aubenas Aerodrome</a><sup id=\"cite_ref-IATA_1-7\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (Ard\u00e8che M\u00e9ridionale Aerodrome)</td>
+<td><a href=\"/wiki/Aubenas\" title=\"Aubenas\">Aubenas</a>, <a href=\"/wiki/Rh%C3%B4ne-Alpes\" title=\"Rh\u00f4ne-Alpes\">Rh\u00f4ne-Alpes</a>, France</td>
+</tr>
+<tr>
+<td>OBU</td>
+<td>PAOB</td>
+<td><a href=\"/wiki/Kobuk_Airport\" title=\"Kobuk Airport\">Kobuk Airport</a></td>
+<td><a href=\"/wiki/Kobuk,_Alaska\" title=\"Kobuk, Alaska\">Kobuk</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>OBX</td>
+<td>AYOB</td>
+<td><a href=\"/wiki/Obo_Airport_(Papua_New_Guinea)\" title=\"Obo Airport (Papua New Guinea)\">Obo Airport</a></td>
+<td><a href=\"/w/index.php?title=Obo,_Papua_New_Guinea&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Obo, Papua New Guinea (page does not exist)\">Obo</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>OCA</td>
+<td></td>
+<td><a href=\"/wiki/Ocean_Reef_Club_Airport\" title=\"Ocean Reef Club Airport\">Ocean Reef Club Airport</a> (FAA: 07FA)</td>
+<td><a href=\"/wiki/Key_Largo,_Florida\" title=\"Key Largo, Florida\">Key Largo</a>, <a href=\"/wiki/Florida\" title=\"Florida\">Florida</a>, United States</td>
+</tr>
+<tr>
+<td>OCC</td>
+<td>SECO</td>
+<td><a href=\"/wiki/Francisco_de_Orellana_Airport\" title=\"Francisco de Orellana Airport\">Francisco de Orellana Airport</a></td>
+<td><a href=\"/wiki/Puerto_Francisco_de_Orellana\" title=\"Puerto Francisco de Orellana\">Puerto Francisco de Orellana</a> (Coca), <a href=\"/wiki/Ecuador\" title=\"Ecuador\">Ecuador</a></td>
+</tr>
+<tr>
+<td>OCE</td>
+<td>KOXB</td>
+<td><a href=\"/wiki/Ocean_City_Municipal_Airport_(Maryland)\" title=\"Ocean City Municipal Airport (Maryland)\">Ocean City Municipal Airport</a></td>
+<td><a href=\"/wiki/Ocean_City,_Maryland\" title=\"Ocean City, Maryland\">Ocean City</a>, <a href=\"/wiki/Maryland\" title=\"Maryland\">Maryland</a>, United States</td>
+</tr>
+<tr>
+<td>OCF</td>
+<td>KOCF</td>
+<td><a href=\"/wiki/Ocala_International_Airport\" title=\"Ocala International Airport\">Ocala International Airport</a> (Jim Taylor Field)</td>
+<td><a href=\"/wiki/Ocala,_Florida\" title=\"Ocala, Florida\">Ocala</a>, <a href=\"/wiki/Florida\" title=\"Florida\">Florida</a>, United States</td>
+</tr>
+<tr>
+<td>OCH</td>
+<td>KOCH</td>
+<td><a href=\"/w/index.php?title=A.L._Mangham_Jr._Regional_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"A.L. Mangham Jr. Regional Airport (page does not exist)\">A.L. Mangham Jr. Regional Airport</a></td>
+<td><a href=\"/wiki/Nacogdoches,_Texas\" title=\"Nacogdoches, Texas\">Nacogdoches</a>, <a href=\"/wiki/Texas\" title=\"Texas\">Texas</a>, United States</td>
+</tr>
+<tr>
+<td>OCJ</td>
+<td>MKBS</td>
+<td><a href=\"/wiki/Ian_Fleming_International_Airport\" title=\"Ian Fleming International Airport\">Ian Fleming International Airport</a></td>
+<td><a href=\"/wiki/Ocho_Rios\" title=\"Ocho Rios\">Ocho Rios</a>, <a href=\"/wiki/Jamaica\" title=\"Jamaica\">Jamaica</a></td>
+</tr>
+<tr>
+<td>OCM</td>
+<td>YBGD</td>
+<td><a href=\"/wiki/Boolgeeda_Airport\" title=\"Boolgeeda Airport\">Boolgeeda Airport</a><sup id=\"cite_ref-IATA_1-8\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Brockman_4_mine\" title=\"Brockman 4 mine\">Boolgeeda</a>, <a href=\"/wiki/Western_Australia\" title=\"Western Australia\">Western Australia</a>, Australia</td>
+</tr>
+<tr>
+<td>OCN</td>
+<td>KOKB</td>
+<td><a href=\"/wiki/Oceanside_Municipal_Airport\" title=\"Oceanside Municipal Airport\">Oceanside Municipal Airport</a> (FAA: OKB)</td>
+<td><a href=\"/wiki/Oceanside,_California\" title=\"Oceanside, California\">Oceanside</a>, <a href=\"/wiki/California\" title=\"California\">California</a>, United States</td>
+</tr>
+<tr>
+<td>OCS</td>
+<td></td>
+<td><a href=\"/wiki/Corisco_International_Airport\" title=\"Corisco International Airport\">Corisco International Airport</a><sup id=\"cite_ref-IATA_1-9\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Corisco\" title=\"Corisco\">Corisco Island</a>, <a href=\"/wiki/Equatorial_Guinea\" title=\"Equatorial Guinea\">Equatorial Guinea</a></td>
+</tr>
+<tr>
+<td>OCV</td>
+<td>SKOC</td>
+<td><a href=\"/wiki/Aguas_Claras_Airport\" title=\"Aguas Claras Airport\">Aguas Claras Airport</a><sup id=\"cite_ref-IATA_1-10\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Oca%C3%B1a,_Norte_de_Santander\" title=\"Oca\u00f1a, Norte de Santander\">Oca\u00f1a</a>, <a href=\"/wiki/Colombia\" title=\"Colombia\">Colombia</a></td>
+</tr>
+<tr>
+<td>OCW</td>
+<td>KOCW</td>
+<td><a href=\"/w/index.php?title=Washington%E2%80%93Warren_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Washington\u2013Warren Airport (page does not exist)\">Washington\u2013Warren Airport</a> (Warren Field)</td>
+<td><a href=\"/wiki/Washington,_North_Carolina\" title=\"Washington, North Carolina\">Washington</a>, <a href=\"/wiki/North_Carolina\" title=\"North Carolina\">North Carolina</a>, United States</td>
+</tr>
+<tr>
+<td>ODA</td>
+<td>FEFW</td>
+<td><a href=\"/wiki/Ouadda_Airport\" title=\"Ouadda Airport\">Ouadda Airport</a><sup id=\"cite_ref-IATA_1-11\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Ouadda\" title=\"Ouadda\">Ouadda</a>, <a href=\"/wiki/Central_African_Republic\" title=\"Central African Republic\">Central African Republic</a></td>
+</tr>
+<tr>
+<td>ODB</td>
+<td>LEBA</td>
+<td><a href=\"/wiki/C%C3%B3rdoba_Airport\" title=\"C\u00f3rdoba Airport\">C\u00f3rdoba Airport</a></td>
+<td><a href=\"/wiki/C%C3%B3rdoba,_Andalusia\" class=\"mw-redirect\" title=\"C\u00f3rdoba, Andalusia\">C\u00f3rdoba</a>, <a href=\"/wiki/Andalusia\" title=\"Andalusia\">Andalusia</a>, Spain</td>
+</tr>
+<tr>
+<td>ODC</td>
+<td></td>
+<td><a href=\"/wiki/Oakdale_Airport\" title=\"Oakdale Airport\">Oakdale Airport</a><sup id=\"cite_ref-IATA_1-12\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (FAA: O27)</td>
+<td><a href=\"/wiki/Oakdale,_California\" title=\"Oakdale, California\">Oakdale</a>, <a href=\"/wiki/California\" title=\"California\">California</a>, United States</td>
+</tr>
+<tr>
+<td>ODD</td>
+<td>YOOD</td>
+<td><a href=\"/wiki/Oodnadatta_Airport\" title=\"Oodnadatta Airport\">Oodnadatta Airport</a><sup id=\"cite_ref-IATA_1-13\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Oodnadatta\" title=\"Oodnadatta\">Oodnadatta</a>, <a href=\"/wiki/South_Australia\" title=\"South Australia\">South Australia</a>, Australia</td>
+</tr>
+<tr>
+<td>ODE</td>
+<td>EKOD</td>
+<td><a href=\"/wiki/Hans_Christian_Andersen_Airport\" title=\"Hans Christian Andersen Airport\">Hans Christian Andersen Airport</a></td>
+<td><a href=\"/wiki/Odense\" title=\"Odense\">Odense</a>, <a href=\"/wiki/Denmark\" title=\"Denmark\">Denmark</a></td>
+</tr>
+<tr>
+<td>ODH</td>
+<td>EGVO</td>
+<td><a href=\"/wiki/RAF_Odiham\" title=\"RAF Odiham\">RAF Odiham</a></td>
+<td><a href=\"/wiki/Odiham\" title=\"Odiham\">Odiham</a>, <a href=\"/wiki/England\" title=\"England\">England</a>, United Kingdom</td>
+</tr>
+<tr>
+<td>ODJ</td>
+<td>FEGO</td>
+<td><a href=\"/wiki/Ouanda_Djall%C3%A9_Airport\" title=\"Ouanda Djall\u00e9 Airport\">Ouanda Djall\u00e9 Airport</a><sup id=\"cite_ref-IATA_1-14\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Ouanda_Djall%C3%A9\" title=\"Ouanda Djall\u00e9\">Ouanda Djall\u00e9</a>, <a href=\"/wiki/Central_African_Republic\" title=\"Central African Republic\">Central African Republic</a></td>
+</tr>
+<tr>
+<td>ODL</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Cordillo_Downs_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Cordillo Downs Airport (page does not exist)\">Cordillo Downs Airport</a><sup id=\"cite_ref-IATA_1-15\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Cordillo_Downs\" title=\"Cordillo Downs\">Cordillo Downs</a>, <a href=\"/wiki/South_Australia\" title=\"South Australia\">South Australia</a>, Australia</td>
+</tr>
+<tr>
+<td>ODM</td>
+<td></td>
+<td><a href=\"/wiki/Garrett_County_Airport\" title=\"Garrett County Airport\">Garrett County Airport</a><sup id=\"cite_ref-IATA_1-16\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (FAA: 2G4)</td>
+<td><a href=\"/wiki/Oakland,_Maryland\" title=\"Oakland, Maryland\">Oakland</a>, <a href=\"/wiki/Maryland\" title=\"Maryland\">Maryland</a>, United States</td>
+</tr>
+<tr>
+<td>ODN</td>
+<td>WBGI</td>
+<td><a href=\"/wiki/Long_Seridan_Airport\" title=\"Long Seridan Airport\">Long Seridan Airport</a><sup id=\"cite_ref-IATA_1-17\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Long_Seridan\" title=\"Long Seridan\">Long Seridan</a>, <a href=\"/wiki/Sarawak\" title=\"Sarawak\">Sarawak</a>, Malaysia</td>
+</tr>
+<tr>
+<td>ODO</td>
+<td>UIKB</td>
+<td><a href=\"/wiki/Bodaybo_Airport\" title=\"Bodaybo Airport\">Bodaybo Airport</a><sup id=\"cite_ref-IATA_1-18\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Bodaybo\" title=\"Bodaybo\">Bodaybo</a>, <a href=\"/wiki/Irkutsk_Oblast\" title=\"Irkutsk Oblast\">Irkutsk Oblast</a>, Russia</td>
+</tr>
+<tr>
+<td>ODR</td>
+<td>YORV</td>
+<td><a href=\"/w/index.php?title=Ord_River_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Ord River Airport (page does not exist)\">Ord River Airport</a><sup id=\"cite_ref-IATA_1-19\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Ord_River\" title=\"Ord River\">Ord River</a>, <a href=\"/wiki/Western_Australia\" title=\"Western Australia\">Western Australia</a>, Australia</td>
+</tr>
+<tr>
+<td>ODS</td>
+<td>UKOO</td>
+<td><a href=\"/wiki/Odessa_International_Airport\" title=\"Odessa International Airport\">Odessa International Airport</a></td>
+<td><a href=\"/wiki/Odessa\" title=\"Odessa\">Odessa</a>, <a href=\"/wiki/Ukraine\" title=\"Ukraine\">Ukraine</a></td>
+</tr>
+<tr>
+<td>ODW</td>
+<td>KOKH</td>
+<td><a href=\"/wiki/A.J._Eisenberg_Airport\" title=\"A.J. Eisenberg Airport\">A.J. Eisenberg Airport</a> (FAA: OKH)</td>
+<td><a href=\"/wiki/Oak_Harbor,_Washington\" title=\"Oak Harbor, Washington\">Oak Harbor</a>, <a href=\"/wiki/Washington_(state)\" title=\"Washington (state)\">Washington</a>, United States</td>
+</tr>
+<tr>
+<td>ODY</td>
+<td>VLOS</td>
+<td><a href=\"/wiki/Oudomsay_Airport\" title=\"Oudomsay Airport\">Oudomsay Airport</a></td>
+<td><a href=\"/wiki/Muang_Xay\" title=\"Muang Xay\">Muang Xay</a> (Oudomxai), <a href=\"/wiki/Laos\" title=\"Laos\">Laos</a></td>
+</tr>
+<tr>
+<td>OEC</td>
+<td>WPOC</td>
+<td><a href=\"/wiki/Oecusse_Airport\" title=\"Oecusse Airport\">Oecusse Airport</a></td>
+<td><a href=\"/wiki/Oecusse_District\" class=\"mw-redirect\" title=\"Oecusse District\">Oecussi</a>, <a href=\"/wiki/East_Timor\" title=\"East Timor\">East Timor</a></td>
+</tr>
+<tr>
+<td>OEL</td>
+<td>UUOR</td>
+<td><a href=\"/wiki/Oryol_Yuzhny_Airport\" title=\"Oryol Yuzhny Airport\">Oryol Yuzhny Airport</a></td>
+<td><a href=\"/wiki/Oryol\" title=\"Oryol\">Oryol</a> (Orel), <a href=\"/wiki/Oryol_Oblast\" title=\"Oryol Oblast\">Oryol Oblast</a>, Russia</td>
+</tr>
+<tr>
+<td>OEM</td>
+<td>SMPA</td>
+<td><a href=\"/wiki/Vincent_Fayks_Airport\" title=\"Vincent Fayks Airport\">Vincent Fayks Airport</a></td>
+<td><a href=\"/wiki/Paloemeu\" title=\"Paloemeu\">Paloemeu</a>, <a href=\"/wiki/Suriname\" title=\"Suriname\">Suriname</a></td>
+</tr>
+<tr>
+<td>OEO</td>
+<td>KOEO</td>
+<td><a href=\"/wiki/L.O._Simenstad_Municipal_Airport\" title=\"L.O. Simenstad Municipal Airport\">L.O. Simenstad Municipal Airport</a></td>
+<td><a href=\"/wiki/Osceola,_Wisconsin\" title=\"Osceola, Wisconsin\">Osceola</a>, <a href=\"/wiki/Wisconsin\" title=\"Wisconsin\">Wisconsin</a>, United States</td>
+</tr>
+<tr>
+<td>OER</td>
+<td>ESNO</td>
+<td><a href=\"/wiki/%C3%96rnsk%C3%B6ldsvik_Airport\" title=\"\u00d6rnsk\u00f6ldsvik Airport\">\u00d6rnsk\u00f6ldsvik Airport</a></td>
+<td><a href=\"/wiki/%C3%96rnsk%C3%B6ldsvik\" title=\"\u00d6rnsk\u00f6ldsvik\">\u00d6rnsk\u00f6ldsvik</a>, <a href=\"/wiki/Sweden\" title=\"Sweden\">Sweden</a></td>
+</tr>
+<tr>
+<td>OES</td>
+<td>SAVN</td>
+<td><a href=\"/wiki/Antoine_de_Saint_Exup%C3%A9ry_Airport\" title=\"Antoine de Saint Exup\u00e9ry Airport\">Antoine de Saint Exup\u00e9ry Airport</a></td>
+<td><a href=\"/wiki/San_Antonio_Oeste\" title=\"San Antonio Oeste\">San Antonio Oeste</a>, <a href=\"/wiki/R%C3%ADo_Negro_Province\" title=\"R\u00edo Negro Province\">R\u00edo Negro</a>, Argentina</td>
+</tr>
+<tr>
+<td>OFF</td>
+<td>KOFF</td>
+<td><a href=\"/wiki/Offutt_Air_Force_Base\" title=\"Offutt Air Force Base\">Offutt Air Force Base</a></td>
+<td><a href=\"/wiki/Omaha,_Nebraska\" title=\"Omaha, Nebraska\">Omaha</a>, <a href=\"/wiki/Nebraska\" title=\"Nebraska\">Nebraska</a>, United States</td>
+</tr>
+<tr>
+<td>OFI</td>
+<td>DIOF</td>
+<td><a href=\"/wiki/Ouango_Fitini_Airport\" title=\"Ouango Fitini Airport\">Ouango Fitini Airport</a><sup id=\"cite_ref-IATA_1-20\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Ouango_Fitini&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Ouango Fitini (page does not exist)\">Ouango Fitini</a>, <a href=\"/wiki/Ivory_Coast\" title=\"Ivory Coast\">Ivory Coast</a></td>
+</tr>
+<tr>
+<td>OFJ</td>
+<td>BIOF</td>
+<td><a href=\"/wiki/%C3%93lafsfj%C3%B6r%C3%B0ur_Airport\" title=\"\u00d3lafsfj\u00f6r\u00f0ur Airport\">\u00d3lafsfj\u00f6r\u00f0ur Airport</a><sup id=\"cite_ref-IATA_1-21\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/%C3%93lafsfj%C3%B6r%C3%B0ur\" title=\"\u00d3lafsfj\u00f6r\u00f0ur\">\u00d3lafsfj\u00f6r\u00f0ur</a>, <a href=\"/wiki/Iceland\" title=\"Iceland\">Iceland</a></td>
+</tr>
+<tr>
+<td>OFK</td>
+<td>KOFK</td>
+<td><a href=\"/wiki/Norfolk_Regional_Airport\" title=\"Norfolk Regional Airport\">Norfolk Regional Airport</a> (Karl Stefan Memorial Field)</td>
+<td><a href=\"/wiki/Norfolk,_Nebraska\" title=\"Norfolk, Nebraska\">Norfolk</a>, <a href=\"/wiki/Nebraska\" title=\"Nebraska\">Nebraska</a>, United States</td>
+</tr>
+<tr>
+<td>OFU</td>
+<td>NSAS</td>
+<td><a href=\"/wiki/Ofu_Airport\" title=\"Ofu Airport\">Ofu Airport</a> (FAA: Z08)</td>
+<td><a href=\"/wiki/Ofu-Olosega\" title=\"Ofu-Olosega\">Ofu Island</a>, <a href=\"/wiki/American_Samoa\" title=\"American Samoa\">American Samoa</a></td>
+</tr>
+<tr>
+<td>OGA</td>
+<td>KOGA</td>
+<td><a href=\"/w/index.php?title=Searle_Field&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Searle Field (page does not exist)\">Searle Field</a></td>
+<td><a href=\"/wiki/Ogallala,_Nebraska\" title=\"Ogallala, Nebraska\">Ogallala</a>, <a href=\"/wiki/Nebraska\" title=\"Nebraska\">Nebraska</a>, United States</td>
+</tr>
+<tr>
+<td>OGB</td>
+<td>KOGB</td>
+<td><a href=\"/wiki/Orangeburg_Municipal_Airport\" title=\"Orangeburg Municipal Airport\">Orangeburg Municipal Airport</a></td>
+<td><a href=\"/wiki/Orangeburg,_South_Carolina\" title=\"Orangeburg, South Carolina\">Orangeburg</a>, <a href=\"/wiki/South_Carolina\" title=\"South Carolina\">South Carolina</a>, United States</td>
+</tr>
+<tr>
+<td>OGD</td>
+<td>KOGD</td>
+<td><a href=\"/wiki/Ogden-Hinckley_Airport\" title=\"Ogden-Hinckley Airport\">Ogden-Hinckley Airport</a></td>
+<td><a href=\"/wiki/Ogden,_Utah\" title=\"Ogden, Utah\">Ogden</a>, <a href=\"/wiki/Utah\" title=\"Utah\">Utah</a>, United States</td>
+</tr>
+<tr>
+<td>OGE</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Ogeramnang_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Ogeramnang Airport (page does not exist)\">Ogeramnang Airport</a><sup id=\"cite_ref-IATA_1-22\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Ogeramnang&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Ogeramnang (page does not exist)\">Ogeramnang</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>OGG</td>
+<td>PHOG</td>
+<td><a href=\"/wiki/Kahului_Airport\" title=\"Kahului Airport\">Kahului Airport</a></td>
+<td><a href=\"/wiki/Kahului,_Hawaii\" title=\"Kahului, Hawaii\">Kahului</a>, <a href=\"/wiki/Hawaii\" title=\"Hawaii\">Hawaii</a>, United States</td>
+</tr>
+<tr>
+<td>OGL</td>
+<td>SYGO</td>
+<td><a href=\"/wiki/Ogle_Airport\" class=\"mw-redirect\" title=\"Ogle Airport\">Ogle Airport</a></td>
+<td><a href=\"/wiki/Georgetown,_Guyana\" title=\"Georgetown, Guyana\">Georgetown</a>, <a href=\"/wiki/Guyana\" title=\"Guyana\">Guyana</a></td>
+</tr>
+<tr>
+<td>OGM</td>
+<td></td>
+<td><a href=\"/wiki/Ustupu-Ogobsucum_Airport\" title=\"Ustupu-Ogobsucum Airport\">Ustupu-Ogobsucum Airport</a><sup id=\"cite_ref-IATA_1-23\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Ustupo\" title=\"Ustupo\">Ustupo</a>, <a href=\"/wiki/Panama\" title=\"Panama\">Panama</a></td>
+</tr>
+<tr>
+<td>OGN</td>
+<td>ROYN</td>
+<td><a href=\"/wiki/Yonaguni_Airport\" title=\"Yonaguni Airport\">Yonaguni Airport</a></td>
+<td><a href=\"/wiki/Yonaguni,_Okinawa\" title=\"Yonaguni, Okinawa\">Yonaguni</a>, <a href=\"/wiki/Yaeyama_Islands\" title=\"Yaeyama Islands\">Yaeyama Islands</a>, Japan</td>
+</tr>
+<tr>
+<td>OGO</td>
+<td>DIAU</td>
+<td><a href=\"/wiki/Abengourou_Airport\" title=\"Abengourou Airport\">Abengourou Airport</a><sup id=\"cite_ref-IATA_1-24\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Abengourou\" title=\"Abengourou\">Abengourou</a>, <a href=\"/wiki/Ivory_Coast\" title=\"Ivory Coast\">Ivory Coast</a></td>
+</tr>
+<tr>
+<td>OGR</td>
+<td>FTTB</td>
+<td><a href=\"/wiki/Bongor_Airport\" title=\"Bongor Airport\">Bongor Airport</a></td>
+<td><a href=\"/wiki/Bongor\" title=\"Bongor\">Bongor</a>, <a href=\"/wiki/Chad\" title=\"Chad\">Chad</a></td>
+</tr>
+<tr>
+<td>OGS</td>
+<td>KOGS</td>
+<td><a href=\"/wiki/Ogdensburg_International_Airport\" title=\"Ogdensburg International Airport\">Ogdensburg International Airport</a></td>
+<td><a href=\"/wiki/Ogdensburg,_New_York\" title=\"Ogdensburg, New York\">Ogdensburg</a>, <a href=\"/wiki/New_York_(state)\" title=\"New York (state)\">New York</a>, United States</td>
+</tr>
+<tr>
+<td>OGU</td>
+<td>LTCB</td>
+<td><a href=\"/wiki/Ordu%E2%80%93Giresun_Airport\" title=\"Ordu\u2013Giresun Airport\">Ordu\u2013Giresun Airport</a></td>
+<td><a href=\"/wiki/Ordu\" title=\"Ordu\">Ordu</a> / <a href=\"/wiki/Giresun\" title=\"Giresun\">Giresun</a>, <a href=\"/wiki/Turkey\" title=\"Turkey\">Turkey</a></td>
+</tr>
+<tr>
+<td>OGV</td>
+<td>FYNG</td>
+<td><a href=\"/w/index.php?title=Ongava_Airstrip&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Ongava Airstrip (page does not exist)\">Ongava Airstrip</a><sup id=\"cite_ref-IATA_1-25\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/West_Midland_Safari_Park#Ongava_Game_Reserve\" title=\"West Midland Safari Park\">Ongava</a>, <a href=\"/wiki/Namibia\" title=\"Namibia\">Namibia</a></td>
+</tr>
+<tr>
+<td>OGX</td>
+<td>DAUU</td>
+<td><a href=\"/wiki/Ain_Beida_Airport\" title=\"Ain Beida Airport\">Ain Beida Airport</a></td>
+<td><a href=\"/wiki/Ouargla\" title=\"Ouargla\">Ouargla</a>, <a href=\"/wiki/Algeria\" title=\"Algeria\">Algeria</a></td>
+</tr>
+<tr>
+<td>OGZ</td>
+<td>URMO</td>
+<td><a href=\"/wiki/Beslan_Airport\" title=\"Beslan Airport\">Beslan Airport</a></td>
+<td><a href=\"/wiki/Vladikavkaz\" title=\"Vladikavkaz\">Vladikavkaz</a>, <a href=\"/wiki/North_Ossetia-Alania\" class=\"mw-redirect\" title=\"North Ossetia-Alania\">North Ossetia-Alania</a>, Russia</td>
+</tr>
+<tr>
+<td>OHA</td>
+<td>NZOH</td>
+<td><a href=\"/wiki/RNZAF_Base_Ohakea\" title=\"RNZAF Base Ohakea\">RNZAF Base Ohakea</a><sup id=\"cite_ref-IATA_1-26\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Bulls,_New_Zealand\" title=\"Bulls, New Zealand\">Bulls</a>, <a href=\"/wiki/New_Zealand\" title=\"New Zealand\">New Zealand</a></td>
+</tr>
+<tr>
+<td>OHB</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Ambohibary_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Ambohibary Airport (page does not exist)\">Ambohibary Airport</a><sup id=\"cite_ref-IATA_1-27\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Moramanga\" title=\"Moramanga\">Moramanga</a>, <a href=\"/wiki/Madagascar\" title=\"Madagascar\">Madagascar</a></td>
+</tr>
+<tr>
+<td>OHD</td>
+<td>LWOH</td>
+<td><a href=\"/wiki/Ohrid_%22St._Paul_the_Apostle%22_Airport\" class=\"mw-redirect\" title=\"Ohrid &quot;St. Paul the Apostle&quot; Airport\">Ohrid \"St. Paul the Apostle\" Airport</a></td>
+<td><a href=\"/wiki/Ohrid\" title=\"Ohrid\">Ohrid</a>, <a href=\"/wiki/Republic_of_Macedonia\" class=\"mw-redirect\" title=\"Republic of Macedonia\">Republic of Macedonia</a></td>
+</tr>
+<tr>
+<td>OHE</td>
+<td>ZYMH</td>
+<td><a href=\"/wiki/Mohe_Gulian_Airport\" title=\"Mohe Gulian Airport\">Mohe Gulian Airport</a></td>
+<td><a href=\"/wiki/Mohe_County\" class=\"mw-redirect\" title=\"Mohe County\">Mohe</a>, <a href=\"/wiki/Heilongjiang\" title=\"Heilongjiang\">Heilongjiang</a>, China</td>
+</tr>
+<tr>
+<td>OHH</td>
+<td>UHSH</td>
+<td><a href=\"/wiki/Okha_Airport\" title=\"Okha Airport\">Okha Airport</a> (Novostroyka Airport)</td>
+<td><a href=\"/wiki/Okha,_Russia\" title=\"Okha, Russia\">Okha</a>, <a href=\"/wiki/Sakhalin_Oblast\" title=\"Sakhalin Oblast\">Sakhalin Oblast</a>, Russia</td>
+</tr>
+<tr>
+<td>OHI</td>
+<td>FYOS</td>
+<td><a href=\"/wiki/Oshakati_Airport\" title=\"Oshakati Airport\">Oshakati Airport</a><sup id=\"cite_ref-IATA_1-28\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Oshakati\" title=\"Oshakati\">Oshakati</a>, <a href=\"/wiki/Namibia\" title=\"Namibia\">Namibia</a></td>
+</tr>
+<tr>
+<td>OHO</td>
+<td>UHOO</td>
+<td><a href=\"/wiki/Okhotsk_Airport\" title=\"Okhotsk Airport\">Okhotsk Airport</a></td>
+<td><a href=\"/wiki/Okhotsk\" title=\"Okhotsk\">Okhotsk</a>, <a href=\"/wiki/Khabarovsk_Krai\" title=\"Khabarovsk Krai\">Khabarovsk Krai</a>, Russia</td>
+</tr>
+<tr>
+<td>OHR</td>
+<td>EDXY</td>
+<td><a href=\"/w/index.php?title=Wyk_auf_F%C3%B6hr_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Wyk auf F\u00f6hr Airport (page does not exist)\">Wyk auf F\u00f6hr Airport</a><sup id=\"cite_ref-IATA_1-29\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Wyk_auf_F%C3%B6hr\" title=\"Wyk auf F\u00f6hr\">Wyk auf F\u00f6hr</a>, <a href=\"/wiki/Schleswig-Holstein\" title=\"Schleswig-Holstein\">Schleswig-Holstein</a>, Germany</td>
+</tr>
+<tr>
+<td>OHS</td>
+<td>OOSH</td>
+<td><a href=\"/wiki/Sohar_Airport\" title=\"Sohar Airport\">Sohar Airport</a><sup id=\"cite_ref-IATA_1-30\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Sohar\" title=\"Sohar\">Sohar</a>, <a href=\"/wiki/Oman\" title=\"Oman\">Oman</a></td>
+</tr>
+<tr>
+<td>OHT</td>
+<td>OPKT</td>
+<td><a href=\"/wiki/PAF_Base_Kohat\" title=\"PAF Base Kohat\">PAF Base Kohat</a></td>
+<td><a href=\"/wiki/Kohat\" title=\"Kohat\">Kohat</a>, <a href=\"/wiki/Pakistan\" title=\"Pakistan\">Pakistan</a></td>
+</tr>
+<tr>
+<td>OIA</td>
+<td>SDOW</td>
+<td><a href=\"/wiki/Ouril%C3%A2ndia_do_Norte_Airport\" title=\"Ouril\u00e2ndia do Norte Airport\">Ouril\u00e2ndia do Norte Airport</a><sup id=\"cite_ref-IATA_1-31\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Ouril%C3%A2ndia_do_Norte\" title=\"Ouril\u00e2ndia do Norte\">Ouril\u00e2ndia do Norte</a>, <a href=\"/wiki/Par%C3%A1\" title=\"Par\u00e1\">Par\u00e1</a>, Brazil</td>
+</tr>
+<tr>
+<td>OIC</td>
+<td>KOIC</td>
+<td><a href=\"/wiki/Lt._Warren_Eaton_Airport\" title=\"Lt. Warren Eaton Airport\">Lt. Warren Eaton Airport</a></td>
+<td><a href=\"/wiki/Norwich,_New_York\" title=\"Norwich, New York\">Norwich</a>, <a href=\"/wiki/New_York_(state)\" title=\"New York (state)\">New York</a>, United States</td>
+</tr>
+<tr>
+<td>OIM</td>
+<td>RJTO</td>
+<td><a href=\"/wiki/Oshima_Airport\" title=\"Oshima Airport\">Oshima Airport</a><sup id=\"cite_ref-IATA_1-32\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Izu_%C5%8Cshima\" title=\"Izu \u014cshima\">\u014cshima</a>, <a href=\"/wiki/Izu_Islands\" title=\"Izu Islands\">Izu Islands</a>, Japan</td>
+</tr>
+<tr>
+<td>OIR</td>
+<td>RJEO</td>
+<td><a href=\"/wiki/Okushiri_Airport\" title=\"Okushiri Airport\">Okushiri Airport</a></td>
+<td><a href=\"/wiki/Okushiri,_Hokkaido\" title=\"Okushiri, Hokkaido\">Okushiri</a>, <a href=\"/wiki/Okushiri_Island\" title=\"Okushiri Island\">Okushiri Island</a>, Japan</td>
+</tr>
+<tr>
+<td>OIT</td>
+<td>RJFO</td>
+<td><a href=\"/wiki/Oita_Airport\" title=\"Oita Airport\">Oita Airport</a></td>
+<td><a href=\"/wiki/%C5%8Cita,_%C5%8Cita\" class=\"mw-redirect\" title=\"\u014cita, \u014cita\">Oita</a>, <a href=\"/wiki/Kyushu\" title=\"Kyushu\">Kyushu</a>, Japan</td>
+</tr>
+<tr>
+<td>OJC</td>
+<td>KOJC</td>
+<td><a href=\"/wiki/Johnson_County_Executive_Airport\" title=\"Johnson County Executive Airport\">Johnson County Executive Airport</a></td>
+<td><a href=\"/wiki/Olathe,_Kansas\" title=\"Olathe, Kansas\">Olathe</a>, <a href=\"/wiki/Kansas\" title=\"Kansas\">Kansas</a>, United States</td>
+</tr>
+<tr>
+<td>OJU</td>
+<td></td>
+<td><a href=\"/wiki/Tanjung_Api_Airport\" title=\"Tanjung Api Airport\">Tanjung Api Airport</a></td>
+<td><a href=\"/wiki/Ampana\" title=\"Ampana\">Ampana</a>, <a href=\"/wiki/Tojo_Una-Una_Regency\" title=\"Tojo Una-Una Regency\">Tojo Una-Una Regency</a>, <a href=\"/wiki/Central_Sulawesi\" title=\"Central Sulawesi\">Central Sulawesi</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+</tr>
+<tr>
+<td>OKA</td>
+<td>ROAH</td>
+<td><a href=\"/wiki/Naha_Airport\" title=\"Naha Airport\">Naha Airport</a></td>
+<td><a href=\"/wiki/Okinawa_Prefecture\" title=\"Okinawa Prefecture\">Okinawa</a>, <a href=\"/wiki/Ryukyu_Islands\" title=\"Ryukyu Islands\">Ryukyu Islands</a>, Japan</td>
+</tr>
+<tr>
+<td>OKB</td>
+<td>YORC</td>
+<td><a href=\"/w/index.php?title=Orchid_Beach_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Orchid Beach Airport (page does not exist)\">Orchid Beach Airport</a></td>
+<td><a href=\"/wiki/Fraser_Island\" title=\"Fraser Island\">Fraser Island</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+</tr>
+<tr>
+<td>OKC</td>
+<td>KOKC</td>
+<td><a href=\"/wiki/Will_Rogers_World_Airport\" title=\"Will Rogers World Airport\">Will Rogers World Airport</a></td>
+<td><a href=\"/wiki/Oklahoma_City\" title=\"Oklahoma City\">Oklahoma City</a>, <a href=\"/wiki/Oklahoma\" title=\"Oklahoma\">Oklahoma</a>, United States</td>
+</tr>
+<tr>
+<td>OKD</td>
+<td>RJCO</td>
+<td><a href=\"/wiki/Okadama_Airport\" title=\"Okadama Airport\">Okadama Airport</a><sup id=\"cite_ref-IATA_1-33\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Sapporo\" title=\"Sapporo\">Sapporo</a>, <a href=\"/wiki/Hokkaido\" title=\"Hokkaido\">Hokkaido</a>, Japan</td>
+</tr>
+<tr>
+<td>OKE</td>
+<td>RJKB</td>
+<td><a href=\"/wiki/Okinoerabu_Airport\" title=\"Okinoerabu Airport\">Okinoerabu Airport</a><sup id=\"cite_ref-IATA_1-34\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Okinoerabujima\" title=\"Okinoerabujima\">Okinoerabujima</a>, <a href=\"/wiki/Amami_Islands\" title=\"Amami Islands\">Amami Islands</a>, Japan</td>
+</tr>
+<tr>
+<td>OKF</td>
+<td>FYOO</td>
+<td><a href=\"/wiki/Okaukuejo_Airport\" title=\"Okaukuejo Airport\">Okaukuejo Airport</a><sup id=\"cite_ref-IATA_1-35\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Okaukuejo\" title=\"Okaukuejo\">Okaukuejo</a>, <a href=\"/wiki/Namibia\" title=\"Namibia\">Namibia</a></td>
+</tr>
+<tr>
+<td>OKG</td>
+<td></td>
+<td><a href=\"/wiki/Okoyo_Airport\" title=\"Okoyo Airport\">Okoyo Airport</a><sup id=\"cite_ref-IATA_1-36\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Okoyo\" title=\"Okoyo\">Okoyo</a>, <a href=\"/wiki/Republic_of_the_Congo\" title=\"Republic of the Congo\">Republic of the Congo</a></td>
+</tr>
+<tr>
+<td>OKH</td>
+<td>EGXJ</td>
+<td><a href=\"/wiki/RAF_Cottesmore\" title=\"RAF Cottesmore\">RAF Cottesmore</a></td>
+<td><a href=\"/wiki/Oakham\" title=\"Oakham\">Oakham</a>, <a href=\"/wiki/England\" title=\"England\">England</a>, United Kingdom</td>
+</tr>
+<tr>
+<td>OKI</td>
+<td>RJNO</td>
+<td><a href=\"/wiki/Oki_Airport\" title=\"Oki Airport\">Oki Airport</a><sup id=\"cite_ref-IATA_1-37\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/D%C5%8Dgojima\" title=\"D\u014dgojima\">Dogo</a>, <a href=\"/wiki/Oki_Islands\" title=\"Oki Islands\">Oki Islands</a>, Japan</td>
+</tr>
+<tr>
+<td>OKJ</td>
+<td>RJOB</td>
+<td><a href=\"/wiki/Okayama_Airport\" title=\"Okayama Airport\">Okayama Airport</a></td>
+<td><a href=\"/wiki/Okayama\" title=\"Okayama\">Okayama</a>, <a href=\"/wiki/Honshu\" title=\"Honshu\">Honshu</a>, Japan</td>
+</tr>
+<tr>
+<td>OKK</td>
+<td>KOKK</td>
+<td><a href=\"/wiki/Kokomo_Municipal_Airport\" title=\"Kokomo Municipal Airport\">Kokomo Municipal Airport</a></td>
+<td><a href=\"/wiki/Kokomo,_Indiana\" title=\"Kokomo, Indiana\">Kokomo</a>, <a href=\"/wiki/Indiana\" title=\"Indiana\">Indiana</a>, United States</td>
+</tr>
+<tr>
+<td>OKL</td>
+<td>WAJO</td>
+<td><a href=\"/w/index.php?title=Gunung_Bintang_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Gunung Bintang Airport (page does not exist)\">Gunung Bintang Airport</a></td>
+<td><a href=\"/wiki/Oksibil,_Pegunungan_Bintang\" title=\"Oksibil, Pegunungan Bintang\">Oksibil</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+</tr>
+<tr>
+<td>OKM</td>
+<td>KOKM</td>
+<td><a href=\"/wiki/Okmulgee_Regional_Airport\" title=\"Okmulgee Regional Airport\">Okmulgee Regional Airport</a></td>
+<td><a href=\"/wiki/Okmulgee,_Oklahoma\" title=\"Okmulgee, Oklahoma\">Okmulgee</a>, <a href=\"/wiki/Oklahoma\" title=\"Oklahoma\">Oklahoma</a>, United States</td>
+</tr>
+<tr>
+<td>OKN</td>
+<td>FOGQ</td>
+<td><a href=\"/wiki/Okondja_Airport\" title=\"Okondja Airport\">Okondja Airport</a><sup id=\"cite_ref-IATA_1-38\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Okondja\" title=\"Okondja\">Okondja</a>, <a href=\"/wiki/Gabon\" title=\"Gabon\">Gabon</a></td>
+</tr>
+<tr>
+<td>OKO</td>
+<td>RJTY</td>
+<td><a href=\"/wiki/Yokota_Air_Base\" title=\"Yokota Air Base\">Yokota Air Base</a><sup id=\"cite_ref-IATA_1-39\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Fussa,_Tokyo\" title=\"Fussa, Tokyo\">Fussa</a>, <a href=\"/wiki/Honshu\" title=\"Honshu\">Honshu</a>, Japan</td>
+</tr>
+<tr>
+<td>OKP</td>
+<td>AYOJ</td>
+<td><a href=\"/w/index.php?title=Oksapmin_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Oksapmin Airport (page does not exist)\">Oksapmin Airport</a><sup id=\"cite_ref-IATA_1-40\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Oksapmin,_Papua_New_Guinea&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Oksapmin, Papua New Guinea (page does not exist)\">Oksapmin</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>OKQ</td>
+<td>WAKO</td>
+<td><a href=\"/w/index.php?title=Okaba_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Okaba Airport (page does not exist)\">Okaba Airport</a><sup id=\"cite_ref-IATA_1-41\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Okaba&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Okaba (page does not exist)\">Okaba</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+</tr>
+<tr>
+<td>OKR</td>
+<td>YYKI</td>
+<td><a href=\"/wiki/Yorke_Island_Airport\" title=\"Yorke Island Airport\">Yorke Island Airport</a><sup id=\"cite_ref-IATA_1-42\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Yorke_Island_(Queensland)\" title=\"Yorke Island (Queensland)\">Yorke Island</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+</tr>
+<tr>
+<td>OKS</td>
+<td>KOKS</td>
+<td><a href=\"/w/index.php?title=Garden_County_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Garden County Airport (page does not exist)\">Garden County Airport</a></td>
+<td><a href=\"/wiki/Oshkosh,_Nebraska\" title=\"Oshkosh, Nebraska\">Oshkosh</a>, <a href=\"/wiki/Nebraska\" title=\"Nebraska\">Nebraska</a>, United States</td>
+</tr>
+<tr>
+<td>OKT</td>
+<td>UWUK</td>
+<td><a href=\"/wiki/Oktyabrsky_Airport\" title=\"Oktyabrsky Airport\">Oktyabrsky Airport</a></td>
+<td><a href=\"/wiki/Oktyabrsky,_Republic_of_Bashkortostan\" title=\"Oktyabrsky, Republic of Bashkortostan\">Oktyabrsky</a>, <a href=\"/wiki/Bashkortostan\" title=\"Bashkortostan\">Bashkortostan</a>, Russia</td>
+</tr>
+<tr>
+<td>OKU</td>
+<td>FYMO</td>
+<td><a href=\"/wiki/Mokuti_Lodge_Airport\" title=\"Mokuti Lodge Airport\">Mokuti Lodge Airport</a><sup id=\"cite_ref-IATA_1-43\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Mokuti_Lodge&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Mokuti Lodge (page does not exist)\">Mokuti Lodge</a>, <a href=\"/wiki/Namibia\" title=\"Namibia\">Namibia</a></td>
+</tr>
+<tr>
+<td>OKV</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Okao_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Okao Airport (page does not exist)\">Okao Airport</a><sup id=\"cite_ref-IATA_1-44\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Okao,_Papua_New_Guinea&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Okao, Papua New Guinea (page does not exist)\">Okao</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>OKY</td>
+<td>YBOK</td>
+<td><a href=\"/wiki/Oakey_Army_Aviation_Centre\" title=\"Oakey Army Aviation Centre\">Oakey Army Aviation Centre</a><sup id=\"cite_ref-IATA_1-45\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Oakey,_Queensland\" title=\"Oakey, Queensland\">Oakey</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+</tr>
+<tr>
+<td>OLA</td>
+<td>ENOL</td>
+<td><a href=\"/wiki/%C3%98rland_Airport\" title=\"\u00d8rland Airport\">\u00d8rland Airport</a><sup id=\"cite_ref-IATA_1-46\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/%C3%98rland\" title=\"\u00d8rland\">\u00d8rland</a>, <a href=\"/wiki/Norway\" title=\"Norway\">Norway</a></td>
+</tr>
+<tr>
+<td>OLB</td>
+<td>LIEO</td>
+<td><a href=\"/wiki/Olbia_Costa_Smeralda_Airport\" title=\"Olbia Costa Smeralda Airport\">Olbia Costa Smeralda Airport</a></td>
+<td><a href=\"/wiki/Olbia\" title=\"Olbia\">Olbia</a>, <a href=\"/wiki/Sardinia\" title=\"Sardinia\">Sardinia</a>, Italy</td>
+</tr>
+<tr>
+<td>OLC</td>
+<td>SDCG</td>
+<td><a href=\"/wiki/S%C3%A3o_Paulo_de_Oliven%C3%A7a_Airport\" class=\"mw-redirect\" title=\"S\u00e3o Paulo de Oliven\u00e7a Airport\">Senadora Eunice Michiles Airport</a><sup id=\"cite_ref-IATA_1-47\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/S%C3%A3o_Paulo_de_Oliven%C3%A7a\" title=\"S\u00e3o Paulo de Oliven\u00e7a\">S\u00e3o Paulo de Oliven\u00e7a</a>, <a href=\"/wiki/Amazonas_(Brazilian_state)\" title=\"Amazonas (Brazilian state)\">Amazonas</a>, Brazil</td>
+</tr>
+<tr>
+<td>OLD</td>
+<td>KOLD</td>
+<td><a href=\"/wiki/Old_Town_Municipal_Airport_and_Seaplane_Base\" title=\"Old Town Municipal Airport and Seaplane Base\">Old Town Municipal Airport and Seaplane Base</a> (Dewitt Field)</td>
+<td><a href=\"/wiki/Old_Town,_Maine\" title=\"Old Town, Maine\">Old Town</a>, <a href=\"/wiki/Maine\" title=\"Maine\">Maine</a>, United States</td>
+</tr>
+<tr>
+<td>OLE</td>
+<td>KOLE</td>
+<td><a href=\"/wiki/Cattaraugus_County-Olean_Airport\" title=\"Cattaraugus County-Olean Airport\">Cattaraugus County-Olean Airport</a></td>
+<td><a href=\"/wiki/Olean,_New_York\" title=\"Olean, New York\">Olean</a>, <a href=\"/wiki/New_York_(state)\" title=\"New York (state)\">New York</a>, United States</td>
+</tr>
+<tr>
+<td>OLF</td>
+<td>KOLF</td>
+<td><a href=\"/wiki/L._M._Clayton_Airport\" title=\"L. M. Clayton Airport\">L. M. Clayton Airport</a></td>
+<td><a href=\"/wiki/Wolf_Point,_Montana\" title=\"Wolf Point, Montana\">Wolf Point</a>, <a href=\"/wiki/Montana\" title=\"Montana\">Montana</a>, United States</td>
+</tr>
+<tr>
+<td>OLH</td>
+<td></td>
+<td><a href=\"/wiki/Old_Harbor_Airport\" title=\"Old Harbor Airport\">Old Harbor Airport</a> (FAA: 6R7)</td>
+<td><a href=\"/wiki/Old_Harbor,_Alaska\" title=\"Old Harbor, Alaska\">Old Harbor</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>OLI</td>
+<td>BIRF</td>
+<td><a href=\"/wiki/Rif_Airport\" title=\"Rif Airport\">Rif Airport</a><sup id=\"cite_ref-IATA_1-48\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/%C3%93lafsv%C3%ADk\" title=\"\u00d3lafsv\u00edk\">\u00d3lafsv\u00edk</a>, <a href=\"/wiki/Iceland\" title=\"Iceland\">Iceland</a></td>
+</tr>
+<tr>
+<td>OLJ</td>
+<td>NVSZ</td>
+<td><a href=\"/wiki/Olpoi_Airport\" title=\"Olpoi Airport\">Olpoi Airport</a><sup id=\"cite_ref-IATA_1-49\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (North West Santo Airport)</td>
+<td><a href=\"/w/index.php?title=Olpoi&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Olpoi (page does not exist)\">Olpoi</a>, <a href=\"/wiki/Vanuatu\" title=\"Vanuatu\">Vanuatu</a></td>
+</tr>
+<tr>
+<td>OLK</td>
+<td>SGOL</td>
+<td><a href=\"/wiki/Fuerte_Olimpo_Airport\" title=\"Fuerte Olimpo Airport\">Fuerte Olimpo Airport</a></td>
+<td><a href=\"/wiki/Fuerte_Olimpo\" title=\"Fuerte Olimpo\">Fuerte Olimpo</a>, <a href=\"/wiki/Paraguay\" title=\"Paraguay\">Paraguay</a></td>
+</tr>
+<tr>
+<td>OLL</td>
+<td></td>
+<td><a href=\"/wiki/Oyo_Ollombo_Airport\" title=\"Oyo Ollombo Airport\">Oyo Ollombo Airport</a></td>
+<td><a href=\"/wiki/Oyo,_Republic_of_the_Congo\" title=\"Oyo, Republic of the Congo\">Oyo</a>, <a href=\"/wiki/Republic_of_the_Congo\" title=\"Republic of the Congo\">Republic of the Congo</a></td>
+</tr>
+<tr>
+<td>OLM</td>
+<td>KOLM</td>
+<td><a href=\"/wiki/Olympia_Regional_Airport\" title=\"Olympia Regional Airport\">Olympia Regional Airport</a></td>
+<td><a href=\"/wiki/Olympia,_Washington\" title=\"Olympia, Washington\">Olympia</a>, <a href=\"/wiki/Washington_(state)\" title=\"Washington (state)\">Washington</a>, United States</td>
+</tr>
+<tr>
+<td>OLN</td>
+<td>SAVM</td>
+<td><a href=\"/wiki/Lago_Musters_Airport\" title=\"Lago Musters Airport\">Lago Musters Airport</a><sup id=\"cite_ref-IATA_1-50\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Sarmiento,_Chubut\" title=\"Sarmiento, Chubut\">Sarmiento</a>, <a href=\"/wiki/Chubut_Province\" title=\"Chubut Province\">Chubut</a>, Argentina</td>
+</tr>
+<tr>
+<td>OLO</td>
+<td>LKOL</td>
+<td><a href=\"/w/index.php?title=Olomouc_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Olomouc Airport (page does not exist)\">Olomouc Airport</a> (Ne\u0159ed\u00edn Airport)</td>
+<td><a href=\"/wiki/Olomouc\" title=\"Olomouc\">Olomouc</a>, <a href=\"/wiki/Czech_Republic\" title=\"Czech Republic\">Czech Republic</a></td>
+</tr>
+<tr>
+<td>OLP</td>
+<td>YOLD</td>
+<td><a href=\"/wiki/Olympic_Dam_Airport\" title=\"Olympic Dam Airport\">Olympic Dam Airport</a><sup id=\"cite_ref-IATA_1-51\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Olympic_Dam_mine\" title=\"Olympic Dam mine\">Olympic Dam</a>, <a href=\"/wiki/South_Australia\" title=\"South Australia\">South Australia</a>, Australia</td>
+</tr>
+<tr>
+<td>OLQ</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Olsobip_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Olsobip Airport (page does not exist)\">Olsobip Airport</a><sup id=\"cite_ref-IATA_1-52\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Olsobip\" title=\"Olsobip\">Olsobip</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>OLR</td>
+<td>OASL</td>
+<td><a href=\"/wiki/Forward_Operating_Base_Salerno\" title=\"Forward Operating Base Salerno\">Forward Operating Base Salerno</a></td>
+<td><a href=\"/wiki/Khost\" title=\"Khost\">Khost</a>, <a href=\"/wiki/Afghanistan\" title=\"Afghanistan\">Afghanistan</a></td>
+</tr>
+<tr>
+<td>OLS</td>
+<td>KOLS</td>
+<td><a href=\"/wiki/Nogales_International_Airport\" title=\"Nogales International Airport\">Nogales International Airport</a></td>
+<td><a href=\"/wiki/Nogales,_Arizona\" title=\"Nogales, Arizona\">Nogales</a>, <a href=\"/wiki/Arizona\" title=\"Arizona\">Arizona</a>, United States</td>
+</tr>
+<tr>
+<td>OLU</td>
+<td>KOLU</td>
+<td><a href=\"/wiki/Columbus_Municipal_Airport_(Nebraska)\" title=\"Columbus Municipal Airport (Nebraska)\">Columbus Municipal Airport</a></td>
+<td><a href=\"/wiki/Columbus,_Nebraska\" title=\"Columbus, Nebraska\">Columbus</a>, <a href=\"/wiki/Nebraska\" title=\"Nebraska\">Nebraska</a>, United States</td>
+</tr>
+<tr>
+<td>OLV</td>
+<td>KOLV</td>
+<td><a href=\"/wiki/Olive_Branch_Airport\" title=\"Olive Branch Airport\">Olive Branch Airport</a></td>
+<td><a href=\"/wiki/Olive_Branch,_Mississippi\" title=\"Olive Branch, Mississippi\">Olive Branch</a>, <a href=\"/wiki/Mississippi\" title=\"Mississippi\">Mississippi</a>, United States</td>
+</tr>
+<tr>
+<td>OLX</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Olkiombo_Airstrip&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Olkiombo Airstrip (page does not exist)\">Olkiombo Airstrip</a><sup id=\"cite_ref-IATA_1-53\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Olkiombo&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Olkiombo (page does not exist)\">Olkiombo</a>, <a href=\"/wiki/Kenya\" title=\"Kenya\">Kenya</a></td>
+</tr>
+<tr>
+<td>OLY</td>
+<td>KOLY</td>
+<td><a href=\"/w/index.php?title=Olney-Noble_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Olney-Noble Airport (page does not exist)\">Olney-Noble Airport</a></td>
+<td><a href=\"/wiki/Olney,_Illinois\" title=\"Olney, Illinois\">Olney</a> / <a href=\"/wiki/Noble,_Illinois\" title=\"Noble, Illinois\">Noble</a>, <a href=\"/wiki/Illinois\" title=\"Illinois\">Illinois</a>, United States</td>
+</tr>
+<tr>
+<td>OLZ</td>
+<td>UEMO</td>
+<td><a href=\"/wiki/Olyokminsk_Airport\" title=\"Olyokminsk Airport\">Olyokminsk Airport</a></td>
+<td><a href=\"/wiki/Olyokminsk\" title=\"Olyokminsk\">Olyokminsk</a>, <a href=\"/wiki/Sakha_Republic\" title=\"Sakha Republic\">Yakutia</a>, Russia</td>
+</tr>
+<tr>
+<td>OMA</td>
+<td>KOMA</td>
+<td><a href=\"/wiki/Eppley_Airfield\" title=\"Eppley Airfield\">Eppley Airfield</a></td>
+<td><a href=\"/wiki/Omaha,_Nebraska\" title=\"Omaha, Nebraska\">Omaha</a>, <a href=\"/wiki/Nebraska\" title=\"Nebraska\">Nebraska</a>, United States</td>
+</tr>
+<tr>
+<td>OMB</td>
+<td>FOOH</td>
+<td><a href=\"/wiki/Ombou%C3%A9_Hospital_Airport\" title=\"Ombou\u00e9 Hospital Airport\">Ombou\u00e9 Hospital Airport</a><sup id=\"cite_ref-IATA_1-54\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Ombou%C3%A9\" title=\"Ombou\u00e9\">Ombou\u00e9</a>, <a href=\"/wiki/Gabon\" title=\"Gabon\">Gabon</a></td>
+</tr>
+<tr>
+<td>OMC</td>
+<td>RPVO</td>
+<td><a href=\"/wiki/Ormoc_Airport\" title=\"Ormoc Airport\">Ormoc Airport</a></td>
+<td><a href=\"/wiki/Ormoc\" title=\"Ormoc\">Ormoc</a>, <a href=\"/wiki/Philippines\" title=\"Philippines\">Philippines</a></td>
+</tr>
+<tr>
+<td>OMD</td>
+<td>FYOG</td>
+<td><a href=\"/wiki/Oranjemund_Airport\" title=\"Oranjemund Airport\">Oranjemund Airport</a><sup id=\"cite_ref-IATA_1-55\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Oranjemund\" title=\"Oranjemund\">Oranjemund</a>, <a href=\"/wiki/Namibia\" title=\"Namibia\">Namibia</a></td>
+</tr>
+<tr>
+<td>OME</td>
+<td>PAOM</td>
+<td><a href=\"/wiki/Nome_Airport\" title=\"Nome Airport\">Nome Airport</a></td>
+<td><a href=\"/wiki/Nome,_Alaska\" title=\"Nome, Alaska\">Nome</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>OMF</td>
+<td>OJMF</td>
+<td><a href=\"/wiki/King_Hussein_Air_Base\" title=\"King Hussein Air Base\">King Hussein Air Base</a></td>
+<td><a href=\"/wiki/Mafraq\" title=\"Mafraq\">Mafraq</a>, <a href=\"/wiki/Jordan\" title=\"Jordan\">Jordan</a></td>
+</tr>
+<tr>
+<td>OMG</td>
+<td>FYOE</td>
+<td><a href=\"/wiki/Omega_Airport\" title=\"Omega Airport\">Omega Airport</a><sup id=\"cite_ref-IATA_1-56\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Omega,_Namibia&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Omega, Namibia (page does not exist)\">Omega</a>, <a href=\"/wiki/Namibia\" title=\"Namibia\">Namibia</a></td>
+</tr>
+<tr>
+<td>OMH</td>
+<td>OITR</td>
+<td><a href=\"/wiki/Urmia_Airport\" title=\"Urmia Airport\">Urmia Airport</a><sup id=\"cite_ref-IATA_1-57\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Urmia\" title=\"Urmia\">Urmia</a> (Ur\u016bmiyeh), <a href=\"/wiki/Iran\" title=\"Iran\">Iran</a></td>
+</tr>
+<tr>
+<td>OMI</td>
+<td>OIAJ</td>
+<td><a href=\"/wiki/Omidiyeh_Air_Base\" title=\"Omidiyeh Air Base\">Omidiyeh Air Base</a></td>
+<td><a href=\"/wiki/Omidiyeh\" title=\"Omidiyeh\">Omidiyeh</a>, <a href=\"/wiki/Iran\" title=\"Iran\">Iran</a></td>
+</tr>
+<tr>
+<td>OMJ</td>
+<td>RJDU</td>
+<td><a href=\"/w/index.php?title=%C5%8Cmura_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"\u014cmura Airport (page does not exist)\">\u014cmura Airport</a><sup id=\"cite_ref-IATA_1-58\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Nagasaki\" title=\"Nagasaki\">Nagasaki</a> / <a href=\"/wiki/%C5%8Cmura,_Nagasaki\" title=\"\u014cmura, Nagasaki\">\u014cmura</a>, <a href=\"/wiki/Kyushu\" title=\"Kyushu\">Kyushu</a>, Japan</td>
+</tr>
+<tr>
+<td>OMK</td>
+<td>KOMK</td>
+<td><a href=\"/wiki/Omak_Airport\" title=\"Omak Airport\">Omak Airport</a></td>
+<td><a href=\"/wiki/Omak,_Washington\" title=\"Omak, Washington\">Omak</a>, <a href=\"/wiki/Washington_(state)\" title=\"Washington (state)\">Washington</a>, United States</td>
+</tr>
+<tr>
+<td>OML</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Omkalai_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Omkalai Airport (page does not exist)\">Omkalai Airport</a><sup id=\"cite_ref-IATA_1-59\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Omkalai&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Omkalai (page does not exist)\">Omkalai</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>OMM</td>
+<td>OOMX</td>
+<td><a href=\"/wiki/Marmul_Airport\" title=\"Marmul Airport\">Marmul Airport</a><sup id=\"cite_ref-IATA_1-60\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Marmul_District\" title=\"Marmul District\">Marmul</a>, <a href=\"/wiki/Oman\" title=\"Oman\">Oman</a></td>
+</tr>
+<tr>
+<td>OMO</td>
+<td>LQMO</td>
+<td><a href=\"/wiki/Mostar_Airport\" title=\"Mostar Airport\">Mostar Airport</a></td>
+<td><a href=\"/wiki/Mostar\" title=\"Mostar\">Mostar</a>, <a href=\"/wiki/Bosnia_and_Herzegovina\" title=\"Bosnia and Herzegovina\">Bosnia and Herzegovina</a></td>
+</tr>
+<tr>
+<td>OMR</td>
+<td>LROD</td>
+<td><a href=\"/wiki/Oradea_International_Airport\" title=\"Oradea International Airport\">Oradea International Airport</a></td>
+<td><a href=\"/wiki/Oradea\" title=\"Oradea\">Oradea</a>, <a href=\"/wiki/Romania\" title=\"Romania\">Romania</a></td>
+</tr>
+<tr>
+<td>OMS</td>
+<td>UNOO</td>
+<td><a href=\"/wiki/Omsk_Tsentralny_Airport\" title=\"Omsk Tsentralny Airport\">Omsk Tsentralny Airport</a></td>
+<td><a href=\"/wiki/Omsk\" title=\"Omsk\">Omsk</a>, <a href=\"/wiki/Omsk_Oblast\" title=\"Omsk Oblast\">Omsk Oblast</a>, Russia</td>
+</tr>
+<tr>
+<td>OMY</td>
+<td></td>
+<td><a href=\"/wiki/Thbeng_Meanchey_Airport\" title=\"Thbeng Meanchey Airport\">Thbeng Meanchey Airport</a><sup id=\"cite_ref-IATA_1-61\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (Preah Vinhear Airport)</td>
+<td><a href=\"/wiki/Phnom_Tbeng_Meanchey\" class=\"mw-redirect\" title=\"Phnom Tbeng Meanchey\">Phnom Tbeng Meanchey</a>, <a href=\"/wiki/Cambodia\" title=\"Cambodia\">Cambodia</a></td>
+</tr>
+<tr>
+<td>ONA</td>
+<td>KONA</td>
+<td><a href=\"/wiki/Winona_Municipal_Airport\" title=\"Winona Municipal Airport\">Winona Municipal Airport</a> (Max Conrad Field)</td>
+<td><a href=\"/wiki/Winona,_Minnesota\" title=\"Winona, Minnesota\">Winona</a>, <a href=\"/wiki/Minnesota\" title=\"Minnesota\">Minnesota</a>, United States</td>
+</tr>
+<tr>
+<td>ONB</td>
+<td>AYQQ</td>
+<td><a href=\"/w/index.php?title=Ononge_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Ononge Airport (page does not exist)\">Ononge Airport</a><sup id=\"cite_ref-IATA_1-62\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Ononge&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Ononge (page does not exist)\">Ononge</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>OND</td>
+<td>FYOA</td>
+<td><a href=\"/wiki/Ondangwa_Airport\" title=\"Ondangwa Airport\">Ondangwa Airport</a><sup id=\"cite_ref-IATA_1-63\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Ondangwa\" title=\"Ondangwa\">Ondangwa</a>, <a href=\"/wiki/Namibia\" title=\"Namibia\">Namibia</a></td>
+</tr>
+<tr>
+<td>ONE</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Onepusu_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Onepusu Airport (page does not exist)\">Onepusu Airport</a><sup id=\"cite_ref-IATA_1-64\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Onepusu&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Onepusu (page does not exist)\">Onepusu</a>, <a href=\"/wiki/Solomon_Islands\" title=\"Solomon Islands\">Solomon Islands</a></td>
+</tr>
+<tr>
+<td>ONG</td>
+<td>YMTI</td>
+<td><a href=\"/wiki/Mornington_Island_Airport\" title=\"Mornington Island Airport\">Mornington Island Airport</a><sup id=\"cite_ref-IATA_1-65\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Mornington_Island\" title=\"Mornington Island\">Mornington Island</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+</tr>
+<tr>
+<td>ONH</td>
+<td></td>
+<td><a href=\"/wiki/Oneonta_Municipal_Airport\" title=\"Oneonta Municipal Airport\">Oneonta Municipal Airport</a> (FAA: N66)</td>
+<td><a href=\"/wiki/Oneonta,_New_York\" title=\"Oneonta, New York\">Oneonta</a>, <a href=\"/wiki/New_York_(state)\" title=\"New York (state)\">New York</a>, United States</td>
+</tr>
+<tr>
+<td>ONI</td>
+<td>WABD</td>
+<td><a href=\"/w/index.php?title=Moanamani_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Moanamani Airport (page does not exist)\">Moanamani Airport</a><sup id=\"cite_ref-IATA_1-66\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Moanemani\" title=\"Moanemani\">Moanemani</a> (Moanamani), <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+</tr>
+<tr>
+<td>ONJ</td>
+<td>RJSR</td>
+<td><a href=\"/wiki/Odate%E2%80%93Noshiro_Airport\" title=\"Odate\u2013Noshiro Airport\">Odate\u2013Noshiro Airport</a></td>
+<td><a href=\"/wiki/%C5%8Cdate\" title=\"\u014cdate\">\u014cdate</a> / <a href=\"/wiki/Noshiro,_Akita\" title=\"Noshiro, Akita\">Noshiro</a>, <a href=\"/wiki/Honshu\" title=\"Honshu\">Honshu</a>, Japan</td>
+</tr>
+<tr>
+<td>ONK</td>
+<td>UERO</td>
+<td><a href=\"/wiki/Olenyok_Airport\" title=\"Olenyok Airport\">Olenyok Airport</a></td>
+<td><a href=\"/wiki/Olenyok_(rural_locality)\" title=\"Olenyok (rural locality)\">Olenyok</a>, <a href=\"/wiki/Sakha_Republic\" title=\"Sakha Republic\">Yakutia</a>, Russia</td>
+</tr>
+<tr>
+<td>ONL</td>
+<td>KONL</td>
+<td><a href=\"/wiki/O%27Neill_Municipal_Airport\" title=\"O&#39;Neill Municipal Airport\">O'Neill Municipal Airport</a> (John L. Baker Field)</td>
+<td><a href=\"/wiki/O%27Neill,_Nebraska\" title=\"O&#39;Neill, Nebraska\">O'Neill</a>, <a href=\"/wiki/Nebraska\" title=\"Nebraska\">Nebraska</a>, United States</td>
+</tr>
+<tr>
+<td>ONM</td>
+<td>KONM</td>
+<td><a href=\"/w/index.php?title=Socorro_Municipal_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Socorro Municipal Airport (page does not exist)\">Socorro Municipal Airport</a></td>
+<td><a href=\"/wiki/Socorro,_New_Mexico\" title=\"Socorro, New Mexico\">Socorro</a>, <a href=\"/wiki/New_Mexico\" title=\"New Mexico\">New Mexico</a>, United States</td>
+</tr>
+<tr>
+<td>ONO</td>
+<td>KONO</td>
+<td><a href=\"/wiki/Ontario_Municipal_Airport\" title=\"Ontario Municipal Airport\">Ontario Municipal Airport</a></td>
+<td><a href=\"/wiki/Ontario,_Oregon\" title=\"Ontario, Oregon\">Ontario</a>, <a href=\"/wiki/Oregon\" title=\"Oregon\">Oregon</a>, United States</td>
+</tr>
+<tr>
+<td>ONP</td>
+<td>KONP</td>
+<td><a href=\"/wiki/Newport_Municipal_Airport_(Oregon)\" title=\"Newport Municipal Airport (Oregon)\">Newport Municipal Airport</a></td>
+<td><a href=\"/wiki/Newport,_Oregon\" title=\"Newport, Oregon\">Newport</a>, <a href=\"/wiki/Oregon\" title=\"Oregon\">Oregon</a>, United States</td>
+</tr>
+<tr>
+<td>ONQ</td>
+<td>LTAS</td>
+<td><a href=\"/wiki/Zonguldak_Airport\" title=\"Zonguldak Airport\">Zonguldak Airport</a></td>
+<td><a href=\"/wiki/Zonguldak\" title=\"Zonguldak\">Zonguldak</a>, <a href=\"/wiki/Turkey\" title=\"Turkey\">Turkey</a></td>
+</tr>
+<tr>
+<td>ONR</td>
+<td>YMNK</td>
+<td><a href=\"/w/index.php?title=Monkira_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Monkira Airport (page does not exist)\">Monkira Airport</a><sup id=\"cite_ref-IATA_1-67\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Monkira,_Queensland&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Monkira, Queensland (page does not exist)\">Monkira</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+</tr>
+<tr>
+<td>ONS</td>
+<td>YOLW</td>
+<td><a href=\"/wiki/Onslow_Airport\" title=\"Onslow Airport\">Onslow Airport</a><sup id=\"cite_ref-IATA_1-68\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Onslow,_Western_Australia\" title=\"Onslow, Western Australia\">Onslow</a>, <a href=\"/wiki/Western_Australia\" title=\"Western Australia\">Western Australia</a>, Australia</td>
+</tr>
+<tr>
+<td>ONT</td>
+<td>KONT</td>
+<td><a href=\"/wiki/Ontario_International_Airport\" title=\"Ontario International Airport\">Ontario International Airport</a></td>
+<td><a href=\"/wiki/Ontario,_California\" title=\"Ontario, California\">Ontario</a>, <a href=\"/wiki/California\" title=\"California\">California</a>, United States</td>
+</tr>
+<tr>
+<td>ONU</td>
+<td>NFOL</td>
+<td><a href=\"/w/index.php?title=Ono-i-Lau_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Ono-i-Lau Airport (page does not exist)\">Ono-i-Lau Airport</a><sup id=\"cite_ref-IATA_1-69\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Ono-i-Lau\" title=\"Ono-i-Lau\">Ono-i-Lau</a>, <a href=\"/wiki/Fiji\" title=\"Fiji\">Fiji</a></td>
+</tr>
+<tr>
+<td>ONX</td>
+<td>MPEJ</td>
+<td><a href=\"/wiki/Enrique_Adolfo_Jim%C3%A9nez_Airport\" title=\"Enrique Adolfo Jim\u00e9nez Airport\">Enrique Adolfo Jim\u00e9nez Airport</a></td>
+<td><a href=\"/wiki/Col%C3%B3n,_Panama\" title=\"Col\u00f3n, Panama\">Col\u00f3n</a>, <a href=\"/wiki/Panama\" title=\"Panama\">Panama</a></td>
+</tr>
+<tr>
+<td>ONY</td>
+<td>KONY</td>
+<td><a href=\"/wiki/Olney_Municipal_Airport\" class=\"mw-redirect\" title=\"Olney Municipal Airport\">Olney Municipal Airport</a></td>
+<td><a href=\"/wiki/Olney,_Texas\" title=\"Olney, Texas\">Olney</a>, <a href=\"/wiki/Texas\" title=\"Texas\">Texas</a>, United States</td>
+</tr>
+<tr>
+<td>OOA</td>
+<td>KOOA</td>
+<td><a href=\"/w/index.php?title=Oskaloosa_Municipal_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Oskaloosa Municipal Airport (page does not exist)\">Oskaloosa Municipal Airport</a></td>
+<td><a href=\"/wiki/Oskaloosa,_Iowa\" title=\"Oskaloosa, Iowa\">Oskaloosa</a>, <a href=\"/wiki/Iowa\" title=\"Iowa\">Iowa</a>, United States</td>
+</tr>
+<tr>
+<td>OOK</td>
+<td>PAOO</td>
+<td><a href=\"/wiki/Toksook_Bay_Airport\" title=\"Toksook Bay Airport\">Toksook Bay Airport</a></td>
+<td><a href=\"/wiki/Toksook_Bay,_Alaska\" title=\"Toksook Bay, Alaska\">Toksook Bay</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>OOL</td>
+<td>YBCG</td>
+<td><a href=\"/wiki/Gold_Coast_Airport\" title=\"Gold Coast Airport\">Gold Coast Airport</a> (Coolangatta Airport)</td>
+<td><a href=\"/wiki/Gold_Coast,_Queensland\" title=\"Gold Coast, Queensland\">Gold Coast</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+</tr>
+<tr>
+<td>OOM</td>
+<td>YCOM</td>
+<td><a href=\"/wiki/Cooma%E2%80%93Snowy_Mountains_Airport\" title=\"Cooma\u2013Snowy Mountains Airport\">Cooma\u2013Snowy Mountains Airport</a><sup id=\"cite_ref-IATA_1-70\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Cooma\" title=\"Cooma\">Cooma</a>, <a href=\"/wiki/New_South_Wales\" title=\"New South Wales\">New South Wales</a>, Australia</td>
+</tr>
+<tr>
+<td>OOR</td>
+<td>YMOO</td>
+<td><a href=\"/w/index.php?title=Mooraberree_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Mooraberree Airport (page does not exist)\">Mooraberree Airport</a><sup id=\"cite_ref-IATA_1-71\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Mooraberree,_Queensland&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Mooraberree, Queensland (page does not exist)\">Mooraberree</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+</tr>
+<tr>
+<td>OOT</td>
+<td>NGON</td>
+<td><a href=\"/w/index.php?title=Onotoa_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Onotoa Airport (page does not exist)\">Onotoa Airport</a><sup id=\"cite_ref-IATA_1-72\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Onotoa\" title=\"Onotoa\">Onotoa</a>, <a href=\"/wiki/Kiribati\" title=\"Kiribati\">Kiribati</a></td>
+</tr>
+<tr>
+<td>OPA</td>
+<td>BIKP</td>
+<td><a href=\"/wiki/K%C3%B3pasker_Airport\" title=\"K\u00f3pasker Airport\">K\u00f3pasker Airport</a><sup id=\"cite_ref-IATA_1-73\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/K%C3%B3pasker\" title=\"K\u00f3pasker\">K\u00f3pasker</a>, <a href=\"/wiki/Iceland\" title=\"Iceland\">Iceland</a></td>
+</tr>
+<tr>
+<td>OPB</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Open_Bay_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Open Bay Airport (page does not exist)\">Open Bay Airport</a><sup id=\"cite_ref-IATA_1-74\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Open_Bay,_Papua_New_Guinea\" title=\"Open Bay, Papua New Guinea\">Open Bay</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>OPF</td>
+<td>KOPF</td>
+<td><a href=\"/wiki/Miami-Opa_Locka_Executive_Airport\" title=\"Miami-Opa Locka Executive Airport\">Miami-Opa Locka Executive Airport</a></td>
+<td><a href=\"/wiki/Miami\" title=\"Miami\">Miami</a>, <a href=\"/wiki/Florida\" title=\"Florida\">Florida</a>, United States</td>
+</tr>
+<tr>
+<td>OPI</td>
+<td>YOEN</td>
+<td><a href=\"/wiki/Oenpelli_Airport\" title=\"Oenpelli Airport\">Oenpelli Airport</a><sup id=\"cite_ref-IATA_1-75\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Gunbalanya,_Northern_Territory\" title=\"Gunbalanya, Northern Territory\">Gunbalanya</a> (Oenpelli), <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+</tr>
+<tr>
+<td>OPL</td>
+<td>KOPL</td>
+<td><a href=\"/wiki/St._Landry_Parish_Airport\" title=\"St. Landry Parish Airport\">St. Landry Parish Airport</a> (Ahart Field)</td>
+<td><a href=\"/wiki/Opelousas,_Louisiana\" title=\"Opelousas, Louisiana\">Opelousas</a>, <a href=\"/wiki/Louisiana\" title=\"Louisiana\">Louisiana</a>, United States</td>
+</tr>
+<tr>
+<td>OPO</td>
+<td>LPPR</td>
+<td><a href=\"/wiki/Francisco_de_S%C3%A1_Carneiro_Airport\" class=\"mw-redirect\" title=\"Francisco de S\u00e1 Carneiro Airport\">Francisco de S\u00e1 Carneiro Airport</a></td>
+<td><a href=\"/wiki/Porto\" title=\"Porto\">Porto</a>, <a href=\"/wiki/Portugal\" title=\"Portugal\">Portugal</a></td>
+</tr>
+<tr>
+<td>OPS</td>
+<td>SWSI</td>
+<td><a href=\"/wiki/Sinop_Airport_(Brazil)\" title=\"Sinop Airport (Brazil)\">Presidente Jo\u00e3o Figueiredo Airport</a></td>
+<td><a href=\"/wiki/Sinop,_Mato_Grosso\" title=\"Sinop, Mato Grosso\">Sinop</a>, <a href=\"/wiki/Mato_Grosso\" title=\"Mato Grosso\">Mato Grosso</a>, Brazil</td>
+</tr>
+<tr>
+<td>OPU</td>
+<td>AYBM</td>
+<td><a href=\"/wiki/Balimo_Airport\" title=\"Balimo Airport\">Balimo Airport</a><sup id=\"cite_ref-IATA_1-76\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Balimo&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Balimo (page does not exist)\">Balimo</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>OPW</td>
+<td>FYOP</td>
+<td><a href=\"/wiki/Opuwa_Airport\" class=\"mw-redirect\" title=\"Opuwa Airport\">Opuwa Airport</a><sup id=\"cite_ref-IATA_1-77\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Opuwo\" title=\"Opuwo\">Opuwo</a>, <a href=\"/wiki/Namibia\" title=\"Namibia\">Namibia</a></td>
+</tr>
+<tr>
+<td>ORA</td>
+<td>SASO</td>
+<td><a href=\"/wiki/Or%C3%A1n_Airport\" title=\"Or\u00e1n Airport\">Or\u00e1n Airport</a></td>
+<td><a href=\"/wiki/Or%C3%A1n,_Salta\" class=\"mw-redirect\" title=\"Or\u00e1n, Salta\">Or\u00e1n</a>, <a href=\"/wiki/Salta_Province\" title=\"Salta Province\">Salta</a>, Argentina</td>
+</tr>
+<tr>
+<td>ORB</td>
+<td>ESOE</td>
+<td><a href=\"/wiki/%C3%96rebro_Airport\" title=\"\u00d6rebro Airport\">\u00d6rebro Airport</a></td>
+<td><a href=\"/wiki/%C3%96rebro\" title=\"\u00d6rebro\">\u00d6rebro</a>, <a href=\"/wiki/Sweden\" title=\"Sweden\">Sweden</a></td>
+</tr>
+<tr>
+<td>ORC</td>
+<td>SKOE</td>
+<td><a href=\"/wiki/Orocue_Airport\" title=\"Orocue Airport\">Orocue Airport</a><sup id=\"cite_ref-IATA_1-78\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Orocu%C3%A9\" title=\"Orocu\u00e9\">Orocu\u00e9</a>, <a href=\"/wiki/Colombia\" title=\"Colombia\">Colombia</a></td>
+</tr>
+<tr>
+<td>ORD</td>
+<td>KORD</td>
+<td><a href=\"/wiki/O%27Hare_International_Airport\" title=\"O&#39;Hare International Airport\">O'Hare International Airport</a></td>
+<td><a href=\"/wiki/Chicago\" title=\"Chicago\">Chicago</a>, <a href=\"/wiki/Illinois\" title=\"Illinois\">Illinois</a>, United States</td>
+</tr>
+<tr>
+<td>ORE</td>
+<td>LFOZ</td>
+<td><a href=\"/wiki/Orl%C3%A9ans_%E2%80%93_Saint-Denis-de-l%27H%C3%B4tel_Airport\" title=\"Orl\u00e9ans \u2013 Saint-Denis-de-l&#39;H\u00f4tel Airport\">Orl\u00e9ans \u2013 Saint-Denis-de-l'H\u00f4tel Airport</a><sup id=\"cite_ref-IATA_1-79\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Orl%C3%A9ans\" title=\"Orl\u00e9ans\">Orl\u00e9ans</a>, <a href=\"/wiki/Centre-Val_de_Loire\" title=\"Centre-Val de Loire\">Centre-Val de Loire</a>, France</td>
+</tr>
+<tr>
+<td>ORF</td>
+<td>KORF</td>
+<td><a href=\"/wiki/Norfolk_International_Airport\" title=\"Norfolk International Airport\">Norfolk International Airport</a></td>
+<td><a href=\"/wiki/Norfolk,_Virginia\" title=\"Norfolk, Virginia\">Norfolk</a>, <a href=\"/wiki/Virginia\" title=\"Virginia\">Virginia</a>, United States</td>
+</tr>
+<tr>
+<td>ORG</td>
+<td>SMZO</td>
+<td><a href=\"/wiki/Zorg_en_Hoop_Airport\" title=\"Zorg en Hoop Airport\">Zorg en Hoop Airport</a></td>
+<td><a href=\"/wiki/Paramaribo\" title=\"Paramaribo\">Paramaribo</a>, <a href=\"/wiki/Suriname\" title=\"Suriname\">Suriname</a></td>
+</tr>
+<tr>
+<td>ORH</td>
+<td>KORH</td>
+<td><a href=\"/wiki/Worcester_Regional_Airport\" title=\"Worcester Regional Airport\">Worcester Regional Airport</a></td>
+<td><a href=\"/wiki/Worcester,_Massachusetts\" title=\"Worcester, Massachusetts\">Worcester</a>, <a href=\"/wiki/Massachusetts\" title=\"Massachusetts\">Massachusetts</a>, United States</td>
+</tr>
+<tr>
+<td>ORI</td>
+<td>KORI</td>
+<td><a href=\"/wiki/Port_Lions_Airport\" title=\"Port Lions Airport\">Port Lions Airport</a></td>
+<td><a href=\"/wiki/Port_Lions,_Alaska\" title=\"Port Lions, Alaska\">Port Lions</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>ORJ</td>
+<td>SYDR</td>
+<td><a href=\"/wiki/Orinduik_Airport\" title=\"Orinduik Airport\">Orinduik Airport</a></td>
+<td><a href=\"/wiki/Orinduik\" title=\"Orinduik\">Orinduik</a>, <a href=\"/wiki/Guyana\" title=\"Guyana\">Guyana</a></td>
+</tr>
+<tr>
+<td>ORK</td>
+<td>EICK</td>
+<td><a href=\"/wiki/Cork_Airport\" title=\"Cork Airport\">Cork Airport</a></td>
+<td><a href=\"/wiki/Cork_(city)\" title=\"Cork (city)\">Cork</a>, <a href=\"/wiki/Republic_of_Ireland\" title=\"Republic of Ireland\">Ireland</a></td>
+</tr>
+<tr>
+<td>ORL</td>
+<td>KORL</td>
+<td><a href=\"/wiki/Orlando_Executive_Airport\" title=\"Orlando Executive Airport\">Orlando Executive Airport</a></td>
+<td><a href=\"/wiki/Orlando,_Florida\" title=\"Orlando, Florida\">Orlando</a>, <a href=\"/wiki/Florida\" title=\"Florida\">Florida</a>, United States</td>
+</tr>
+<tr>
+<td>ORM</td>
+<td>EGBK</td>
+<td><a href=\"/wiki/Sywell_Aerodrome\" title=\"Sywell Aerodrome\">Sywell Aerodrome</a></td>
+<td><a href=\"/wiki/Northampton\" title=\"Northampton\">Northampton</a>, <a href=\"/wiki/England\" title=\"England\">England</a>, United Kingdom</td>
+</tr>
+<tr>
+<td>ORN</td>
+<td>DAOO</td>
+<td><a href=\"/wiki/Oran_Es_S%C3%A9nia_Airport\" class=\"mw-redirect\" title=\"Oran Es S\u00e9nia Airport\">Oran Es S\u00e9nia Airport</a></td>
+<td><a href=\"/wiki/Oran\" title=\"Oran\">Oran</a>, <a href=\"/wiki/Algeria\" title=\"Algeria\">Algeria</a></td>
+</tr>
+<tr>
+<td>ORO</td>
+<td>MHYR</td>
+<td><a href=\"/wiki/Yoro_Airport\" title=\"Yoro Airport\">Yoro Airport</a><sup id=\"cite_ref-IATA_1-80\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Yoro\" title=\"Yoro\">Yoro</a>, <a href=\"/wiki/Honduras\" title=\"Honduras\">Honduras</a></td>
+</tr>
+<tr>
+<td>ORP</td>
+<td>FBOR</td>
+<td><a href=\"/wiki/Orapa_Airport\" title=\"Orapa Airport\">Orapa Airport</a><sup id=\"cite_ref-IATA_1-81\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Orapa\" title=\"Orapa\">Orapa</a>, <a href=\"/wiki/Botswana\" title=\"Botswana\">Botswana</a></td>
+</tr>
+<tr>
+<td>ORR</td>
+<td>YYOR</td>
+<td><a href=\"/wiki/Yorketown_Airport\" title=\"Yorketown Airport\">Yorketown Airport</a></td>
+<td><a href=\"/wiki/Yorketown,_South_Australia\" title=\"Yorketown, South Australia\">Yorketown</a>, <a href=\"/wiki/South_Australia\" title=\"South Australia\">South Australia</a>, Australia</td>
+</tr>
+<tr>
+<td>ORS</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Orpheus_Island_Resort_Waterport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Orpheus Island Resort Waterport (page does not exist)\">Orpheus Island Resort Waterport</a></td>
+<td><a href=\"/wiki/Orpheus_Island_National_Park\" title=\"Orpheus Island National Park\">Orpheus Island</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+</tr>
+<tr>
+<td>ORT</td>
+<td>PAOR</td>
+<td><a href=\"/wiki/Northway_Airport\" title=\"Northway Airport\">Northway Airport</a></td>
+<td><a href=\"/wiki/Northway,_Alaska\" title=\"Northway, Alaska\">Northway</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>ORU</td>
+<td>SLOR</td>
+<td><a href=\"/wiki/Juan_Mendoza_Airport\" title=\"Juan Mendoza Airport\">Juan Mendoza Airport</a></td>
+<td><a href=\"/wiki/Oruro,_Bolivia\" title=\"Oruro, Bolivia\">Oruro</a>, <a href=\"/wiki/Bolivia\" title=\"Bolivia\">Bolivia</a></td>
+</tr>
+<tr>
+<td>ORV</td>
+<td>PFNO</td>
+<td><a href=\"/wiki/Robert_(Bob)_Curtis_Memorial_Airport\" title=\"Robert (Bob) Curtis Memorial Airport\">Robert (Bob) Curtis Memorial Airport</a> (FAA: D76)</td>
+<td><a href=\"/wiki/Noorvik,_Alaska\" title=\"Noorvik, Alaska\">Noorvik</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>ORW</td>
+<td>OPOR</td>
+<td><a href=\"/wiki/Ormara_Airport\" title=\"Ormara Airport\">Ormara Airport</a><sup id=\"cite_ref-IATA_1-82\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Ormara\" title=\"Ormara\">Ormara</a>, <a href=\"/wiki/Pakistan\" title=\"Pakistan\">Pakistan</a></td>
+</tr>
+<tr>
+<td>ORX</td>
+<td>SNOX</td>
+<td><a href=\"/wiki/Oriximin%C3%A1_Airport\" title=\"Oriximin\u00e1 Airport\">Oriximin\u00e1 Airport</a><sup id=\"cite_ref-IATA_1-83\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Oriximin%C3%A1\" title=\"Oriximin\u00e1\">Oriximin\u00e1</a>, <a href=\"/wiki/Par%C3%A1\" title=\"Par\u00e1\">Par\u00e1</a>, Brazil</td>
+</tr>
+<tr>
+<td>ORY</td>
+<td>LFPO</td>
+<td><a href=\"/wiki/Orly_Airport\" title=\"Orly Airport\">Orly Airport</a></td>
+<td><a href=\"/wiki/Paris\" title=\"Paris\">Paris</a>, <a href=\"/wiki/%C3%8Ele-de-France\" title=\"\u00cele-de-France\">\u00cele-de-France</a>, France</td>
+</tr>
+<tr>
+<td>ORZ</td>
+<td></td>
+<td><a href=\"/wiki/Orange_Walk_Airport\" title=\"Orange Walk Airport\">Orange Walk Airport</a><sup id=\"cite_ref-IATA_1-84\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Orange_Walk_Town\" title=\"Orange Walk Town\">Orange Walk Town</a>, <a href=\"/wiki/Belize\" title=\"Belize\">Belize</a></td>
+</tr>
+<tr>
+<td>OSA<sup id=\"cite_ref-IATA_1-85\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td></td>
+<td>metropolitan area<sup class=\"reference plainlinks nourlexpansion\" id=\"ref_1\"><a href=\"#endnote_1\">1</a></sup></td>
+<td><a href=\"/wiki/Osaka\" title=\"Osaka\">Osaka</a>, <a href=\"/wiki/Honshu\" title=\"Honshu\">Honshu</a>, Japan</td>
+</tr>
+<tr>
+<td>OSB</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Grand_Glaize-Osage_Beach_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Grand Glaize-Osage Beach Airport (page does not exist)\">Grand Glaize-Osage Beach Airport</a> (FAA: K15)</td>
+<td><a href=\"/wiki/Osage_Beach,_Missouri\" title=\"Osage Beach, Missouri\">Osage Beach</a>, <a href=\"/wiki/Missouri\" title=\"Missouri\">Missouri</a>, United States</td>
+</tr>
+<tr>
+<td>OSC</td>
+<td>KOSC</td>
+<td><a href=\"/wiki/Oscoda%E2%80%93Wurtsmith_Airport\" title=\"Oscoda\u2013Wurtsmith Airport\">Oscoda\u2013Wurtsmith Airport</a></td>
+<td><a href=\"/wiki/Oscoda,_Michigan\" title=\"Oscoda, Michigan\">Oscoda</a>, <a href=\"/wiki/Michigan\" title=\"Michigan\">Michigan</a>, United States</td>
+</tr>
+<tr>
+<td>OSD</td>
+<td>ESNZ</td>
+<td><a href=\"/wiki/%C3%85re_%C3%96stersund_Airport\" title=\"\u00c5re \u00d6stersund Airport\">\u00c5re \u00d6stersund Airport</a></td>
+<td><a href=\"/wiki/%C3%96stersund\" title=\"\u00d6stersund\">\u00d6stersund</a>, <a href=\"/wiki/Sweden\" title=\"Sweden\">Sweden</a></td>
+</tr>
+<tr>
+<td>OSE</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Omora_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Omora Airport (page does not exist)\">Omora Airport</a><sup id=\"cite_ref-IATA_1-86\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Omora,_Papua_New_Guinea&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Omora, Papua New Guinea (page does not exist)\">Omora</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>OSF</td>
+<td>UUMO</td>
+<td><a href=\"/wiki/Ostafyevo_International_Airport\" class=\"mw-redirect\" title=\"Ostafyevo International Airport\">Ostafyevo International Airport</a></td>
+<td><a href=\"/wiki/Moscow\" title=\"Moscow\">Moscow</a> / <a href=\"/wiki/Podolsk\" title=\"Podolsk\">Podolsk</a>, <a href=\"/wiki/Moscow_Oblast\" title=\"Moscow Oblast\">Moscow Oblast</a>, Russia</td>
+</tr>
+<tr>
+<td>OSG</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Ossima_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Ossima Airport (page does not exist)\">Ossima Airport</a><sup id=\"cite_ref-IATA_1-87\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Ossima&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Ossima (page does not exist)\">Ossima</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>OSH</td>
+<td>KOSH</td>
+<td><a href=\"/wiki/Wittman_Regional_Airport\" title=\"Wittman Regional Airport\">Wittman Regional Airport</a></td>
+<td><a href=\"/wiki/Oshkosh,_Wisconsin\" title=\"Oshkosh, Wisconsin\">Oshkosh</a>, <a href=\"/wiki/Wisconsin\" title=\"Wisconsin\">Wisconsin</a>, United States</td>
+</tr>
+<tr>
+<td>OSI</td>
+<td>LDOS</td>
+<td><a href=\"/wiki/Osijek_Airport\" title=\"Osijek Airport\">Osijek Airport</a></td>
+<td><a href=\"/wiki/Osijek\" title=\"Osijek\">Osijek</a>, <a href=\"/wiki/Croatia\" title=\"Croatia\">Croatia</a></td>
+</tr>
+<tr>
+<td>OSK</td>
+<td>ESMO</td>
+<td><a href=\"/wiki/Oskarshamn_Airport\" title=\"Oskarshamn Airport\">Oskarshamn Airport</a></td>
+<td><a href=\"/wiki/Oskarshamn\" title=\"Oskarshamn\">Oskarshamn</a>, <a href=\"/wiki/Sweden\" title=\"Sweden\">Sweden</a></td>
+</tr>
+<tr>
+<td>OSL</td>
+<td>ENGM</td>
+<td><a href=\"/wiki/Oslo_Airport,_Gardermoen\" title=\"Oslo Airport, Gardermoen\">Oslo Airport, Gardermoen</a></td>
+<td><a href=\"/wiki/Oslo\" title=\"Oslo\">Oslo</a>, <a href=\"/wiki/Norway\" title=\"Norway\">Norway</a></td>
+</tr>
+<tr>
+<td>OSM</td>
+<td>ORBM</td>
+<td><a href=\"/wiki/Mosul_International_Airport\" title=\"Mosul International Airport\">Mosul International Airport</a><sup id=\"cite_ref-IATA_1-88\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Mosul\" title=\"Mosul\">Mosul</a>, <a href=\"/wiki/Iraq\" title=\"Iraq\">Iraq</a></td>
+</tr>
+<tr>
+<td>OSN</td>
+<td>RKSO</td>
+<td><a href=\"/wiki/Osan_Air_Base\" title=\"Osan Air Base\">Osan Air Base</a><sup id=\"cite_ref-IATA_1-89\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Osan\" title=\"Osan\">Osan</a>, <a href=\"/wiki/South_Korea\" title=\"South Korea\">South Korea</a></td>
+</tr>
+<tr>
+<td>OSO</td>
+<td>YOSB</td>
+<td><a href=\"/wiki/Osborne_Mine_Airport\" title=\"Osborne Mine Airport\">Osborne Mine Airport</a><sup id=\"cite_ref-IATA_1-90\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Osborne_Mine&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Osborne Mine (page does not exist)\">Osborne Mine</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+</tr>
+<tr>
+<td>OSR</td>
+<td>LKMT</td>
+<td><a href=\"/wiki/Leo%C5%A1_Jan%C3%A1%C4%8Dek_Airport_Ostrava\" title=\"Leo\u0161 Jan\u00e1\u010dek Airport Ostrava\">Leo\u0161 Jan\u00e1\u010dek Airport Ostrava</a></td>
+<td><a href=\"/wiki/Ostrava\" title=\"Ostrava\">Ostrava</a>, <a href=\"/wiki/Czech_Republic\" title=\"Czech Republic\">Czech Republic</a></td>
+</tr>
+<tr>
+<td>OSS</td>
+<td>UAFO</td>
+<td><a href=\"/wiki/Osh_Airport\" title=\"Osh Airport\">Osh Airport</a></td>
+<td><a href=\"/wiki/Osh\" title=\"Osh\">Osh</a>, <a href=\"/wiki/Kyrgyzstan\" title=\"Kyrgyzstan\">Kyrgyzstan</a></td>
+</tr>
+<tr>
+<td>OST</td>
+<td>EBOS</td>
+<td><a href=\"/wiki/Ostend%E2%80%93Bruges_International_Airport\" title=\"Ostend\u2013Bruges International Airport\">Ostend\u2013Bruges International Airport</a></td>
+<td><a href=\"/wiki/Ostend\" title=\"Ostend\">Ostend</a> / <a href=\"/wiki/Bruges\" title=\"Bruges\">Bruges</a>, <a href=\"/wiki/Belgium\" title=\"Belgium\">Belgium</a></td>
+</tr>
+<tr>
+<td>OSU</td>
+<td>KOSU</td>
+<td><a href=\"/wiki/Ohio_State_University_Airport\" title=\"Ohio State University Airport\">Ohio State University Airport</a></td>
+<td><a href=\"/wiki/Columbus,_Ohio\" title=\"Columbus, Ohio\">Columbus</a>, <a href=\"/wiki/Ohio\" title=\"Ohio\">Ohio</a>, United States</td>
+</tr>
+<tr>
+<td>OSW</td>
+<td>UWOR</td>
+<td><a href=\"/wiki/Orsk_Airport\" title=\"Orsk Airport\">Orsk Airport</a></td>
+<td><a href=\"/wiki/Orsk\" title=\"Orsk\">Orsk</a>, <a href=\"/wiki/Orenburg_Oblast\" title=\"Orenburg Oblast\">Orenburg Oblast</a>, Russia</td>
+</tr>
+<tr>
+<td>OSX</td>
+<td>KOSX</td>
+<td><a href=\"/w/index.php?title=Kosciusko-Attala_County_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Kosciusko-Attala County Airport (page does not exist)\">Kosciusko-Attala County Airport</a></td>
+<td><a href=\"/wiki/Kosciusko,_Mississippi\" title=\"Kosciusko, Mississippi\">Kosciusko</a>, <a href=\"/wiki/Mississippi\" title=\"Mississippi\">Mississippi</a>, United States</td>
+</tr>
+<tr>
+<td>OSY</td>
+<td>ENNM</td>
+<td><a href=\"/wiki/Namsos_Airport,_H%C3%B8knes%C3%B8ra\" title=\"Namsos Airport, H\u00f8knes\u00f8ra\">Namsos Airport, H\u00f8knes\u00f8ra</a></td>
+<td><a href=\"/wiki/Namsos\" title=\"Namsos\">Namsos</a>, <a href=\"/wiki/Norway\" title=\"Norway\">Norway</a></td>
+</tr>
+<tr>
+<td>OSZ</td>
+<td>EPKZ</td>
+<td><a href=\"/wiki/Koszalin-Zegrze_Pomorskie_Airport\" title=\"Koszalin-Zegrze Pomorskie Airport\">Koszalin-Zegrze Pomorskie Airport</a><sup id=\"cite_ref-IATA_1-91\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Koszalin\" title=\"Koszalin\">Koszalin</a>, <a href=\"/wiki/Poland\" title=\"Poland\">Poland</a></td>
+</tr>
+<tr>
+<td>OTA</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Mota_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Mota Airport (page does not exist)\">Mota Airport</a><sup id=\"cite_ref-IATA_1-92\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Mota,_Ethiopia\" title=\"Mota, Ethiopia\">Mota</a>, <a href=\"/wiki/Ethiopia\" title=\"Ethiopia\">Ethiopia</a></td>
+</tr>
+<tr>
+<td>OTC</td>
+<td>FTTL</td>
+<td><a href=\"/wiki/Bol-B%C3%A9rim_Airport\" title=\"Bol-B\u00e9rim Airport\">Bol-B\u00e9rim Airport</a></td>
+<td><a href=\"/wiki/Bol,_Chad\" title=\"Bol, Chad\">Bol</a>, <a href=\"/wiki/Chad\" title=\"Chad\">Chad</a></td>
+</tr>
+<tr>
+<td>OTD</td>
+<td></td>
+<td><a href=\"/wiki/Contadora_Airport\" title=\"Contadora Airport\">Contadora Airport</a></td>
+<td><a href=\"/wiki/Contadora_Island\" title=\"Contadora Island\">Contadora Island</a>, <a href=\"/wiki/Panama\" title=\"Panama\">Panama</a></td>
+</tr>
+<tr>
+<td>OTG</td>
+<td>KOTG</td>
+<td><a href=\"/w/index.php?title=Worthington_Municipal_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Worthington Municipal Airport (page does not exist)\">Worthington Municipal Airport</a></td>
+<td><a href=\"/wiki/Worthington,_Minnesota\" title=\"Worthington, Minnesota\">Worthington</a>, <a href=\"/wiki/Minnesota\" title=\"Minnesota\">Minnesota</a>, United States</td>
+</tr>
+<tr>
+<td>OTH</td>
+<td>KOTH</td>
+<td><a href=\"/wiki/Southwest_Oregon_Regional_Airport\" title=\"Southwest Oregon Regional Airport\">Southwest Oregon Regional Airport</a></td>
+<td><a href=\"/wiki/North_Bend,_Oregon\" title=\"North Bend, Oregon\">North Bend</a>, <a href=\"/wiki/Oregon\" title=\"Oregon\">Oregon</a>, United States</td>
+</tr>
+<tr>
+<td>OTI</td>
+<td>WAMR</td>
+<td><a href=\"/wiki/Pitu_Airport\" class=\"mw-redirect\" title=\"Pitu Airport\">Pitu Airport</a><sup id=\"cite_ref-IATA_1-93\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Morotai\" title=\"Morotai\">Morotai Island</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+</tr>
+<tr>
+<td>OTJ</td>
+<td>FYOW</td>
+<td><a href=\"/wiki/Otjiwarongo_Airport\" title=\"Otjiwarongo Airport\">Otjiwarongo Airport</a><sup id=\"cite_ref-IATA_1-94\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Otjiwarongo\" title=\"Otjiwarongo\">Otjiwarongo</a>, <a href=\"/wiki/Namibia\" title=\"Namibia\">Namibia</a></td>
+</tr>
+<tr>
+<td>OTK</td>
+<td>KTMK</td>
+<td><a href=\"/wiki/Tillamook_Airport\" title=\"Tillamook Airport\">Tillamook Airport</a><sup id=\"cite_ref-IATA_1-95\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (FAA: TMK)</td>
+<td><a href=\"/wiki/Tillamook,_Oregon\" title=\"Tillamook, Oregon\">Tillamook</a>, <a href=\"/wiki/Oregon\" title=\"Oregon\">Oregon</a>, United States</td>
+</tr>
+<tr>
+<td>OTL</td>
+<td>GQNB</td>
+<td><a href=\"/wiki/Boutilimit_Airport\" title=\"Boutilimit Airport\">Boutilimit Airport</a></td>
+<td><a href=\"/wiki/Boutilimit\" title=\"Boutilimit\">Boutilimit</a>, <a href=\"/wiki/Mauritania\" title=\"Mauritania\">Mauritania</a></td>
+</tr>
+<tr>
+<td>OTM</td>
+<td>KOTM</td>
+<td><a href=\"/wiki/Ottumwa_Regional_Airport\" title=\"Ottumwa Regional Airport\">Ottumwa Regional Airport</a></td>
+<td><a href=\"/wiki/Ottumwa,_Iowa\" title=\"Ottumwa, Iowa\">Ottumwa</a>, <a href=\"/wiki/Iowa\" title=\"Iowa\">Iowa</a>, United States</td>
+</tr>
+<tr>
+<td>OTN</td>
+<td></td>
+<td><a href=\"/wiki/Ed-Air_Airport\" title=\"Ed-Air Airport\">Ed-Air Airport</a> (FAA: 2IG4)</td>
+<td><a href=\"/wiki/Oaktown,_Indiana\" title=\"Oaktown, Indiana\">Oaktown</a>, <a href=\"/wiki/Indiana\" title=\"Indiana\">Indiana</a>, United States</td>
+</tr>
+<tr>
+<td>OTP</td>
+<td>LROP</td>
+<td><a href=\"/wiki/Henri_Coand%C4%83_International_Airport\" title=\"Henri Coand\u0103 International Airport\">Henri Coand\u0103 International Airport</a></td>
+<td><a href=\"/wiki/Bucharest\" title=\"Bucharest\">Bucharest</a>, <a href=\"/wiki/Romania\" title=\"Romania\">Romania</a></td>
+</tr>
+<tr>
+<td>OTR</td>
+<td>MRCC</td>
+<td><a href=\"/wiki/Coto_47_Airport\" title=\"Coto 47 Airport\">Coto 47 Airport</a></td>
+<td><a href=\"/wiki/Coto_47\" title=\"Coto 47\">Coto 47</a>, <a href=\"/wiki/Costa_Rica\" title=\"Costa Rica\">Costa Rica</a></td>
+</tr>
+<tr>
+<td>OTS</td>
+<td></td>
+<td><a href=\"/wiki/Anacortes_Airport\" title=\"Anacortes Airport\">Anacortes Airport</a> (FAA: 74S)</td>
+<td><a href=\"/wiki/Anacortes,_Washington\" title=\"Anacortes, Washington\">Anacortes</a>, <a href=\"/wiki/Washington_(state)\" title=\"Washington (state)\">Washington</a>, United States</td>
+</tr>
+<tr>
+<td>OTT</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Andre_Maggi_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Andre Maggi Airport (page does not exist)\">Andre Maggi Airport</a><sup id=\"cite_ref-IATA_1-96\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Cotrigua%C3%A7u\" title=\"Cotrigua\u00e7u\">Cotrigua\u00e7u</a>, <a href=\"/wiki/Mato_Grosso\" title=\"Mato Grosso\">Mato Grosso</a>, Brazil</td>
+</tr>
+<tr>
+<td>OTU</td>
+<td>SKOT</td>
+<td><a href=\"/wiki/Ot%C3%BA_Airport\" title=\"Ot\u00fa Airport\">Ot\u00fa Airport</a><sup id=\"cite_ref-IATA_1-97\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Remedios,_Antioquia\" title=\"Remedios, Antioquia\">Remedios</a>, <a href=\"/wiki/Colombia\" title=\"Colombia\">Colombia</a></td>
+</tr>
+<tr>
+<td>OTV</td>
+<td>AGGQ</td>
+<td><a href=\"/w/index.php?title=Ontong_Java_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Ontong Java Airport (page does not exist)\">Ontong Java Airport</a><sup id=\"cite_ref-IATA_1-98\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Ontong_Java_Atoll\" title=\"Ontong Java Atoll\">Ontong Java Atoll</a>, <a href=\"/wiki/Solomon_Islands\" title=\"Solomon Islands\">Solomon Islands</a></td>
+</tr>
+<tr>
+<td>OTY</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Oria_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Oria Airport (page does not exist)\">Oria Airport</a><sup id=\"cite_ref-IATA_1-99\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Oria,_Papua_New_Guinea&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Oria, Papua New Guinea (page does not exist)\">Oria</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>OTZ</td>
+<td>PAOT</td>
+<td><a href=\"/wiki/Ralph_Wien_Memorial_Airport\" title=\"Ralph Wien Memorial Airport\">Ralph Wien Memorial Airport</a></td>
+<td><a href=\"/wiki/Kotzebue,_Alaska\" title=\"Kotzebue, Alaska\">Kotzebue</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>OUA</td>
+<td>DFFD</td>
+<td><a href=\"/wiki/Ouagadougou_Airport\" title=\"Ouagadougou Airport\">Ouagadougou Airport</a></td>
+<td><a href=\"/wiki/Ouagadougou\" title=\"Ouagadougou\">Ouagadougou</a>, <a href=\"/wiki/Burkina_Faso\" title=\"Burkina Faso\">Burkina Faso</a></td>
+</tr>
+<tr>
+<td>OUD</td>
+<td>GMFO</td>
+<td><a href=\"/wiki/Angads_Airport\" title=\"Angads Airport\">Angads Airport</a></td>
+<td><a href=\"/wiki/Oujda\" title=\"Oujda\">Oujda</a>, <a href=\"/wiki/Morocco\" title=\"Morocco\">Morocco</a></td>
+</tr>
+<tr>
+<td>OUE</td>
+<td>FCOU</td>
+<td><a href=\"/wiki/Ou%C3%A9sso_Airport\" title=\"Ou\u00e9sso Airport\">Ou\u00e9sso Airport</a><sup id=\"cite_ref-IATA_1-100\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Ou%C3%A9sso\" title=\"Ou\u00e9sso\">Ou\u00e9sso</a>, <a href=\"/wiki/Republic_of_the_Congo\" title=\"Republic of the Congo\">Republic of the Congo</a></td>
+</tr>
+<tr>
+<td>OUG</td>
+<td>DFCC</td>
+<td><a href=\"/wiki/Ouahigouya_Airport\" title=\"Ouahigouya Airport\">Ouahigouya Airport</a></td>
+<td><a href=\"/wiki/Ouahigouya\" title=\"Ouahigouya\">Ouahigouya</a>, <a href=\"/wiki/Burkina_Faso\" title=\"Burkina Faso\">Burkina Faso</a></td>
+</tr>
+<tr>
+<td>OUH</td>
+<td>FAOH</td>
+<td><a href=\"/w/index.php?title=Oudtshoorn_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Oudtshoorn Airport (page does not exist)\">Oudtshoorn Airport</a><sup id=\"cite_ref-IATA_1-101\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Oudtshoorn\" title=\"Oudtshoorn\">Oudtshoorn</a>, <a href=\"/wiki/South_Africa\" title=\"South Africa\">South Africa</a></td>
+</tr>
+<tr>
+<td>OUK</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Out_Skerries_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Out Skerries Airport (page does not exist)\">Out Skerries Airport</a><sup id=\"cite_ref-IATA_1-102\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Out_Skerries\" title=\"Out Skerries\">Out Skerries</a>, <a href=\"/wiki/Scotland\" title=\"Scotland\">Scotland</a>, United Kingdom</td>
+</tr>
+<tr>
+<td>OUL</td>
+<td>EFOU</td>
+<td><a href=\"/wiki/Oulu_Airport\" title=\"Oulu Airport\">Oulu Airport</a></td>
+<td><a href=\"/wiki/Oulu\" title=\"Oulu\">Oulu</a>, <a href=\"/wiki/Finland\" title=\"Finland\">Finland</a></td>
+</tr>
+<tr>
+<td>OUM</td>
+<td></td>
+<td><a href=\"/wiki/Oum_Hadjer_Airport\" title=\"Oum Hadjer Airport\">Oum Hadjer Airport</a></td>
+<td><a href=\"/wiki/Oum_Hadjer\" title=\"Oum Hadjer\">Oum Hadjer</a>, <a href=\"/wiki/Chad\" title=\"Chad\">Chad</a></td>
+</tr>
+<tr>
+<td>OUN</td>
+<td>KOUN</td>
+<td><a href=\"/wiki/University_of_Oklahoma_Westheimer_Airport\" title=\"University of Oklahoma Westheimer Airport\">University of Oklahoma Westheimer Airport</a> (Max Westheimer Airport)</td>
+<td><a href=\"/wiki/Norman,_Oklahoma\" title=\"Norman, Oklahoma\">Norman</a>, <a href=\"/wiki/Oklahoma\" title=\"Oklahoma\">Oklahoma</a>, United States</td>
+</tr>
+<tr>
+<td>OUR</td>
+<td>FKKI</td>
+<td><a href=\"/wiki/Batouri_Airport\" title=\"Batouri Airport\">Batouri Airport</a></td>
+<td><a href=\"/wiki/Batouri\" title=\"Batouri\">Batouri</a>, <a href=\"/wiki/Cameroon\" title=\"Cameroon\">Cameroon</a></td>
+</tr>
+<tr>
+<td>OUS</td>
+<td>SDOU</td>
+<td><a href=\"/wiki/Ourinhos_Airport\" title=\"Ourinhos Airport\">Jornalista Benedito Pimentel\u2013Ourinhos State Airport</a><sup id=\"cite_ref-IATA_1-103\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Ourinhos\" title=\"Ourinhos\">Ourinhos</a>, <a href=\"/wiki/S%C3%A3o_Paulo_(state)\" title=\"S\u00e3o Paulo (state)\">S\u00e3o Paulo</a>, Brazil</td>
+</tr>
+<tr>
+<td>OUT</td>
+<td>FTTS</td>
+<td><a href=\"/wiki/Bousso_Airport\" title=\"Bousso Airport\">Bousso Airport</a></td>
+<td><a href=\"/wiki/Bousso\" title=\"Bousso\">Bousso</a>, <a href=\"/wiki/Chad\" title=\"Chad\">Chad</a></td>
+</tr>
+<tr>
+<td>OUU</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Ouanga_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Ouanga Airport (page does not exist)\">Ouanga Airport</a><sup id=\"cite_ref-IATA_1-104\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Ouanga,_Gabon&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Ouanga, Gabon (page does not exist)\">Ouanga</a>, <a href=\"/wiki/Gabon\" title=\"Gabon\">Gabon</a></td>
+</tr>
+<tr>
+<td>OUZ</td>
+<td>GQPZ</td>
+<td><a href=\"/wiki/Tazadit_Airport\" title=\"Tazadit Airport\">Tazadit Airport</a></td>
+<td><a href=\"/wiki/Zou%C3%A9rat\" title=\"Zou\u00e9rat\">Zouerate</a>, <a href=\"/wiki/Mauritania\" title=\"Mauritania\">Mauritania</a></td>
+</tr>
+<tr>
+<td>OVA</td>
+<td>FMSL</td>
+<td><a href=\"/w/index.php?title=Bekily_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Bekily Airport (page does not exist)\">Bekily Airport</a><sup id=\"cite_ref-IATA_1-105\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Bekily\" title=\"Bekily\">Bekily</a>, <a href=\"/wiki/Madagascar\" title=\"Madagascar\">Madagascar</a></td>
+</tr>
+<tr>
+<td>OVB</td>
+<td>UNNT</td>
+<td><a href=\"/wiki/Tolmachevo_Airport\" title=\"Tolmachevo Airport\">Tolmachevo Airport</a></td>
+<td><a href=\"/wiki/Novosibirsk\" title=\"Novosibirsk\">Novosibirsk</a>, <a href=\"/wiki/Novosibirsk_Oblast\" title=\"Novosibirsk Oblast\">Novosibirsk Oblast</a>, Russia</td>
+</tr>
+<tr>
+<td>OVD</td>
+<td>LEAS</td>
+<td><a href=\"/wiki/Asturias_Airport\" title=\"Asturias Airport\">Asturias Airport</a> (Oviedo Airport)</td>
+<td><a href=\"/wiki/Oviedo\" title=\"Oviedo\">Oviedo</a>, <a href=\"/wiki/Asturias\" title=\"Asturias\">Asturias</a>, Spain</td>
+</tr>
+<tr>
+<td>OVE</td>
+<td>KOVE</td>
+<td><a href=\"/wiki/Oroville_Municipal_Airport\" title=\"Oroville Municipal Airport\">Oroville Municipal Airport</a></td>
+<td><a href=\"/wiki/Oroville,_California\" title=\"Oroville, California\">Oroville</a>, <a href=\"/wiki/California\" title=\"California\">California</a>, United States</td>
+</tr>
+<tr>
+<td>OVG</td>
+<td>FAOB</td>
+<td><a href=\"/wiki/Air_Force_Base_Overberg\" title=\"Air Force Base Overberg\">Air Force Base Overberg</a><sup id=\"cite_ref-IATA_1-106\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Bredasdorp\" title=\"Bredasdorp\">Bredasdorp</a>, <a href=\"/wiki/South_Africa\" title=\"South Africa\">South Africa</a></td>
+</tr>
+<tr>
+<td>OVL</td>
+<td>SCOV</td>
+<td><a href=\"/wiki/El_Tuqui_Airport\" title=\"El Tuqui Airport\">El Tuqui Airport</a><sup id=\"cite_ref-IATA_1-107\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Ovalle\" title=\"Ovalle\">Ovalle</a>, <a href=\"/wiki/Chile\" title=\"Chile\">Chile</a></td>
+</tr>
+<tr>
+<td>OVR</td>
+<td>SAZF</td>
+<td><a href=\"/wiki/Olavarr%C3%ADa_Airport\" title=\"Olavarr\u00eda Airport\">Olavarr\u00eda Airport</a></td>
+<td><a href=\"/wiki/Olavarr%C3%ADa\" class=\"mw-redirect\" title=\"Olavarr\u00eda\">Olavarr\u00eda</a>, <a href=\"/wiki/Buenos_Aires_Province\" title=\"Buenos Aires Province\">Buenos Aires</a>, Argentina</td>
+</tr>
+<tr>
+<td>OVS</td>
+<td>USHS</td>
+<td><a href=\"/wiki/Sovetsky_Airport\" title=\"Sovetsky Airport\">Sovetsky Airport</a></td>
+<td><a href=\"/wiki/Sovetsky,_Khanty-Mansi_Autonomous_Okrug\" title=\"Sovetsky, Khanty-Mansi Autonomous Okrug\">Sovetsky</a>, <a href=\"/wiki/Khanty-Mansi_Autonomous_Okrug\" title=\"Khanty-Mansi Autonomous Okrug\">Khanty-Mansi Autonomous Okrug</a>, Russia</td>
+</tr>
+<tr>
+<td>OWA</td>
+<td>KOWA</td>
+<td><a href=\"/w/index.php?title=Owatonna_Degner_Regional_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Owatonna Degner Regional Airport (page does not exist)\">Owatonna Degner Regional Airport</a></td>
+<td><a href=\"/wiki/Owatonna,_Minnesota\" title=\"Owatonna, Minnesota\">Owatonna</a>, <a href=\"/wiki/Minnesota\" title=\"Minnesota\">Minnesota</a>, United States</td>
+</tr>
+<tr>
+<td>OWB</td>
+<td>KOWB</td>
+<td><a href=\"/wiki/Owensboro%E2%80%93Daviess_County_Regional_Airport\" title=\"Owensboro\u2013Daviess County Regional Airport\">Owensboro\u2013Daviess County Airport</a></td>
+<td><a href=\"/wiki/Owensboro,_Kentucky\" title=\"Owensboro, Kentucky\">Owensboro</a>, <a href=\"/wiki/Kentucky\" title=\"Kentucky\">Kentucky</a>, United States</td>
+</tr>
+<tr>
+<td>OWD</td>
+<td>KOWD</td>
+<td><a href=\"/wiki/Norwood_Memorial_Airport\" title=\"Norwood Memorial Airport\">Norwood Memorial Airport</a></td>
+<td><a href=\"/wiki/Norwood,_Massachusetts\" title=\"Norwood, Massachusetts\">Norwood</a>, <a href=\"/wiki/Massachusetts\" title=\"Massachusetts\">Massachusetts</a>, United States</td>
+</tr>
+<tr>
+<td>OWE</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Owendo_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Owendo Airport (page does not exist)\">Owendo Airport</a><sup id=\"cite_ref-IATA_1-108\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Owendo\" title=\"Owendo\">Owendo</a>, <a href=\"/wiki/Gabon\" title=\"Gabon\">Gabon</a></td>
+</tr>
+<tr>
+<td>OWK</td>
+<td>KOWK</td>
+<td><a href=\"/wiki/Central_Maine_Airport_of_Norridgewock\" title=\"Central Maine Airport of Norridgewock\">Central Maine Airport of Norridgewock</a></td>
+<td><a href=\"/wiki/Norridgewock,_Maine\" title=\"Norridgewock, Maine\">Norridgewock</a>, <a href=\"/wiki/Maine\" title=\"Maine\">Maine</a>, United States</td>
+</tr>
+<tr>
+<td>OXB</td>
+<td>GGOV</td>
+<td><a href=\"/wiki/Osvaldo_Vieira_International_Airport\" title=\"Osvaldo Vieira International Airport\">Osvaldo Vieira International Airport</a></td>
+<td><a href=\"/wiki/Bissau\" title=\"Bissau\">Bissau</a>, <a href=\"/wiki/Guinea-Bissau\" title=\"Guinea-Bissau\">Guinea-Bissau</a></td>
+</tr>
+<tr>
+<td>OXC</td>
+<td>KOXC</td>
+<td><a href=\"/wiki/Waterbury%E2%80%93Oxford_Airport\" title=\"Waterbury\u2013Oxford Airport\">Waterbury\u2013Oxford Airport</a></td>
+<td><a href=\"/wiki/Oxford,_Connecticut\" title=\"Oxford, Connecticut\">Oxford</a>, <a href=\"/wiki/Connecticut\" title=\"Connecticut\">Connecticut</a>, United States</td>
+</tr>
+<tr>
+<td>OXD</td>
+<td>KOXD</td>
+<td><a href=\"/wiki/Miami_University_Airport\" title=\"Miami University Airport\">Miami University Airport</a></td>
+<td><a href=\"/wiki/Oxford,_Ohio\" title=\"Oxford, Ohio\">Oxford</a>, <a href=\"/wiki/Ohio\" title=\"Ohio\">Ohio</a>, United States</td>
+</tr>
+<tr>
+<td>OXF</td>
+<td>EGTK</td>
+<td><a href=\"/wiki/Oxford_Airport\" title=\"Oxford Airport\">Oxford Airport</a> (London Oxford Airport)</td>
+<td><a href=\"/wiki/Oxford\" title=\"Oxford\">Oxford</a>, <a href=\"/wiki/England\" title=\"England\">England</a>, United Kingdom</td>
+</tr>
+<tr>
+<td>OXO</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Orientos_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Orientos Airport (page does not exist)\">Orientos Airport</a><sup id=\"cite_ref-IATA_1-109\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Orientos,_Queensland&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Orientos, Queensland (page does not exist)\">Orientos</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+</tr>
+<tr>
+<td>OXR</td>
+<td>KOXR</td>
+<td><a href=\"/wiki/Oxnard_Airport\" title=\"Oxnard Airport\">Oxnard Airport</a></td>
+<td><a href=\"/wiki/Oxnard,_California\" title=\"Oxnard, California\">Oxnard</a>, <a href=\"/wiki/California\" title=\"California\">California</a>, United States</td>
+</tr>
+<tr>
+<td>OXY</td>
+<td>YMNY</td>
+<td><a href=\"/w/index.php?title=Morney_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Morney Airport (page does not exist)\">Morney Airport</a><sup id=\"cite_ref-IATA_1-110\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Morney_Plains_Station\" title=\"Morney Plains Station\">Morney</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+</tr>
+<tr>
+<td>OYA</td>
+<td>SATG</td>
+<td><a href=\"/wiki/Goya_Airport\" title=\"Goya Airport\">Goya Airport</a><sup id=\"cite_ref-IATA_1-111\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Goya,_Argentina\" title=\"Goya, Argentina\">Goya</a>, <a href=\"/wiki/Corrientes_Province\" title=\"Corrientes Province\">Corrientes</a>, Argentina</td>
+</tr>
+<tr>
+<td>OYE</td>
+<td>FOGO</td>
+<td><a href=\"/wiki/Oyem_Airport\" title=\"Oyem Airport\">Oyem Airport</a><sup id=\"cite_ref-IATA_1-112\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Oyem\" title=\"Oyem\">Oyem</a>, <a href=\"/wiki/Gabon\" title=\"Gabon\">Gabon</a></td>
+</tr>
+<tr>
+<td>OYG</td>
+<td></td>
+<td><a href=\"/wiki/Moyo_Airport\" title=\"Moyo Airport\">Moyo Airport</a><sup id=\"cite_ref-IATA_1-113\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Moyo_Town\" title=\"Moyo Town\">Moyo Town</a>, <a href=\"/wiki/Uganda\" title=\"Uganda\">Uganda</a></td>
+</tr>
+<tr>
+<td>OYK</td>
+<td>SBOI</td>
+<td><a href=\"/w/index.php?title=Oiapoque_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Oiapoque Airport (page does not exist)\">Oiapoque Airport</a></td>
+<td><a href=\"/wiki/Oiapoque\" title=\"Oiapoque\">Oiapoque</a>, <a href=\"/wiki/Amap%C3%A1\" title=\"Amap\u00e1\">Amap\u00e1</a>, Brazil</td>
+</tr>
+<tr>
+<td>OYL</td>
+<td>HKMY</td>
+<td><a href=\"/wiki/Moyale_Airport\" title=\"Moyale Airport\">Moyale Airport</a><sup id=\"cite_ref-IATA_1-114\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Moyale\" title=\"Moyale\">Moyale</a>, <a href=\"/wiki/Kenya\" title=\"Kenya\">Kenya</a></td>
+</tr>
+<tr>
+<td>OYN</td>
+<td>YOUY</td>
+<td><a href=\"/w/index.php?title=Ouyen_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Ouyen Airport (page does not exist)\">Ouyen Airport</a><sup id=\"cite_ref-IATA_1-115\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Ouyen\" title=\"Ouyen\">Ouyen</a>, <a href=\"/wiki/Victoria_(Australia)\" title=\"Victoria (Australia)\">Victoria</a>, Australia</td>
+</tr>
+<tr>
+<td>OYO</td>
+<td>SAZH</td>
+<td><a href=\"/wiki/Tres_Arroyos_Airport\" title=\"Tres Arroyos Airport\">Tres Arroyos Airport</a></td>
+<td><a href=\"/wiki/Tres_Arroyos\" title=\"Tres Arroyos\">Tres Arroyos</a>, <a href=\"/wiki/Buenos_Aires_Province\" title=\"Buenos Aires Province\">Buenos Aires</a>, Argentina</td>
+</tr>
+<tr>
+<td>OYP</td>
+<td>SOOG</td>
+<td><a href=\"/wiki/Saint-Georges-de-l%27Oyapock_Airport\" title=\"Saint-Georges-de-l&#39;Oyapock Airport\">Saint-Georges-de-l'Oyapock Airport</a><sup id=\"cite_ref-IATA_1-116\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Saint-Georges,_French_Guiana\" title=\"Saint-Georges, French Guiana\">Saint-Georges-de-l'Oyapock</a>, <a href=\"/wiki/French_Guiana\" title=\"French Guiana\">French Guiana</a></td>
+</tr>
+<tr>
+<td>OZA</td>
+<td>KOZA</td>
+<td><a href=\"/w/index.php?title=Ozona_Municipal_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Ozona Municipal Airport (page does not exist)\">Ozona Municipal Airport</a></td>
+<td><a href=\"/wiki/Ozona,_Texas\" title=\"Ozona, Texas\">Ozona</a>, <a href=\"/wiki/Texas\" title=\"Texas\">Texas</a>, United States</td>
+</tr>
+<tr>
+<td>OZC</td>
+<td>RPMO</td>
+<td><a href=\"/wiki/Labo_Airport\" title=\"Labo Airport\">Labo Airport</a></td>
+<td><a href=\"/wiki/Ozamiz\" title=\"Ozamiz\">Ozamiz</a>, <a href=\"/wiki/Philippines\" title=\"Philippines\">Philippines</a></td>
+</tr>
+<tr>
+<td>OZG</td>
+<td>GMAZ</td>
+<td><a href=\"/wiki/Zagora_Airport\" title=\"Zagora Airport\">Zagora Airport</a><sup id=\"cite_ref-IATA_1-117\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Zagora,_Morocco\" title=\"Zagora, Morocco\">Zagora</a>, <a href=\"/wiki/Morocco\" title=\"Morocco\">Morocco</a></td>
+</tr>
+<tr>
+<td>OZH</td>
+<td>UKDE</td>
+<td><a href=\"/wiki/Zaporizhia_International_Airport\" title=\"Zaporizhia International Airport\">Zaporizhia International Airport</a></td>
+<td><a href=\"/wiki/Zaporizhia\" title=\"Zaporizhia\">Zaporizhia</a>, <a href=\"/wiki/Ukraine\" title=\"Ukraine\">Ukraine</a></td>
+</tr>
+<tr>
+<td>OZP</td>
+<td>LEMO</td>
+<td><a href=\"/wiki/Mor%C3%B3n_Air_Base_(Spain)\" class=\"mw-redirect\" title=\"Mor\u00f3n Air Base (Spain)\">Mor\u00f3n Air Base</a><sup id=\"cite_ref-IATA_1-118\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Mor%C3%B3n_de_la_Frontera\" title=\"Mor\u00f3n de la Frontera\">Mor\u00f3n de la Frontera</a>, <a href=\"/wiki/Andalusia\" title=\"Andalusia\">Andalusia</a>, Spain</td>
+</tr>
+<tr>
+<td>OZR</td>
+<td>KOZR</td>
+<td><a href=\"/wiki/Cairns_Army_Airfield\" title=\"Cairns Army Airfield\">Cairns Army Airfield</a></td>
+<td><a href=\"/wiki/Fort_Rucker\" title=\"Fort Rucker\">Fort Rucker</a> / <a href=\"/wiki/Ozark,_Alabama\" title=\"Ozark, Alabama\">Ozark</a>, <a href=\"/wiki/Alabama\" title=\"Alabama\">Alabama</a>, United States</td>
+</tr>
+<tr>
+<td>OZZ</td>
+<td>GMMZ</td>
+<td><a href=\"/wiki/Ouarzazate_Airport\" title=\"Ouarzazate Airport\">Ouarzazate Airport</a></td>
+<td><a href=\"/wiki/Ouarzazate\" title=\"Ouarzazate\">Ouarzazate</a>, <a href=\"/wiki/Morocco\" title=\"Morocco\">Morocco</a></td>
+</tr>

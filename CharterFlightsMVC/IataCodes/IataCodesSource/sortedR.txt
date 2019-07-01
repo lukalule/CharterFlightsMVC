@@ -1,0 +1,2004 @@
+<tr>
+<td>RAA</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Rakanda_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Rakanda Airport (page does not exist)\">Rakanda Airport</a><sup id=\"cite_ref-IATA_1-0\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Rakanda&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Rakanda (page does not exist)\">Rakanda</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>RAB</td>
+<td>AYTK</td>
+<td><a href=\"/wiki/Rabaul_Airport\" title=\"Rabaul Airport\">Rabaul Airport</a> (Tokua Airport)</td>
+<td><a href=\"/wiki/Rabaul\" title=\"Rabaul\">Rabaul</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>RAC</td>
+<td>KRAC</td>
+<td><a href=\"/wiki/John_H._Batten_Airport\" title=\"John H. Batten Airport\">John H. Batten Airport</a></td>
+<td><a href=\"/wiki/Racine,_Wisconsin\" title=\"Racine, Wisconsin\">Racine</a>, <a href=\"/wiki/Wisconsin\" title=\"Wisconsin\">Wisconsin</a>, United States</td>
+</tr>
+<tr>
+<td>RAD</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Road_Town_Seaplane_Base&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Road Town Seaplane Base (page does not exist)\">Road Town Seaplane Base</a><sup id=\"cite_ref-IATA_1-1\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Tortola\" title=\"Tortola\">Tortola</a>, <a href=\"/wiki/British_Overseas_Territory\" class=\"mw-redirect\" title=\"British Overseas Territory\">British Overseas Territory</a> of <a href=\"/wiki/British_Virgin_Islands\" title=\"British Virgin Islands\">Virgin Islands</a></td>
+</tr>
+<tr>
+<td>RAE</td>
+<td>OERR</td>
+<td><a href=\"/wiki/Arar_Domestic_Airport\" title=\"Arar Domestic Airport\">Arar Domestic Airport</a></td>
+<td><a href=\"/wiki/Arar,_Saudi_Arabia\" title=\"Arar, Saudi Arabia\">Arar</a>, <a href=\"/wiki/Saudi_Arabia\" title=\"Saudi Arabia\">Saudi Arabia</a></td>
+</tr>
+<tr>
+<td>RAF</td>
+<td>SAFR</td>
+<td><a href=\"/wiki/Rafaela_Airport\" class=\"mw-redirect\" title=\"Rafaela Airport\">Rafaela Airport</a><sup id=\"cite_ref-IATA_1-2\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Rafaela\" title=\"Rafaela\">Rafaela</a>, <a href=\"/wiki/Santa_Fe_Province\" title=\"Santa Fe Province\">Santa Fe</a>, Argentina</td>
+</tr>
+<tr>
+<td>RAG</td>
+<td>NZRA</td>
+<td><a href=\"/w/index.php?title=Raglan_Aerodrome&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Raglan Aerodrome (page does not exist)\">Raglan Aerodrome</a><sup id=\"cite_ref-IATA_1-3\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Raglan,_New_Zealand\" title=\"Raglan, New Zealand\">Raglan</a>, <a href=\"/wiki/New_Zealand\" title=\"New Zealand\">New Zealand</a></td>
+</tr>
+<tr>
+<td>RAH</td>
+<td>OERF</td>
+<td><a href=\"/wiki/Rafha_Domestic_Airport\" title=\"Rafha Domestic Airport\">Rafha Domestic Airport</a><sup id=\"cite_ref-IATA_1-4\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Rafha\" title=\"Rafha\">Rafha</a>, <a href=\"/wiki/Saudi_Arabia\" title=\"Saudi Arabia\">Saudi Arabia</a></td>
+</tr>
+<tr>
+<td>RAI</td>
+<td>GVNP</td>
+<td><a href=\"/wiki/Nelson_Mandela_International_Airport\" title=\"Nelson Mandela International Airport\">Nelson Mandela International Airport</a></td>
+<td><a href=\"/wiki/Praia\" title=\"Praia\">Praia</a>, <a href=\"/wiki/Cape_Verde\" title=\"Cape Verde\">Cape Verde</a></td>
+</tr>
+<tr>
+<td>RAJ</td>
+<td>VARK</td>
+<td><a href=\"/wiki/Rajkot_Airport\" title=\"Rajkot Airport\">Rajkot Airport</a></td>
+<td><a href=\"/wiki/Rajkot\" title=\"Rajkot\">Rajkot</a>, <a href=\"/wiki/Gujarat\" title=\"Gujarat\">Gujarat</a>, India</td>
+</tr>
+<tr>
+<td>RAK</td>
+<td>GMMX</td>
+<td><a href=\"/wiki/Marrakesh_Menara_Airport\" title=\"Marrakesh Menara Airport\">Marrakesh Menara Airport</a></td>
+<td><a href=\"/wiki/Marrakesh\" title=\"Marrakesh\">Marrakesh</a>, <a href=\"/wiki/Morocco\" title=\"Morocco\">Morocco</a></td>
+</tr>
+<tr>
+<td>RAL</td>
+<td>KRAL</td>
+<td><a href=\"/wiki/Riverside_Municipal_Airport\" title=\"Riverside Municipal Airport\">Riverside Municipal Airport</a></td>
+<td><a href=\"/wiki/Riverside,_California\" title=\"Riverside, California\">Riverside</a>, <a href=\"/wiki/California\" title=\"California\">California</a>, United States</td>
+</tr>
+<tr>
+<td>RAM</td>
+<td>YRNG</td>
+<td><a href=\"/wiki/Ramingining_Airport\" title=\"Ramingining Airport\">Ramingining Airport</a><sup id=\"cite_ref-IATA_1-5\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Ramingining,_Northern_Territory\" title=\"Ramingining, Northern Territory\">Ramingining</a>, <a href=\"/wiki/Northern_Territory\" title=\"Northern Territory\">Northern Territory</a>, Australia</td>
+</tr>
+<tr>
+<td>RAN</td>
+<td>LIDR</td>
+<td><a href=\"/wiki/Ravenna_Airport\" title=\"Ravenna Airport\">Ravenna Airport</a><sup id=\"cite_ref-IATA_1-6\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Ravenna\" title=\"Ravenna\">Ravenna</a>, <a href=\"/wiki/Emilia-Romagna\" title=\"Emilia-Romagna\">Emilia-Romagna</a>, Italy</td>
+</tr>
+<tr>
+<td>RAO</td>
+<td>SBRP</td>
+<td><a href=\"/wiki/Leite_Lopes_Airport\" title=\"Leite Lopes Airport\">Leite Lopes Airport</a></td>
+<td><a href=\"/wiki/Ribeir%C3%A3o_Preto\" title=\"Ribeir\u00e3o Preto\">Ribeir\u00e3o Preto</a>, <a href=\"/wiki/S%C3%A3o_Paulo_(state)\" title=\"S\u00e3o Paulo (state)\">S\u00e3o Paulo</a>, Brazil</td>
+</tr>
+<tr>
+<td>RAP</td>
+<td>KRAP</td>
+<td><a href=\"/wiki/Rapid_City_Regional_Airport\" title=\"Rapid City Regional Airport\">Rapid City Regional Airport</a></td>
+<td><a href=\"/wiki/Rapid_City,_South_Dakota\" title=\"Rapid City, South Dakota\">Rapid City</a>, <a href=\"/wiki/South_Dakota\" title=\"South Dakota\">South Dakota</a>, United States</td>
+</tr>
+<tr>
+<td>RAQ</td>
+<td>WAWR</td>
+<td><a href=\"/wiki/Sugimanuru_Airport\" title=\"Sugimanuru Airport\">Sugimanuru Airport</a><sup id=\"cite_ref-IATA_1-7\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Muna_Island\" title=\"Muna Island\">Muna Island</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+</tr>
+<tr>
+<td>RAR</td>
+<td>NCRG</td>
+<td><a href=\"/wiki/Rarotonga_International_Airport\" title=\"Rarotonga International Airport\">Rarotonga International Airport</a></td>
+<td><a href=\"/wiki/Avarua\" title=\"Avarua\">Avarua</a>, <a href=\"/wiki/Rarotonga\" title=\"Rarotonga\">Rarotonga</a>, <a href=\"/wiki/Cook_Islands\" title=\"Cook Islands\">Cook Islands</a></td>
+</tr>
+<tr>
+<td>RAS</td>
+<td>OIGG</td>
+<td><a href=\"/wiki/Rasht_Airport\" title=\"Rasht Airport\">Rasht Airport</a><sup id=\"cite_ref-IATA_1-8\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Rasht\" title=\"Rasht\">Rasht</a>, <a href=\"/wiki/Iran\" title=\"Iran\">Iran</a></td>
+</tr>
+<tr>
+<td>RAT</td>
+<td>USNR</td>
+<td><a href=\"/wiki/Raduzhny_Airport\" title=\"Raduzhny Airport\">Raduzhny Airport</a></td>
+<td><a href=\"/wiki/Raduzhny,_Khanty-Mansi_Autonomous_Okrug\" title=\"Raduzhny, Khanty-Mansi Autonomous Okrug\">Raduzhny</a>, <a href=\"/wiki/Khanty-Mansi_Autonomous_Okrug\" title=\"Khanty-Mansi Autonomous Okrug\">Khanty-Mansi Autonomous Okrug</a>, Russia</td>
+</tr>
+<tr>
+<td>RAV</td>
+<td>SKCN</td>
+<td><a href=\"/wiki/Cravo_Norte_Airport\" title=\"Cravo Norte Airport\">Cravo Norte Airport</a><sup id=\"cite_ref-IATA_1-9\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Cravo_Norte\" title=\"Cravo Norte\">Cravo Norte</a>, <a href=\"/wiki/Colombia\" title=\"Colombia\">Colombia</a></td>
+</tr>
+<tr>
+<td>RAW</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Arawa_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Arawa Airport (page does not exist)\">Arawa Airport</a><sup id=\"cite_ref-IATA_1-10\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Arawa,_Papua_New_Guinea\" title=\"Arawa, Papua New Guinea\">Arawa</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>RAX</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Oram_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Oram Airport (page does not exist)\">Oram Airport</a><sup id=\"cite_ref-IATA_1-11\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Oram,_Papua_New_Guinea&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Oram, Papua New Guinea (page does not exist)\">Oram</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>RAZ</td>
+<td>OPRT</td>
+<td><a href=\"/wiki/Rawalakot_Airport\" title=\"Rawalakot Airport\">Rawalakot Airport</a><sup id=\"cite_ref-IATA_1-12\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Rawalakot\" title=\"Rawalakot\">Rawalakot</a>, <a href=\"/wiki/Pakistan\" title=\"Pakistan\">Pakistan</a></td>
+</tr>
+<tr>
+<td>RBA</td>
+<td>GMME</td>
+<td><a href=\"/wiki/Rabat%E2%80%93Sal%C3%A9_Airport\" title=\"Rabat\u2013Sal\u00e9 Airport\">Rabat\u2013Sal\u00e9 Airport</a></td>
+<td><a href=\"/wiki/Rabat\" title=\"Rabat\">Rabat</a>, <a href=\"/wiki/Morocco\" title=\"Morocco\">Morocco</a></td>
+</tr>
+<tr>
+<td>RBB</td>
+<td>SWBR</td>
+<td><a href=\"/wiki/Borba_Airport\" title=\"Borba Airport\">Borba Airport</a></td>
+<td><a href=\"/wiki/Borba,_Amazonas\" title=\"Borba, Amazonas\">Borba</a>, <a href=\"/wiki/Amazonas_(Brazilian_state)\" title=\"Amazonas (Brazilian state)\">Amazonas</a>, Brazil</td>
+</tr>
+<tr>
+<td>RBC</td>
+<td>YROI</td>
+<td><a href=\"/wiki/Robinvale_Airport\" title=\"Robinvale Airport\">Robinvale Airport</a></td>
+<td><a href=\"/wiki/Robinvale\" title=\"Robinvale\">Robinvale</a>, <a href=\"/wiki/Victoria_(Australia)\" title=\"Victoria (Australia)\">Victoria</a>, Australia</td>
+</tr>
+<tr>
+<td>RBD</td>
+<td>KRBD</td>
+<td><a href=\"/wiki/Dallas_Executive_Airport\" title=\"Dallas Executive Airport\">Dallas Executive Airport</a></td>
+<td><a href=\"/wiki/Dallas\" title=\"Dallas\">Dallas</a>, <a href=\"/wiki/Texas\" title=\"Texas\">Texas</a>, United States</td>
+</tr>
+<tr>
+<td>RBE</td>
+<td>VDRK</td>
+<td><a href=\"/wiki/Ratanakiri_Airport\" title=\"Ratanakiri Airport\">Ratanakiri Airport</a></td>
+<td><a href=\"/wiki/Ratanakiri_Province\" title=\"Ratanakiri Province\">Ratanakiri</a>, <a href=\"/wiki/Cambodia\" title=\"Cambodia\">Cambodia</a></td>
+</tr>
+<tr>
+<td>RBF</td>
+<td></td>
+<td><a href=\"/wiki/Big_Bear_City_Airport\" title=\"Big Bear City Airport\">Big Bear City Airport</a><sup id=\"cite_ref-IATA_1-13\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (FAA: L35)</td>
+<td><a href=\"/wiki/Big_Bear_City,_California\" title=\"Big Bear City, California\">Big Bear City</a>, <a href=\"/wiki/California\" title=\"California\">California</a>, United States</td>
+</tr>
+<tr>
+<td>RBG</td>
+<td>KRBG</td>
+<td><a href=\"/wiki/Roseburg_Regional_Airport\" title=\"Roseburg Regional Airport\">Roseburg Regional Airport</a></td>
+<td><a href=\"/wiki/Roseburg,_Oregon\" title=\"Roseburg, Oregon\">Roseburg</a>, <a href=\"/wiki/Oregon\" title=\"Oregon\">Oregon</a>, United States</td>
+</tr>
+<tr>
+<td>RBI</td>
+<td>NFFR</td>
+<td><a href=\"/w/index.php?title=Rabi_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Rabi Airport (page does not exist)\">Rabi Airport</a><sup id=\"cite_ref-IATA_1-14\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Rabi_Island\" title=\"Rabi Island\">Rabi Island</a>, <a href=\"/wiki/Fiji\" title=\"Fiji\">Fiji</a></td>
+</tr>
+<tr>
+<td>RBJ</td>
+<td>RJCR</td>
+<td><a href=\"/wiki/Rebun_Airport\" title=\"Rebun Airport\">Rebun Airport</a><sup id=\"cite_ref-IATA_1-15\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Rebun,_Hokkaido\" title=\"Rebun, Hokkaido\">Rebun</a>, <a href=\"/wiki/Rebun_Island\" title=\"Rebun Island\">Rebun Island</a>, Japan</td>
+</tr>
+<tr>
+<td>RBK</td>
+<td></td>
+<td><a href=\"/wiki/French_Valley_Airport\" title=\"French Valley Airport\">French Valley Airport</a><sup id=\"cite_ref-IATA_1-16\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (FAA: F70)</td>
+<td><a href=\"/wiki/Murrieta,_California\" title=\"Murrieta, California\">Murrieta</a> / <a href=\"/wiki/Temecula,_California\" title=\"Temecula, California\">Temecula</a>, <a href=\"/wiki/California\" title=\"California\">California</a>, United States</td>
+</tr>
+<tr>
+<td>RBL</td>
+<td>KRBL</td>
+<td><a href=\"/wiki/Red_Bluff_Municipal_Airport\" title=\"Red Bluff Municipal Airport\">Red Bluff Municipal Airport</a></td>
+<td><a href=\"/wiki/Red_Bluff,_California\" title=\"Red Bluff, California\">Red Bluff</a>, <a href=\"/wiki/California\" title=\"California\">California</a>, United States</td>
+</tr>
+<tr>
+<td>RBM</td>
+<td>EDMS</td>
+<td><a href=\"/wiki/Straubing_Wallm%C3%BChle_Airport\" title=\"Straubing Wallm\u00fchle Airport\">Straubing Wallm\u00fchle Airport</a></td>
+<td><a href=\"/wiki/Straubing\" title=\"Straubing\">Straubing</a>, <a href=\"/wiki/Bavaria\" title=\"Bavaria\">Bavaria</a>, Germany</td>
+</tr>
+<tr>
+<td>RBO</td>
+<td>SLRB</td>
+<td><a href=\"/wiki/Robor%C3%A9_Airport\" title=\"Robor\u00e9 Airport\">Robor\u00e9 Airport</a><sup id=\"cite_ref-IATA_1-17\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Robor%C3%A9\" title=\"Robor\u00e9\">Robor\u00e9</a>, <a href=\"/wiki/Bolivia\" title=\"Bolivia\">Bolivia</a></td>
+</tr>
+<tr>
+<td>RBP</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Rabaraba_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Rabaraba Airport (page does not exist)\">Rabaraba Airport</a><sup id=\"cite_ref-IATA_1-18\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Rabaraba\" title=\"Rabaraba\">Rabaraba</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>RBQ</td>
+<td>SLRQ</td>
+<td><a href=\"/wiki/Rurrenabaque_Airport\" title=\"Rurrenabaque Airport\">Rurrenabaque Airport</a></td>
+<td><a href=\"/wiki/Rurrenabaque\" title=\"Rurrenabaque\">Rurrenabaque</a>, <a href=\"/wiki/Bolivia\" title=\"Bolivia\">Bolivia</a></td>
+</tr>
+<tr>
+<td>RBR</td>
+<td>SBRB</td>
+<td><a href=\"/wiki/Rio_Branco_International_Airport\" title=\"Rio Branco International Airport\">Pl\u00e1cido de Castro International Airport</a></td>
+<td><a href=\"/wiki/Rio_Branco,_Acre\" title=\"Rio Branco, Acre\">Rio Branco</a>, <a href=\"/wiki/Acre_(state)\" title=\"Acre (state)\">Acre</a>, Brazil</td>
+</tr>
+<tr>
+<td>RBS</td>
+<td>YORB</td>
+<td><a href=\"/wiki/Orbost_Airport\" title=\"Orbost Airport\">Orbost Airport</a><sup id=\"cite_ref-IATA_1-19\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Orbost\" title=\"Orbost\">Orbost</a>, <a href=\"/wiki/Victoria_(Australia)\" title=\"Victoria (Australia)\">Victoria</a>, Australia</td>
+</tr>
+<tr>
+<td>RBT</td>
+<td>HKMB</td>
+<td><a href=\"/wiki/Marsabit_Airport\" title=\"Marsabit Airport\">Marsabit Airport</a><sup id=\"cite_ref-IATA_1-20\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Marsabit\" title=\"Marsabit\">Marsabit</a>, <a href=\"/wiki/Kenya\" title=\"Kenya\">Kenya</a></td>
+</tr>
+<tr>
+<td>RBU</td>
+<td>YROE</td>
+<td><a href=\"/w/index.php?title=Roebourne_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Roebourne Airport (page does not exist)\">Roebourne Airport</a><sup id=\"cite_ref-IATA_1-21\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Roebourne,_Western_Australia\" title=\"Roebourne, Western Australia\">Roebourne</a>, <a href=\"/wiki/Western_Australia\" title=\"Western Australia\">Western Australia</a>, Australia</td>
+</tr>
+<tr>
+<td>RBV</td>
+<td>AGRM</td>
+<td><a href=\"/wiki/Ramata_Airport\" title=\"Ramata Airport\">Ramata Airport</a><sup id=\"cite_ref-IATA_1-22\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Ramata_Island\" title=\"Ramata Island\">Ramata Island</a>, <a href=\"/wiki/Solomon_Islands\" title=\"Solomon Islands\">Solomon Islands</a></td>
+</tr>
+<tr>
+<td>RBW</td>
+<td>KRBW</td>
+<td><a href=\"/wiki/Lowcountry_Regional_Airport\" title=\"Lowcountry Regional Airport\">Lowcountry Regional Airport</a></td>
+<td><a href=\"/wiki/Walterboro,_South_Carolina\" title=\"Walterboro, South Carolina\">Walterboro</a>, <a href=\"/wiki/South_Carolina\" title=\"South Carolina\">South Carolina</a>, United States</td>
+</tr>
+<tr>
+<td>RBX</td>
+<td>HSMK</td>
+<td><a href=\"/wiki/Rumbek_Airport\" title=\"Rumbek Airport\">Rumbek Airport</a><sup id=\"cite_ref-IATA_1-23\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Rumbek\" title=\"Rumbek\">Rumbek</a>, <a href=\"/wiki/South_Sudan\" title=\"South Sudan\">South Sudan</a></td>
+</tr>
+<tr>
+<td>RBY</td>
+<td>PARY</td>
+<td><a href=\"/wiki/Ruby_Airport\" title=\"Ruby Airport\">Ruby Airport</a></td>
+<td><a href=\"/wiki/Ruby,_Alaska\" title=\"Ruby, Alaska\">Ruby</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>RCA</td>
+<td>KRCA</td>
+<td><a href=\"/wiki/Ellsworth_Air_Force_Base\" title=\"Ellsworth Air Force Base\">Ellsworth Air Force Base</a></td>
+<td><a href=\"/wiki/Rapid_City,_South_Dakota\" title=\"Rapid City, South Dakota\">Rapid City</a>, <a href=\"/wiki/South_Dakota\" title=\"South Dakota\">South Dakota</a>, United States</td>
+</tr>
+<tr>
+<td>RCB</td>
+<td>FARB</td>
+<td><a href=\"/wiki/Richards_Bay_Airport\" title=\"Richards Bay Airport\">Richards Bay Airport</a></td>
+<td><a href=\"/wiki/Richards_Bay\" title=\"Richards Bay\">Richards Bay</a>, <a href=\"/wiki/South_Africa\" title=\"South Africa\">South Africa</a></td>
+</tr>
+<tr>
+<td>RCE</td>
+<td></td>
+<td><a href=\"/wiki/Roche_Harbor_Seaplane_Base\" title=\"Roche Harbor Seaplane Base\">Roche Harbor Seaplane Base</a></td>
+<td><a href=\"/wiki/Roche_Harbor,_Washington\" title=\"Roche Harbor, Washington\">Roche Harbor</a>, <a href=\"/wiki/Washington_(state)\" title=\"Washington (state)\">Washington</a>, United States</td>
+</tr>
+<tr>
+<td>RCH</td>
+<td>SKRH</td>
+<td><a href=\"/wiki/Almirante_Padilla_Airport\" title=\"Almirante Padilla Airport\">Almirante Padilla Airport</a></td>
+<td><a href=\"/wiki/Riohacha\" title=\"Riohacha\">Riohacha</a>, <a href=\"/wiki/Colombia\" title=\"Colombia\">Colombia</a></td>
+</tr>
+<tr>
+<td>RCK</td>
+<td>KRCK</td>
+<td><a href=\"/w/index.php?title=H._H._Coffield_Regional_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"H. H. Coffield Regional Airport (page does not exist)\">H. H. Coffield Regional Airport</a></td>
+<td><a href=\"/wiki/Rockdale,_Texas\" title=\"Rockdale, Texas\">Rockdale</a>, <a href=\"/wiki/Texas\" title=\"Texas\">Texas</a>, United States</td>
+</tr>
+<tr>
+<td>RCL</td>
+<td>NVSR</td>
+<td><a href=\"/wiki/Redcliffe_Airport_(Vanuatu)\" title=\"Redcliffe Airport (Vanuatu)\">Redcliffe Airport</a><sup id=\"cite_ref-IATA_1-24\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Redcliffe,_Vanuatu&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Redcliffe, Vanuatu (page does not exist)\">Redcliffe</a>, <a href=\"/wiki/Aoba_Island\" class=\"mw-redirect\" title=\"Aoba Island\">Aoba Island</a>, <a href=\"/wiki/Vanuatu\" title=\"Vanuatu\">Vanuatu</a></td>
+</tr>
+<tr>
+<td>RCM</td>
+<td>YRMD</td>
+<td><a href=\"/wiki/Richmond_Airport\" title=\"Richmond Airport\">Richmond Airport</a></td>
+<td><a href=\"/wiki/Richmond,_Queensland\" title=\"Richmond, Queensland\">Richmond</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+</tr>
+<tr>
+<td>RCN</td>
+<td></td>
+<td><a href=\"/w/index.php?title=American_River_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"American River Airport (page does not exist)\">American River Airport</a><sup id=\"cite_ref-IATA_1-25\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/American_River,_South_Australia\" class=\"mw-redirect\" title=\"American River, South Australia\">American River</a>, <a href=\"/wiki/South_Australia\" title=\"South Australia\">South Australia</a>, Australia</td>
+</tr>
+<tr>
+<td>RCO</td>
+<td>LFDN</td>
+<td><a href=\"/w/index.php?title=Rochefort_%E2%80%93_Saint-Agnant_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Rochefort \u2013 Saint-Agnant Airport (page does not exist)\">Rochefort \u2013 Saint-Agnant Airport</a><sup id=\"cite_ref-IATA_1-26\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Rochefort,_Charente-Maritime\" title=\"Rochefort, Charente-Maritime\">Rochefort</a>, <a href=\"/wiki/Poitou-Charentes\" title=\"Poitou-Charentes\">Poitou-Charentes</a>, France</td>
+</tr>
+<tr>
+<td>RCQ</td>
+<td>SATR</td>
+<td><a href=\"/wiki/Reconquista_Airport\" title=\"Reconquista Airport\">Reconquista Airport</a></td>
+<td><a href=\"/wiki/Reconquista,_Santa_Fe\" title=\"Reconquista, Santa Fe\">Reconquista</a>, <a href=\"/wiki/Santa_Fe_Province\" title=\"Santa Fe Province\">Santa Fe</a>, Argentina</td>
+</tr>
+<tr>
+<td>RCR</td>
+<td>KRCR</td>
+<td><a href=\"/wiki/Fulton_County_Airport_(Indiana)\" title=\"Fulton County Airport (Indiana)\">Fulton County Airport</a></td>
+<td><a href=\"/wiki/Rochester,_Indiana\" title=\"Rochester, Indiana\">Rochester</a>, <a href=\"/wiki/Indiana\" title=\"Indiana\">Indiana</a>, United States</td>
+</tr>
+<tr>
+<td>RCS</td>
+<td>EGTO</td>
+<td><a href=\"/wiki/Rochester_Airport,_England\" class=\"mw-redirect\" title=\"Rochester Airport, England\">Rochester Airport</a></td>
+<td><a href=\"/wiki/Rochester,_Kent\" title=\"Rochester, Kent\">Rochester</a>, <a href=\"/wiki/England\" title=\"England\">England</a>, United Kingdom</td>
+</tr>
+<tr>
+<td>RCT</td>
+<td>KRCT</td>
+<td><a href=\"/wiki/Nartron_Field\" title=\"Nartron Field\">Nartron Field</a></td>
+<td><a href=\"/wiki/Reed_City,_Michigan\" title=\"Reed City, Michigan\">Reed City</a>, <a href=\"/wiki/Michigan\" title=\"Michigan\">Michigan</a>, United States</td>
+</tr>
+<tr>
+<td>RCU</td>
+<td>SAOC</td>
+<td><a href=\"/wiki/Las_Higueras_Airport\" title=\"Las Higueras Airport\">Las Higueras Airport</a></td>
+<td><a href=\"/wiki/R%C3%ADo_Cuarto,_C%C3%B3rdoba\" title=\"R\u00edo Cuarto, C\u00f3rdoba\">R\u00edo Cuarto</a>, <a href=\"/wiki/C%C3%B3rdoba_Province,_Argentina\" title=\"C\u00f3rdoba Province, Argentina\">C\u00f3rdoba</a>, Argentina</td>
+</tr>
+<tr>
+<td>RCY</td>
+<td>MYRP</td>
+<td><a href=\"/wiki/Port_Nelson_Airport\" title=\"Port Nelson Airport\">Port Nelson Airport</a><sup id=\"cite_ref-IATA_1-27\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Port_Nelson,_Bahamas\" class=\"mw-redirect\" title=\"Port Nelson, Bahamas\">Port Nelson</a>, <a href=\"/wiki/Rum_Cay\" title=\"Rum Cay\">Rum Cay Island</a>, <a href=\"/wiki/The_Bahamas\" title=\"The Bahamas\">Bahamas</a></td>
+</tr>
+<tr>
+<td>RDA</td>
+<td>YRKD</td>
+<td><a href=\"/w/index.php?title=Rockhampton_Downs_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Rockhampton Downs Airport (page does not exist)\">Rockhampton Downs Airport</a></td>
+<td><a href=\"/w/index.php?title=Rockhampton_Downs&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Rockhampton Downs (page does not exist)\">Rockhampton Downs</a>, <a href=\"/wiki/Northern_Territory\" title=\"Northern Territory\">Northern Territory</a>, Australia</td>
+</tr>
+<tr>
+<td>RDB</td>
+<td>PADG</td>
+<td><a href=\"/wiki/Red_Dog_Airport\" title=\"Red Dog Airport\">Red Dog Airport</a></td>
+<td><a href=\"/wiki/Red_Dog_Mine,_Alaska\" title=\"Red Dog Mine, Alaska\">Red Dog</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>RDC</td>
+<td>SNDC</td>
+<td><a href=\"/wiki/Reden%C3%A7%C3%A3o_Airport\" title=\"Reden\u00e7\u00e3o Airport\">Reden\u00e7\u00e3o Airport</a><sup id=\"cite_ref-IATA_1-28\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Reden%C3%A7%C3%A3o,_Par%C3%A1\" title=\"Reden\u00e7\u00e3o, Par\u00e1\">Reden\u00e7\u00e3o</a>, <a href=\"/wiki/Par%C3%A1\" title=\"Par\u00e1\">Par\u00e1</a>, Brazil</td>
+</tr>
+<tr>
+<td>RDD</td>
+<td>KRDD</td>
+<td><a href=\"/wiki/Redding_Municipal_Airport\" title=\"Redding Municipal Airport\">Redding Municipal Airport</a></td>
+<td><a href=\"/wiki/Redding,_California\" title=\"Redding, California\">Redding</a>, <a href=\"/wiki/California\" title=\"California\">California</a>, United States</td>
+</tr>
+<tr>
+<td>RDE</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Merdey_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Merdey Airport (page does not exist)\">Merdey Airport</a><sup id=\"cite_ref-IATA_1-29\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (Jahabra Airport)</td>
+<td><a href=\"/w/index.php?title=Merdey&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Merdey (page does not exist)\">Merdey</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+</tr>
+<tr>
+<td>RDG</td>
+<td>KRDG</td>
+<td><a href=\"/wiki/Reading_Regional_Airport\" title=\"Reading Regional Airport\">Reading Regional Airport</a> (Carl A. Spaatz Field)</td>
+<td><a href=\"/wiki/Reading,_Pennsylvania\" title=\"Reading, Pennsylvania\">Reading</a>, <a href=\"/wiki/Pennsylvania\" title=\"Pennsylvania\">Pennsylvania</a>, United States</td>
+</tr>
+<tr>
+<td>RDM</td>
+<td>KRDM</td>
+<td><a href=\"/wiki/Roberts_Field\" title=\"Roberts Field\">Roberts Field</a></td>
+<td><a href=\"/wiki/Redmond,_Oregon\" title=\"Redmond, Oregon\">Redmond</a> / <a href=\"/wiki/Bend,_Oregon\" title=\"Bend, Oregon\">Bend</a>, <a href=\"/wiki/Oregon\" title=\"Oregon\">Oregon</a>, United States</td>
+</tr>
+<tr>
+<td>RDN</td>
+<td>WMPR</td>
+<td><a href=\"/wiki/Redang_Airport\" title=\"Redang Airport\">Redang Airport</a><sup id=\"cite_ref-IATA_1-30\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Redang_Island\" title=\"Redang Island\">Redang Island</a>, <a href=\"/wiki/Terengganu\" title=\"Terengganu\">Terengganu</a>, Malaysia</td>
+</tr>
+<tr>
+<td>RDO</td>
+<td>EPRA</td>
+<td><a href=\"/wiki/Radom_Airport\" title=\"Radom Airport\">Radom Airport</a><sup id=\"cite_ref-IATA_1-31\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Radom\" title=\"Radom\">Radom</a>, <a href=\"/wiki/Poland\" title=\"Poland\">Poland</a></td>
+</tr>
+<tr>
+<td>RDP</td>
+<td>VEDG</td>
+<td><a href=\"/wiki/Kazi_Nazrul_Islam_Airport\" title=\"Kazi Nazrul Islam Airport\">Kazi Nazrul Islam Airport</a></td>
+<td><a href=\"/wiki/Durgapur\" title=\"Durgapur\">Durgapur</a>, <a href=\"/wiki/West_Bengal\" title=\"West Bengal\">West Bengal</a>, India</td>
+</tr>
+<tr>
+<td>RDR</td>
+<td>KRDR</td>
+<td><a href=\"/wiki/Grand_Forks_Air_Force_Base\" title=\"Grand Forks Air Force Base\">Grand Forks Air Force Base</a></td>
+<td><a href=\"/wiki/Grand_Forks,_North_Dakota\" title=\"Grand Forks, North Dakota\">Grand Forks</a>, <a href=\"/wiki/North_Dakota\" title=\"North Dakota\">North Dakota</a>, United States</td>
+</tr>
+<tr>
+<td>RDS</td>
+<td>SAHS</td>
+<td><a href=\"/wiki/Rinc%C3%B3n_de_los_Sauces_Airport\" title=\"Rinc\u00f3n de los Sauces Airport\">Rinc\u00f3n de los Sauces Airport</a><sup id=\"cite_ref-IATA_1-32\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Rinc%C3%B3n_de_los_Sauces\" class=\"mw-redirect\" title=\"Rinc\u00f3n de los Sauces\">Rinc\u00f3n de los Sauces</a>, <a href=\"/wiki/Neuqu%C3%A9n_Province\" title=\"Neuqu\u00e9n Province\">Neuqu\u00e9n</a>, Argentina</td>
+</tr>
+<tr>
+<td>RDT</td>
+<td>GOSR</td>
+<td><a href=\"/wiki/Richard_Toll_Airport\" title=\"Richard Toll Airport\">Richard Toll Airport</a></td>
+<td><a href=\"/wiki/Richard_Toll\" title=\"Richard Toll\">Richard Toll</a>, <a href=\"/wiki/Senegal\" title=\"Senegal\">Senegal</a></td>
+</tr>
+<tr>
+<td>RDU</td>
+<td>KRDU</td>
+<td><a href=\"/wiki/Raleigh%E2%80%93Durham_International_Airport\" title=\"Raleigh\u2013Durham International Airport\">Raleigh\u2013Durham International Airport</a></td>
+<td><a href=\"/wiki/Raleigh,_North_Carolina\" title=\"Raleigh, North Carolina\">Raleigh</a> / <a href=\"/wiki/Durham,_North_Carolina\" title=\"Durham, North Carolina\">Durham</a>, <a href=\"/wiki/North_Carolina\" title=\"North Carolina\">North Carolina</a>, United States</td>
+</tr>
+<tr>
+<td>RDV</td>
+<td></td>
+<td><a href=\"/wiki/Red_Devil_Airport\" title=\"Red Devil Airport\">Red Devil Airport</a></td>
+<td><a href=\"/wiki/Red_Devil,_Alaska\" title=\"Red Devil, Alaska\">Red Devil</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>RDZ</td>
+<td>LFCR</td>
+<td><a href=\"/wiki/Rodez%E2%80%93Marcillac_Airport\" class=\"mw-redirect\" title=\"Rodez\u2013Marcillac Airport\">Rodez\u2013Marcillac Airport</a></td>
+<td><a href=\"/wiki/Rodez\" title=\"Rodez\">Rodez</a>, <a href=\"/wiki/Midi-Pyr%C3%A9n%C3%A9es\" title=\"Midi-Pyr\u00e9n\u00e9es\">Midi-Pyr\u00e9n\u00e9es</a>, France</td>
+</tr>
+<tr>
+<td>REA</td>
+<td>NTGE</td>
+<td><a href=\"/wiki/Reao_Airport\" title=\"Reao Airport\">Reao Airport</a><sup id=\"cite_ref-IATA_1-33\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Reao\" title=\"Reao\">Reao</a>, <a href=\"/wiki/Tuamotus\" title=\"Tuamotus\">Tuamotus</a>, <a href=\"/wiki/French_Polynesia\" title=\"French Polynesia\">French Polynesia</a></td>
+</tr>
+<tr>
+<td>REB</td>
+<td>EDAX</td>
+<td><a href=\"/wiki/Rechlin%E2%80%93L%C3%A4rz_Airfield\" title=\"Rechlin\u2013L\u00e4rz Airfield\">Rechlin\u2013L\u00e4rz Airfield</a><sup id=\"cite_ref-IATA_1-34\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Rechlin\" title=\"Rechlin\">Rechlin</a>, <a href=\"/wiki/Mecklenburg-Vorpommern\" title=\"Mecklenburg-Vorpommern\">Mecklenburg-Vorpommern</a>, Germany</td>
+</tr>
+<tr>
+<td>REC</td>
+<td>SBRF</td>
+<td><a href=\"/wiki/Recife/Guararapes%E2%80%93Gilberto_Freyre_International_Airport\" title=\"Recife/Guararapes\u2013Gilberto Freyre International Airport\">Recife/Guararapes\u2013Gilberto Freyre International Airport</a></td>
+<td><a href=\"/wiki/Recife\" title=\"Recife\">Recife</a>, <a href=\"/wiki/Pernambuco\" title=\"Pernambuco\">Pernambuco</a>, Brazil</td>
+</tr>
+<tr>
+<td>RED</td>
+<td>KRVL</td>
+<td><a href=\"/wiki/Mifflin_County_Airport\" title=\"Mifflin County Airport\">Mifflin County Airport</a> (FAA: RVL)</td>
+<td><a href=\"/wiki/Reedsville,_Pennsylvania\" title=\"Reedsville, Pennsylvania\">Reedsville</a> / <a href=\"/wiki/Lewistown,_Pennsylvania\" title=\"Lewistown, Pennsylvania\">Lewistown</a>, <a href=\"/wiki/Pennsylvania\" title=\"Pennsylvania\">Pennsylvania</a>, United States</td>
+</tr>
+<tr>
+<td>REE</td>
+<td></td>
+<td><a href=\"/wiki/Reese_Air_Force_Base\" class=\"mw-redirect\" title=\"Reese Air Force Base\">Reese Airpark</a><sup id=\"cite_ref-IATA_1-35\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (FAA: 8XS8)</td>
+<td><a href=\"/wiki/Lubbock,_Texas\" title=\"Lubbock, Texas\">Lubbock</a>, <a href=\"/wiki/Texas\" title=\"Texas\">Texas</a>, United States</td>
+</tr>
+<tr>
+<td>REG</td>
+<td>LICR</td>
+<td><a href=\"/wiki/Reggio_Calabria_Airport\" title=\"Reggio Calabria Airport\">Reggio di Calabria Airport</a></td>
+<td><a href=\"/wiki/Reggio_Calabria\" title=\"Reggio Calabria\">Reggio di Calabria</a>, <a href=\"/wiki/Calabria\" title=\"Calabria\">Calabria</a>, Italy</td>
+</tr>
+<tr>
+<td>REI</td>
+<td>SOOR</td>
+<td><a href=\"/wiki/R%C3%A9gina_Airport\" title=\"R\u00e9gina Airport\">R\u00e9gina Airport</a><sup id=\"cite_ref-IATA_1-36\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/R%C3%A9gina\" title=\"R\u00e9gina\">R\u00e9gina</a>, <a href=\"/wiki/French_Guiana\" title=\"French Guiana\">French Guiana</a></td>
+</tr>
+<tr>
+<td>REK<sup id=\"cite_ref-IATA_1-37\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td></td>
+<td>metropolitan area<sup class=\"reference plainlinks nourlexpansion\" id=\"ref_1\"><a href=\"#endnote_1\">1</a></sup></td>
+<td><a href=\"/wiki/Reykjav%C3%ADk\" title=\"Reykjav\u00edk\">Reykjav\u00edk</a>, <a href=\"/wiki/Iceland\" title=\"Iceland\">Iceland</a></td>
+</tr>
+<tr>
+<td>REL</td>
+<td>SAVT</td>
+<td><a href=\"/wiki/Almirante_Marcos_A._Zar_Airport\" title=\"Almirante Marcos A. Zar Airport\">Almirante Marcos A. Zar Airport</a></td>
+<td><a href=\"/wiki/Trelew\" title=\"Trelew\">Trelew</a>, <a href=\"/wiki/Chubut_Province\" title=\"Chubut Province\">Chubut</a>, Argentina</td>
+</tr>
+<tr>
+<td>REN</td>
+<td>UWOO</td>
+<td><a href=\"/wiki/Orenburg_Tsentralny_Airport\" title=\"Orenburg Tsentralny Airport\">Orenburg Tsentralny Airport</a></td>
+<td><a href=\"/wiki/Orenburg\" title=\"Orenburg\">Orenburg</a>, <a href=\"/wiki/Orenburg_Oblast\" title=\"Orenburg Oblast\">Orenburg Oblast</a>, Russia</td>
+</tr>
+<tr>
+<td>REO</td>
+<td>KREO</td>
+<td><a href=\"/wiki/Rome_State_Airport\" title=\"Rome State Airport\">Rome State Airport</a></td>
+<td><a href=\"/wiki/Rome,_Oregon\" title=\"Rome, Oregon\">Rome</a>, <a href=\"/wiki/Oregon\" title=\"Oregon\">Oregon</a>, United States</td>
+</tr>
+<tr>
+<td>REP</td>
+<td>VDSR</td>
+<td><a href=\"/wiki/Siem_Reap_International_Airport\" title=\"Siem Reap International Airport\">Siem Reap International Airport</a> (Angkor Int'l)</td>
+<td><a href=\"/wiki/Siem_Reap\" title=\"Siem Reap\">Siem Reap</a>, <a href=\"/wiki/Cambodia\" title=\"Cambodia\">Cambodia</a></td>
+</tr>
+<tr>
+<td>REQ</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Reko_Diq_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Reko Diq Airport (page does not exist)\">Reko Diq Airport</a><sup id=\"cite_ref-IATA_1-38\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Reko_Diq\" title=\"Reko Diq\">Reko Diq</a>, <a href=\"/wiki/Pakistan\" title=\"Pakistan\">Pakistan</a></td>
+</tr>
+<tr>
+<td>RER</td>
+<td>MGRT</td>
+<td><a href=\"/wiki/Retalhuleu_Airport\" title=\"Retalhuleu Airport\">Retalhuleu Airport</a></td>
+<td><a href=\"/wiki/Retalhuleu\" title=\"Retalhuleu\">Retalhuleu</a>, <a href=\"/wiki/Guatemala\" title=\"Guatemala\">Guatemala</a></td>
+</tr>
+<tr>
+<td>RES</td>
+<td>SARE</td>
+<td><a href=\"/wiki/Resistencia_International_Airport\" title=\"Resistencia International Airport\">Resistencia International Airport</a></td>
+<td><a href=\"/wiki/Resistencia,_Chaco\" title=\"Resistencia, Chaco\">Resistencia</a>, <a href=\"/wiki/Chaco_Province\" title=\"Chaco Province\">Chaco</a>, Argentina</td>
+</tr>
+<tr>
+<td>RET</td>
+<td>ENRS</td>
+<td><a href=\"/wiki/R%C3%B8st_Airport\" title=\"R\u00f8st Airport\">R\u00f8st Airport</a></td>
+<td><a href=\"/wiki/R%C3%B8st\" title=\"R\u00f8st\">R\u00f8st</a>, <a href=\"/wiki/Norway\" title=\"Norway\">Norway</a></td>
+</tr>
+<tr>
+<td>REU</td>
+<td>LERS</td>
+<td><a href=\"/wiki/Reus_Airport\" title=\"Reus Airport\">Reus Airport</a></td>
+<td><a href=\"/wiki/Reus\" title=\"Reus\">Reus</a>, <a href=\"/wiki/Catalonia\" title=\"Catalonia\">Catalonia</a>, Spain</td>
+</tr>
+<tr>
+<td>REW</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Churhata_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Churhata Airport (page does not exist)\">Churhata Airport</a><sup id=\"cite_ref-IATA_1-39\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Rewa,_Madhya_Pradesh\" title=\"Rewa, Madhya Pradesh\">Rewa</a>, <a href=\"/wiki/Madhya_Pradesh\" title=\"Madhya Pradesh\">Madhya Pradesh</a>, India</td>
+</tr>
+<tr>
+<td>REX</td>
+<td>MMRX</td>
+<td><a href=\"/wiki/General_Lucio_Blanco_International_Airport\" title=\"General Lucio Blanco International Airport\">General Lucio Blanco International Airport</a></td>
+<td><a href=\"/wiki/Reynosa\" title=\"Reynosa\">Reynosa</a>, <a href=\"/wiki/Tamaulipas\" title=\"Tamaulipas\">Tamaulipas</a>, Mexico</td>
+</tr>
+<tr>
+<td>REY</td>
+<td>SLRY</td>
+<td><a href=\"/wiki/Reyes_Airport\" title=\"Reyes Airport\">Reyes Airport</a><sup id=\"cite_ref-IATA_1-40\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Reyes,_Bolivia\" title=\"Reyes, Bolivia\">Reyes</a>, <a href=\"/wiki/Bolivia\" title=\"Bolivia\">Bolivia</a></td>
+</tr>
+<tr>
+<td>REZ</td>
+<td>SDRS</td>
+<td><a href=\"/wiki/Resende_Airport\" title=\"Resende Airport\">Resende Airport</a><sup id=\"cite_ref-IATA_1-41\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Resende,_Rio_de_Janeiro\" title=\"Resende, Rio de Janeiro\">Resende</a>, <a href=\"/wiki/Rio_de_Janeiro_(state)\" title=\"Rio de Janeiro (state)\">Rio de Janeiro</a>, Brazil</td>
+</tr>
+<tr>
+<td>RFA</td>
+<td>FEGR</td>
+<td><a href=\"/wiki/Rafa%C3%AF_Airport\" title=\"Rafa\u00ef Airport\">Rafa\u00ef Airport</a><sup id=\"cite_ref-IATA_1-42\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Rafa%C3%AF\" title=\"Rafa\u00ef\">Rafa\u00ef</a>, <a href=\"/wiki/Central_African_Republic\" title=\"Central African Republic\">Central African Republic</a></td>
+</tr>
+<tr>
+<td>RFD</td>
+<td>KRFD</td>
+<td><a href=\"/wiki/Chicago_Rockford_International_Airport\" title=\"Chicago Rockford International Airport\">Chicago Rockford International Airport</a> (Greater Rockford Airport)</td>
+<td><a href=\"/wiki/Rockford,_Illinois\" title=\"Rockford, Illinois\">Rockford</a>, <a href=\"/wiki/Illinois\" title=\"Illinois\">Illinois</a>, United States</td>
+</tr>
+<tr>
+<td>RFG</td>
+<td>KRFG</td>
+<td><a href=\"/w/index.php?title=Rooke_Field&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Rooke Field (page does not exist)\">Rooke Field</a></td>
+<td><a href=\"/wiki/Refugio,_Texas\" title=\"Refugio, Texas\">Refugio</a>, <a href=\"/wiki/Texas\" title=\"Texas\">Texas</a>, United States</td>
+</tr>
+<tr>
+<td>RFK</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Rollang_Field&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Rollang Field (page does not exist)\">Rollang Field</a><sup id=\"cite_ref-IATA_1-43\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (FAA: 5MS1)</td>
+<td><a href=\"/wiki/Rolling_Fork,_Mississippi\" title=\"Rolling Fork, Mississippi\">Rolling Fork</a>, <a href=\"/wiki/Mississippi\" title=\"Mississippi\">Mississippi</a>, United States</td>
+</tr>
+<tr>
+<td>RFN</td>
+<td>BIRG</td>
+<td><a href=\"/wiki/Raufarh%C3%B6fn_Airport\" title=\"Raufarh\u00f6fn Airport\">Raufarh\u00f6fn Airport</a><sup id=\"cite_ref-IATA_1-44\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Raufarh%C3%B6fn\" title=\"Raufarh\u00f6fn\">Raufarh\u00f6fn</a>, <a href=\"/wiki/Iceland\" title=\"Iceland\">Iceland</a></td>
+</tr>
+<tr>
+<td>RFP</td>
+<td>NTTR</td>
+<td><a href=\"/wiki/Raiatea_Airport\" title=\"Raiatea Airport\">Raiatea Airport</a><sup id=\"cite_ref-IATA_1-45\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (Uturoa Airport)</td>
+<td><a href=\"/wiki/Raiatea\" title=\"Raiatea\">Raiatea</a>, <a href=\"/wiki/Society_Islands\" title=\"Society Islands\">Society Islands</a>, <a href=\"/wiki/French_Polynesia\" title=\"French Polynesia\">French Polynesia</a></td>
+</tr>
+<tr>
+<td>RFR</td>
+<td>MRRF</td>
+<td><a href=\"/w/index.php?title=R%C3%ADo_Fr%C3%ADo_Airport_(Costa_Rica)&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"R\u00edo Fr\u00edo Airport (Costa Rica) (page does not exist)\">R\u00edo Fr\u00edo Airport</a><sup id=\"cite_ref-IATA_1-46\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=R%C3%ADo_Fr%C3%ADo,_Costa_Rica&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"R\u00edo Fr\u00edo, Costa Rica (page does not exist)\">R\u00edo Fr\u00edo</a>, <a href=\"/wiki/Costa_Rica\" title=\"Costa Rica\">Costa Rica</a></td>
+</tr>
+<tr>
+<td>RFS</td>
+<td>MNRT</td>
+<td><a href=\"/wiki/Rosita_Airport\" title=\"Rosita Airport\">Rosita Airport</a><sup id=\"cite_ref-IATA_1-47\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Rosita,_North_Caribbean_Coast_Autonomous_Region\" class=\"mw-redirect\" title=\"Rosita, North Caribbean Coast Autonomous Region\">Rosita</a>, <a href=\"/wiki/Nicaragua\" title=\"Nicaragua\">Nicaragua</a></td>
+</tr>
+<tr>
+<td>RGA</td>
+<td>SAWE</td>
+<td><a href=\"/wiki/Hermes_Quijada_International_Airport\" title=\"Hermes Quijada International Airport\">Hermes Quijada International Airport</a></td>
+<td><a href=\"/wiki/R%C3%ADo_Grande,_Tierra_del_Fuego\" title=\"R\u00edo Grande, Tierra del Fuego\">R\u00edo Grande</a>, <a href=\"/wiki/Tierra_del_Fuego_Province,_Argentina\" title=\"Tierra del Fuego Province, Argentina\">Tierra del Fuego</a>, Argentina</td>
+</tr>
+<tr>
+<td>RGE</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Porgera_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Porgera Airport (page does not exist)\">Porgera Airport</a><sup id=\"cite_ref-IATA_1-48\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Porgera_Gold_Mine\" title=\"Porgera Gold Mine\">Porgera</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>RGH</td>
+<td>VEBG</td>
+<td><a href=\"/wiki/Balurghat_Airport\" title=\"Balurghat Airport\">Balurghat Airport</a><sup id=\"cite_ref-IATA_1-49\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Balurghat\" title=\"Balurghat\">Balurghat</a>, <a href=\"/wiki/West_Bengal\" title=\"West Bengal\">West Bengal</a>, India</td>
+</tr>
+<tr>
+<td>RGI</td>
+<td>NTTG</td>
+<td><a href=\"/wiki/Rangiroa_Airport\" title=\"Rangiroa Airport\">Rangiroa Airport</a><sup id=\"cite_ref-IATA_1-50\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Rangiroa\" title=\"Rangiroa\">Rangiroa</a>, <a href=\"/wiki/Tuamotus\" title=\"Tuamotus\">Tuamotus</a>, <a href=\"/wiki/French_Polynesia\" title=\"French Polynesia\">French Polynesia</a></td>
+</tr>
+<tr>
+<td>RGK</td>
+<td>UNBG</td>
+<td><a href=\"/wiki/Gorno-Altaysk_Airport\" title=\"Gorno-Altaysk Airport\">Gorno-Altaysk Airport</a><sup id=\"cite_ref-IATA_1-51\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Gorno-Altaysk\" title=\"Gorno-Altaysk\">Gorno-Altaysk</a>, <a href=\"/wiki/Altai_Republic\" title=\"Altai Republic\">Altai Republic</a>, Russia</td>
+</tr>
+<tr>
+<td>RGL</td>
+<td>SAWG</td>
+<td><a href=\"/wiki/Piloto_Civil_Norberto_Fern%C3%A1ndez_International_Airport\" title=\"Piloto Civil Norberto Fern\u00e1ndez International Airport\">Piloto Civil Norberto Fern\u00e1ndez International Airport</a></td>
+<td><a href=\"/wiki/R%C3%ADo_Gallegos,_Santa_Cruz\" title=\"R\u00edo Gallegos, Santa Cruz\">R\u00edo Gallegos</a>, <a href=\"/wiki/Santa_Cruz_Province,_Argentina\" title=\"Santa Cruz Province, Argentina\">Santa Cruz</a>, Argentina</td>
+</tr>
+<tr>
+<td>RGN</td>
+<td>VYYY</td>
+<td><a href=\"/wiki/Yangon_International_Airport\" title=\"Yangon International Airport\">Yangon International Airport</a></td>
+<td><a href=\"/wiki/Yangon\" title=\"Yangon\">Yangon</a>, <a href=\"/wiki/Myanmar\" title=\"Myanmar\">Myanmar</a></td>
+</tr>
+<tr>
+<td>RGO</td>
+<td>ZKHM</td>
+<td><a href=\"/wiki/Chongjin_Airport\" class=\"mw-redirect\" title=\"Chongjin Airport\">Chongjin Airport</a></td>
+<td><a href=\"/wiki/Chongjin\" title=\"Chongjin\">Chongjin</a>, <a href=\"/wiki/North_Korea\" title=\"North Korea\">North Korea</a></td>
+</tr>
+<tr>
+<td>RGR</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Ranger_Municipal_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Ranger Municipal Airport (page does not exist)\">Ranger Municipal Airport</a><sup id=\"cite_ref-IATA_1-52\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (FAA: F23)</td>
+<td><a href=\"/wiki/Ranger,_Texas\" title=\"Ranger, Texas\">Ranger</a>, <a href=\"/wiki/Texas\" title=\"Texas\">Texas</a>, United States</td>
+</tr>
+<tr>
+<td>RGS</td>
+<td>LEBG</td>
+<td><a href=\"/wiki/Burgos_Airport\" title=\"Burgos Airport\">Burgos Airport</a></td>
+<td><a href=\"/wiki/Burgos\" title=\"Burgos\">Burgos</a>, <a href=\"/wiki/Castile_and_Le%C3%B3n\" title=\"Castile and Le\u00f3n\">Castile and Le\u00f3n</a>, Spain</td>
+</tr>
+<tr>
+<td>RGT</td>
+<td>WIPR</td>
+<td><a href=\"/wiki/Japura_Airport\" title=\"Japura Airport\">Japura Airport</a><sup id=\"cite_ref-IATA_1-53\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Rengat\" title=\"Rengat\">Rengat</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+</tr>
+<tr>
+<td>RHA</td>
+<td>BIRE</td>
+<td><a href=\"/w/index.php?title=Reykh%C3%B3lar_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Reykh\u00f3lar Airport (page does not exist)\">Reykh\u00f3lar Airport</a><sup id=\"cite_ref-IATA_1-54\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Reykh%C3%B3lar\" title=\"Reykh\u00f3lar\">Reykh\u00f3lar</a>, <a href=\"/wiki/Iceland\" title=\"Iceland\">Iceland</a></td>
+</tr>
+<tr>
+<td>RHD</td>
+<td>SANR<sup id=\"cite_ref-2\" class=\"reference\"><a href=\"#cite_note-2\">&#91;2&#93;</a></sup></td>
+<td><a href=\"/wiki/Las_Termas_Airport\" title=\"Las Termas Airport\">Termas de R\u00edo Hondo Airport</a><sup id=\"cite_ref-IATA_1-55\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Termas_de_R%C3%ADo_Hondo\" title=\"Termas de R\u00edo Hondo\">Termas de R\u00edo Hondo</a>, <a href=\"/wiki/Santiago_del_Estero_Province\" title=\"Santiago del Estero Province\">Santiago del Estero</a>, Argentina</td>
+</tr>
+<tr>
+<td>RHE</td>
+<td>LFSR</td>
+<td><a href=\"/wiki/Reims_%E2%80%93_Champagne_Air_Base\" title=\"Reims \u2013 Champagne Air Base\">Reims \u2013 Champagne Air Base</a></td>
+<td><a href=\"/wiki/Reims\" title=\"Reims\">Reims</a>, <a href=\"/wiki/Champagne-Ardenne\" title=\"Champagne-Ardenne\">Champagne-Ardenne</a>, France</td>
+</tr>
+<tr>
+<td>RHG</td>
+<td>HRYU</td>
+<td><a href=\"/wiki/Ruhengeri_Airport\" title=\"Ruhengeri Airport\">Ruhengeri Airport</a><sup id=\"cite_ref-IATA_1-56\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Ruhengeri\" title=\"Ruhengeri\">Ruhengeri</a>, <a href=\"/wiki/Rwanda\" title=\"Rwanda\">Rwanda</a></td>
+</tr>
+<tr>
+<td>RHI</td>
+<td>KRHI</td>
+<td><a href=\"/wiki/Rhinelander%E2%80%93Oneida_County_Airport\" title=\"Rhinelander\u2013Oneida County Airport\">Rhinelander\u2013Oneida County Airport</a></td>
+<td><a href=\"/wiki/Rhinelander,_Wisconsin\" title=\"Rhinelander, Wisconsin\">Rhinelander</a>, <a href=\"/wiki/Wisconsin\" title=\"Wisconsin\">Wisconsin</a>, United States</td>
+</tr>
+<tr>
+<td>RHL</td>
+<td>YRYH</td>
+<td><a href=\"/w/index.php?title=Roy_Hill_Station_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Roy Hill Station Airport (page does not exist)\">Roy Hill Station Airport</a><sup id=\"cite_ref-IATA_1-57\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Roy_Hill_Station\" class=\"mw-redirect\" title=\"Roy Hill Station\">Roy Hill Station</a>, <a href=\"/wiki/Western_Australia\" title=\"Western Australia\">Western Australia</a>, Australia</td>
+</tr>
+<tr>
+<td>RHN</td>
+<td>FYSA</td>
+<td><a href=\"/w/index.php?title=Skorpion_Mine_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Skorpion Mine Airport (page does not exist)\">Skorpion Mine Airport</a><sup id=\"cite_ref-IATA_1-58\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Rosh_Pinah\" title=\"Rosh Pinah\">Rosh Pinah</a>, <a href=\"/wiki/Namibia\" title=\"Namibia\">Namibia</a></td>
+</tr>
+<tr>
+<td>RHO</td>
+<td>LGRP</td>
+<td><a href=\"/wiki/Rhodes_International_Airport\" title=\"Rhodes International Airport\">Rhodes International Airport</a></td>
+<td><a href=\"/wiki/Rhodes\" title=\"Rhodes\">Rhodes</a>, <a href=\"/wiki/Greece\" title=\"Greece\">Greece</a></td>
+</tr>
+<tr>
+<td>RHP</td>
+<td>VNRC</td>
+<td><a href=\"/wiki/Ramechhap_Airport\" title=\"Ramechhap Airport\">Ramechhap Airport</a></td>
+<td><a href=\"/wiki/Ramechhap,_Janakpur,_Nepal\" class=\"mw-redirect\" title=\"Ramechhap, Janakpur, Nepal\">Ramechhap</a>, <a href=\"/wiki/Nepal\" title=\"Nepal\">Nepal</a></td>
+</tr>
+<tr>
+<td>RHR</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Al_Hamra_Seaplane_Base&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Al Hamra Seaplane Base (page does not exist)\">Al Hamra Seaplane Base</a><sup id=\"cite_ref-IATA_1-59\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Ras_al-Khaimah\" class=\"mw-redirect\" title=\"Ras al-Khaimah\">Ras al-Khaimah</a>, <a href=\"/wiki/United_Arab_Emirates\" title=\"United Arab Emirates\">United Arab Emirates</a></td>
+</tr>
+<tr>
+<td>RHT</td>
+<td></td>
+<td><a href=\"/wiki/Alxa_Right_Banner_Badanjilin_Airport\" title=\"Alxa Right Banner Badanjilin Airport\">Alxa Right Banner Badanjilin Airport</a></td>
+<td><a href=\"/wiki/Alxa_Right_Banner\" title=\"Alxa Right Banner\">Alxa Right Banner</a>, <a href=\"/wiki/Inner_Mongolia\" title=\"Inner Mongolia\">Inner Mongolia</a>, China</td>
+</tr>
+<tr>
+<td>RHV</td>
+<td>KRHV</td>
+<td><a href=\"/wiki/Reid%E2%80%93Hillview_Airport\" title=\"Reid\u2013Hillview Airport\">Reid\u2013Hillview Airport of Santa Clara County</a></td>
+<td><a href=\"/wiki/San_Jose,_California\" title=\"San Jose, California\">San Jose</a>, <a href=\"/wiki/California\" title=\"California\">California</a>, United States</td>
+</tr>
+<tr>
+<td>RIA</td>
+<td>SBSM</td>
+<td><a href=\"/wiki/Santa_Maria_Airport_(Rio_Grande_do_Sul)\" title=\"Santa Maria Airport (Rio Grande do Sul)\">Santa Maria Airport</a></td>
+<td><a href=\"/wiki/Santa_Maria,_Rio_Grande_do_Sul\" title=\"Santa Maria, Rio Grande do Sul\">Santa Maria</a>, <a href=\"/wiki/Rio_Grande_do_Sul\" title=\"Rio Grande do Sul\">Rio Grande do Sul</a>, Brazil</td>
+</tr>
+<tr>
+<td>RIB</td>
+<td>SLRI</td>
+<td><a href=\"/wiki/Riberalta_Airport\" title=\"Riberalta Airport\">Riberalta Airport</a></td>
+<td><a href=\"/wiki/Riberalta\" title=\"Riberalta\">Riberalta</a>, <a href=\"/wiki/Bolivia\" title=\"Bolivia\">Bolivia</a></td>
+</tr>
+<tr>
+<td>RIC</td>
+<td>KRIC</td>
+<td><a href=\"/wiki/Richmond_International_Airport\" title=\"Richmond International Airport\">Richmond International Airport</a></td>
+<td><a href=\"/wiki/Richmond,_Virginia\" title=\"Richmond, Virginia\">Richmond</a>, <a href=\"/wiki/Virginia\" title=\"Virginia\">Virginia</a>, United States</td>
+</tr>
+<tr>
+<td>RID</td>
+<td>KRID</td>
+<td><a href=\"/wiki/Richmond_Municipal_Airport\" title=\"Richmond Municipal Airport\">Richmond Municipal Airport</a></td>
+<td><a href=\"/wiki/Richmond,_Indiana\" title=\"Richmond, Indiana\">Richmond</a>, <a href=\"/wiki/Indiana\" title=\"Indiana\">Indiana</a>, United States</td>
+</tr>
+<tr>
+<td>RIE</td>
+<td>KRPD</td>
+<td><a href=\"/wiki/Rice_Lake_Regional_Airport\" title=\"Rice Lake Regional Airport\">Rice Lake Regional Airport</a> (Carl's Field) (FAA: RPD)</td>
+<td><a href=\"/wiki/Rice_Lake,_Wisconsin\" title=\"Rice Lake, Wisconsin\">Rice Lake</a>, <a href=\"/wiki/Wisconsin\" title=\"Wisconsin\">Wisconsin</a>, United States</td>
+</tr>
+<tr>
+<td>RIF</td>
+<td>KRIF</td>
+<td><a href=\"/w/index.php?title=Richfield_Municipal_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Richfield Municipal Airport (page does not exist)\">Richfield Municipal Airport</a></td>
+<td><a href=\"/wiki/Richfield,_Utah\" title=\"Richfield, Utah\">Richfield</a>, <a href=\"/wiki/Utah\" title=\"Utah\">Utah</a>, United States</td>
+</tr>
+<tr>
+<td>RIG</td>
+<td>SBRG</td>
+<td><a href=\"/wiki/Rio_Grande_Airport\" title=\"Rio Grande Airport\">Rio Grande Regional Airport</a></td>
+<td><a href=\"/wiki/Rio_Grande,_Rio_Grande_do_Sul\" title=\"Rio Grande, Rio Grande do Sul\">Rio Grande</a>, <a href=\"/wiki/Rio_Grande_do_Sul\" title=\"Rio Grande do Sul\">Rio Grande do Sul</a>, Brazil</td>
+</tr>
+<tr>
+<td>RIH</td>
+<td>MPSM</td>
+<td><a href=\"/wiki/R%C3%ADo_Hato_Airport\" class=\"mw-redirect\" title=\"R\u00edo Hato Airport\">Scarlett Martinez International Airport</a></td>
+<td><a href=\"/wiki/R%C3%ADo_Hato\" title=\"R\u00edo Hato\">R\u00edo Hato</a>, <a href=\"/wiki/Panama\" title=\"Panama\">Panama</a></td>
+</tr>
+<tr>
+<td>RIJ</td>
+<td>SPJA</td>
+<td><a href=\"/wiki/Juan_Simons_Vela_Airport\" title=\"Juan Simons Vela Airport\">Juan Simons Vela Airport</a><sup id=\"cite_ref-IATA_1-60\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Rioja,_Peru\" title=\"Rioja, Peru\">Rioja</a>, <a href=\"/wiki/Peru\" title=\"Peru\">Peru</a></td>
+</tr>
+<tr>
+<td>RIL</td>
+<td>KRIL</td>
+<td><a href=\"/wiki/Garfield_County_Regional_Airport\" title=\"Garfield County Regional Airport\">Garfield County Regional Airport</a></td>
+<td><a href=\"/wiki/Rifle,_Colorado\" title=\"Rifle, Colorado\">Rifle</a>, <a href=\"/wiki/Colorado\" title=\"Colorado\">Colorado</a>, United States</td>
+</tr>
+<tr>
+<td>RIM</td>
+<td>SPLN</td>
+<td><a href=\"/wiki/San_Nicolas_Airport\" title=\"San Nicolas Airport\">San Nicolas Airport</a><sup id=\"cite_ref-IATA_1-61\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Rodr%C3%ADguez_de_Mendoza_Province\" title=\"Rodr\u00edguez de Mendoza Province\">Rodr\u00edguez de Mendoza</a>, <a href=\"/wiki/Peru\" title=\"Peru\">Peru</a></td>
+</tr>
+<tr>
+<td>RIN</td>
+<td>AGRC</td>
+<td><a href=\"/w/index.php?title=Ringgi_Cove_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Ringgi Cove Airport (page does not exist)\">Ringgi Cove Airport</a><sup id=\"cite_ref-IATA_1-62\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Ringgi_Cove&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Ringgi Cove (page does not exist)\">Ringgi Cove</a>, <a href=\"/wiki/Solomon_Islands\" title=\"Solomon Islands\">Solomon Islands</a></td>
+</tr>
+<tr>
+<td>RIO<sup id=\"cite_ref-IATA_1-63\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td></td>
+<td>metropolitan area<sup class=\"reference plainlinks nourlexpansion\" id=\"ref_2\"><a href=\"#endnote_2\">2</a></sup></td>
+<td><a href=\"/wiki/Rio_de_Janeiro\" title=\"Rio de Janeiro\">Rio de Janeiro</a>, Brazil</td>
+</tr>
+<tr>
+<td>RIR</td>
+<td>KRIR</td>
+<td><a href=\"/wiki/Flabob_Airport\" title=\"Flabob Airport\">Flabob Airport</a></td>
+<td><a href=\"/wiki/Riverside,_California\" title=\"Riverside, California\">Riverside</a>, <a href=\"/wiki/California\" title=\"California\">California</a>, United States</td>
+</tr>
+<tr>
+<td>RIS</td>
+<td>RJER</td>
+<td><a href=\"/wiki/Rishiri_Airport\" title=\"Rishiri Airport\">Rishiri Airport</a><sup id=\"cite_ref-IATA_1-64\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Rishiri,_Hokkaido\" title=\"Rishiri, Hokkaido\">Rishiri</a>, <a href=\"/wiki/Rishiri_Island\" title=\"Rishiri Island\">Rishiri Island</a>, Japan</td>
+</tr>
+<tr>
+<td>RIV</td>
+<td>KRIV</td>
+<td><a href=\"/wiki/March_Air_Reserve_Base\" title=\"March Air Reserve Base\">March Air Reserve Base</a></td>
+<td><a href=\"/wiki/Riverside,_California\" title=\"Riverside, California\">Riverside</a>, <a href=\"/wiki/California\" title=\"California\">California</a>, United States</td>
+</tr>
+<tr>
+<td>RIW</td>
+<td>KRIW</td>
+<td><a href=\"/wiki/Riverton_Regional_Airport\" title=\"Riverton Regional Airport\">Riverton Regional Airport</a></td>
+<td><a href=\"/wiki/Riverton,_Wyoming\" title=\"Riverton, Wyoming\">Riverton</a>, <a href=\"/wiki/Wyoming\" title=\"Wyoming\">Wyoming</a>, United States</td>
+</tr>
+<tr>
+<td>RIX</td>
+<td>EVRA</td>
+<td><a href=\"/wiki/Riga_International_Airport\" title=\"Riga International Airport\">Riga International Airport</a></td>
+<td><a href=\"/wiki/Riga\" title=\"Riga\">Riga</a>, <a href=\"/wiki/Latvia\" title=\"Latvia\">Latvia</a></td>
+</tr>
+<tr>
+<td>RIY</td>
+<td>OYRN</td>
+<td><a href=\"/wiki/Riyan_Airport\" class=\"mw-redirect\" title=\"Riyan Airport\">Riyan Airport</a><sup id=\"cite_ref-IATA_1-65\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Mukalla\" title=\"Mukalla\">Mukalla</a>, <a href=\"/wiki/Yemen\" title=\"Yemen\">Yemen</a></td>
+</tr>
+<tr>
+<td>RIZ</td>
+<td></td>
+<td><a href=\"/wiki/Rizhao_Shanzihe_Airport\" title=\"Rizhao Shanzihe Airport\">Rizhao Shanzihe Airport</a></td>
+<td><a href=\"/wiki/Rizhao\" title=\"Rizhao\">Rizhao</a>, <a href=\"/wiki/Shandong\" title=\"Shandong\">Shandong</a>, China</td>
+</tr>
+<tr>
+<td>RJA</td>
+<td>VORY</td>
+<td><a href=\"/wiki/Rajahmundry_Airport\" title=\"Rajahmundry Airport\">Rajahmundry Airport</a></td>
+<td><a href=\"/wiki/Rajahmundry\" title=\"Rajahmundry\">Rajahmundry</a>, <a href=\"/wiki/Andhra_Pradesh\" title=\"Andhra Pradesh\">Andhra Pradesh</a>, India</td>
+</tr>
+<tr>
+<td>RJB</td>
+<td>VNRB</td>
+<td><a href=\"/wiki/Rajbiraj_Airport\" title=\"Rajbiraj Airport\">Rajbiraj Airport</a><sup id=\"cite_ref-IATA_1-66\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Rajbiraj\" title=\"Rajbiraj\">Rajbiraj</a>, <a href=\"/wiki/Nepal\" title=\"Nepal\">Nepal</a></td>
+</tr>
+<tr>
+<td>RJH</td>
+<td>VGRJ</td>
+<td><a href=\"/wiki/Shah_Makhdum_Airport\" title=\"Shah Makhdum Airport\">Shah Makhdum Airport</a></td>
+<td><a href=\"/wiki/Rajshahi\" title=\"Rajshahi\">Rajshahi</a>, <a href=\"/wiki/Bangladesh\" title=\"Bangladesh\">Bangladesh</a></td>
+</tr>
+<tr>
+<td>RJI</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Rajauri_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Rajauri Airport (page does not exist)\">Rajauri Airport</a><sup id=\"cite_ref-IATA_1-67\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Rajauri\" class=\"mw-redirect\" title=\"Rajauri\">Rajauri</a>, <a href=\"/wiki/Jammu_and_Kashmir\" title=\"Jammu and Kashmir\">Jammu and Kashmir</a>, India</td>
+</tr>
+<tr>
+<td>RJK</td>
+<td>LDRI</td>
+<td><a href=\"/wiki/Rijeka_Airport\" title=\"Rijeka Airport\">Rijeka Airport</a></td>
+<td><a href=\"/wiki/Rijeka\" title=\"Rijeka\">Rijeka</a>, <a href=\"/wiki/Croatia\" title=\"Croatia\">Croatia</a></td>
+</tr>
+<tr>
+<td>RJL</td>
+<td>LELO</td>
+<td><a href=\"/wiki/Logro%C3%B1o%E2%80%93Agoncillo_Airport\" title=\"Logro\u00f1o\u2013Agoncillo Airport\">Logro\u00f1o\u2013Agoncillo Airport</a></td>
+<td><a href=\"/wiki/Logro%C3%B1o\" title=\"Logro\u00f1o\">Logro\u00f1o</a>, <a href=\"/wiki/La_Rioja_(Spain)\" title=\"La Rioja (Spain)\">La Rioja</a>, Spain</td>
+</tr>
+<tr>
+<td>RJM</td>
+<td></td>
+<td><a href=\"/wiki/Marinda_Airport\" title=\"Marinda Airport\">Marinda Airport</a><sup id=\"cite_ref-IATA_1-68\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Waisai\" title=\"Waisai\">Waisai</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+</tr>
+<tr>
+<td>RJN</td>
+<td>OIKR</td>
+<td><a href=\"/wiki/Rafsanjan_Airport\" title=\"Rafsanjan Airport\">Rafsanjan Airport</a><sup id=\"cite_ref-IATA_1-69\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Rafsanjan\" title=\"Rafsanjan\">Rafsanjan</a>, <a href=\"/wiki/Iran\" title=\"Iran\">Iran</a></td>
+</tr>
+<tr>
+<td>RKA</td>
+<td>NTKK</td>
+<td><a href=\"/w/index.php?title=Aratika-Nord_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Aratika-Nord Airport (page does not exist)\">Aratika-Nord Airport</a><sup id=\"cite_ref-IATA_1-70\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Aratika\" title=\"Aratika\">Aratika</a>, <a href=\"/wiki/Tuamotus\" title=\"Tuamotus\">Tuamotus</a>, <a href=\"/wiki/French_Polynesia\" title=\"French Polynesia\">French Polynesia</a></td>
+</tr>
+<tr>
+<td>RKD</td>
+<td>KRKD</td>
+<td><a href=\"/wiki/Knox_County_Regional_Airport\" title=\"Knox County Regional Airport\">Knox County Regional Airport</a></td>
+<td><a href=\"/wiki/Rockland,_Maine\" title=\"Rockland, Maine\">Rockland</a>, <a href=\"/wiki/Maine\" title=\"Maine\">Maine</a>, United States</td>
+</tr>
+<tr>
+<td>RKE</td>
+<td>EKRK</td>
+<td><a href=\"/wiki/Roskilde_Airport\" title=\"Roskilde Airport\">Roskilde Airport</a></td>
+<td><a href=\"/wiki/Copenhagen\" title=\"Copenhagen\">Copenhagen</a>, <a href=\"/wiki/Denmark\" title=\"Denmark\">Denmark</a></td>
+</tr>
+<tr>
+<td>RKH</td>
+<td>KUZA</td>
+<td><a href=\"/wiki/Rock_Hill/York_County_Airport\" title=\"Rock Hill/York County Airport\">Rock Hill/York County Airport</a><sup id=\"cite_ref-IATA_1-71\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (FAA: UZA)</td>
+<td><a href=\"/wiki/Rock_Hill,_South_Carolina\" title=\"Rock Hill, South Carolina\">Rock Hill</a>, <a href=\"/wiki/South_Carolina\" title=\"South Carolina\">South Carolina</a>, United States</td>
+</tr>
+<tr>
+<td>RKI</td>
+<td>WIBR</td>
+<td><a href=\"/wiki/Rokot_Airport\" title=\"Rokot Airport\">Rokot Airport</a></td>
+<td><a href=\"/wiki/Sipura\" title=\"Sipura\">Sipura</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+</tr>
+<tr>
+<td>RKP</td>
+<td>KRKP</td>
+<td><a href=\"/wiki/Aransas_County_Airport\" title=\"Aransas County Airport\">Aransas County Airport</a></td>
+<td><a href=\"/wiki/Rockport,_Texas\" title=\"Rockport, Texas\">Rockport</a>, <a href=\"/wiki/Texas\" title=\"Texas\">Texas</a>, United States</td>
+</tr>
+<tr>
+<td>RKR</td>
+<td>KRKR</td>
+<td><a href=\"/wiki/Robert_S._Kerr_Airport\" title=\"Robert S. Kerr Airport\">Robert S. Kerr Airport</a></td>
+<td><a href=\"/wiki/Poteau,_Oklahoma\" title=\"Poteau, Oklahoma\">Poteau</a>, <a href=\"/wiki/Oklahoma\" title=\"Oklahoma\">Oklahoma</a>, United States</td>
+</tr>
+<tr>
+<td>RKS</td>
+<td>KRKS</td>
+<td><a href=\"/wiki/Rock_Springs%E2%80%93Sweetwater_County_Airport\" class=\"mw-redirect\" title=\"Rock Springs\u2013Sweetwater County Airport\">Rock Springs\u2013Sweetwater County Airport</a></td>
+<td><a href=\"/wiki/Rock_Springs,_Wyoming\" title=\"Rock Springs, Wyoming\">Rock Springs</a>, <a href=\"/wiki/Wyoming\" title=\"Wyoming\">Wyoming</a>, United States</td>
+</tr>
+<tr>
+<td>RKT</td>
+<td>OMRK</td>
+<td><a href=\"/wiki/Ras_Al_Khaimah_International_Airport\" title=\"Ras Al Khaimah International Airport\">Ras Al Khaimah International Airport</a></td>
+<td><a href=\"/wiki/Ras_al-Khaimah\" class=\"mw-redirect\" title=\"Ras al-Khaimah\">Ras al-Khaimah</a>, <a href=\"/wiki/United_Arab_Emirates\" title=\"United Arab Emirates\">United Arab Emirates</a></td>
+</tr>
+<tr>
+<td>RKU</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Kairuku_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Kairuku Airport (page does not exist)\">Kairuku Airport</a><sup id=\"cite_ref-IATA_1-72\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Yule_Island\" title=\"Yule Island\">Yule Island</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>RKV</td>
+<td>BIRK</td>
+<td><a href=\"/wiki/Reykjav%C3%ADk_Airport\" title=\"Reykjav\u00edk Airport\">Reykjav\u00edk Airport</a></td>
+<td><a href=\"/wiki/Reykjav%C3%ADk\" title=\"Reykjav\u00edk\">Reykjav\u00edk</a>, <a href=\"/wiki/Iceland\" title=\"Iceland\">Iceland</a></td>
+</tr>
+<tr>
+<td>RKW</td>
+<td>KRKW</td>
+<td><a href=\"/wiki/Rockwood_Municipal_Airport\" title=\"Rockwood Municipal Airport\">Rockwood Municipal Airport</a></td>
+<td><a href=\"/wiki/Rockwood,_Tennessee\" title=\"Rockwood, Tennessee\">Rockwood</a>, <a href=\"/wiki/Tennessee\" title=\"Tennessee\">Tennessee</a>, United States</td>
+</tr>
+<tr>
+<td>RKY</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Rokeby_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Rokeby Airport (page does not exist)\">Rokeby Airport</a><sup id=\"cite_ref-IATA_1-73\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Rokeby,_Queensland&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Rokeby, Queensland (page does not exist)\">Rokeby</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+</tr>
+<tr>
+<td>RKZ</td>
+<td>ZURK</td>
+<td><a href=\"/wiki/Shigatse_Peace_Airport\" title=\"Shigatse Peace Airport\">Shigatse Peace Airport</a></td>
+<td><a href=\"/wiki/Shigatse\" title=\"Shigatse\">Shigatse</a>, <a href=\"/wiki/Tibet_Autonomous_Region\" title=\"Tibet Autonomous Region\">Tibet Autonomous Region</a>, China</td>
+</tr>
+<tr>
+<td>RLD</td>
+<td>KRLD</td>
+<td><a href=\"/wiki/Richland_Airport_(Washington)\" title=\"Richland Airport (Washington)\">Richland Airport</a></td>
+<td><a href=\"/wiki/Richland,_Washington\" title=\"Richland, Washington\">Richland</a>, <a href=\"/wiki/Washington_(state)\" title=\"Washington (state)\">Washington</a>, United States</td>
+</tr>
+<tr>
+<td>RLG</td>
+<td>ETNL</td>
+<td><a href=\"/wiki/Rostock%E2%80%93Laage_Airport\" title=\"Rostock\u2013Laage Airport\">Rostock\u2013Laage Airport</a></td>
+<td><a href=\"/wiki/Rostock\" title=\"Rostock\">Rostock</a>, <a href=\"/wiki/Mecklenburg-Vorpommern\" title=\"Mecklenburg-Vorpommern\">Mecklenburg-Vorpommern</a>, Germany</td>
+</tr>
+<tr>
+<td>RLK</td>
+<td>ZBYZ</td>
+<td><a href=\"/wiki/Bayannur_Tianjitai_Airport\" title=\"Bayannur Tianjitai Airport\">Bayannur Tianjitai Airport</a><sup id=\"cite_ref-IATA_1-74\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Bayannur\" title=\"Bayannur\">Bayannur</a>, <a href=\"/wiki/Inner_Mongolia\" title=\"Inner Mongolia\">Inner Mongolia</a>, China</td>
+</tr>
+<tr>
+<td>RLO</td>
+<td>SAOS</td>
+<td><a href=\"/wiki/Valle_del_Conlara_Airport\" title=\"Valle del Conlara Airport\">Valle del Conlara Airport</a><sup id=\"cite_ref-IATA_1-75\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Villa_de_Merlo\" title=\"Villa de Merlo\">Villa de Merlo</a>, <a href=\"/wiki/San_Luis_Province\" title=\"San Luis Province\">San Luis</a>, Argentina</td>
+</tr>
+<tr>
+<td>RLP</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Rosella_Plains_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Rosella Plains Airport (page does not exist)\">Rosella Plains Airport</a><sup id=\"cite_ref-IATA_1-76\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Rosella_Plains,_Queensland&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Rosella Plains, Queensland (page does not exist)\">Rosella Plains</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+</tr>
+<tr>
+<td>RLR</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Relais_de_la_Reine_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Relais de la Reine Airport (page does not exist)\">Relais de la Reine Airport</a><sup id=\"cite_ref-IATA_1-77\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Isalo_National_Park\" title=\"Isalo National Park\">Isalo</a>, <a href=\"/wiki/Madagascar\" title=\"Madagascar\">Madagascar</a></td>
+</tr>
+<tr>
+<td>RLT</td>
+<td>DRZL</td>
+<td><a href=\"/wiki/Arlit_Airport\" title=\"Arlit Airport\">Arlit Airport</a></td>
+<td><a href=\"/wiki/Arlit\" title=\"Arlit\">Arlit</a>, <a href=\"/wiki/Niger\" title=\"Niger\">Niger</a></td>
+</tr>
+<tr>
+<td>RMA</td>
+<td>YROM</td>
+<td><a href=\"/wiki/Roma_Airport\" title=\"Roma Airport\">Roma Airport</a></td>
+<td><a href=\"/wiki/Roma,_Queensland\" title=\"Roma, Queensland\">Roma</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+</tr>
+<tr>
+<td>RMB</td>
+<td>OOBR</td>
+<td><a href=\"/wiki/Buraimi_Airport\" title=\"Buraimi Airport\">Buraimi Airport</a><sup id=\"cite_ref-IATA_1-78\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Al_Buraimi_Governorate\" title=\"Al Buraimi Governorate\">Buraimi</a>, <a href=\"/wiki/Oman\" title=\"Oman\">Oman</a></td>
+</tr>
+<tr>
+<td>RMD</td>
+<td>VORG</td>
+<td><a href=\"/wiki/Ramagundam_Airport\" title=\"Ramagundam Airport\">Ramagundam Airport</a> (Basanth Nagar Airport)</td>
+<td><a href=\"/wiki/Ramagundam\" title=\"Ramagundam\">Ramagundam</a>, <a href=\"/wiki/Telangana\" title=\"Telangana\">Telangana</a>, India</td>
+</tr>
+<tr>
+<td>RME</td>
+<td>KRME</td>
+<td><a href=\"/wiki/Griffiss_International_Airport\" title=\"Griffiss International Airport\">Griffiss International Airport</a></td>
+<td><a href=\"/wiki/Rome,_New_York\" title=\"Rome, New York\">Rome</a>, <a href=\"/wiki/New_York_(state)\" title=\"New York (state)\">New York</a>, United States</td>
+</tr>
+<tr>
+<td>RMF</td>
+<td>HEMA</td>
+<td><a href=\"/wiki/Marsa_Alam_International_Airport\" title=\"Marsa Alam International Airport\">Marsa Alam International Airport</a></td>
+<td><a href=\"/wiki/Marsa_Alam\" title=\"Marsa Alam\">Marsa Alam</a>, <a href=\"/wiki/Egypt\" title=\"Egypt\">Egypt</a></td>
+</tr>
+<tr>
+<td>RMG</td>
+<td>KRMG</td>
+<td><a href=\"/wiki/Richard_B._Russell_Airport\" title=\"Richard B. Russell Airport\">Richard B. Russell Airport</a></td>
+<td><a href=\"/wiki/Rome,_Georgia\" title=\"Rome, Georgia\">Rome</a>, <a href=\"/wiki/Georgia_(U.S._state)\" title=\"Georgia (U.S. state)\">Georgia</a>, United States</td>
+</tr>
+<tr>
+<td>RMI</td>
+<td>LIPR</td>
+<td><a href=\"/wiki/Federico_Fellini_International_Airport\" title=\"Federico Fellini International Airport\">Federico Fellini International Airport</a></td>
+<td><a href=\"/wiki/Rimini\" title=\"Rimini\">Rimini</a>, <a href=\"/wiki/Emilia-Romagna\" title=\"Emilia-Romagna\">Emilia-Romagna</a>, Italy</td>
+</tr>
+<tr>
+<td>RMK</td>
+<td>YREN</td>
+<td><a href=\"/wiki/Renmark_Airport\" title=\"Renmark Airport\">Renmark Airport</a></td>
+<td><a href=\"/wiki/Renmark,_South_Australia\" title=\"Renmark, South Australia\">Renmark</a>, <a href=\"/wiki/South_Australia\" title=\"South Australia\">South Australia</a>, Australia</td>
+</tr>
+<tr>
+<td>RML</td>
+<td>VCCC</td>
+<td><a href=\"/wiki/Ratmalana_Airport\" title=\"Ratmalana Airport\">Ratmalana Airport</a></td>
+<td><a href=\"/wiki/Colombo\" title=\"Colombo\">Colombo</a>, <a href=\"/wiki/Sri_Lanka\" title=\"Sri Lanka\">Sri Lanka</a></td>
+</tr>
+<tr>
+<td>RMN</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Rumginae_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Rumginae Airport (page does not exist)\">Rumginae Airport</a></td>
+<td><a href=\"/w/index.php?title=Rumginae&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Rumginae (page does not exist)\">Rumginae</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>RMP</td>
+<td></td>
+<td><a href=\"/wiki/Rampart_Airport\" title=\"Rampart Airport\">Rampart Airport</a></td>
+<td><a href=\"/wiki/Rampart,_Alaska\" title=\"Rampart, Alaska\">Rampart</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>RMQ</td>
+<td>RCMQ</td>
+<td><a href=\"/wiki/Taichung_Airport\" class=\"mw-redirect\" title=\"Taichung Airport\">Taichung Airport</a> (Taichung Ching Chuan Kang Airport)</td>
+<td><a href=\"/wiki/Taichung\" title=\"Taichung\">Taichung</a>, <a href=\"/wiki/Taiwan\" title=\"Taiwan\">Taiwan</a></td>
+</tr>
+<tr>
+<td>RMS</td>
+<td>ETAR</td>
+<td><a href=\"/wiki/Ramstein_Air_Base\" title=\"Ramstein Air Base\">Ramstein Air Base</a></td>
+<td><a href=\"/wiki/Ramstein-Miesenbach\" title=\"Ramstein-Miesenbach\">Ramstein</a>, <a href=\"/wiki/Rhineland-Palatinate\" title=\"Rhineland-Palatinate\">Rhineland-Palatinate</a>, Germany</td>
+</tr>
+<tr>
+<td>RMT</td>
+<td>NTAM</td>
+<td><a href=\"/wiki/Rimatara_Airport\" title=\"Rimatara Airport\">Rimatara Airport</a><sup id=\"cite_ref-IATA_1-79\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Rimatara\" title=\"Rimatara\">Rimatara</a>, <a href=\"/wiki/Austral_Islands\" title=\"Austral Islands\">Austral Islands</a>, <a href=\"/wiki/French_Polynesia\" title=\"French Polynesia\">French Polynesia</a></td>
+</tr>
+<tr>
+<td>RMU</td>
+<td>LEMI</td>
+<td><a href=\"/wiki/Regi%C3%B3n_de_Murcia_International_Airport\" title=\"Regi\u00f3n de Murcia International Airport\">Regi\u00f3n de Murcia International Airport</a><sup id=\"cite_ref-IATA_1-80\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Murcia\" title=\"Murcia\">Murcia</a> / <a href=\"/wiki/Cartagena,_Spain\" title=\"Cartagena, Spain\">Cartagena</a>, <a href=\"/wiki/Region_of_Murcia\" title=\"Region of Murcia\">Murcia</a>, Spain</td>
+</tr>
+<tr>
+<td>RMY</td>
+<td>KMPI</td>
+<td><a href=\"/wiki/Mariposa-Yosemite_Airport\" title=\"Mariposa-Yosemite Airport\">Mariposa-Yosemite Airport</a><sup id=\"cite_ref-IATA_1-81\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (FAA: MPI)</td>
+<td><a href=\"/wiki/Mariposa,_California\" title=\"Mariposa, California\">Mariposa</a>, <a href=\"/wiki/California\" title=\"California\">California</a>, United States</td>
+</tr>
+<tr>
+<td>RNA</td>
+<td>AGAR</td>
+<td><a href=\"/wiki/Ulawa_Airport\" title=\"Ulawa Airport\">Ulawa Airport</a></td>
+<td><a href=\"/w/index.php?title=Arona,_Solomon_Islands&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Arona, Solomon Islands (page does not exist)\">Arona</a>, <a href=\"/wiki/Ulawa_Island\" title=\"Ulawa Island\">Ulawa Island</a>, <a href=\"/wiki/Solomon_Islands\" title=\"Solomon Islands\">Solomon Islands</a></td>
+</tr>
+<tr>
+<td>RNB</td>
+<td>ESDF</td>
+<td><a href=\"/wiki/Ronneby_Airport\" title=\"Ronneby Airport\">Ronneby Airport</a></td>
+<td><a href=\"/wiki/Ronneby\" title=\"Ronneby\">Ronneby</a> / <a href=\"/wiki/Karlskrona\" title=\"Karlskrona\">Karlskrona</a>, <a href=\"/wiki/Sweden\" title=\"Sweden\">Sweden</a></td>
+</tr>
+<tr>
+<td>RNC</td>
+<td>KRNC</td>
+<td><a href=\"/wiki/Warren_County_Memorial_Airport\" title=\"Warren County Memorial Airport\">Warren County Memorial Airport</a></td>
+<td><a href=\"/wiki/McMinnville,_Tennessee\" title=\"McMinnville, Tennessee\">McMinnville</a>, <a href=\"/wiki/Tennessee\" title=\"Tennessee\">Tennessee</a>, United States</td>
+</tr>
+<tr>
+<td>RND</td>
+<td>KRND</td>
+<td><a href=\"/wiki/Randolph_Air_Force_Base\" title=\"Randolph Air Force Base\">Randolph Air Force Base</a></td>
+<td><a href=\"/wiki/San_Antonio\" title=\"San Antonio\">San Antonio</a>, <a href=\"/wiki/Texas\" title=\"Texas\">Texas</a>, United States</td>
+</tr>
+<tr>
+<td>RNE</td>
+<td>LFLO</td>
+<td><a href=\"/w/index.php?title=Roanne_Renaison_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Roanne Renaison Airport (page does not exist)\">Roanne Renaison Airport</a></td>
+<td><a href=\"/wiki/Roanne\" title=\"Roanne\">Roanne</a>, <a href=\"/wiki/Rh%C3%B4ne-Alpes\" title=\"Rh\u00f4ne-Alpes\">Rh\u00f4ne-Alpes</a>, France</td>
+</tr>
+<tr>
+<td>RNG</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Rangely_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Rangely Airport (page does not exist)\">Rangely Airport</a><sup id=\"cite_ref-IATA_1-82\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (FAA: 4V0)</td>
+<td><a href=\"/wiki/Rangely,_Colorado\" title=\"Rangely, Colorado\">Rangely</a>, <a href=\"/wiki/Colorado\" title=\"Colorado\">Colorado</a>, United States</td>
+</tr>
+<tr>
+<td>RNH</td>
+<td>KRNH</td>
+<td><a href=\"/wiki/New_Richmond_Regional_Airport\" title=\"New Richmond Regional Airport\">New Richmond Regional Airport</a></td>
+<td><a href=\"/wiki/New_Richmond,_Wisconsin\" title=\"New Richmond, Wisconsin\">New Richmond</a>, <a href=\"/wiki/Wisconsin\" title=\"Wisconsin\">Wisconsin</a>, United States</td>
+</tr>
+<tr>
+<td>RNI</td>
+<td>MNCI</td>
+<td><a href=\"/wiki/Corn_Island_Airport\" title=\"Corn Island Airport\">Corn Island Airport</a></td>
+<td><a href=\"/wiki/Corn_Islands\" title=\"Corn Islands\">Corn Islands</a>, <a href=\"/wiki/Nicaragua\" title=\"Nicaragua\">Nicaragua</a></td>
+</tr>
+<tr>
+<td>RNJ</td>
+<td>RORY</td>
+<td><a href=\"/wiki/Yoron_Airport\" title=\"Yoron Airport\">Yoron Airport</a><sup id=\"cite_ref-IATA_1-83\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Yoronjima\" title=\"Yoronjima\">Yoronjima</a>, <a href=\"/wiki/Amami_Islands\" title=\"Amami Islands\">Amami Islands</a>, Japan</td>
+</tr>
+<tr>
+<td>RNL</td>
+<td>AGGR</td>
+<td><a href=\"/wiki/Rennell/Tingoa_Airport\" title=\"Rennell/Tingoa Airport\">Rennell/Tingoa Airport</a><sup id=\"cite_ref-IATA_1-84\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Rennell_Island\" title=\"Rennell Island\">Rennell Island</a>, <a href=\"/wiki/Solomon_Islands\" title=\"Solomon Islands\">Solomon Islands</a></td>
+</tr>
+<tr>
+<td>RNM</td>
+<td>OOGB</td>
+<td><a href=\"/wiki/Qarn_Alam_Airport\" title=\"Qarn Alam Airport\">Qarn Alam Airport</a><sup id=\"cite_ref-IATA_1-85\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Qarn_Alam\" title=\"Qarn Alam\">Qarn Alam</a>, <a href=\"/wiki/Oman\" title=\"Oman\">Oman</a></td>
+</tr>
+<tr>
+<td>RNN</td>
+<td>EKRN</td>
+<td><a href=\"/wiki/Bornholm_Airport\" title=\"Bornholm Airport\">Bornholm Airport</a></td>
+<td><a href=\"/wiki/R%C3%B8nne\" title=\"R\u00f8nne\">R\u00f8nne</a>, <a href=\"/wiki/Denmark\" title=\"Denmark\">Denmark</a></td>
+</tr>
+<tr>
+<td>RNO</td>
+<td>KRNO</td>
+<td><a href=\"/wiki/Reno%E2%80%93Tahoe_International_Airport\" title=\"Reno\u2013Tahoe International Airport\">Reno\u2013Tahoe International Airport</a></td>
+<td><a href=\"/wiki/Reno,_Nevada\" title=\"Reno, Nevada\">Reno</a>, <a href=\"/wiki/Nevada\" title=\"Nevada\">Nevada</a>, United States</td>
+</tr>
+<tr>
+<td>RNP</td>
+<td></td>
+<td><a href=\"/wiki/Rongelap_Airport\" title=\"Rongelap Airport\">Rongelap Airport</a></td>
+<td><a href=\"/wiki/Rongelap_Atoll\" title=\"Rongelap Atoll\">Rongelap Atoll</a>, <a href=\"/wiki/Marshall_Islands\" title=\"Marshall Islands\">Marshall Islands</a></td>
+</tr>
+<tr>
+<td>RNR</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Robinson_River_Airport_(Papua_New_Guinea)&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Robinson River Airport (Papua New Guinea) (page does not exist)\">Robinson River Airport</a><sup id=\"cite_ref-IATA_1-86\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Robinson_River,_Papua_New_Guinea&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Robinson River, Papua New Guinea (page does not exist)\">Robinson River</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>RNS</td>
+<td>LFRN</td>
+<td><a href=\"/wiki/Rennes%E2%80%93Saint-Jacques_Airport\" title=\"Rennes\u2013Saint-Jacques Airport\">Rennes\u2013Saint-Jacques Airport</a></td>
+<td><a href=\"/wiki/Rennes\" title=\"Rennes\">Rennes</a>, <a href=\"/wiki/Brittany_(administrative_region)\" title=\"Brittany (administrative region)\">Brittany</a>, France</td>
+</tr>
+<tr>
+<td>RNT</td>
+<td>KRNT</td>
+<td><a href=\"/wiki/Renton_Municipal_Airport\" title=\"Renton Municipal Airport\">Renton Municipal Airport</a></td>
+<td><a href=\"/wiki/Renton,_Washington\" title=\"Renton, Washington\">Renton</a>, <a href=\"/wiki/Washington_(state)\" title=\"Washington (state)\">Washington</a>, United States</td>
+</tr>
+<tr>
+<td>RNU</td>
+<td>WBKR</td>
+<td><a href=\"/w/index.php?title=Ranau_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Ranau Airport (page does not exist)\">Ranau Airport</a><sup id=\"cite_ref-IATA_1-87\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Ranau\" title=\"Ranau\">Ranau</a>, <a href=\"/wiki/Sabah\" title=\"Sabah\">Sabah</a>, Malaysia</td>
+</tr>
+<tr>
+<td>RNZ</td>
+<td>KRZL</td>
+<td><a href=\"/wiki/Jasper_County_Airport_(Indiana)\" title=\"Jasper County Airport (Indiana)\">Jasper County Airport</a> (FAA: RZL)</td>
+<td><a href=\"/wiki/Rensselaer,_Indiana\" title=\"Rensselaer, Indiana\">Rensselaer</a>, <a href=\"/wiki/Indiana\" title=\"Indiana\">Indiana</a>, United States</td>
+</tr>
+<tr>
+<td>ROA</td>
+<td>KROA</td>
+<td><a href=\"/wiki/Roanoke%E2%80%93Blacksburg_Regional_Airport\" title=\"Roanoke\u2013Blacksburg Regional Airport\">Roanoke\u2013Blacksburg Regional Airport</a> (Woodrum Field)</td>
+<td><a href=\"/wiki/Roanoke,_Virginia\" title=\"Roanoke, Virginia\">Roanoke</a>, <a href=\"/wiki/Virginia\" title=\"Virginia\">Virginia</a>, United States</td>
+</tr>
+<tr>
+<td>ROB</td>
+<td>GLRB</td>
+<td><a href=\"/wiki/Roberts_International_Airport\" title=\"Roberts International Airport\">Roberts International Airport</a></td>
+<td><a href=\"/wiki/Monrovia\" title=\"Monrovia\">Monrovia</a>, <a href=\"/wiki/Liberia\" title=\"Liberia\">Liberia</a></td>
+</tr>
+<tr>
+<td>ROC</td>
+<td>KROC</td>
+<td><a href=\"/wiki/Greater_Rochester_International_Airport\" title=\"Greater Rochester International Airport\">Greater Rochester International Airport</a></td>
+<td><a href=\"/wiki/Rochester,_New_York\" title=\"Rochester, New York\">Rochester</a>, <a href=\"/wiki/New_York_(state)\" title=\"New York (state)\">New York</a>, United States</td>
+</tr>
+<tr>
+<td>ROD</td>
+<td>FARS</td>
+<td><a href=\"/wiki/Robertson_Airfield\" title=\"Robertson Airfield\">Robertson Airfield</a><sup id=\"cite_ref-IATA_1-88\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Robertson,_Western_Cape\" title=\"Robertson, Western Cape\">Robertson</a>, <a href=\"/wiki/South_Africa\" title=\"South Africa\">South Africa</a></td>
+</tr>
+<tr>
+<td>ROF</td>
+<td></td>
+<td><a href=\"/wiki/Montague_Airport_(California)\" title=\"Montague Airport (California)\">Montague Airport</a><sup id=\"cite_ref-IATA_1-89\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (Yreka Rohrer Field) (FAA: 1O5)</td>
+<td><a href=\"/wiki/Montague,_California\" title=\"Montague, California\">Montague</a> / <a href=\"/wiki/Yreka,_California\" title=\"Yreka, California\">Yreka</a>, <a href=\"/wiki/California\" title=\"California\">California</a>, United States</td>
+</tr>
+<tr>
+<td>ROG</td>
+<td>KROG</td>
+<td><a href=\"/wiki/Rogers_Municipal_Airport\" class=\"mw-redirect\" title=\"Rogers Municipal Airport\">Rogers Municipal Airport</a> (Carter Field)</td>
+<td><a href=\"/wiki/Rogers,_Arkansas\" title=\"Rogers, Arkansas\">Rogers</a>, <a href=\"/wiki/Arkansas\" title=\"Arkansas\">Arkansas</a>, United States</td>
+</tr>
+<tr>
+<td>ROH</td>
+<td>YROB</td>
+<td><a href=\"/w/index.php?title=Robinhood_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Robinhood Airport (page does not exist)\">Robinhood Airport</a><sup id=\"cite_ref-IATA_1-90\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Robinhood,_Queensland&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Robinhood, Queensland (page does not exist)\">Robinhood</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+</tr>
+<tr>
+<td>ROI</td>
+<td>VTUV</td>
+<td><a href=\"/wiki/Roi_Et_Airport\" title=\"Roi Et Airport\">Roi Et Airport</a></td>
+<td><a href=\"/wiki/Roi_Et\" title=\"Roi Et\">Roi Et</a>, <a href=\"/wiki/Thailand\" title=\"Thailand\">Thailand</a></td>
+</tr>
+<tr>
+<td>ROK</td>
+<td>YBRK</td>
+<td><a href=\"/wiki/Rockhampton_Airport\" title=\"Rockhampton Airport\">Rockhampton Airport</a></td>
+<td><a href=\"/wiki/Rockhampton\" title=\"Rockhampton\">Rockhampton</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+</tr>
+<tr>
+<td>ROL</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Roosevelt_Municipal_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Roosevelt Municipal Airport (page does not exist)\">Roosevelt Municipal Airport</a></td>
+<td><a href=\"/wiki/Roosevelt,_Utah\" title=\"Roosevelt, Utah\">Roosevelt</a>, <a href=\"/wiki/Utah\" title=\"Utah\">Utah</a>, United States</td>
+</tr>
+<tr>
+<td>ROM<sup id=\"cite_ref-IATA_1-91\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td></td>
+<td>metropolitan area<sup class=\"reference plainlinks nourlexpansion\" id=\"ref_3\"><a href=\"#endnote_3\">3</a></sup></td>
+<td><a href=\"/wiki/Rome\" title=\"Rome\">Rome</a>, <a href=\"/wiki/Lazio\" title=\"Lazio\">Lazio</a>, Italy</td>
+</tr>
+<tr>
+<td>RON</td>
+<td>SKPA</td>
+<td><a href=\"/wiki/Juan_Jos%C3%A9_Rond%C3%B3n_Airport\" title=\"Juan Jos\u00e9 Rond\u00f3n Airport\">Juan Jos\u00e9 Rond\u00f3n Airport</a><sup id=\"cite_ref-IATA_1-92\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Paipa\" title=\"Paipa\">Paipa</a>, <a href=\"/wiki/Colombia\" title=\"Colombia\">Colombia</a></td>
+</tr>
+<tr>
+<td>ROO</td>
+<td>SWRD</td>
+<td><a href=\"/wiki/Rondon%C3%B3polis_Airport\" title=\"Rondon\u00f3polis Airport\">Maestro Marinho Franco Airport</a></td>
+<td><a href=\"/wiki/Rondon%C3%B3polis\" title=\"Rondon\u00f3polis\">Rondon\u00f3polis</a>, <a href=\"/wiki/Mato_Grosso\" title=\"Mato Grosso\">Mato Grosso</a>, Brazil</td>
+</tr>
+<tr>
+<td>ROP</td>
+<td>PGRO</td>
+<td><a href=\"/wiki/Rota_International_Airport\" title=\"Rota International Airport\">Rota International Airport</a> (FAA: GRO)</td>
+<td><a href=\"/wiki/Rota_(island)\" title=\"Rota (island)\">Rota</a>, <a href=\"/wiki/Northern_Mariana_Islands\" title=\"Northern Mariana Islands\">Northern Mariana Islands</a></td>
+</tr>
+<tr>
+<td>ROR</td>
+<td>PTRO</td>
+<td><a href=\"/wiki/Roman_Tmetuchl_International_Airport\" title=\"Roman Tmetuchl International Airport\">Roman Tmetuchl International Airport</a></td>
+<td><a href=\"/wiki/Koror\" title=\"Koror\">Koror</a>, <a href=\"/wiki/Palau\" title=\"Palau\">Palau</a></td>
+</tr>
+<tr>
+<td>ROS</td>
+<td>SAAR</td>
+<td><a href=\"/wiki/Rosario_%E2%80%93_Islas_Malvinas_International_Airport\" title=\"Rosario \u2013 Islas Malvinas International Airport\">Rosario \u2013 Islas Malvinas International Airport</a></td>
+<td><a href=\"/wiki/Rosario,_Santa_Fe\" title=\"Rosario, Santa Fe\">Rosario</a>, <a href=\"/wiki/Santa_Fe_Province\" title=\"Santa Fe Province\">Santa Fe</a>, Argentina</td>
+</tr>
+<tr>
+<td>ROT</td>
+<td>NZRO</td>
+<td><a href=\"/wiki/Rotorua_Regional_Airport\" title=\"Rotorua Regional Airport\">Rotorua Regional Airport</a></td>
+<td><a href=\"/wiki/Rotorua\" title=\"Rotorua\">Rotorua</a>, <a href=\"/wiki/New_Zealand\" title=\"New Zealand\">New Zealand</a></td>
+</tr>
+<tr>
+<td>ROU</td>
+<td>LBRS</td>
+<td><a href=\"/wiki/Ruse_Airport\" title=\"Ruse Airport\">Ruse Airport</a></td>
+<td><a href=\"/wiki/Ruse,_Bulgaria\" title=\"Ruse, Bulgaria\">Ruse</a>, <a href=\"/wiki/Bulgaria\" title=\"Bulgaria\">Bulgaria</a></td>
+</tr>
+<tr>
+<td>ROV</td>
+<td>URRR</td>
+<td><a href=\"/wiki/Rostov-on-Don_Airport\" title=\"Rostov-on-Don Airport\">Rostov-on-Don Airport</a></td>
+<td><a href=\"/wiki/Rostov-on-Don\" title=\"Rostov-on-Don\">Rostov-on-Don</a>, <a href=\"/wiki/Rostov_Oblast\" title=\"Rostov Oblast\">Rostov Oblast</a>, Russia</td>
+</tr>
+<tr>
+<td>ROW</td>
+<td>KROW</td>
+<td><a href=\"/wiki/Roswell_International_Air_Center\" title=\"Roswell International Air Center\">Roswell International Air Center</a></td>
+<td><a href=\"/wiki/Roswell,_New_Mexico\" title=\"Roswell, New Mexico\">Roswell</a>, <a href=\"/wiki/New_Mexico\" title=\"New Mexico\">New Mexico</a>, United States</td>
+</tr>
+<tr>
+<td>ROX</td>
+<td>KROX</td>
+<td><a href=\"/wiki/Roseau_Municipal_Airport\" title=\"Roseau Municipal Airport\">Roseau Municipal Airport</a> (Rudy Billberg Field)</td>
+<td><a href=\"/wiki/Roseau,_Minnesota\" title=\"Roseau, Minnesota\">Roseau</a>, <a href=\"/wiki/Minnesota\" title=\"Minnesota\">Minnesota</a>, United States</td>
+</tr>
+<tr>
+<td>ROY</td>
+<td>SAWM</td>
+<td><a href=\"/wiki/R%C3%ADo_Mayo_Airport\" title=\"R\u00edo Mayo Airport\">R\u00edo Mayo Airport</a><sup id=\"cite_ref-IATA_1-93\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=R%C3%ADo_Mayo,_Chubut&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"R\u00edo Mayo, Chubut (page does not exist)\">R\u00edo Mayo</a>, <a href=\"/wiki/Chubut_Province\" title=\"Chubut Province\">Chubut</a>, Argentina</td>
+</tr>
+<tr>
+<td>ROZ</td>
+<td>LERT</td>
+<td><a href=\"/wiki/Naval_Station_Rota,_Spain\" class=\"mw-redirect\" title=\"Naval Station Rota, Spain\">US Naval Station Rota</a><sup id=\"cite_ref-IATA_1-94\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Rota,_C%C3%A1diz\" class=\"mw-redirect\" title=\"Rota, C\u00e1diz\">Rota</a>, <a href=\"/wiki/Andalusia\" title=\"Andalusia\">Andalusia</a>, Spain</td>
+</tr>
+<tr>
+<td>RPA</td>
+<td>VNRP</td>
+<td><a href=\"/w/index.php?title=Rolpa_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Rolpa Airport (page does not exist)\">Rolpa Airport</a><sup id=\"cite_ref-IATA_1-95\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Rolpa_District\" title=\"Rolpa District\">Rolpa</a>, <a href=\"/wiki/Nepal\" title=\"Nepal\">Nepal</a></td>
+</tr>
+<tr>
+<td>RPB</td>
+<td>YRRB</td>
+<td><a href=\"/w/index.php?title=Roper_Bar_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Roper Bar Airport (page does not exist)\">Roper Bar Airport</a></td>
+<td><a href=\"/wiki/Roper_Bar,_Northern_Territory\" title=\"Roper Bar, Northern Territory\">Roper Bar</a>, <a href=\"/wiki/Northern_Territory\" title=\"Northern Territory\">Northern Territory</a>, Australia</td>
+</tr>
+<tr>
+<td>RPI</td>
+<td>WAFK</td>
+<td><a href=\"/w/index.php?title=Rampi_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Rampi Airport (page does not exist)\">Rampi Airport</a></td>
+<td><a href=\"/w/index.php?title=Rampi,_Indonesia&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Rampi, Indonesia (page does not exist)\">Rampi</a>, <a href=\"/wiki/South_Sulawesi\" title=\"South Sulawesi\">South Sulawesi</a>, Indonesia</td>
+</tr>
+<tr>
+<td>RPM</td>
+<td>YNGU</td>
+<td><a href=\"/wiki/Ngukurr_Airport\" title=\"Ngukurr Airport\">Ngukurr Airport</a><sup id=\"cite_ref-IATA_1-96\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Ngukurr\" title=\"Ngukurr\">Ngukurr</a>, <a href=\"/wiki/Northern_Territory\" title=\"Northern Territory\">Northern Territory</a>, Australia</td>
+</tr>
+<tr>
+<td>RPN</td>
+<td>LLIB</td>
+<td><a href=\"/wiki/Rosh_Pina_Airport\" title=\"Rosh Pina Airport\">Rosh Pina Airport</a></td>
+<td><a href=\"/wiki/Rosh_Pinna\" title=\"Rosh Pinna\">Rosh Pinna</a>, <a href=\"/wiki/Israel\" title=\"Israel\">Israel</a></td>
+</tr>
+<tr>
+<td>RPR</td>
+<td>VARP</td>
+<td><a href=\"/wiki/Swami_Vivekananda_Airport\" title=\"Swami Vivekananda Airport\">Swami Vivekananda Airport</a></td>
+<td><a href=\"/wiki/Raipur\" title=\"Raipur\">Raipur</a>, <a href=\"/wiki/Chhattisgarh\" title=\"Chhattisgarh\">Chhattisgarh</a>, India</td>
+</tr>
+<tr>
+<td>RPV</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Roper_Valley_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Roper Valley Airport (page does not exist)\">Roper Valley Airport</a><sup id=\"cite_ref-IATA_1-97\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Roper_Valley,_Northern_Territory&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Roper Valley, Northern Territory (page does not exist)\">Roper Valley</a>, <a href=\"/wiki/Northern_Territory\" title=\"Northern Territory\">Northern Territory</a>, Australia</td>
+</tr>
+<tr>
+<td>RPX</td>
+<td>KRPX</td>
+<td><a href=\"/wiki/Roundup_Airport\" title=\"Roundup Airport\">Roundup Airport</a></td>
+<td><a href=\"/wiki/Roundup,_Montana\" title=\"Roundup, Montana\">Roundup</a>, <a href=\"/wiki/Montana\" title=\"Montana\">Montana</a>, United States</td>
+</tr>
+<tr>
+<td>RQA</td>
+<td>ZWRQ</td>
+<td><a href=\"/wiki/Ruoqiang_Loulan_Airport\" title=\"Ruoqiang Loulan Airport\">Ruoqiang Loulan Airport</a></td>
+<td><a href=\"/wiki/Ruoqiang_County\" title=\"Ruoqiang County\">Ruoqiang</a>, <a href=\"/wiki/Xinjiang\" title=\"Xinjiang\">Xinjiang</a>, China</td>
+</tr>
+<tr>
+<td>RQW</td>
+<td></td>
+<td><a href=\"/wiki/Qayyarah_Airfield_West\" title=\"Qayyarah Airfield West\">Qayyarah Airfield West</a><sup id=\"cite_ref-IATA_1-98\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Qayyarah\" title=\"Qayyarah\">Qayyarah</a>, <a href=\"/wiki/Iraq\" title=\"Iraq\">Iraq</a></td>
+</tr>
+<tr>
+<td>RRA</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Regional_Airport_Ronald_Reagan&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Regional Airport Ronald Reagan (page does not exist)\">Regional Airport Ronald Reagan</a></td>
+<td><a href=\"/wiki/Bu%C5%A1evo\" title=\"Bu\u0161evo\">Bu\u0161evo</a>, <a href=\"/wiki/Bosnia_and_Herzegovina\" title=\"Bosnia and Herzegovina\">Bosnia and Herzegovina</a></td>
+</tr>
+<tr>
+<td>RRE</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Marree_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Marree Airport (page does not exist)\">Marree Airport</a><sup id=\"cite_ref-IATA_1-99\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Marree,_South_Australia\" title=\"Marree, South Australia\">Marree</a>, <a href=\"/wiki/South_Australia\" title=\"South Australia\">South Australia</a>, Australia</td>
+</tr>
+<tr>
+<td>RRG</td>
+<td>FIMR</td>
+<td><a href=\"/wiki/Sir_Ga%C3%ABtan_Duval_Airport\" title=\"Sir Ga\u00ebtan Duval Airport\">Sir Ga\u00ebtan Duval Airport</a></td>
+<td><a href=\"/wiki/Rodrigues\" title=\"Rodrigues\">Rodrigues Island</a>, <a href=\"/wiki/Mauritius\" title=\"Mauritius\">Mauritius</a></td>
+</tr>
+<tr>
+<td>RRI</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Barora_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Barora Airport (page does not exist)\">Barora Airport</a><sup id=\"cite_ref-IATA_1-100\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Barora\" title=\"Barora\">Barora</a>, <a href=\"/wiki/Solomon_Islands\" title=\"Solomon Islands\">Solomon Islands</a></td>
+</tr>
+<tr>
+<td>RRK</td>
+<td>VERK</td>
+<td><a href=\"/wiki/Rourkela_Airport\" title=\"Rourkela Airport\">Rourkela Airport</a></td>
+<td><a href=\"/wiki/Rourkela\" title=\"Rourkela\">Rourkela</a>, <a href=\"/wiki/Odisha\" title=\"Odisha\">Odisha</a>, India</td>
+</tr>
+<tr>
+<td>RRL</td>
+<td>KRRL</td>
+<td><a href=\"/wiki/Merrill_Municipal_Airport\" title=\"Merrill Municipal Airport\">Merrill Municipal Airport</a></td>
+<td><a href=\"/wiki/Merrill,_Wisconsin\" title=\"Merrill, Wisconsin\">Merrill</a>, <a href=\"/wiki/Wisconsin\" title=\"Wisconsin\">Wisconsin</a>, United States</td>
+</tr>
+<tr>
+<td>RRM</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Marromeu_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Marromeu Airport (page does not exist)\">Marromeu Airport</a><sup id=\"cite_ref-IATA_1-101\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Marromeu\" title=\"Marromeu\">Marromeu</a>, <a href=\"/wiki/Mozambique\" title=\"Mozambique\">Mozambique</a></td>
+</tr>
+<tr>
+<td>RRR</td>
+<td>NTKO</td>
+<td><a href=\"/wiki/Raroia_Airport\" title=\"Raroia Airport\">Raroia Airport</a></td>
+<td><a href=\"/wiki/Raroia\" title=\"Raroia\">Raroia</a>, <a href=\"/wiki/Tuamotus\" title=\"Tuamotus\">Tuamotus</a>, <a href=\"/wiki/French_Polynesia\" title=\"French Polynesia\">French Polynesia</a></td>
+</tr>
+<tr>
+<td>RRS</td>
+<td>ENRO</td>
+<td><a href=\"/wiki/R%C3%B8ros_Airport\" title=\"R\u00f8ros Airport\">R\u00f8ros Airport</a></td>
+<td><a href=\"/wiki/R%C3%B8ros\" title=\"R\u00f8ros\">R\u00f8ros</a>, <a href=\"/wiki/Norway\" title=\"Norway\">Norway</a></td>
+</tr>
+<tr>
+<td>RRT</td>
+<td>KRRT</td>
+<td><a href=\"/wiki/Warroad_International_Memorial_Airport\" title=\"Warroad International Memorial Airport\">Warroad International Memorial Airport</a> (Swede Carlson Field)</td>
+<td><a href=\"/wiki/Warroad,_Minnesota\" title=\"Warroad, Minnesota\">Warroad</a>, <a href=\"/wiki/Minnesota\" title=\"Minnesota\">Minnesota</a>, United States</td>
+</tr>
+<tr>
+<td>RRV</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Robinson_River_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Robinson River Airport (page does not exist)\">Robinson River Airport</a><sup id=\"cite_ref-IATA_1-102\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Robinson_River,_Northern_Territory&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Robinson River, Northern Territory (page does not exist)\">Robinson River</a>, <a href=\"/wiki/Northern_Territory\" title=\"Northern Territory\">Northern Territory</a>, Australia</td>
+</tr>
+<tr>
+<td>RSA</td>
+<td>SAZR</td>
+<td><a href=\"/wiki/Santa_Rosa_Airport_(Argentina)\" title=\"Santa Rosa Airport (Argentina)\">Santa Rosa Airport</a></td>
+<td><a href=\"/wiki/Santa_Rosa,_La_Pampa\" title=\"Santa Rosa, La Pampa\">Santa Rosa</a>, <a href=\"/wiki/La_Pampa_Province\" title=\"La Pampa Province\">La Pampa</a>, Argentina</td>
+</tr>
+<tr>
+<td>RSB</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Roseberth_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Roseberth Airport (page does not exist)\">Roseberth Airport</a><sup id=\"cite_ref-IATA_1-103\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Roseberth,_Queensland&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Roseberth, Queensland (page does not exist)\">Roseberth</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+</tr>
+<tr>
+<td>RSD</td>
+<td>MYER</td>
+<td><a href=\"/wiki/Rock_Sound_International_Airport\" title=\"Rock Sound International Airport\">Rock Sound International Airport</a><sup id=\"cite_ref-IATA_1-104\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Rock_Sound,_Bahamas\" title=\"Rock Sound, Bahamas\">Rock Sound</a>, <a href=\"/wiki/Eleuthera\" title=\"Eleuthera\">Eleuthera Island</a>, <a href=\"/wiki/The_Bahamas\" title=\"The Bahamas\">Bahamas</a></td>
+</tr>
+<tr>
+<td>RSE</td>
+<td></td>
+<td><a href=\"/wiki/Rose_Bay_Water_Airport\" title=\"Rose Bay Water Airport\">Rose Bay Water Airport</a><sup id=\"cite_ref-IATA_1-105\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Sydney\" title=\"Sydney\">Sydney</a>, <a href=\"/wiki/New_South_Wales\" title=\"New South Wales\">New South Wales</a>, Australia</td>
+</tr>
+<tr>
+<td>RSH</td>
+<td>PARS</td>
+<td><a href=\"/wiki/Russian_Mission_Airport\" title=\"Russian Mission Airport\">Russian Mission Airport</a></td>
+<td><a href=\"/wiki/Russian_Mission,_Alaska\" title=\"Russian Mission, Alaska\">Russian Mission</a>, <a href=\"/wiki/Alaska\" title=\"Alaska\">Alaska</a>, United States</td>
+</tr>
+<tr>
+<td>RSJ</td>
+<td></td>
+<td><a href=\"/wiki/Rosario_Seaplane_Base\" title=\"Rosario Seaplane Base\">Rosario Seaplane Base</a> (FAA: W49)</td>
+<td><a href=\"/wiki/Orcas_Island\" title=\"Orcas Island\">Orcas Island</a>, <a href=\"/wiki/Washington_(state)\" title=\"Washington (state)\">Washington</a>, United States</td>
+</tr>
+<tr>
+<td>RSK</td>
+<td>WASC</td>
+<td><a href=\"/w/index.php?title=Abresso_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Abresso Airport (page does not exist)\">Abresso Airport</a><sup id=\"cite_ref-IATA_1-106\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Ransiki\" title=\"Ransiki\">Ransiki</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+</tr>
+<tr>
+<td>RSL</td>
+<td>KRSL</td>
+<td><a href=\"/w/index.php?title=Russell_Municipal_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Russell Municipal Airport (page does not exist)\">Russell Municipal Airport</a></td>
+<td><a href=\"/wiki/Russell,_Kansas\" title=\"Russell, Kansas\">Russell</a>, <a href=\"/wiki/Kansas\" title=\"Kansas\">Kansas</a>, United States</td>
+</tr>
+<tr>
+<td>RSN</td>
+<td>KRSN</td>
+<td><a href=\"/wiki/Ruston_Regional_Airport\" title=\"Ruston Regional Airport\">Ruston Regional Airport</a></td>
+<td><a href=\"/wiki/Ruston,_Louisiana\" title=\"Ruston, Louisiana\">Ruston</a>, <a href=\"/wiki/Louisiana\" title=\"Louisiana\">Louisiana</a>, United States</td>
+</tr>
+<tr>
+<td>RSS</td>
+<td>HSDZ</td>
+<td><a href=\"/wiki/Damazin_Airport\" title=\"Damazin Airport\">Damazin Airport</a><sup id=\"cite_ref-IATA_1-107\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Ad-Damazin\" title=\"Ad-Damazin\">Ad-Damazin</a>, <a href=\"/wiki/Sudan\" title=\"Sudan\">Sudan</a></td>
+</tr>
+<tr>
+<td>RST</td>
+<td>KRST</td>
+<td><a href=\"/wiki/Rochester_International_Airport\" title=\"Rochester International Airport\">Rochester International Airport</a></td>
+<td><a href=\"/wiki/Rochester,_Minnesota\" title=\"Rochester, Minnesota\">Rochester</a>, <a href=\"/wiki/Minnesota\" title=\"Minnesota\">Minnesota</a>, United States</td>
+</tr>
+<tr>
+<td>RSU</td>
+<td>RKJY</td>
+<td><a href=\"/wiki/Yeosu_Airport\" title=\"Yeosu Airport\">Yeosu/Suncheon Airport</a><sup id=\"cite_ref-IATA_1-108\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Yeosu\" title=\"Yeosu\">Yeosu</a> / <a href=\"/wiki/Suncheon\" title=\"Suncheon\">Suncheon</a>, <a href=\"/wiki/South_Korea\" title=\"South Korea\">South Korea</a></td>
+</tr>
+<tr>
+<td>RSW</td>
+<td>KRSW</td>
+<td><a href=\"/wiki/Southwest_Florida_International_Airport\" title=\"Southwest Florida International Airport\">Southwest Florida International Airport</a></td>
+<td><a href=\"/wiki/Fort_Myers,_Florida\" title=\"Fort Myers, Florida\">Fort Myers</a>, <a href=\"/wiki/Florida\" title=\"Florida\">Florida</a>, United States</td>
+</tr>
+<tr>
+<td>RSX</td>
+<td></td>
+<td><a href=\"/wiki/Rouses_Point_Seaplane_Base\" title=\"Rouses Point Seaplane Base\">Rouses Point Seaplane Base</a><sup id=\"cite_ref-IATA_1-109\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (FAA: K21)</td>
+<td><a href=\"/wiki/Rouses_Point,_New_York\" title=\"Rouses Point, New York\">Rouses Point</a>, <a href=\"/wiki/New_York_(state)\" title=\"New York (state)\">New York</a>, United States</td>
+</tr>
+<tr>
+<td>RTA</td>
+<td>NFNR</td>
+<td><a href=\"/wiki/Rotuma_Airport\" title=\"Rotuma Airport\">Rotuma Airport</a><sup id=\"cite_ref-IATA_1-110\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Rotuma\" title=\"Rotuma\">Rotuma Island</a>, <a href=\"/wiki/Fiji\" title=\"Fiji\">Fiji</a></td>
+</tr>
+<tr>
+<td>RTB</td>
+<td>MHRO</td>
+<td><a href=\"/wiki/Juan_Manuel_G%C3%A1lvez_International_Airport\" title=\"Juan Manuel G\u00e1lvez International Airport\">Juan Manuel G\u00e1lvez International Airport</a></td>
+<td><a href=\"/wiki/Roat%C3%A1n\" title=\"Roat\u00e1n\">Roat\u00e1n</a>, <a href=\"/wiki/Honduras\" title=\"Honduras\">Honduras</a></td>
+</tr>
+<tr>
+<td>RTC</td>
+<td>VARG</td>
+<td><a href=\"/wiki/Ratnagiri_Airport\" title=\"Ratnagiri Airport\">Ratnagiri Airport</a></td>
+<td><a href=\"/wiki/Ratnagiri\" title=\"Ratnagiri\">Ratnagiri</a>, <a href=\"/wiki/Maharashtra\" title=\"Maharashtra\">Maharashtra</a>, India</td>
+</tr>
+<tr>
+<td>RTG</td>
+<td>WATG</td>
+<td><a href=\"/wiki/Frans_Sales_Lega_Airport\" title=\"Frans Sales Lega Airport\">Frans Sales Lega Airport</a><sup id=\"cite_ref-IATA_1-111\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Ruteng\" title=\"Ruteng\">Ruteng</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+</tr>
+<tr>
+<td>RTI</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Rote_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Rote Airport (page does not exist)\">Rote Airport</a><sup id=\"cite_ref-IATA_1-112\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Rote_Island\" title=\"Rote Island\">Rote Island</a> (Roti), <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+</tr>
+<tr>
+<td>RTL</td>
+<td></td>
+<td><a href=\"/wiki/Spirit_Lake_Municipal_Airport\" title=\"Spirit Lake Municipal Airport\">Spirit Lake Municipal Airport</a><sup id=\"cite_ref-IATA_1-113\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (FAA: 0F3)</td>
+<td><a href=\"/wiki/Spirit_Lake,_Iowa\" title=\"Spirit Lake, Iowa\">Spirit Lake</a>, <a href=\"/wiki/Iowa\" title=\"Iowa\">Iowa</a>, United States</td>
+</tr>
+<tr>
+<td>RTM</td>
+<td>EHRD</td>
+<td><a href=\"/wiki/Rotterdam_The_Hague_Airport\" title=\"Rotterdam The Hague Airport\">Rotterdam The Hague Airport</a></td>
+<td><a href=\"/wiki/Rotterdam\" title=\"Rotterdam\">Rotterdam</a>, <a href=\"/wiki/Netherlands\" title=\"Netherlands\">Netherlands</a></td>
+</tr>
+<tr>
+<td>RTN</td>
+<td>KRTN</td>
+<td><a href=\"/wiki/Raton_Municipal_Airport\" title=\"Raton Municipal Airport\">Raton Municipal Airport</a> (Crews Field)</td>
+<td><a href=\"/wiki/Raton,_New_Mexico\" title=\"Raton, New Mexico\">Raton</a>, <a href=\"/wiki/New_Mexico\" title=\"New Mexico\">New Mexico</a>, United States</td>
+</tr>
+<tr>
+<td>RTP</td>
+<td>YRTP</td>
+<td><a href=\"/w/index.php?title=Rutland_Plains_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Rutland Plains Airport (page does not exist)\">Rutland Plains Airport</a><sup id=\"cite_ref-IATA_1-114\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Rutland_Plains,_Queensland&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Rutland Plains, Queensland (page does not exist)\">Rutland Plains</a>, <a href=\"/wiki/Queensland\" title=\"Queensland\">Queensland</a>, Australia</td>
+</tr>
+<tr>
+<td>RTS</td>
+<td>YRTI</td>
+<td><a href=\"/wiki/Rottnest_Island_Airport\" title=\"Rottnest Island Airport\">Rottnest Island Airport</a></td>
+<td><a href=\"/wiki/Rottnest_Island\" title=\"Rottnest Island\">Rottnest Island</a>, <a href=\"/wiki/Western_Australia\" title=\"Western Australia\">Western Australia</a>, Australia</td>
+</tr>
+<tr>
+<td>RTW</td>
+<td>UWSS</td>
+<td><a href=\"/wiki/Saratov_Tsentralny_Airport\" title=\"Saratov Tsentralny Airport\">Saratov Tsentralny Airport</a></td>
+<td><a href=\"/wiki/Saratov\" title=\"Saratov\">Saratov</a>, <a href=\"/wiki/Saratov_Oblast\" title=\"Saratov Oblast\">Saratov Oblast</a>, Russia</td>
+</tr>
+<tr>
+<td>RTY</td>
+<td>YMYT</td>
+<td><a href=\"/w/index.php?title=Merty_Merty_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Merty Merty Airport (page does not exist)\">Merty Merty Airport</a><sup id=\"cite_ref-IATA_1-115\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Merty_Merty\" title=\"Merty Merty\">Merty Merty</a>, <a href=\"/wiki/South_Australia\" title=\"South Australia\">South Australia</a>, Australia</td>
+</tr>
+<tr>
+<td>RUA</td>
+<td>HUAR</td>
+<td><a href=\"/wiki/Arua_Airport\" title=\"Arua Airport\">Arua Airport</a></td>
+<td><a href=\"/wiki/Arua\" title=\"Arua\">Arua</a>, <a href=\"/wiki/Uganda\" title=\"Uganda\">Uganda</a></td>
+</tr>
+<tr>
+<td>RUD</td>
+<td>OIMJ</td>
+<td><a href=\"/wiki/Shahroud_Airport\" title=\"Shahroud Airport\">Shahroud Airport</a><sup id=\"cite_ref-IATA_1-116\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Shahrud,_Iran\" title=\"Shahrud, Iran\">Shahrud</a>, <a href=\"/wiki/Iran\" title=\"Iran\">Iran</a></td>
+</tr>
+<tr>
+<td>RUE</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Butembo_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Butembo Airport (page does not exist)\">Butembo Airport</a><sup id=\"cite_ref-IATA_1-117\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Butembo\" title=\"Butembo\">Butembo</a>, <a href=\"/wiki/Democratic_Republic_of_the_Congo\" title=\"Democratic Republic of the Congo\">Democratic Republic of the Congo</a></td>
+</tr>
+<tr>
+<td>RUF</td>
+<td>WAJE</td>
+<td><a href=\"/w/index.php?title=Yuruf_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Yuruf Airport (page does not exist)\">Yuruf Airport</a><sup id=\"cite_ref-IATA_1-118\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Yuruf&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Yuruf (page does not exist)\">Yuruf</a>, <a href=\"/wiki/Indonesia\" title=\"Indonesia\">Indonesia</a></td>
+</tr>
+<tr>
+<td>RUG</td>
+<td>ZSRG</td>
+<td><a href=\"/w/index.php?title=Rugao_Air_Base&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Rugao Air Base (page does not exist)\">Rugao Air Base</a></td>
+<td><a href=\"/wiki/Rugao\" title=\"Rugao\">Rugao</a>, <a href=\"/wiki/Jiangsu\" title=\"Jiangsu\">Jiangsu</a>, China</td>
+</tr>
+<tr>
+<td>RUH</td>
+<td>OERK</td>
+<td><a href=\"/wiki/King_Khalid_International_Airport\" title=\"King Khalid International Airport\">King Khalid International Airport</a></td>
+<td><a href=\"/wiki/Riyadh\" title=\"Riyadh\">Riyadh</a>, <a href=\"/wiki/Saudi_Arabia\" title=\"Saudi Arabia\">Saudi Arabia</a></td>
+</tr>
+<tr>
+<td>RUI</td>
+<td>KSRR</td>
+<td><a href=\"/wiki/Sierra_Blanca_Regional_Airport\" title=\"Sierra Blanca Regional Airport\">Sierra Blanca Regional Airport</a><sup id=\"cite_ref-IATA_1-119\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (FAA: SRR)</td>
+<td><a href=\"/wiki/Ruidoso,_New_Mexico\" title=\"Ruidoso, New Mexico\">Ruidoso</a>, <a href=\"/wiki/New_Mexico\" title=\"New Mexico\">New Mexico</a>, United States</td>
+</tr>
+<tr>
+<td>RUK</td>
+<td>VNRK</td>
+<td><a href=\"/wiki/Chaurjahari_Airport\" title=\"Chaurjahari Airport\">Chaurjahari Airport</a></td>
+<td><a href=\"/wiki/Rukumkot\" title=\"Rukumkot\">Rukumkot</a>, <a href=\"/wiki/Nepal\" title=\"Nepal\">Nepal</a></td>
+</tr>
+<tr>
+<td>RUM</td>
+<td>VNRT</td>
+<td><a href=\"/wiki/Rumjatar_Airport\" title=\"Rumjatar Airport\">Rumjatar Airport</a></td>
+<td><a href=\"/wiki/Rumjatar\" title=\"Rumjatar\">Rumjatar</a>, <a href=\"/wiki/Nepal\" title=\"Nepal\">Nepal</a></td>
+</tr>
+<tr>
+<td>RUN</td>
+<td>FMEE</td>
+<td><a href=\"/wiki/Roland_Garros_Airport\" title=\"Roland Garros Airport\">Roland Garros Airport</a></td>
+<td><a href=\"/wiki/Saint-Denis,_R%C3%A9union\" title=\"Saint-Denis, R\u00e9union\">St-Denis</a>, <a href=\"/wiki/R%C3%A9union\" title=\"R\u00e9union\">R\u00e9union</a>, France</td>
+</tr>
+<tr>
+<td>RUP</td>
+<td>VERU</td>
+<td><a href=\"/wiki/Rupsi_Airport\" title=\"Rupsi Airport\">Rupsi Airport</a></td>
+<td><a href=\"/w/index.php?title=Rupsi,_Assam&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Rupsi, Assam (page does not exist)\">Rupsi</a>, <a href=\"/wiki/Assam\" title=\"Assam\">Assam</a>, India</td>
+</tr>
+<tr>
+<td>RUR</td>
+<td>NTAR</td>
+<td><a href=\"/wiki/Rurutu_Airport\" title=\"Rurutu Airport\">Rurutu Airport</a></td>
+<td><a href=\"/wiki/Rurutu\" title=\"Rurutu\">Rurutu</a>, <a href=\"/wiki/French_Polynesia\" title=\"French Polynesia\">French Polynesia</a></td>
+</tr>
+<tr>
+<td>RUS</td>
+<td>AGGU</td>
+<td><a href=\"/wiki/Marau_Airport\" title=\"Marau Airport\">Marau Airport</a></td>
+<td><a href=\"/w/index.php?title=Marau,_Solomon_Islands&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Marau, Solomon Islands (page does not exist)\">Marau</a>, <a href=\"/wiki/Solomon_Islands\" title=\"Solomon Islands\">Solomon Islands</a></td>
+</tr>
+<tr>
+<td>RUT</td>
+<td>KRUT</td>
+<td><a href=\"/wiki/Rutland_%E2%80%93_Southern_Vermont_Regional_Airport\" class=\"mw-redirect\" title=\"Rutland \u2013 Southern Vermont Regional Airport\">Rutland \u2013 Southern Vermont Regional Airport</a></td>
+<td><a href=\"/wiki/Rutland_(city),_Vermont\" title=\"Rutland (city), Vermont\">Rutland</a>, <a href=\"/wiki/Vermont\" title=\"Vermont\">Vermont</a>, United States</td>
+</tr>
+<tr>
+<td>RUU</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Ruti_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Ruti Airport (page does not exist)\">Ruti Airport</a><sup id=\"cite_ref-IATA_1-120\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Kawbenaberi&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Kawbenaberi (page does not exist)\">Kawbenaberi</a>, <a href=\"/wiki/Papua_New_Guinea\" title=\"Papua New Guinea\">Papua New Guinea</a></td>
+</tr>
+<tr>
+<td>RUV</td>
+<td>MGRB</td>
+<td><a href=\"/wiki/Rubelsanto_Airport\" title=\"Rubelsanto Airport\">Rubelsanto Airport</a><sup id=\"cite_ref-IATA_1-121\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/w/index.php?title=Rubelsanto&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Rubelsanto (page does not exist)\">Rubelsanto</a>, <a href=\"/wiki/Guatemala\" title=\"Guatemala\">Guatemala</a></td>
+</tr>
+<tr>
+<td>RUY</td>
+<td>MHRU</td>
+<td><a href=\"/wiki/Cop%C3%A1n_Ruinas_Airport\" title=\"Cop\u00e1n Ruinas Airport\">Cop\u00e1n Ruinas Airport</a><sup id=\"cite_ref-IATA_1-122\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Cop%C3%A1n_Ruinas\" title=\"Cop\u00e1n Ruinas\">Cop\u00e1n Ruinas</a>, <a href=\"/wiki/Honduras\" title=\"Honduras\">Honduras</a></td>
+</tr>
+<tr>
+<td>RVA</td>
+<td>FMSG</td>
+<td><a href=\"/wiki/Farafangana_Airport\" title=\"Farafangana Airport\">Farafangana Airport</a><sup id=\"cite_ref-IATA_1-123\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Farafangana\" title=\"Farafangana\">Farafangana</a>, <a href=\"/wiki/Madagascar\" title=\"Madagascar\">Madagascar</a></td>
+</tr>
+<tr>
+<td>RVC</td>
+<td></td>
+<td><a href=\"/w/index.php?title=River_Cess_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"River Cess Airport (page does not exist)\">River Cess Airport</a><sup id=\"cite_ref-IATA_1-124\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/River_Cess\" title=\"River Cess\">River Cess</a>, <a href=\"/wiki/Liberia\" title=\"Liberia\">Liberia</a></td>
+</tr>
+<tr>
+<td>RVD</td>
+<td>SWLC</td>
+<td><a href=\"/wiki/Rio_Verde_Airport\" title=\"Rio Verde Airport\">General Leite de Castro Airport</a><sup id=\"cite_ref-IATA_1-125\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Rio_Verde,_Goi%C3%A1s\" title=\"Rio Verde, Goi\u00e1s\">Rio Verde</a>, <a href=\"/wiki/Goi%C3%A1s\" title=\"Goi\u00e1s\">Goi\u00e1s</a>, Brazil</td>
+</tr>
+<tr>
+<td>RVE</td>
+<td>SKSA</td>
+<td><a href=\"/wiki/Los_Colonizadores_Airport\" title=\"Los Colonizadores Airport\">Los Colonizadores Airport</a></td>
+<td><a href=\"/wiki/Saravena\" title=\"Saravena\">Saravena</a>, <a href=\"/wiki/Colombia\" title=\"Colombia\">Colombia</a></td>
+</tr>
+<tr>
+<td>RVH</td>
+<td>ULSS</td>
+<td><a href=\"/wiki/Rzhevka_Airport\" title=\"Rzhevka Airport\">Rzhevka Airport</a></td>
+<td><a href=\"/wiki/Saint_Petersburg\" title=\"Saint Petersburg\">Saint Petersburg</a>, Russia</td>
+</tr>
+<tr>
+<td>RVK</td>
+<td>ENRM</td>
+<td><a href=\"/wiki/R%C3%B8rvik_Airport,_Ryum\" title=\"R\u00f8rvik Airport, Ryum\">R\u00f8rvik Airport, Ryum</a></td>
+<td><a href=\"/wiki/R%C3%B8rvik\" title=\"R\u00f8rvik\">R\u00f8rvik</a>, <a href=\"/wiki/Norway\" title=\"Norway\">Norway</a></td>
+</tr>
+<tr>
+<td>RVN</td>
+<td>EFRO</td>
+<td><a href=\"/wiki/Rovaniemi_Airport\" title=\"Rovaniemi Airport\">Rovaniemi Airport</a></td>
+<td><a href=\"/wiki/Rovaniemi\" title=\"Rovaniemi\">Rovaniemi</a>, <a href=\"/wiki/Finland\" title=\"Finland\">Finland</a></td>
+</tr>
+<tr>
+<td>RVO</td>
+<td>FARI</td>
+<td><a href=\"/w/index.php?title=Reivilo_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Reivilo Airport (page does not exist)\">Reivilo Airport</a><sup id=\"cite_ref-IATA_1-126\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Reivilo\" title=\"Reivilo\">Reivilo</a>, <a href=\"/wiki/South_Africa\" title=\"South Africa\">South Africa</a></td>
+</tr>
+<tr>
+<td>RVR</td>
+<td></td>
+<td><a href=\"/wiki/Green_River_Municipal_Airport\" title=\"Green River Municipal Airport\">Green River Municipal Airport</a><sup id=\"cite_ref-IATA_1-127\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup> (FAA: U34)</td>
+<td><a href=\"/wiki/Green_River,_Utah\" title=\"Green River, Utah\">Green River</a>, <a href=\"/wiki/Utah\" title=\"Utah\">Utah</a>, United States</td>
+</tr>
+<tr>
+<td>RVS</td>
+<td>KRVS</td>
+<td><a href=\"/wiki/Richard_Lloyd_Jones_Jr._Airport\" title=\"Richard Lloyd Jones Jr. Airport\">Richard Lloyd Jones Jr. Airport</a></td>
+<td><a href=\"/wiki/Tulsa,_Oklahoma\" title=\"Tulsa, Oklahoma\">Tulsa</a>, <a href=\"/wiki/Oklahoma\" title=\"Oklahoma\">Oklahoma</a>, United States</td>
+</tr>
+<tr>
+<td>RVT</td>
+<td>YNRV</td>
+<td><a href=\"/wiki/Ravensthorpe_Airport\" title=\"Ravensthorpe Airport\">Ravensthorpe Airport</a><sup id=\"cite_ref-IATA_1-128\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Ravensthorpe,_Western_Australia\" title=\"Ravensthorpe, Western Australia\">Ravensthorpe</a>, <a href=\"/wiki/Western_Australia\" title=\"Western Australia\">Western Australia</a>, Australia</td>
+</tr>
+<tr>
+<td>RVV</td>
+<td>NTAV</td>
+<td><a href=\"/wiki/Raivavae_Airport\" title=\"Raivavae Airport\">Raivavae Airport</a></td>
+<td><a href=\"/wiki/Raivavae\" title=\"Raivavae\">Raivavae</a>, <a href=\"/wiki/Austral_Islands\" title=\"Austral Islands\">Austral Islands</a>, <a href=\"/wiki/French_Polynesia\" title=\"French Polynesia\">French Polynesia</a></td>
+</tr>
+<tr>
+<td>RVY</td>
+<td>SURV</td>
+<td><a href=\"/wiki/Rivera_International_Airport\" title=\"Rivera International Airport\">Pres. Gral. \u00d3scar D. Gestido International Airport</a></td>
+<td><a href=\"/wiki/Rivera\" title=\"Rivera\">Rivera</a>, <a href=\"/wiki/Uruguay\" title=\"Uruguay\">Uruguay</a></td>
+</tr>
+<tr>
+<td>RWF</td>
+<td>KRWF</td>
+<td><a href=\"/w/index.php?title=Redwood_Falls_Municipal_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Redwood Falls Municipal Airport (page does not exist)\">Redwood Falls Municipal Airport</a></td>
+<td><a href=\"/wiki/Redwood_Falls,_Minnesota\" title=\"Redwood Falls, Minnesota\">Redwood Falls</a>, <a href=\"/wiki/Minnesota\" title=\"Minnesota\">Minnesota</a>, United States</td>
+</tr>
+<tr>
+<td>RWI</td>
+<td>KRWI</td>
+<td><a href=\"/wiki/Rocky_Mount%E2%80%93Wilson_Regional_Airport\" title=\"Rocky Mount\u2013Wilson Regional Airport\">Rocky Mount\u2013Wilson Regional Airport</a></td>
+<td><a href=\"/wiki/Rocky_Mount,_North_Carolina\" title=\"Rocky Mount, North Carolina\">Rocky Mount</a>, <a href=\"/wiki/North_Carolina\" title=\"North Carolina\">North Carolina</a>, United States</td>
+</tr>
+<tr>
+<td>RWL</td>
+<td>KRWL</td>
+<td><a href=\"/wiki/Rawlins_Municipal_Airport\" title=\"Rawlins Municipal Airport\">Rawlins Municipal Airport</a> (Harvey Field)</td>
+<td><a href=\"/wiki/Rawlins,_Wyoming\" title=\"Rawlins, Wyoming\">Rawlins</a>, <a href=\"/wiki/Wyoming\" title=\"Wyoming\">Wyoming</a>, United States</td>
+</tr>
+<tr>
+<td>RWN</td>
+<td>UKLR</td>
+<td><a href=\"/wiki/Rivne_International_Airport\" title=\"Rivne International Airport\">Rivne International Airport</a></td>
+<td><a href=\"/wiki/Rivne\" title=\"Rivne\">Rivne</a>, <a href=\"/wiki/Ukraine\" title=\"Ukraine\">Ukraine</a></td>
+</tr>
+<tr>
+<td>RXA</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Ar_Rawdah_Airport&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Ar Rawdah Airport (page does not exist)\">Ar Rawdah Airport</a><sup id=\"cite_ref-IATA_1-129\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Ar_Rawdah,_Sana%27a\" class=\"mw-redirect\" title=\"Ar Rawdah, Sana&#39;a\">Ar Rawdah</a> (Raudha), <a href=\"/wiki/Yemen\" title=\"Yemen\">Yemen</a></td>
+</tr>
+<tr>
+<td>RXE</td>
+<td>KRXE</td>
+<td><a href=\"/wiki/Rexburg%E2%80%93Madison_County_Airport\" title=\"Rexburg\u2013Madison County Airport\">Rexburg\u2013Madison County Airport</a></td>
+<td><a href=\"/wiki/Rexburg,_Idaho\" title=\"Rexburg, Idaho\">Rexburg</a>, <a href=\"/wiki/Idaho\" title=\"Idaho\">Idaho</a>, United States</td>
+</tr>
+<tr>
+<td>RXS</td>
+<td>RPVR</td>
+<td><a href=\"/wiki/Roxas_Airport\" title=\"Roxas Airport\">Roxas Airport</a></td>
+<td><a href=\"/wiki/Roxas,_Capiz\" title=\"Roxas, Capiz\">Roxas</a>, <a href=\"/wiki/Philippines\" title=\"Philippines\">Philippines</a></td>
+</tr>
+<tr>
+<td>RYB</td>
+<td>UUBK</td>
+<td><a href=\"/wiki/Staroselye_Airport\" title=\"Staroselye Airport\">Staroselye Airport</a></td>
+<td><a href=\"/wiki/Rybinsk\" title=\"Rybinsk\">Rybinsk</a>, <a href=\"/wiki/Yaroslavl_Oblast\" title=\"Yaroslavl Oblast\">Yaroslavl Oblast</a>, Russia</td>
+</tr>
+<tr>
+<td>RYG</td>
+<td>ENRY</td>
+<td><a href=\"/wiki/Moss_Airport,_Rygge\" title=\"Moss Airport, Rygge\">Moss Airport, Rygge</a> / <a href=\"/wiki/Rygge_Air_Station\" title=\"Rygge Air Station\">Rygge Air Station</a></td>
+<td><a href=\"/wiki/Oslo\" title=\"Oslo\">Oslo</a> / <a href=\"/wiki/Moss,_Norway\" title=\"Moss, Norway\">Moss</a>, <a href=\"/wiki/Norway\" title=\"Norway\">Norway</a></td>
+</tr>
+<tr>
+<td>RYK</td>
+<td>OPRK</td>
+<td><a href=\"/wiki/Shaikh_Zayed_International_Airport_(Rahim_Yar_Khan)\" class=\"mw-redirect\" title=\"Shaikh Zayed International Airport (Rahim Yar Khan)\">Shaikh Zayed International Airport</a><sup id=\"cite_ref-IATA_1-130\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Rahim_Yar_Khan\" title=\"Rahim Yar Khan\">Rahim Yar Khan</a>, <a href=\"/wiki/Pakistan\" title=\"Pakistan\">Pakistan</a></td>
+</tr>
+<tr>
+<td>RYL</td>
+<td></td>
+<td><a href=\"/w/index.php?title=Royal_Airstrip&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Royal Airstrip (page does not exist)\">Royal Airstrip</a><sup id=\"cite_ref-IATA_1-131\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Lower_Zambezi_National_Park\" title=\"Lower Zambezi National Park\">Lower Zambezi National Park</a>, <a href=\"/wiki/Zambia\" title=\"Zambia\">Zambia</a></td>
+</tr>
+<tr>
+<td>RYN</td>
+<td>LFCY</td>
+<td><a href=\"/wiki/Royan_%E2%80%93_M%C3%A9dis_Aerodrome\" title=\"Royan \u2013 M\u00e9dis Aerodrome\">Royan \u2013 M\u00e9dis Aerodrome</a></td>
+<td><a href=\"/wiki/Royan\" title=\"Royan\">Royan</a>, <a href=\"/wiki/Poitou-Charentes\" title=\"Poitou-Charentes\">Poitou-Charentes</a>, France</td>
+</tr>
+<tr>
+<td>RYO</td>
+<td>SAWT</td>
+<td><a href=\"/wiki/Rio_Turbio_Airport\" title=\"Rio Turbio Airport\">Rio Turbio Airport</a><sup id=\"cite_ref-IATA_1-132\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/R%C3%ADo_Turbio\" title=\"R\u00edo Turbio\">R\u00edo Turbio</a>, <a href=\"/wiki/Santa_Cruz_Province,_Argentina\" title=\"Santa Cruz Province, Argentina\">Santa Cruz</a>, Argentina</td>
+</tr>
+<tr>
+<td>RZA</td>
+<td>SAWU</td>
+<td><a href=\"/wiki/Santa_Cruz_Airport_(Argentina)\" title=\"Santa Cruz Airport (Argentina)\">Santa Cruz Airport</a><sup id=\"cite_ref-IATA_1-133\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Puerto_Santa_Cruz\" title=\"Puerto Santa Cruz\">Puerto Santa Cruz</a>, <a href=\"/wiki/Santa_Cruz_Province,_Argentina\" title=\"Santa Cruz Province, Argentina\">Santa Cruz</a>, Argentina</td>
+</tr>
+<tr>
+<td>RZE</td>
+<td>EPRZ</td>
+<td><a href=\"/wiki/Rzesz%C3%B3w%E2%80%93Jasionka_Airport\" title=\"Rzesz\u00f3w\u2013Jasionka Airport\">Rzesz\u00f3w\u2013Jasionka Airport</a></td>
+<td><a href=\"/wiki/Rzesz%C3%B3w\" title=\"Rzesz\u00f3w\">Rzesz\u00f3w</a>, <a href=\"/wiki/Poland\" title=\"Poland\">Poland</a></td>
+</tr>
+<tr>
+<td>RZN</td>
+<td>UUWR</td>
+<td><a href=\"/wiki/Turlatovo_Airport\" title=\"Turlatovo Airport\">Turlatovo Airport</a></td>
+<td><a href=\"/wiki/Ryazan\" title=\"Ryazan\">Ryazan</a>, <a href=\"/wiki/Ryazan_Oblast\" title=\"Ryazan Oblast\">Ryazan Oblast</a>, Russia</td>
+</tr>
+<tr>
+<td>RZP</td>
+<td>RPSD</td>
+<td><a href=\"/wiki/Taytay_Airport\" class=\"mw-redirect\" title=\"Taytay Airport\">Cesar Lim Rodriguez Airport</a></td>
+<td><a href=\"/wiki/Taytay,_Palawan\" title=\"Taytay, Palawan\">Taytay</a>, <a href=\"/wiki/Philippines\" title=\"Philippines\">Philippines</a></td>
+</tr>
+<tr>
+<td>RZR</td>
+<td>OINR</td>
+<td><a href=\"/wiki/Ramsar_International_Airport\" title=\"Ramsar International Airport\">Ramsar International Airport</a><sup id=\"cite_ref-IATA_1-134\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Ramsar,_Mazandaran\" title=\"Ramsar, Mazandaran\">Ramsar</a>, <a href=\"/wiki/Iran\" title=\"Iran\">Iran</a></td>
+</tr>
+<tr>
+<td>RZS</td>
+<td>OPSW</td>
+<td><a href=\"/wiki/Sawan_Airport\" title=\"Sawan Airport\">Sawan Airport</a><sup id=\"cite_ref-IATA_1-135\" class=\"reference\"><a href=\"#cite_note-IATA-1\">&#91;1&#93;</a></sup></td>
+<td><a href=\"/wiki/Sawan_Gas_Field\" title=\"Sawan Gas Field\">Sawan</a>, <a href=\"/wiki/Pakistan\" title=\"Pakistan\">Pakistan</a></td>
+</tr>
+<tr>
+<td>RZZ</td>
+<td>KRZZ</td>
+<td><a href=\"/wiki/Halifax_County_Airport\" title=\"Halifax County Airport\">Halifax County Airport</a></td>
+<td><a href=\"/wiki/Roanoke_Rapids,_North_Carolina\" title=\"Roanoke Rapids, North Carolina\">Roanoke Rapids</a>, <a href=\"/wiki/North_Carolina\" title=\"North Carolina\">North Carolina</a>, United States</td>
+</tr>
