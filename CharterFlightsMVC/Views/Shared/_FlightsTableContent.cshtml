@@ -4,12 +4,13 @@
     <tr>
         <th>Origin</th>
         <th>Destination</th>
-        <th>Departure</th>
-        @if(!string.IsNullOrEmpty(Model.FirstOrDefault().ReturnDate))
+        <th>Departure date</th>
+        <th>Stops on departure</th>
+        @if (!string.IsNullOrEmpty(Model.FirstOrDefault().ReturnDate))
         {
             @:<th>Return date</th>
+            <th>Stops on return</th>
         }
-        <th>No. of stops</th>
         <th>Total price</th>
         <th>Currency</th>
     </tr>
@@ -19,11 +20,12 @@
     <td>@flightOffer.Origin</td>
     <td>@flightOffer.Destination</td>
     <td>@flightOffer.DepartureDate</td>
+    <td>@flightOffer.StopsDeparture</td>
     @if (!string.IsNullOrEmpty(flightOffer.ReturnDate))
     {
         <td>@flightOffer.ReturnDate</td>
+        <td>@flightOffer.StopsReturn</td>
     }
-    <td>@flightOffer.Stops</td>
     <td>@flightOffer.TotalPrice</td>
     <td>@flightOffer.Currency</td>
 </tr>

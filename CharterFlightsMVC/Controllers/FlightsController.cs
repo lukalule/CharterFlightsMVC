@@ -55,7 +55,8 @@ namespace CharterFlightsMVC.Controllers
                         ReturnDate = !string.IsNullOrEmpty(returndate) ?
                         services.LastOrDefault().Segments.LastOrDefault().FlightSegment.Departure.At.ToString("dddd, MMM dd yyyy HH:mm:ss(UTC) zzz") : "",
                         TotalPrice = flightOffer.OfferItems.FirstOrDefault().Price.Total,
-                        Stops = services.Count() == 1? services.SelectMany(s => s.Segments).ToList().Count() - 1 : services.SelectMany(s => s.Segments).ToList().Count() - 2,
+                        StopsDeparture = (services.FirstOrDefault().Segments.Count - 1).ToString(),
+                        StopsReturn = services.Count() > 1 ? (services.LastOrDefault().Segments.Count - 1).ToString() : "",
                         Currency = response.Meta.Currency
                     });
                 }
