@@ -5,11 +5,23 @@
 
 $(function () { 
 
+    var pomOrigin;
+    var pomDestination;
+
+    //let long_name = 'Australia';
+    //let $element = $('.country-js');
+    //let val = $element.find("option:contains('" + long_name + "')").val();
+    //$element.val(val).trigger('change.select2');
+
     $('#spinner').hide();
     $('#btnSubmit').on('click', function () {
 
         if ($('#origin').text() == "" || $('#destination').text() == "" || $('#departureDate').val() == "")
             return;
+
+        pomOrigin = $('#origin').text();
+        pomDestination = $('#destination').text();
+
         $('#spinner').show();
         var data = {
             origin: $('#origin').text(),
@@ -23,12 +35,21 @@ $(function () {
             seniors: $('#seniors').val()
         };
 
-        $.get('/Flights/FilterFlights', data, function (partial) { 
-            $('#origin').text("");
-            $('#destination').text("");
+        //$('#origin').text("");
+        //$('#destination').text("");
 
+        //$('#origin').val(null).trigger('change');
+        //$('#destination').val(null).trigger('change');
+        //$('#origin').val(pomOrigin).trigger('change');
+        //$('#destination').val(pomDestination).trigger('change');
+        var c = $('#origin').text();
+        var d = $('#destination').text();
+
+        $.get('/Flights/FilterFlights', data, function (partial) {           
             $('#spinner').hide();
             $("#tableContainer").html(partial);   
+
+           
         });
         
         
@@ -56,7 +77,7 @@ $(function () {
                     results: data
                 };
             }            
-        }
+        },        
     });
 
     $('#destination').select2({
