@@ -1,8 +1,52 @@
 ﻿@page
 @model CharterFlightsMVC.Pages.ListModel
 @{
-    ViewData["Title"] = "List";
 }
 
-<h1>List</h1>
+<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+<script src="https://unpkg.com/gijgo@1.9.13/js/gijgo.min.js" type="text/javascript"></script>
+<link href="https://unpkg.com/gijgo@1.9.13/css/gijgo.min.css" rel="stylesheet" type="text/css" />
 
+<form method="get">
+    <div class="row" style="margin-bottom:35px;">
+        <div class="col-md-12">
+            <p style="width:30px; margin-bottom:5px;">From:</p> <select class="Origin" style="width:300px;" asp-for="Origin" id="origin"> </select>
+        </div>
+        <div class="col-md-12">
+            <p style="width:30px; margin-bottom:5px;">To:</p> <select class="Destination" style="width:300px;" asp-for="Destination" id="destination"></select>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-3">
+            <p>Departure on: <input id="departureDate" width="276" asp-for="DepartureDate"/></p>
+            <p>Return date: (optional) <input id="returnDate" width="276" asp-for="ReturnDate"/></p>
+            <script>
+                $('#departureDate').datepicker({
+                    uiLibrary: 'bootstrap4'
+                });
+                $('#returnDate').datepicker({
+                    uiLibrary: 'bootstrap4'
+                });
+            </script>
+            <p>No. of adults (optional): <input type="number" id="adults" width="276" asp-for="NoAdults"/></p>
+            <p>No. of children (optional): <input type="number" id="children" width="276" asp-for="NoChildren"/></p>
+            <p>No. of infants (optional): <input type="number" id="infants" width="276" asp-for="NoInfants"/></p>
+            <p>No. of seniors (optional): <input type="number" id="seniors" width="276" asp-for="NoSeniors"/></p>
+            <p style="margin-bottom:0px;">Currency:</p>
+            <select id="currency" asp-for="Currency">
+                <option value="EUR">EUR</option>
+                <option value="USD">USD</option>
+                <option value="HRK">HRK</option>
+            </select>
+            <button type="submit" id="btnSubmit" class="btn btn-default btn-info" style="float:right; margin-right:50px;">Search</button>
+        </div>
+    </div>
+</form>
+<div class="d-flex justify-content-center">
+    <div class="spinner-border" role="status" id="spinner">
+        <span class="sr-only">Loading...</span>
+    </div>
+</div>
+<div class="col-md-9"></div>
+<div id="tableContainer"></div>
