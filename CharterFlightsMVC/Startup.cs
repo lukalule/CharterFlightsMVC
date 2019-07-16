@@ -56,7 +56,8 @@ namespace CharterFlightsMVC
                 // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
                 app.UseHsts();
             }
-            
+
+            app.Use(MyCustomMiddleware);
             app.UseHttpsRedirection();
             app.UseStaticFiles();
             app.UseCookiePolicy();
@@ -69,6 +70,17 @@ namespace CharterFlightsMVC
                     name: "default",
                     template: "{controller=Flights}/{action=Index}/{id?}");
             });
+        }
+
+        private RequestDelegate MyCustomMiddleware(RequestDelegate next)
+        {            
+            return async ctx =>
+            {
+                if (ctx.Request.Path.StartsWithSegments("/hello"))
+                    await ctx.Response.WriteAsync("Hello, World!");
+                else
+                    await next(ctx);
+            };
         }
     }
 }

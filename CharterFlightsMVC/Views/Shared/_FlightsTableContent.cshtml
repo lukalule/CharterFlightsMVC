@@ -16,19 +16,26 @@
     </tr>
     @foreach (var flightOffer in Model)
     {
-<tr>
-    <td>@flightOffer.Origin</td>
-    <td>@flightOffer.Destination</td>
-    <td>@flightOffer.DepartureDate</td>
-    <td>@flightOffer.StopsDeparture</td>
-    @if (!string.IsNullOrEmpty(flightOffer.ReturnDate))
-    {
-        <td>@flightOffer.ReturnDate</td>
-        <td>@flightOffer.StopsReturn</td>
-    }
-    <td>@flightOffer.TotalPrice</td>
-    <td>@flightOffer.Currency</td>
-</tr>
+        <tr>
+            <td>@flightOffer.Origin</td>
+            <td>@flightOffer.Destination</td>
+            <td>@flightOffer.DepartureDate</td>
+            <td>@flightOffer.StopsDeparture</td>
+            @if (!string.IsNullOrEmpty(flightOffer.ReturnDate))
+            {
+                <td>@flightOffer.ReturnDate</td>
+                <td>@flightOffer.StopsReturn</td>
+            }
+            <td>@flightOffer.TotalPrice</td>
+            <td>@flightOffer.Currency</td>
+        </tr>
 
     }
 </table>
+
+@section Scripts {
+    
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/dt-1.10.18/datatables.min.css" />
+    <script type="text/javascript" src="https://cdn.datatables.net/v/dt/dt-1.10.18/datatables.min.js"></script>
+
+}
