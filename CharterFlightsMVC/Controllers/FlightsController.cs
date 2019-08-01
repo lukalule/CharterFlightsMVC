@@ -20,7 +20,7 @@ namespace CharterFlightsMVC.Controllers
         public FlightsController(IAmadeusService service) => amadeusService = service;
         
         public IActionResult Index()
-        {           
+        { 
             return View();
         }
 
@@ -71,6 +71,10 @@ namespace CharterFlightsMVC.Controllers
             return PartialView("_InternalServerError");
         }
 
+        //public IActionResult Itineraries()
+        //{
+
+        //}
         public JsonResult Select2Data(string searchTerm)
         {
             if (!String.IsNullOrEmpty(searchTerm))

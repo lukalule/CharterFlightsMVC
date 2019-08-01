@@ -5,13 +5,45 @@
 
 $(function () { 
 
+    // DODATI ZA SVE ATRIBUTE....
     $('#spinner').hide();
+    $(document).ready(function () {
+        if (window.location.search) {
+
+            $('#spinner').show();
+            $.get('/Flights/FilterFlights/' + window.location.search + "&currency=" + $('#currency').val(), function (partial) {
+                $('#origin').text("");
+                $('#destination').text("");
+
+                $('#spinner').hide();
+                $("#tableContainer").html(partial);
+                //window.history.pushState(data, "GetItineraries", partialUrl);
+            });
+        }
+    });
+    //call filterFlights on load
+
+    window.onpopstate = function (e) {
+        if (e.state) {
+            $('#spinner').show();
+            $.get('/Flights/FilterFlights/' + window.location.search + "&currency=" + $('#currency').val(), function (partial) {
+                $('#origin').text("");
+                $('#destination').text("");
+
+                $('#spinner').hide();
+                $("#tableContainer").html(partial);
+                //window.history.pushState(data, "GetItineraries", partialUrl);
+            });
+            
+        }
+    };
+    
     $('#btnSubmit').on('click', function () {
 
         if ($('#origin').text() == "" || $('#destination').text() == "" || $('#departureDate').val() == "")
             return;
         $('#spinner').show();
-        var data = {
+        let data = {
             origin: $('#origin').text(),
             destination: $('#destination').text(),
             departureDate: $('#departureDate').val(),
@@ -23,12 +55,16 @@ $(function () {
             seniors: $('#seniors').val()
         };
 
+        var partialUrl = "/?origin=" + $.trim($('#origin').text()).substring(0, 3) + "&destination=" + $.trim($('#destination').text()).substring(0, 3)
+                       + "&departureDate=" + $('#departureDate').val() + "&currency=" + $('#currency').val();
         $.get('/Flights/FilterFlights', data, function (partial) { 
             $('#origin').text("");
             $('#destination').text("");
 
             $('#spinner').hide();
-            $("#tableContainer").html(partial);   
+            
+            $("#tableContainer").html(partial);
+            window.history.pushState(data, "GetItineraries", partialUrl);
         });
         
         
